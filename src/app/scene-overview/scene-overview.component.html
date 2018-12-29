@@ -1,21 +1,12 @@
-<section class="container" id="searchUi">
+<section id="searchUi">
   <form class="row" [formGroup]="form">
     <mat-form-field class="example-full-width">
       <input matInput placeholder="search" formControlName="searchTerm" >
     </mat-form-field>
   </form>
-  <div class="row">
-    <mat-checkbox class="example-margin" checked="true" (change)="calcDurationAndSceneCount($event)">Exclude Behind
-      the scenes
-    </mat-checkbox>
-  </div>
-  <div class="row">
-    <p>Total Playtime: {{totalDuration.days()}}d {{totalDuration.hours()}}h {{totalDuration.minutes()}}
-      m {{totalDuration.seconds()}}s in {{count}} Scenes</p>
-  </div>
 </section>
 
 
-<section class="container" id="results">
+<section id="results">
   <aws-scene-list [scenes]="data$|async"></aws-scene-list>
 </section>

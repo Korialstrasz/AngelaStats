@@ -1,0 +1,26 @@
+<div class="row">
+  <p class="mr-1">Total Playtime: {{statistic.totalPlaytime.days()}}d {{statistic.totalPlaytime.hours()}}h {{statistic.totalPlaytime.minutes()}}m
+    {{statistic.totalPlaytime.seconds()}}s in {{count}} Scenes </p>
+  <div>
+    <mat-checkbox class="example-margin" checked="true" (change)="calcDurationAndSceneCount($event)">Exclude Behind
+      the scenes
+    </mat-checkbox>
+  </div>
+</div>
+
+
+<div class="row">
+  <div class="col-6">
+    <p>partners by count</p>
+    <ol>
+      <li *ngFor="let partner of statistic.partners">{{partner.key}} ({{partner.count}})</li>
+    </ol>
+  </div>
+  <div class="col-6">
+    <p>sites by count</p>
+    <ol>
+      <li *ngFor="let site of statistic.sites ">{{site.key}} ({{site.count}})</li>
+    </ol>
+
+  </div>
+</div>

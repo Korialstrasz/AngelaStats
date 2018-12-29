@@ -19,15 +19,10 @@ export class SceneOverviewComponent {
     searchTerm: ''
   });
   data$: Observable<Scene[]>;
-    totalDuration: Duration;
-  count = 0;
 
-  private sumDuration = (accumulator, currentValue) => accumulator.add(moment.duration(currentValue.playtime));
   private searchterm: string;
 
   constructor(private fb: FormBuilder) {
-    this.calcDurationAndSceneCount({checked: true});
-
     let form$ = this.form.get("searchTerm").valueChanges.pipe(
       switchMap(value => of(this.filterData(value))),
       map(filter => {
@@ -54,13 +49,5 @@ export class SceneOverviewComponent {
     return value.toLowerCase().indexOf(contain.toLowerCase()) > 0
   }
 
-  calcDurationAndSceneCount($event) {
-    let filteredData = data;
-    if ($event.checked) {
-      filteredData = data.filter((scene) => !scene.tags.find(tags => tags === "BTS"));
-    }
-    this.totalDuration = filteredData.reduce(this.sumDuration, moment.duration(0));
-    this.count = filteredData.length;
-  }
 
 }

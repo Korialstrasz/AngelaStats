@@ -1,1 +1,16 @@
-<aws-scene-overview></aws-scene-overview>
+<div class="container">
+
+<div class="row">
+  <mat-button-toggle-group #group="matButtonToggleGroup" value="search">
+    <mat-button-toggle value="search">
+      Search
+    </mat-button-toggle>
+    <mat-button-toggle value="statistics">
+      Statistics
+    </mat-button-toggle>
+  </mat-button-toggle-group>
+</div>
+
+<aws-scene-overview *ngIf="group.value === 'search'"></aws-scene-overview>
+  <aws-statistic-overview *ngIf="group.value === 'statistics'"></aws-statistic-overview>
+</div>

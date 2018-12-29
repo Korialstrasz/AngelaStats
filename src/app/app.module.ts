@@ -7,23 +7,26 @@ import {MatInputModule} from '@angular/material/input';
 import {AppComponent} from './app.component';
 import {SceneEntryComponent} from './scene-entry/scene-entry.component';
 import {SceneListComponent} from './scene-list/scene-list.component';
-import {MatCheckboxModule} from "@angular/material";
+import {MatButtonToggleModule, MatCheckboxModule} from "@angular/material";
 import {ReactiveFormsModule} from "@angular/forms";
 import { SceneOverviewComponent } from './scene-overview/scene-overview.component';
+import { StatisticOverviewComponent } from './statistic-overview/statistic-overview.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     SceneEntryComponent,
     SceneListComponent,
-    SceneOverviewComponent
+    SceneOverviewComponent,
+    StatisticOverviewComponent
   ],
   imports: [
     BrowserModule,
     ReactiveFormsModule,
     MatInputModule,
     MatCheckboxModule,
-    BrowserAnimationsModule
+    BrowserAnimationsModule,
+    MatButtonToggleModule
   ],
   providers: [],
   bootstrap: [AppComponent]
