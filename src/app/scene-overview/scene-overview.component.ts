@@ -46,7 +46,7 @@ export class SceneOverviewComponent {
   }
 
   contains(value: string, contain: string): boolean {
-    return value.toLowerCase().indexOf(contain.toLowerCase()) > 0
+    return value.toLowerCase().indexOf(contain.toLowerCase()) >= 0
   }
 
 
