@@ -15,17 +15,15 @@ import {map, switchMap} from "rxjs/operators";
 export class SceneOverviewComponent {
 
 
-  private scenes = data;
-  private totalDuration: Duration;
-  private count = 0;
+  form = this.fb.group({
+    searchTerm: ''
+  });
+  data$: Observable<Scene[]>;
+    totalDuration: Duration;
+  count = 0;
 
   private sumDuration = (accumulator, currentValue) => accumulator.add(moment.duration(currentValue.playtime));
   private searchterm: string;
-
-  private form = this.fb.group({
-    searchTerm: ''
-  });
-  private data$: Observable<Scene[]>;
 
   constructor(private fb: FormBuilder) {
     this.calcDurationAndSceneCount({checked: true});
