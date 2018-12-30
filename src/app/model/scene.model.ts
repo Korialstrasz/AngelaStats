@@ -1,3 +1,5 @@
+import {Tag} from "./tags.model";
+
 export interface Scene{
   "producer": string;
   "series": string;
@@ -6,5 +8,5 @@ export interface Scene{
   "playtime": string;
   "partners": string[];
   "links": string[];
-  "tags": string[]
+  "tags": Tag[]
 }
