@@ -35,7 +35,7 @@ export class SceneOverviewComponent {
 
   filterData(value: string): Scene[] {
     return data.filter(item => {
-      return this.contains(item.title, value) || this.arrayContains(item.altTitles, value) || this.arrayContains(item.partners, value) || this.arrayContains(item.tags, value);
+      return this.contains(item.title, value) || this.contains(item.series, value)|| this.arrayContains(item.altTitles, value) || this.arrayContains(item.partners, value) || this.arrayContains(item.tags, value);
     });
   }
 
