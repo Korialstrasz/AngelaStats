@@ -1,7 +1,5 @@
-import {Component, OnInit} from '@angular/core';
+import {Component} from '@angular/core';
 import {data} from "../model/data";
-import * as moment from "moment";
-import {Duration} from "moment";
 import {merge, Observable, of} from "rxjs";
 import {Scene} from "../model/scene.model";
 import {FormBuilder} from "@angular/forms";

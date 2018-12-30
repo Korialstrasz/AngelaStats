@@ -1,10 +1,9 @@
-import {Duration} from "moment";
+import {Duration,duration as durationFn} from "moment";
 
-import * as moment from "moment";
 
 export class Statistics {
 
-  totalPlaytime = moment.duration(0);
+  totalPlaytime = durationFn(0);
   partners: { key: string, count: number }[];
   partnersDuration: { key: string; duration: Duration }[];
   sites: { key: string, count: number }[];

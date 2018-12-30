@@ -1,5 +1,4 @@
 import {BrowserModule} from '@angular/platform-browser';
-import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
 import {NgModule} from '@angular/core';
 
 import {MatInputModule} from '@angular/material/input';
@@ -12,6 +11,7 @@ import {ReactiveFormsModule} from "@angular/forms";
 import {SceneOverviewComponent} from './scene-overview/scene-overview.component';
 import {StatisticOverviewComponent} from './statistic-overview/statistic-overview.component';
 import {DurationPipe} from "./shared/duration.pipe";
+import {NoopAnimationsModule} from "@angular/platform-browser/animations";
 
 @NgModule({
   declarations: [
@@ -25,9 +25,9 @@ import {DurationPipe} from "./shared/duration.pipe";
   imports: [
     BrowserModule,
     ReactiveFormsModule,
+    NoopAnimationsModule,
     MatInputModule,
     MatCheckboxModule,
-    BrowserAnimationsModule,
     MatButtonToggleModule
   ],
   providers: [],
