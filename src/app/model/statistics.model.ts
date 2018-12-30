@@ -1,4 +1,4 @@
-import {Duration,duration as durationFn} from "moment";
+import {Duration, duration as durationFn} from "moment";
 
 
 export class Statistics {
@@ -8,5 +8,6 @@ export class Statistics {
   partnersDuration: { key: string; duration: Duration }[];
   sites: { key: string, count: number }[];
   sitesDuration: { key: string; duration: Duration }[];
+  tags: { key: string; count: number }[];
 
 }

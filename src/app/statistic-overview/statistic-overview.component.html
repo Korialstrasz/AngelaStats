@@ -28,9 +28,13 @@
     </ol>
   </div>
   <div class="col-3">
-    <p><b>sites by count</b></p>
+    <p><b>sites by playtime</b></p>
     <ol>
       <li *ngFor="let site of statistic.sitesDuration ">{{site.key}} ({{site.duration|durationPipe}})</li>
     </ol>
+  </div>
+  <div class="col-12">
+    <p><b>tags</b></p>
+      <span class="tags" *ngFor="let tags of statistic.tags ">{{tags.key}} ({{tags.count}})</span>
   </div>
 </div>

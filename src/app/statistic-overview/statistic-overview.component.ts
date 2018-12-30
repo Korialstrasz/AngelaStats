@@ -32,6 +32,7 @@ export class StatisticOverviewComponent implements OnInit {
     let sitesDuration = {};
     let partners = {};
     let partnersDuration = {};
+    let tags = {};
 
     filteredData.forEach((item) => {
       this.statistic.totalPlaytime.add(durationFn(item.playtime));
@@ -40,6 +41,9 @@ export class StatisticOverviewComponent implements OnInit {
       item.partners.forEach((partner) => {
         this.countItem(partners, partner);
         this.countDuration(partnersDuration, partner, item.playtime);
+      });
+      item.tags.forEach((tag) => {
+        this.countItem(tags, tag);
       })
     });
 
@@ -47,6 +51,7 @@ export class StatisticOverviewComponent implements OnInit {
     this.statistic.sitesDuration = this.getCountDuration(sitesDuration);
     this.statistic.partners = this.getCount(partners);
     this.statistic.partnersDuration = this.getCountDuration(partnersDuration);
+    this.statistic.tags = this.getCount(tags);
     this.count = filteredData.length;
   }
 
