@@ -12,13 +12,10 @@ import {map, switchMap} from "rxjs/operators";
 })
 export class SceneOverviewComponent {
 
-
   form = this.fb.group({
     searchTerm: ''
   });
   data$: Observable<Scene[]>;
-
-  private searchterm: string;
 
   constructor(private fb: FormBuilder) {
     let form$ = this.form.get("searchTerm").valueChanges.pipe(
