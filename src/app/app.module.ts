@@ -9,8 +9,9 @@ import {SceneEntryComponent} from './scene-entry/scene-entry.component';
 import {SceneListComponent} from './scene-list/scene-list.component';
 import {MatButtonToggleModule, MatCheckboxModule} from "@angular/material";
 import {ReactiveFormsModule} from "@angular/forms";
-import { SceneOverviewComponent } from './scene-overview/scene-overview.component';
-import { StatisticOverviewComponent } from './statistic-overview/statistic-overview.component';
+import {SceneOverviewComponent} from './scene-overview/scene-overview.component';
+import {StatisticOverviewComponent} from './statistic-overview/statistic-overview.component';
+import {DurationPipe} from "./shared/duration.pipe";
 
 @NgModule({
   declarations: [
@@ -18,7 +19,8 @@ import { StatisticOverviewComponent } from './statistic-overview/statistic-overv
     SceneEntryComponent,
     SceneListComponent,
     SceneOverviewComponent,
-    StatisticOverviewComponent
+    StatisticOverviewComponent,
+    DurationPipe
   ],
   imports: [
     BrowserModule,
