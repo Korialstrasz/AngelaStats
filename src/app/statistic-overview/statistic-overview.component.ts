@@ -34,16 +34,19 @@ export class StatisticOverviewComponent implements OnInit {
 
   calcDurationAndSceneCount(form) {
     let statistic = new Statistics();
-    let filteredData = data;
+    let filteredData = JSON.parse(JSON.stringify(data));
     if (form.excludeBts) {
-      filteredData = data.filter((scene) => !scene.tags.find(tags => tags === "BTS"));
+      filteredData = filteredData.filter((scene) => !scene.tags.find(tags => tags === "BTS"));
     }
 
     if (form.searchTerm.length > 0) {
       if (form.searchType === 'site') {
         filteredData = filteredData.filter((scene) => scene.producer.toLowerCase().includes(form.searchTerm.toLowerCase()));
       } else {
-        filteredData = filteredData.filter((scene) => scene.partners.filter((partner) => partner.toLowerCase().includes(form.searchTerm.toLowerCase())).length > 0);
+        filteredData = filteredData.filter((scene) => {
+          scene.partners = scene.partners.filter((partner) => partner.toLowerCase().includes(form.searchTerm.toLowerCase()));
+          return scene.partners.length > 0
+        });
       }
     }
 

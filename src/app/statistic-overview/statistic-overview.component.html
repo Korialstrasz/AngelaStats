@@ -1,6 +1,6 @@
 <form [formGroup]="form">
   <div class="row">
-    <p class="col-4">Total Playtime: {{(statistic$|async).totalPlaytime|durationPipe}} in {{count}} Scenes </p>
+    <p class="col-4">Total Playtime: {{(statistic$|async).totalPlaytime|durationPipe}} in {{(statistic$|async).count}} Scenes </p>
     <div>
       <mat-checkbox class="example-margin" formControlName="excludeBts">Exclude Behind
         the scenes
