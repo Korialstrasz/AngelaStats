@@ -6,7 +6,7 @@ import {MatInputModule} from '@angular/material/input';
 import {AppComponent} from './app.component';
 import {SceneEntryComponent} from './scene-entry/scene-entry.component';
 import {SceneListComponent} from './scene-list/scene-list.component';
-import {MatButtonToggleModule, MatCheckboxModule} from "@angular/material";
+import {MatButtonToggleModule, MatCheckboxModule, MatRadioModule} from "@angular/material";
 import {ReactiveFormsModule} from "@angular/forms";
 import {SceneOverviewComponent} from './scene-overview/scene-overview.component';
 import {StatisticOverviewComponent} from './statistic-overview/statistic-overview.component';
@@ -28,6 +28,7 @@ import {NoopAnimationsModule} from "@angular/platform-browser/animations";
     NoopAnimationsModule,
     MatInputModule,
     MatCheckboxModule,
+    MatRadioModule,
     MatButtonToggleModule
   ],
   providers: [],

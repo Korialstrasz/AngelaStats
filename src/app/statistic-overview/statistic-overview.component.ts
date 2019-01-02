@@ -2,6 +2,9 @@ import {Component, OnInit} from '@angular/core';
 import {data} from "../model/data";
 import {Duration, duration as durationFn} from "moment";
 import {Statistics} from "../model/statistics.model";
+import {FormBuilder} from "@angular/forms";
+import {Observable, of, merge} from "rxjs";
+import {map} from "rxjs/operators";
 
 @Component({
   selector: 'aws-statistic-overview',
@@ -10,22 +13,38 @@ import {Statistics} from "../model/statistics.model";
 })
 export class StatisticOverviewComponent implements OnInit {
 
-  statistic = new Statistics();
-  count = 0;
+  statistic$: Observable<Statistics>;
 
-  constructor() {
-    this.calcDurationAndSceneCount({checked: true});
+  form = this.fb.group({
+    searchTerm: '',
+    searchType: 'partner',
+    excludeBts: true,
+  });
 
+  constructor(private fb: FormBuilder) {
+    this.statistic$ = this.form.valueChanges.pipe(
+      map((formData) => this.calcDurationAndSceneCount(formData))
+    );
+
+    this.statistic$ = merge(of(this.calcDurationAndSceneCount(this.form.value)), this.statistic$);
   }
 
   ngOnInit() {
   }
 
-  calcDurationAndSceneCount($event) {
-    this.statistic = new Statistics();
+  calcDurationAndSceneCount(form) {
+    let statistic = new Statistics();
     let filteredData = data;
-    if ($event.checked) {
+    if (form.excludeBts) {
       filteredData = data.filter((scene) => !scene.tags.find(tags => tags === "BTS"));
+    }
+
+    if (form.searchTerm.length > 0) {
+      if (form.searchType === 'site') {
+        filteredData = filteredData.filter((scene) => scene.producer.toLowerCase().includes(form.searchTerm.toLowerCase()));
+      } else {
+        filteredData = filteredData.filter((scene) => scene.partners.filter((partner) => partner.toLowerCase().includes(form.searchTerm.toLowerCase())).length > 0);
+      }
     }
 
     let sites = {};
@@ -35,7 +54,7 @@ export class StatisticOverviewComponent implements OnInit {
     let tags = {};
 
     filteredData.forEach((item) => {
-      this.statistic.totalPlaytime.add(durationFn(item.playtime));
+      statistic.totalPlaytime.add(durationFn(item.playtime));
       this.countItem(sites, item.producer);
       this.countDuration(sitesDuration, item.producer, item.playtime);
       item.partners.forEach((partner) => {
@@ -47,12 +66,13 @@ export class StatisticOverviewComponent implements OnInit {
       })
     });
 
-    this.statistic.sites = this.getCount(sites);
-    this.statistic.sitesDuration = this.getCountDuration(sitesDuration);
-    this.statistic.partners = this.getCount(partners);
-    this.statistic.partnersDuration = this.getCountDuration(partnersDuration);
-    this.statistic.tags = this.getCount(tags);
-    this.count = filteredData.length;
+    statistic.sites = this.getCount(sites);
+    statistic.sitesDuration = this.getCountDuration(sitesDuration);
+    statistic.partners = this.getCount(partners);
+    statistic.partnersDuration = this.getCountDuration(partnersDuration);
+    statistic.tags = this.getCount(tags);
+    statistic.count = filteredData.length;
+    return statistic;
   }
 
   countDuration(container, key, time) {

@@ -9,5 +9,6 @@ export class Statistics {
   sites: { key: string, count: number }[];
   sitesDuration: { key: string; duration: Duration }[];
   tags: { key: string; count: number }[];
+  count: number;
 
 }
