@@ -8,6 +8,7 @@ export type Tag =
   | "Cuckhold"
   | "Spanking"
   | "Standing 69"
+  | "Winking"
   | "Cum on Pussy"
   | "Side Fuck"
   | "Side Rider"

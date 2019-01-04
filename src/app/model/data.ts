@@ -5065,7 +5065,7 @@ export let data: Scene[] = [
     "playtime": "0:39:36",
     "partners": [],
     "links": [],
-    "tags": ["Boy/Girl", "On Couch"]
+    "tags": ["Boy/Girl", "On Couch", "Winking", "Comedy","POV","Blowjob","Deepthroat","Titty Fuck","Birthmark left inner thigh"]
   },
   {
     "producer": "vrbangers.com",
