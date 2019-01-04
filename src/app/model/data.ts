@@ -4243,6 +4243,16 @@ export let data: Scene[] = [
   },
   {
     "producer": "naughtyamerica.com",
+    "series": "Big Cock Bully",
+    "title": "Angela White Is Craving A Big Cock To Satisfy Her ",
+    "altTitles": [],
+    "playtime": "0:38:24",
+    "partners": ["Brad Newman"],
+    "links": [],
+    "tags": ["Boy/Girl", "On Bed"]
+  },
+  {
+    "producer": "naughtyamerica.com",
     "series": "Dirty Wives Club",
     "title": "Angela White Fucking In The Den With Her Innie Pussy",
     "altTitles": [],
@@ -5039,13 +5049,23 @@ export let data: Scene[] = [
   },
   {
     "producer": "vixenx.com",
-    "series": "propertysex",
+    "series": "property sex",
     "title": "Angela White",
     "altTitles": [],
     "playtime": "0:48:16",
     "partners": [],
     "links": [],
     "tags": []
+  },
+  {
+    "producer": "vixenx.com",
+    "series": "property sex",
+    "title": " Putting Out The Signels",
+    "altTitles": [],
+    "playtime": "0:39:36",
+    "partners": [],
+    "links": [],
+    "tags": ["Boy/Girl", "On Couch"]
   },
   {
     "producer": "vrbangers.com",
