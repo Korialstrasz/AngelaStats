@@ -4460,10 +4460,10 @@ export let data: Scene[] = [
     "series": "",
     "title": "Jenna Sativa's Booty Cuties - Scene 2",
     "altTitles": [],
-    "playtime": "",
+    "playtime": "0:22:11",
     "partners": ["Jenna Sativa"],
     "links": ["https://angelawhite.empirestores.co/1960967/jenna-sativas-booty-cuties-porn-videos.html"],
-    "tags": []
+    "tags": ["Solo","Dildo","Girl/Girl","Bath","Anal"]
   },
   {
     "producer": "pervcity.com",
@@ -5065,7 +5065,7 @@ export let data: Scene[] = [
     "playtime": "0:39:36",
     "partners": [],
     "links": [],
-    "tags": ["Boy/Girl", "On Couch", "Winking", "Comedy","POV","Blowjob","Deepthroat","Titty Fuck","Birthmark left inner thigh"]
+    "tags": ["Boy/Girl", "On Couch", "Winking", "Comedy","POV","Blowjob","Deepthroat","Titty Fuck","Birthmark left inner thigh","Elbow Birthmark"]
   },
   {
     "producer": "vrbangers.com",
@@ -5216,5 +5216,25 @@ export let data: Scene[] = [
     "partners": [],
     "links": [],
     "tags": ["Solo", "Speaking French", "Vibrator"]
+  },
+  {
+    "producer": "zishy.com",
+    "series": "",
+    "title": "Angela White of Generous Proportions",
+    "altTitles": [],
+    "playtime": "0:02:34",
+    "partners": [],
+    "links": [],
+    "tags": ["Solo", "Outside"]
+  },
+  {
+    "producer": "zishy.com",
+    "series": "",
+    "title": "Angela White - The Organic Pumpkin",
+    "altTitles": [],
+    "playtime": "0:02:09",
+    "partners": [],
+    "links": [],
+    "tags": ["Solo", "Outside"]
   }
 ];
