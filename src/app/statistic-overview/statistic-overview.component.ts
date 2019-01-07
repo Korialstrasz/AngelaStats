@@ -1,4 +1,4 @@
-import {Component, OnInit} from '@angular/core';
+import {Component, Input, OnInit} from '@angular/core';
 import {data} from "../model/data";
 import {Duration, duration as durationFn} from "moment";
 import {Statistics} from "../model/statistics.model";
@@ -13,6 +13,9 @@ import {map} from "rxjs/operators";
 })
 export class StatisticOverviewComponent implements OnInit {
 
+  @Input()
+  searchTerm = '';
+
   statistic$: Observable<Statistics>;
 
   form = this.fb.group({
@@ -22,14 +25,15 @@ export class StatisticOverviewComponent implements OnInit {
   });
 
   constructor(private fb: FormBuilder) {
-    this.statistic$ = this.form.valueChanges.pipe(
-      map((formData) => this.calcDurationAndSceneCount(formData))
-    );
-
-    this.statistic$ = merge(of(this.calcDurationAndSceneCount(this.form.value)), this.statistic$);
   }
 
   ngOnInit() {
+    this.statistic$ = this.form.valueChanges.pipe(
+      map((formData) => this.calcDurationAndSceneCount(formData))
+    );
+    let [term, type] = this.searchTerm.split('|');
+    this.form.patchValue({'searchTerm': term, 'searchType': type || 'partner'});
+    this.statistic$ = merge(of(this.calcDurationAndSceneCount(this.form.value)), this.statistic$);
   }
 
   calcDurationAndSceneCount(form) {

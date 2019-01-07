@@ -1,16 +1,20 @@
-import {Component} from '@angular/core';
+import {Component, Input, OnInit} from '@angular/core';
 import {data} from "../model/data";
 import {merge, Observable, of} from "rxjs";
 import {Scene} from "../model/scene.model";
 import {FormBuilder} from "@angular/forms";
 import {map, switchMap} from "rxjs/operators";
+import {Location, LocationStrategy, PathLocationStrategy} from "@angular/common";
 
 @Component({
   selector: 'aws-scene-overview',
   templateUrl: './scene-overview.component.html',
-  styleUrls: ['./scene-overview.component.scss']
+  styleUrls: ['./scene-overview.component.scss'],
 })
-export class SceneOverviewComponent {
+export class SceneOverviewComponent implements OnInit {
+
+  @Input()
+  searchTerm="";
 
   form = this.fb.group({
     searchTerm: ''
@@ -18,6 +22,9 @@ export class SceneOverviewComponent {
   data$: Observable<Scene[]>;
 
   constructor(private fb: FormBuilder) {
+  }
+
+  ngOnInit(): void {
     let form$ = this.form.get("searchTerm").valueChanges.pipe(
       switchMap(value => of(this.filterData(value))),
       map(filter => {
@@ -26,8 +33,8 @@ export class SceneOverviewComponent {
         }
         return filter;
       }));
-
-    this.data$ = merge(of(data), form$);
+    this.data$ = merge(of(this.filterData(this.searchTerm)), form$);
+    this.form.get('searchTerm').patchValue(this.searchTerm);
   }
 
   filterData(value: string): Scene[] {
