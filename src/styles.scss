@@ -5,3 +5,9 @@
 @import "~bootstrap/scss/reboot";
 @import "~bootstrap/scss/grid";
 @import "~@angular/material/prebuilt-themes/indigo-pink.css";
+
+.center {
+  margin-left: 2rem;
+  margin-top: auto;
+  margin-bottom: auto;
+}

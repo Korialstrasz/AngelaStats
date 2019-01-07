@@ -11,6 +11,7 @@
     <mat-form-field class="col-3">
       <input matInput placeholder="filter" formControlName="searchTerm">
     </mat-form-field>
+    <span class="center">http://angelastats-99708.firebaseapp.com/?stats={{form.get('searchTerm').value}}|{{form.get('searchType').value}}</span>
   </div>
   <div class="row">
     <mat-radio-group class="col-3" formControlName="searchType">
