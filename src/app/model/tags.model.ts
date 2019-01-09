@@ -15,7 +15,7 @@ export type Tag =
   | "Candid"
   | "Cheating"
   | "Face Fuck"
-  | "Analingus"
+  | "Anilingus"
   | "Pussy to Mouth"
   | "Neck Tattoo"
   | "No Make up"
