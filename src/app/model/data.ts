@@ -729,7 +729,7 @@ export let data: Scene[] = [
     "playtime": "0:59:18",
     "partners": ["Ramon Nomar"],
     "links": ["https://angelawhite.empirestores.co/1786446/angela-loves-gonzo-porn-movies.html"],
-    "tags": ["POV","Candid","Bath","Standing","Boy/Girl","Vaginal","On Bed"]
+    "tags": ["POV", "Candid", "Bath", "Standing", "Boy/Girl", "Vaginal", "On Bed"]
   },
   {
     "producer": "angelawhite.com",
@@ -1059,7 +1059,7 @@ export let data: Scene[] = [
     "playtime": "0:08:41",
     "partners": [],
     "links": [],
-    "tags": []
+    "tags": ["Solo", "Outside", "On Chair"]
   },
   {
     "producer": "angelawhite.com",
@@ -1069,7 +1069,7 @@ export let data: Scene[] = [
     "playtime": "0:20:12",
     "partners": ["Jada Stevens"],
     "links": [],
-    "tags": []
+    "tags": ["Girl/Girl"]
   },
   {
     "producer": "angelawhite.com",
@@ -1079,7 +1079,7 @@ export let data: Scene[] = [
     "playtime": "0:23:54",
     "partners": ["David"],
     "links": [],
-    "tags": []
+    "tags": ["Boy/Girl", "Handjob", "Blowjob", "Titty Fuck"]
   },
   {
     "producer": "angelawhite.com",
@@ -4372,7 +4372,7 @@ export let data: Scene[] = [
     "playtime": "0:34:01",
     "partners": ["Ramon Nomar"],
     "links": ["https://angelawhite.empirestores.co/2526414/boss-lady-ii-porn-movies.html"],
-    "tags": ["Boy/Girl", "On Bed", "Titty Fuck", "Blowjob", "Deepthroat", "Vaginal", "Elbow Birthmark", "Missionary", "Side Fuck", "Cunnilingus", "Anilingus", "Birthmark left inner thigh", "Neck Tattoo", "Reverse Cowgirl", "Cowgirl"]
+    "tags": ["Boy/Girl", "On Bed", "Titty Fuck", "Blowjob", "Deepthroat", "Vaginal", "Elbow Birthmark", "Missionary", "Side Fuck", "Cunnilingus", "Anilingus", "Birthmark left inner thigh", "Neck Tattoo", "Reverse Cowgirl", "Cowgirl", "Feet"]
   },
   {
     "producer": "newsensations.com",
@@ -5092,6 +5092,16 @@ export let data: Scene[] = [
     "partners": [],
     "links": ["https://angelawhite.empirestores.co/2597615/laid-off-porn-videos.html"],
     "tags": ["VR"]
+  },
+  {
+    "producer": "vrbangers.com",
+    "series": "",
+    "title": "CryptoCUMency Deal",
+    "altTitles": [],
+    "playtime": "0:48:55",
+    "partners": [],
+    "links": [],
+    "tags": ["VR", "Blowjob", "Cowgirl", "Deepthroat", "Footjob"]
   },
   {
     "producer": "vrhush.com",

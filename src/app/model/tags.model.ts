@@ -16,6 +16,7 @@ export type Tag =
   | "Cheating"
   | "Face Fuck"
   | "Anilingus"
+  | "Footjob"
   | "Pussy to Mouth"
   | "Neck Tattoo"
   | "No Make up"
@@ -126,4 +127,5 @@ export type Tag =
   | "Fishnet"
   | "Ass to Pussy"
   | "Cum on Tits"
+  | "Handjob"
   | "JAV";
