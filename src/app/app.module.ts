@@ -12,6 +12,7 @@ import {SceneOverviewComponent} from './scene-overview/scene-overview.component'
 import {StatisticOverviewComponent} from './statistic-overview/statistic-overview.component';
 import {DurationPipe} from './shared/duration.pipe';
 import {NoopAnimationsModule} from '@angular/platform-browser/animations';
+import {MomentPipe} from './shared/moment.pipe';
 
 @NgModule({
   declarations: [
@@ -20,7 +21,8 @@ import {NoopAnimationsModule} from '@angular/platform-browser/animations';
     SceneListComponent,
     SceneOverviewComponent,
     StatisticOverviewComponent,
-    DurationPipe
+    DurationPipe,
+    MomentPipe
   ],
   imports: [
     BrowserModule,

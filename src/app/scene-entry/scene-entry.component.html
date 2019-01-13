@@ -16,13 +16,17 @@
   </div>
 </div>
 <div class="row border-info border details" *ngIf="showDetails">
-  <div class="col-6">
+  <div class="col-4">
     <p><b>Alternative Titels</b></p>
     <p *ngFor="let alt of scene.altTitles">{{alt}}</p>
   </div>
-  <div class="col-6">
+  <div class="col-4">
     <p><b>Partners</b></p>
     <p *ngFor="let partner of scene.partners">{{partner}}</p>
+  </div>
+  <div class="col-4">
+    <p><b>Release Date</b></p>
+    <p>{{scene.release | moment}}</p>
   </div>
   <div class="col-12">
     <p><b>Tags: </b>
