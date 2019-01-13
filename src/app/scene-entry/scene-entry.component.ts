@@ -1,5 +1,5 @@
 import {Component, Input, OnInit} from '@angular/core';
-import {Scene} from "../model/scene.model";
+import {Scene} from '../model/scene.model';
 
 @Component({
   selector: 'aws-scene-entry',
@@ -8,7 +8,7 @@ import {Scene} from "../model/scene.model";
 })
 export class SceneEntryComponent implements OnInit {
 
-  @Input() scene:Scene;
+  @Input() scene: Scene;
   @Input() last: boolean;
   showDetails: boolean;
 

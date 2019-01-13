@@ -1,4 +1,4 @@
-import {Duration, duration as durationFn} from "moment";
+import {Duration, duration as durationFn} from 'moment';
 
 
 export class Statistics {

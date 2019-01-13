@@ -1,10 +1,10 @@
 import {Component, Input, OnInit} from '@angular/core';
-import {data} from "../model/data";
-import {merge, Observable, of} from "rxjs";
-import {Scene} from "../model/scene.model";
-import {FormBuilder} from "@angular/forms";
-import {map, switchMap} from "rxjs/operators";
-import {Location, LocationStrategy, PathLocationStrategy} from "@angular/common";
+import {data} from '../model/data';
+import {merge, Observable, of} from 'rxjs';
+import {Scene} from '../model/scene.model';
+import {FormBuilder} from '@angular/forms';
+import {map, switchMap} from 'rxjs/operators';
+import {Location, LocationStrategy, PathLocationStrategy} from '@angular/common';
 
 @Component({
   selector: 'aws-scene-overview',
@@ -14,7 +14,7 @@ import {Location, LocationStrategy, PathLocationStrategy} from "@angular/common"
 export class SceneOverviewComponent implements OnInit {
 
   @Input()
-  searchTerm="";
+  searchTerm = '';
 
   form = this.fb.group({
     searchTerm: ''
@@ -25,10 +25,10 @@ export class SceneOverviewComponent implements OnInit {
   }
 
   ngOnInit(): void {
-    let form$ = this.form.get("searchTerm").valueChanges.pipe(
+    const form$ = this.form.get('searchTerm').valueChanges.pipe(
       switchMap(value => of(this.filterData(value))),
       map(filter => {
-        if (!filter || filter.length == 0) {
+        if (!filter || filter.length === 0) {
           return data;
         }
         return filter;
@@ -39,12 +39,14 @@ export class SceneOverviewComponent implements OnInit {
 
   filterData(value: string): Scene[] {
     return data.filter(item => {
-      return this.contains(item.producer, value) || this.contains(item.title, value) || this.contains(item.series, value) || this.arrayContains(item.altTitles, value) || this.arrayContains(item.partners, value) || this.arrayContains(item.tags, value);
+      return this.contains(item.producer, value) || this.contains(item.title, value)
+        || this.contains(item.series, value) || this.arrayContains(item.altTitles, value)
+        || this.arrayContains(item.partners, value) || this.arrayContains(item.tags, value);
     });
   }
 
   arrayContains(value: string[], contain: string): boolean {
-    return value.find((item) => this.contains(item, contain)) != undefined;
+    return value.find((item) => this.contains(item, contain)) !== undefined;
   }
 
   contains(value: string, contain: string): boolean {

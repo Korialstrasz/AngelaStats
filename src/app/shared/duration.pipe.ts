@@ -1,5 +1,5 @@
 import {Pipe, PipeTransform} from '@angular/core';
-import {Duration} from "moment";
+import {Duration} from 'moment';
 
 
 @Pipe({name: 'durationPipe'})
@@ -7,10 +7,10 @@ export class DurationPipe implements PipeTransform {
 
   transform(value: Duration): string {
 
-    let days = value.days();
-    let hours = value.hours();
-    let minutes = value.minutes();
-    let seconds = value.seconds();
+    const days = value.days();
+    const hours = value.hours();
+    const minutes = value.minutes();
+    const seconds = value.seconds();
 
     if (days > 0) {
       return `${days}d ${hours}h ${minutes}m ${seconds}s`;
