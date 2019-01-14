@@ -2243,7 +2243,7 @@ export let data: Scene[] = [
     'partners': ['Markus Dupree'],
     'links': [],
     'tags': ['Boy/Girl', 'On Couch', 'Anal', 'Submission', 'Blowjob', 'Standing', 'Off the Ground', 'Cunnilingus',
-      'Clothed', 'Panty Gag', 'Gaping', 'Squirt', 'Missionary', 'Doggy'],
+      'Clothed', 'Panty Gag', 'Gaping', 'Squirt', 'Missionary', 'Doggy', 'Titty Fuck', 'Reverse Cowgirl', 'Cowgirl', 'Vaginal'],
     'release': moment('2018-11-20')
   },
   {
