@@ -2237,7 +2237,7 @@ export let data: Scene[] = [
   {
     'producer': 'babes.com',
     'series': 'Elegant Anal',
-    'title': 'cherry kiss',
+    'title': 'Cherry Kiss',
     'altTitles': [],
     'playtime': '0:36:47',
     'partners': ['Markus Dupree'],
@@ -3829,7 +3829,7 @@ export let data: Scene[] = [
   {
     'producer': 'girlsoutwest.com',
     'series': 'Cheers Bar',
-    'title': 'Episode 3',
+    'title': 'Cheers Bar - Episode 3',
     'altTitles': [],
     'playtime': '0:10:59',
     'partners': [],
