@@ -753,7 +753,7 @@ export let data: Scene[] = [
     'partners': ['Ramon Nomar'],
     'links': ['https://angelawhite.empirestores.co/1786446/angela-loves-gonzo-porn-movies.html'],
     'tags': ['POV', 'Candid', 'Bath', 'Standing', 'Boy/Girl', 'Vaginal', 'On Bed', 'Doggy', 'Cowgirl', 'Titty Fuck',
-      'Missionary', 'Finger in Butt']
+      'Missionary', 'Finger in Butt', 'Side Fuck', 'Choking']
   },
   {
     'producer': 'angelawhite.com',
@@ -813,7 +813,7 @@ export let data: Scene[] = [
     'playtime': '0:08:30',
     'partners': [],
     'links': [],
-    'tags': []
+    'tags': ['Solo']
   },
   {
     'producer': 'angelawhite.com',
@@ -853,7 +853,7 @@ export let data: Scene[] = [
     'playtime': '0:10:43',
     'partners': [],
     'links': [],
-    'tags': []
+    'tags': ['Solo']
   },
   {
     'producer': 'angelawhite.com',
@@ -1003,7 +1003,7 @@ export let data: Scene[] = [
     'playtime': '0:12:24',
     'partners': [],
     'links': [],
-    'tags': []
+    'tags': ['Solo']
   },
   {
     'producer': 'angelawhite.com',
@@ -1123,7 +1123,7 @@ export let data: Scene[] = [
     'playtime': '0:11:04',
     'partners': [],
     'links': [],
-    'tags': []
+    'tags': ['Solo']
   },
   {
     'producer': 'angelawhite.com',
@@ -1223,7 +1223,7 @@ export let data: Scene[] = [
     'playtime': '0:05:59',
     'partners': [],
     'links': [],
-    'tags': []
+    'tags': ['Solo']
   },
   {
     'producer': 'angelawhite.com',
@@ -1253,7 +1253,7 @@ export let data: Scene[] = [
     'playtime': '0:09:26',
     'partners': [],
     'links': [],
-    'tags': []
+    'tags': ['Solo', 'Outside', 'Water']
   },
   {
     'producer': 'angelawhite.com',
@@ -1303,7 +1303,7 @@ export let data: Scene[] = [
     'playtime': '0:11:28',
     'partners': [],
     'links': [],
-    'tags': []
+    'tags': ['Solo']
   },
   {
     'producer': 'angelawhite.com',
@@ -1363,7 +1363,7 @@ export let data: Scene[] = [
     'playtime': '0:09:04',
     'partners': [],
     'links': [],
-    'tags': []
+    'tags': ['Solo']
   },
   {
     'producer': 'angelawhite.com',
@@ -1383,7 +1383,7 @@ export let data: Scene[] = [
     'playtime': '0:12:48',
     'partners': [],
     'links': [],
-    'tags': []
+    'tags': ['Solo']
   },
   {
     'producer': 'angelawhite.com',
@@ -1414,7 +1414,7 @@ export let data: Scene[] = [
     'playtime': '0:05:36',
     'partners': [],
     'links': [],
-    'tags': []
+    'tags': ['Solo']
   },
   {
     'producer': 'angelawhite.com',
@@ -1434,7 +1434,7 @@ export let data: Scene[] = [
     'playtime': '0:11:00',
     'partners': [],
     'links': [],
-    'tags': []
+    'tags': ['Solo']
   },
   {
     'producer': 'angelawhite.com',
@@ -1454,7 +1454,7 @@ export let data: Scene[] = [
     'playtime': '0:06:22',
     'partners': [],
     'links': [],
-    'tags': []
+    'tags': ['Solo']
   },
   {
     'producer': 'angelawhite.com',
@@ -1484,7 +1484,7 @@ export let data: Scene[] = [
     'playtime': '0:12:07',
     'partners': [],
     'links': [],
-    'tags': []
+    'tags': ['Solo']
   },
   {
     'producer': 'angelawhite.com',
@@ -1554,7 +1554,7 @@ export let data: Scene[] = [
     'playtime': '0:13:39',
     'partners': [],
     'links': [],
-    'tags': []
+    'tags': ['Solo']
   },
   {
     'producer': 'angelawhite.com',
@@ -1594,7 +1594,7 @@ export let data: Scene[] = [
     'playtime': '0:11:48',
     'partners': [],
     'links': [],
-    'tags': []
+    'tags': ['Solo']
   },
   {
     'producer': 'angelawhite.com',
@@ -1877,7 +1877,7 @@ export let data: Scene[] = [
     'title': 'Live Show 003',
     'altTitles': [],
     'playtime': '0:59:24',
-    'partners': [],
+    'partners': ['Phoenix Marie'],
     'links': [],
     'tags': ['Feet', 'Submission', 'Domination', 'Girl/Girl', 'Blonde', 'Live Stream']
   },
@@ -2039,7 +2039,7 @@ export let data: Scene[] = [
     'playtime': '0:09:41',
     'partners': [],
     'links': [],
-    'tags': ['Live Stream']
+    'tags': ['Solo', 'Live Stream']
   },
   {
     'producer': 'angelawhite.com',
@@ -2049,7 +2049,7 @@ export let data: Scene[] = [
     'playtime': '0:25:57',
     'partners': [],
     'links': [],
-    'tags': ['Live Stream']
+    'tags': ['Solo', 'Live Stream']
   },
   {
     'producer': 'angelawhite.com',
@@ -2059,7 +2059,7 @@ export let data: Scene[] = [
     'playtime': '0:18:33',
     'partners': [],
     'links': [],
-    'tags': ['Live Stream']
+    'tags': ['Solo', 'Live Stream']
   },
   {
     'producer': 'angelawhite.com',
@@ -2252,7 +2252,7 @@ export let data: Scene[] = [
     'title': 'Nailed In Jail',
     'altTitles': [],
     'playtime': '0:44:17',
-    'partners': [],
+    'partners': ['Unknown'],
     'links': [],
     'tags': ['VR', 'Boy/Girl'],
     'release': moment('2017-08-07')
@@ -2263,7 +2263,7 @@ export let data: Scene[] = [
     'title': 'New Year\'s Lay',
     'altTitles': [],
     'playtime': '0:43:15',
-    'partners': [],
+    'partners': ['Unknown'],
     'links': [],
     'tags': ['VR', 'Boy/Girl'],
     'release': moment('2018-01-01')
@@ -2318,7 +2318,7 @@ export let data: Scene[] = [
     'title': 'Angela White’s 32 Double G Big Tits Are Breathtaking!',
     'altTitles': ['Girls Of Bangbros Vol. 76: Angela White - Scene 2', 'Big Tits Round Asses 51 - Scene 4'],
     'playtime': '0:34:21',
-    'partners': [],
+    'partners': ['Unknown'],
     'links': ['https://angelawhite.empirestores.co/1969197/girls-of-bangbros-vol-76-angela-white-porn-movies.html',
       'https://angelawhite.empirestores.co/1931651/big-tits-round-asses-51-porn-movies.html'],
     'tags': [],
@@ -2353,7 +2353,7 @@ export let data: Scene[] = [
     'title': 'Happy Ending',
     'altTitles': [],
     'playtime': '0:42:47',
-    'partners': [],
+    'partners': ['Unknown'],
     'links': [],
     'tags': [],
     'release': moment('2017-07-27')
@@ -2376,7 +2376,7 @@ export let data: Scene[] = [
     'altTitles': ['Big Tits Round Asses 49 - Scene 5', 'World Of BangBros: Big Tits Vol. 6 - Scene 2',
       'Girls Of Bangbros Vol. 76: Angela White - Scene 4'],
     'playtime': '0:39:06',
-    'partners': [],
+    'partners': ['Unknown'],
     'links': ['https://angelawhite.empirestores.co/1955015/world-of-bangbros-big-tits-vol-6-porn-movies.html',
       'https://angelawhite.empirestores.co/1906827/big-tits-round-asses-49-porn-movies.html',
       'https://angelawhite.empirestores.co/1969197/girls-of-bangbros-vol-76-angela-white-porn-movies.html'],
@@ -2389,9 +2389,9 @@ export let data: Scene[] = [
     'title': 'Big tits vs monster cock',
     'altTitles': ['Girls Of Bangbros Vol. 76: Angela White - Scene 3'],
     'playtime': '0:35:23',
-    'partners': [],
+    'partners': ['Unknown'],
     'links': [],
-    'tags': [],
+    'tags': ['Boy/Girl', 'Interracial'],
     'release': moment('2017-09-24')
   },
   {
@@ -2821,7 +2821,7 @@ export let data: Scene[] = [
     'playtime': '0:11:09',
     'partners': [],
     'links': [],
-    'tags': [],
+    'tags': ['Solo'],
     'release': moment('2017-09-29')
   },
   {
@@ -2898,7 +2898,7 @@ export let data: Scene[] = [
     'playtime': '0:20:24',
     'partners': [],
     'links': [],
-    'tags': [],
+    'tags': ['Solo'],
     'release': moment('2009-01-12')
   },
   {
@@ -2909,7 +2909,7 @@ export let data: Scene[] = [
     'playtime': '0:16:49',
     'partners': [],
     'links': [],
-    'tags': [],
+    'tags': ['Solo'],
     'release': moment('2012-04-09')
   },
   {
@@ -2940,7 +2940,7 @@ export let data: Scene[] = [
     'title': 'Coffee and Cunny Break',
     'altTitles': ['Busty Lovers 2 - Scene 4'],
     'playtime': '0:21:00',
-    'partners': [],
+    'partners': ['Unknown'],
     'links': ['https://angelawhite.empirestores.co/1790042/busty-lovers-2-porn-videos.html'],
     'tags': [],
     'release': moment('2012-08-31')
@@ -2951,9 +2951,9 @@ export let data: Scene[] = [
     'title': 'Riding Robo Dick for Kick',
     'altTitles': [],
     'playtime': '0:18:07',
-    'partners': [],
+    'partners': ['Unknown'],
     'links': [],
-    'tags': [],
+    'tags': ['Solo', 'Sybian'],
     'release': moment('2008-11-21')
   },
   {
@@ -3028,9 +3028,9 @@ export let data: Scene[] = [
     'title': 'Angela White Has Fun With Some BBC Gloryhole Style',
     'altTitles': ['Angela White Is Titwoman -  Scene 1'],
     'playtime': '0:41:13',
-    'partners': [],
+    'partners': ['Unknown'],
     'links': ['https://angelawhite.empirestores.co/1930697/angela-white-is-titwoman-porn-movies.html'],
-    'tags': ['Gloryhole'],
+    'tags': ['Gloryhole', 'Interracial'],
     'release': moment('2017-09-16')
   },
   {
@@ -3471,7 +3471,7 @@ export let data: Scene[] = [
     'playtime': '0:39:21',
     'partners': ['Prince Yahshua'],
     'links': ['https://angelawhite.empirestores.co/2589267/top-heavy-sluts-porn-videos.html'],
-    'tags': [],
+    'tags': ['Boy/Girl', 'Interracial'],
     'release': moment(' 2018-11-24')
   },
   {
@@ -4951,9 +4951,11 @@ export let data: Scene[] = [
     'title': 'In The Room : I Like To Watch Volume 2 - Scene 1',
     'altTitles': [],
     'playtime': '0:38:08',
-    'partners': [],
+    'partners': ['Ramon Nomar'],
     'links': ['https://angelawhite.empirestores.co/2592889/in-the-room-i-like-to-watch-vol-2-porn-movies.html'],
-    'tags': [],
+    'tags': ['Boy/Girl', 'Cuckhold', 'Anal', 'Elbow Birthmark', 'Finger in Butt', 'Anilingus', 'On Chair', 'Gaping',
+      'Standing', 'Blowjob', 'Deepthroat', 'On Bed', 'Birthmark left inner thigh', 'Cunnilingus', 'Ass to Mouth',
+      'Cowgirl', 'Vaginal', 'Ass to Pussy', 'Reverse Cowgirl', 'Spooning', 'Doggy'],
     'release': moment('2018-12-19')
   },
   {
