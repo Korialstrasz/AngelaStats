@@ -134,5 +134,8 @@ export type Tag =
   | 'Fishnet'
   | 'Ass to Pussy'
   | 'Cum on Tits'
+  | 'Voyeur'
+  | 'Jerk Off Instructions'
+  | 'Panty Mail'
   | 'Handjob'
   | 'JAV';

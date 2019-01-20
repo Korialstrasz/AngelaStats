@@ -753,7 +753,7 @@ export let data: Scene[] = [
     'partners': ['Ramon Nomar'],
     'links': ['https://angelawhite.empirestores.co/1786446/angela-loves-gonzo-porn-movies.html'],
     'tags': ['POV', 'Candid', 'Bath', 'Standing', 'Boy/Girl', 'Vaginal', 'On Bed', 'Doggy', 'Cowgirl', 'Titty Fuck',
-      'Missionary', 'Finger in Butt', 'Side Fuck', 'Choking']
+      'Missionary', 'Finger in Butt', 'Side Fuck', 'Choking', 'Clothed', 'Against Wall']
   },
   {
     'producer': 'angelawhite.com',
@@ -3028,7 +3028,7 @@ export let data: Scene[] = [
     'title': 'Angela White Has Fun With Some BBC Gloryhole Style',
     'altTitles': ['Angela White Is Titwoman -  Scene 1'],
     'playtime': '0:41:13',
-    'partners': ['Unknown'],
+    'partners': ['Isiah Maxwell', 'Moe Johnson'],
     'links': ['https://angelawhite.empirestores.co/1930697/angela-white-is-titwoman-porn-movies.html'],
     'tags': ['Gloryhole', 'Interracial'],
     'release': moment('2017-09-16')
@@ -4940,9 +4940,11 @@ export let data: Scene[] = [
     'title': 'Angela Takes A Break From Work',
     'altTitles': ['In The Room : I Like To Watch - Scene 1'],
     'playtime': '0:33:36',
-    'partners': [],
+    'partners': ['Tommy Gunn'],
     'links': ['https://angelawhite.empirestores.co/2585366/in-the-room-i-like-to-watch-porn-movies.html'],
-    'tags': [],
+    'tags': ['Boy/Girl', 'Voyeur', 'Bath', 'Blowjob', 'On Bed', 'Deepthroat', 'Cowgirl', '69', 'Reverse Cowgirl',
+      'Side Fuck', 'Cunnilingus', 'Anilingus', 'Feet', 'Doggy', 'Jerk Off Instructions', 'Elbow Birthmark', 'Choking',
+      'Missionary', 'Titty Fuck', 'Cum on Tits', 'Vaginal'],
     'release': moment('2018-12-03')
   },
   {
@@ -4955,7 +4957,7 @@ export let data: Scene[] = [
     'links': ['https://angelawhite.empirestores.co/2592889/in-the-room-i-like-to-watch-vol-2-porn-movies.html'],
     'tags': ['Boy/Girl', 'Cuckhold', 'Anal', 'Elbow Birthmark', 'Finger in Butt', 'Anilingus', 'On Chair', 'Gaping',
       'Standing', 'Blowjob', 'Deepthroat', 'On Bed', 'Birthmark left inner thigh', 'Cunnilingus', 'Ass to Mouth',
-      'Cowgirl', 'Vaginal', 'Ass to Pussy', 'Reverse Cowgirl', 'Spooning', 'Doggy'],
+      'Cowgirl', 'Vaginal', 'Ass to Pussy', 'Reverse Cowgirl', 'Spooning', 'Doggy', 'Jerk Off Instructions'],
     'release': moment('2018-12-19')
   },
   {
@@ -5404,9 +5406,9 @@ export let data: Scene[] = [
     'title': 'Dance of the Breast Stars',
     'altTitles': [],
     'playtime': '0:18:15',
-    'partners': [],
+    'partners': ['Gianna Michaels'],
     'links': [],
-    'tags': []
+    'tags': ['Girl/Girl']
   },
   {
     'producer': 'scoreland.com',
@@ -5691,7 +5693,9 @@ export let data: Scene[] = [
     'playtime': '0:47:22',
     'partners': ['Manuel Ferrara'],
     'links': ['https://angelawhite.empirestores.co/2535247/natural-beauties-vol-9-porn-movies.html'],
-    'tags': [],
+    'tags': ['Boy/Girl', 'On Bed', 'Blowjob', 'Bath', 'Kitchen', 'Solo', 'Against Wall', 'Panty Mail', 'Cunnilingus',
+      'Standing', 'Elbow Birthmark', 'Feet', 'Vaginal', 'Missionary', 'Cowgirl', 'Neck Tattoo', 'Anilingus',
+      'Cuddling', 'Spooning', 'Fingering', 'Doggy', 'Finger in Butt', '69'],
     'release': moment('2018-07-23')
   },
   {
@@ -5790,7 +5794,7 @@ export let data: Scene[] = [
     'title': 'Axel Brown\'s Busted - Scene 4',
     'altTitles': ['Great Big Boobies - Scene 3'],
     'playtime': '0:27:00',
-    'partners': [],
+    'partners': ['Tommy Gunn'],
     'links': ['https://angelawhite.empirestores.co/1915452/axel-brauns-busted-porn-videos.html',
       'https://angelawhite.empirestores.co/1964138/great-big-boobies-wicked-4-hours-porn-videos.html'],
     'tags': ['On Chair'],
