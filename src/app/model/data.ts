@@ -3586,6 +3586,17 @@ export let data: Scene[] = [
   {
     'producer': 'femdomempire.com',
     'series': '',
+    'title': 'Cock Cum Guzzler ',
+    'altTitles': [],
+    'playtime': '0:15:00',
+    'partners': [],
+    'links': [],
+    'tags': [],
+    'release': moment('2019-01-18')
+  },
+  {
+    'producer': 'femdomempire.com',
+    'series': '',
     'title': 'Ass to Mouth',
     'altTitles': [],
     'playtime': '0:20:14',
@@ -5169,7 +5180,8 @@ export let data: Scene[] = [
     'playtime': '1:00:09',
     'partners': ['Donnie Rock', 'Jane Wilde'],
     'links': ['https://angelawhite.empirestores.co/2593586/future-darkly-vol-2-dont-panic-smart-house-of-horrors-porn-movies.html'],
-    'tags': ['Boy/Girl/Girl', 'Acting'],
+    'tags': ['Boy/Girl/Girl', 'Acting', 'Voyeur', 'Hurt Knee', 'Instructions', 'Blowjob', 'Deepthroat', 'Cunnilingus',
+      'Fingering', 'On Couch', 'Missionary', 'Feet', 'Cowgirl', 'Anilingus', 'Elbow Birthmark', 'Pussy Stack', 'Switching'],
     'release': moment('2018-09-25')
   },
   {
