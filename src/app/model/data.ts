@@ -4930,7 +4930,8 @@ export let data: Scene[] = [
     'altTitles': ['Boss Lady 2 - Scene 1'],
     'playtime': '0:34:01',
     'partners': ['Ramon Nomar'],
-    'links': ['https://angelawhite.empirestores.co/2526414/boss-lady-ii-porn-movies.html'],
+    'links': ['https://angelawhite.empirestores.co/2526414/boss-lady-ii-porn-movies.html',
+      'https://angelawhite.empirestores.co/2602219/award-goes-to-the-porn-movies.html'],
     'tags': ['Boy/Girl', 'On Bed', 'Titty Fuck', 'Blowjob', 'Deepthroat', 'Vaginal', 'Elbow Birthmark', 'Missionary', 'Side Fuck',
       'Cunnilingus', 'Anilingus', 'Birthmark left inner thigh', 'Neck Tattoo', 'Reverse Cowgirl', 'Cowgirl', 'Feet'],
     'release': moment('2018-08-13')
