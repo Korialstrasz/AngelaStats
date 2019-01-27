@@ -438,7 +438,7 @@ export let data: Scene[] = [
     'playtime': '0:27:38',
     'partners': ['Siri'],
     'links': [],
-    'tags': ['Girl/Girl', 'Blonde']
+    'tags': ['Girl/Girl', 'Blond']
   },
   {
     'producer': 'angelawhite.com',
@@ -519,7 +519,7 @@ export let data: Scene[] = [
     'playtime': '0:36:30',
     'partners': ['Bree Daniels'],
     'links': ['https://angelawhite.empirestores.co/1729348/angela-loves-women-porn-movies.html'],
-    'tags': ['Girl/Girl', 'Blonde']
+    'tags': ['Girl/Girl', 'AVN Best All-Girl Movie 2016', 'Blond']
   },
   {
     'producer': 'angelawhite.com',
@@ -560,7 +560,7 @@ export let data: Scene[] = [
     'playtime': '0:21:02',
     'partners': ['Dani Daniels'],
     'links': ['https://angelawhite.empirestores.co/1729348/angela-loves-women-porn-movies.html'],
-    'tags': ['Girl/Girl', 'Outside', 'Water']
+    'tags': ['Girl/Girl', 'AVN Best All-Girl Movie 2016', 'Outside', 'Water']
   },
   {
     'producer': 'angelawhite.com',
@@ -601,7 +601,7 @@ export let data: Scene[] = [
     'playtime': '0:31:45',
     'partners': ['Alexis Texas'],
     'links': [],
-    'tags': ['Girl/Girl', 'Dildo', 'On Bed', 'Blonde']
+    'tags': ['Girl/Girl', 'Dildo', 'On Bed', 'Blond']
   },
   {
     'producer': 'angelawhite.com',
@@ -611,7 +611,7 @@ export let data: Scene[] = [
     'playtime': '0:20:59',
     'partners': [],
     'links': ['https://angelawhite.empirestores.co/1786446/angela-loves-gonzo-porn-movies.html'],
-    'tags': ['Solo', 'Ice Cream']
+    'tags': ['Solo', 'Ice Cream', 'AVN Best Gonzo Movie 2017']
   },
   {
     'producer': 'angelawhite.com',
@@ -753,7 +753,7 @@ export let data: Scene[] = [
     'partners': ['Ramon Nomar'],
     'links': ['https://angelawhite.empirestores.co/1786446/angela-loves-gonzo-porn-movies.html'],
     'tags': ['POV', 'Candid', 'Bath', 'Standing', 'Boy/Girl', 'Vaginal', 'On Bed', 'Doggy', 'Cowgirl', 'Titty Fuck',
-      'Missionary', 'Finger in Butt', 'Side Fuck', 'Choking', 'Clothed', 'Against Wall']
+      'Missionary', 'Finger in Butt', 'Side Fuck', 'Choking', 'Clothed', 'Against Wall', 'AVN Best Gonzo Movie 2017']
   },
   {
     'producer': 'angelawhite.com',
@@ -794,7 +794,7 @@ export let data: Scene[] = [
     'partners': ['Mick Blue', 'Anikka Albright'],
     'links': ['https://angelawhite.empirestores.co/1786446/angela-loves-gonzo-porn-movies.html'],
     'tags': ['POV', 'Candid', 'Boy/Girl/Girl', 'Girl/Girl', 'Outside', 'Public', 'Pool', 'On Bed', 'Blowjob', 'Deepthroat', 'Fingering',
-      'Cunnilingus', 'Anilingus']
+      'Cunnilingus', 'Anilingus', 'AVN Best Gonzo Movie 2017']
   },
   {
     'producer': 'angelawhite.com',
@@ -804,7 +804,7 @@ export let data: Scene[] = [
     'playtime': '0:33:17',
     'partners': ['Gracie Glam'],
     'links': ['https://angelawhite.empirestores.co/1729348/angela-loves-women-porn-movies.html'],
-    'tags': []
+    'tags': ['Girl/Girl', 'AVN Best All-Girl Movie 2016']
   },
   {
     'producer': 'angelawhite.com',
@@ -834,7 +834,7 @@ export let data: Scene[] = [
     'playtime': '1:02:03',
     'partners': ['Toni Ribas'],
     'links': ['https://angelawhite.empirestores.co/1786446/angela-loves-gonzo-porn-movies.html'],
-    'tags': []
+    'tags': ['Boy/Girl', 'AVN Best Gonzo Movie 2017']
   },
   {
     'producer': 'angelawhite.com',
@@ -884,7 +884,7 @@ export let data: Scene[] = [
     'playtime': '0:27:26',
     'partners': ['Celeste Star'],
     'links': ['https://angelawhite.empirestores.co/1729348/angela-loves-women-porn-movies.html'],
-    'tags': []
+    'tags': ['Girl/Girl', 'AVN Best All-Girl Movie 2016']
   },
   {
     'producer': 'angelawhite.com',
@@ -1294,7 +1294,7 @@ export let data: Scene[] = [
     'playtime': '1:25:13',
     'partners': ['Manuel Ferrara'],
     'links': ['https://angelawhite.empirestores.co/1786446/angela-loves-gonzo-porn-movies.html'],
-    'tags': []
+    'tags': ['Boy/Girl', 'AVN Best Gonzo Movie 2017']
   },
   {
     'producer': 'angelawhite.com',
@@ -1324,7 +1324,7 @@ export let data: Scene[] = [
     'playtime': '0:32:03',
     'partners': ['Alexis Texas', 'Anikka Albrite'],
     'links': ['https://angelawhite.empirestores.co/1752871/angela-vol-2-porn-movies.html'],
-    'tags': ['Girl/Girl/Girl', 'Threesome', 'Blonde', 'Tribbing', 'AVN Best All-Girl Group Sex Scene 2016']
+    'tags': ['Girl/Girl/Girl', 'Threesome', 'Blond', 'Tribbing', 'AVN Best All-Girl Group Sex Scene 2016']
   },
   {
     'producer': 'angelawhite.com',
@@ -1344,7 +1344,7 @@ export let data: Scene[] = [
     'playtime': '0:33:39',
     'partners': ['Axel Aces', 'Chad Alva', 'Damon Dice', 'Marco Banderas', 'Michael Vegas', 'Ricky Johnson', 'Robby Echo'],
     'links': ['https://angelawhite.empirestores.co/1752871/angela-vol-2-porn-movies.html'],
-    'tags': ['Boy/Girl', 'Orgy', 'Blowjob', 'Deepthroat', 'Facial', 'AVN Best Oral Sex Scene 2016']
+    'tags': ['Boy/Girl', 'Gangbang', 'Blowjob', 'Deepthroat', 'Facial', 'AVN Best Oral Sex Scene 2016']
   },
   {
     'producer': 'angelawhite.com',
@@ -1354,7 +1354,7 @@ export let data: Scene[] = [
     'playtime': '0:33:04',
     'partners': ['Manuel Ferrara', 'Valentina Nappi'],
     'links': ['https://angelawhite.empirestores.co/1926055/angela-loves-threesomes-2-porn-movies.html'],
-    'tags': []
+    'tags': ['Boy/Girl/Girl']
   },
   {
     'producer': 'angelawhite.com',
@@ -1394,7 +1394,7 @@ export let data: Scene[] = [
     'playtime': '0:53:42',
     'partners': ['Erik Everhard', 'James Deen', 'John Strong', 'Mick Blue', 'Mr Pete'],
     'links': ['https://angelawhite.empirestores.co/1752871/angela-vol-2-porn-movies.html'],
-    'tags': ['Boy/Girl', 'Orgy', 'Standing', 'Blowjob', 'Vaginal', 'Anal', 'Double Penetration', 'DP',
+    'tags': ['Boy/Girl', 'Gangbang', 'Standing', 'Blowjob', 'Vaginal', 'Anal', 'Double Penetration', 'DP',
       'Triple Penetration', 'TP', 'Double Vag', 'DV', 'Double Anal', 'DA', 'Off the Ground']
   },
   {
@@ -1525,7 +1525,7 @@ export let data: Scene[] = [
     'playtime': '0:35:22',
     'partners': ['Lexi Belle'],
     'links': ['https://angelawhite.empirestores.co/1827227/angela-loves-women-2-porn-movies.html'],
-    'tags': ['Girl/Girl', 'Blonde', 'Tribbing']
+    'tags': ['Girl/Girl', 'Blond', 'Tribbing']
   },
   {
     'producer': 'angelawhite.com',
@@ -1585,7 +1585,7 @@ export let data: Scene[] = [
     'playtime': '0:29:40',
     'partners': ['Jenna Sativa'],
     'links': ['https://angelawhite.empirestores.co/1898765/angela-loves-women-3-porn-movies.html'],
-    'tags': []
+    'tags': ['Girl/Girl', 'AVN Best All-Girl Movie 2018']
   },
   {
     'producer': 'angelawhite.com',
@@ -1635,7 +1635,7 @@ export let data: Scene[] = [
     'playtime': '0:31:56',
     'partners': ['Abella Danger'],
     'links': ['https://angelawhite.empirestores.co/1898765/angela-loves-women-3-porn-movies.html'],
-    'tags': []
+    'tags': ['Girl/Girl', 'AVN Best All-Girl Movie 2018']
   },
   {
     'producer': 'angelawhite.com',
@@ -1645,7 +1645,7 @@ export let data: Scene[] = [
     'playtime': '0:33:27',
     'partners': ['Valentina Nappi'],
     'links': ['https://angelawhite.empirestores.co/1898765/angela-loves-women-3-porn-movies.html'],
-    'tags': []
+    'tags': ['Girl/Girl', 'AVN Best All-Girl Movie 2018']
   },
   {
     'producer': 'angelawhite.com',
@@ -1665,7 +1665,7 @@ export let data: Scene[] = [
     'playtime': '0:34:57',
     'partners': ['Karlee Grey'],
     'links': ['https://angelawhite.empirestores.co/1898765/angela-loves-women-3-porn-movies.html'],
-    'tags': []
+    'tags': ['Girl/Girl', 'AVN Best All-Girl Movie 2018']
   },
   {
     'producer': 'angelawhite.com',
@@ -1685,7 +1685,8 @@ export let data: Scene[] = [
     'playtime': '0:29:36',
     'partners': ['Mandingo'],
     'links': ['https://angelawhite.empirestores.co/1928357/angela-vol-3-porn-movies.html'],
-    'tags': []
+    'tags': ['Boy/Girl', 'Interracial', 'Anal', 'AVN Best Star Showcase 2018'],
+    'release': moment('2018-11-02')
   },
   {
     'producer': 'angelawhite.com',
@@ -1772,7 +1773,7 @@ export let data: Scene[] = [
     'playtime': '0:39:20',
     'partners': ['Mick Blue', 'Markus Dupree'],
     'links': ['https://angelawhite.empirestores.co/1928357/angela-vol-3-porn-movies.html'],
-    'tags': ['Boy/Boy/Girl', 'AVN Best Double Penetration Sex Scene 2018'],
+    'tags': ['Boy/Boy/Girl', 'AVN Best Double Penetration Sex Scene 2018', 'AVN Best Star Showcase 2018'],
     'release': moment('2017-09-21')
   },
   {
@@ -1783,7 +1784,7 @@ export let data: Scene[] = [
     'playtime': '1:10:24',
     'partners': ['Manuel Ferrara'],
     'links': ['https://angelawhite.empirestores.co/1928357/angela-vol-3-porn-movies.html'],
-    'tags': ['Boy/Girl', 'On Couch', 'Creampie', 'Vaginal', 'Cuddling', 'AVN Best Boy/Girl Sex Scene 2018'],
+    'tags': ['Boy/Girl', 'On Couch', 'Creampie', 'Vaginal', 'Cuddling', 'AVN Best Boy/Girl Sex Scene 2018', 'AVN Best Star Showcase 2018'],
     'release': moment('2017-09-21')
   },
   {
@@ -1794,7 +1795,7 @@ export let data: Scene[] = [
     'playtime': '0:38:33',
     'partners': ['Prince Yahshua', 'Rico Strong', 'Isiah Maxwell', 'Jon Jon', 'Rob Piper'],
     'links': ['https://angelawhite.empirestores.co/1928357/angela-vol-3-porn-movies.html'],
-    'tags': [],
+    'tags': ['Gangbang', 'Interracial', 'On Couch', 'AVN Best Star Showcase 2018'],
     'release': moment('2017-09-21')
   },
   {
@@ -1805,7 +1806,7 @@ export let data: Scene[] = [
     'playtime': '0:59:32',
     'partners': ['Mick Blue', 'Xander Corvus', 'Toni Ribas', 'John Strong', 'Markus Dupree'],
     'links': ['https://angelawhite.empirestores.co/1928357/angela-vol-3-porn-movies.html'],
-    'tags': ['AVN Best Group Sex Scene 2018'],
+    'tags': ['AVN Best Group Sex Scene 2018', 'AVN Best Star Showcase 2018'],
     'release': moment('2017-09-21')
   },
   {
@@ -1816,7 +1817,7 @@ export let data: Scene[] = [
     'playtime': '0:38:15',
     'partners': ['Aidra Fox'],
     'links': ['https://angelawhite.empirestores.co/2521937/angela-loves-women-4-porn-movies.html'],
-    'tags': [],
+    'tags': ['Girl/Girl', 'AVN Best All-Girl Movie 2019'],
     'release': moment('2018-07-27')
   },
   {
@@ -1827,7 +1828,7 @@ export let data: Scene[] = [
     'playtime': '0:38:15',
     'partners': ['Karlee Grey'],
     'links': ['https://angelawhite.empirestores.co/2521937/angela-loves-women-4-porn-movies.html'],
-    'tags': [],
+    'tags': ['Girl/Girl', 'AVN Best All-Girl Movie 2019'],
     'release': moment('2018-07-27')
   },
   {
@@ -1838,7 +1839,7 @@ export let data: Scene[] = [
     'playtime': '0:38:15',
     'partners': ['Riley Reid'],
     'links': ['https://angelawhite.empirestores.co/2521937/angela-loves-women-4-porn-movies.html'],
-    'tags': [],
+    'tags': ['Girl/Girl', 'AVN Best All-Girl Movie 2019'],
     'release': moment('2018-07-27')
   },
   {
@@ -1849,7 +1850,7 @@ export let data: Scene[] = [
     'playtime': '0:38:15',
     'partners': ['Ivy Wolfe'],
     'links': ['https://angelawhite.empirestores.co/2521937/angela-loves-women-4-porn-movies.html'],
-    'tags': [],
+    'tags': ['Girl/Girl', 'AVN Best All-Girl Movie 2019'],
     'release': moment('2018-07-27')
   },
   {
@@ -1880,7 +1881,7 @@ export let data: Scene[] = [
     'playtime': '0:59:24',
     'partners': ['Phoenix Marie'],
     'links': [],
-    'tags': ['Feet', 'Submission', 'Domination', 'Girl/Girl', 'Blonde', 'Live Stream']
+    'tags': ['Feet', 'Submission', 'Domination', 'Girl/Girl', 'Blond', 'Live Stream']
   },
   {
     'producer': 'angelawhite.com',
@@ -3228,10 +3229,10 @@ export let data: Scene[] = [
     'title': 'Angela White - Blowbang',
     'altTitles': ['Angela by Darkko - Scene 2'],
     'playtime': '0:32:27',
-    'partners': ['Steve Holmes', 'Robby Echo', 'Jason Moody', 'Eric John', 'Michael Vegas', 'Anthony Gaultier',
+    'partners': ['Steve Holmes', 'Eddie Jaye', 'Filthy Rich', 'Robby Echo', 'Jason Moody', 'Eric John', 'Michael Vegas', 'Anthony Gaultier',
       'Filthy Rich', 'Eddie Jaye'],
     'links': ['https://angelawhite.empirestores.co/2592365/angela-by-darkko-porn-videos.html'],
-    'tags': ['On Couch', 'Boy/Girl', 'Orgy', 'Blowjob', 'Deepthroat', 'Facial', 'Feet', 'AVN Best Oral Sex Scene 2019'],
+    'tags': ['On Couch', 'Boy/Girl', 'Gangbang', 'Blowjob', 'Deepthroat', 'Facial', 'Feet', 'AVN Best Oral Sex Scene 2019'],
     'release': moment('2018-11-24')
   },
   {
@@ -3253,7 +3254,7 @@ export let data: Scene[] = [
     'playtime': '0:48:22',
     'partners': ['John Strong', 'Markus Dupree', 'Steve Holmes', 'Mick Blue', 'Mr. Pete'],
     'links': ['https://angelawhite.empirestores.co/2592365/angela-by-darkko-porn-videos.html'],
-    'tags': ['Elbow Birthmark', 'Birthmark left inner thigh', 'Boy/Girl', 'Orgy', 'Blowjob', 'Vaginal', 'Anal',
+    'tags': ['Elbow Birthmark', 'Birthmark left inner thigh', 'Boy/Girl', 'Gangbang', 'Blowjob', 'Vaginal', 'Anal',
       'Double Penetration', 'DP', 'Triple Penetration', 'TP', 'Double Vag', 'DV', 'Double Anal', 'DA'],
     'release': moment(' 2018-12-01')
   },
@@ -5221,7 +5222,7 @@ export let data: Scene[] = [
     'partners': ['Tommy Pistol', 'Karla Lane'],
     'links': [],
     'tags': ['Acting', 'Boy/Girl', 'Girl/Girl', 'Ice Cream', 'Kitchen', 'Feeding', 'Vaginal', 'Blowjob', 'Deepthroat',
-      'AVN Best Actress - Featurette 2019 (Angela White)'],
+      'AVN Best Actor - Featurette 2019 (Tommy Pistol)', 'AVN Best Featurette 2019'],
     'release': moment('2018-04-20')
   },
   {
@@ -5412,7 +5413,7 @@ export let data: Scene[] = [
   {
     'producer': 'scoreland.com',
     'series': '',
-    'title': 'Angela\'s Little Orgy',
+    'title': 'Angela\'s Little Gangbang',
     'altTitles': ['Angela White Finally Fucks - Scene 4'],
     'playtime': '0:28:48',
     'partners': [],
@@ -5540,12 +5541,12 @@ export let data: Scene[] = [
   {
     'producer': 'trenchcoatx.com',
     'series': 'Games We Play',
-    'title': 'Whos Becky',
+    'title': 'Who is Becky',
     'altTitles': ['Games We Play - Scene 2'],
     'playtime': '0:32:41',
     'partners': ['Markus Dupree'],
     'links': ['https://angelawhite.empirestores.co/1964831/games-we-play-porn-movies.html'],
-    'tags': [],
+    'tags': ['Boy/Girl', 'On Bed', 'Acting', 'AVN Best Actress - Featurette 2019 (Angela White)'],
     'release': moment('2018-02-20')
   },
   {
@@ -5701,7 +5702,7 @@ export let data: Scene[] = [
     'partners': ['Tori Black', 'Mia Malkova', 'Vicki Chase', 'Kira Noir', 'Ana Foxxx', 'Abella Danger', 'Jessa Rhodes',
       'Ricky Johnson', 'Mick Blue', 'Bambino', 'Ryan Driller', 'Alex Jones'],
     'links': ['https://angelawhite.empirestores.co/2549033/after-dark-porn-movies.html'],
-    'tags': ['Bruise left outer Hip', 'Orgy', 'AVN Best Drama 2019'],
+    'tags': ['Bruise left outer Hip', 'Gangbang', 'AVN Best Drama 2019', 'AVN Best Group Sex Scene 2019'],
     'release': moment('2018-09-27')
   },
   {
@@ -5849,7 +5850,7 @@ export let data: Scene[] = [
     'playtime': '0:28:23',
     'partners': ['Jessica Drake', 'Mercedes Carrera'],
     'links': ['https://angelawhite.empirestores.co/2549017/carnal-porn-videos.html',
-      'https://angelawhite.empirestores.co/2595873/perfect-orgy-the-wicked-4-hours-porn-movies.html'],
+      'https://angelawhite.empirestores.co/2595873/perfect-Gangbang-the-wicked-4-hours-porn-movies.html'],
     'tags': [],
     'release': moment('2018-08-06')
   },
