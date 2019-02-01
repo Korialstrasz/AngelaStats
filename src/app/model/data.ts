@@ -1535,7 +1535,8 @@ export let data: Scene[] = [
     'playtime': '0:26:55',
     'partners': ['Rico Strong'],
     'links': ['https://angelawhite.empirestores.co/1926052/angela-loves-anal-porn-movies.html'],
-    'tags': []
+    'tags': ['Boy/Girl', 'Interracial', 'Neck Tattoo', 'On Couch', 'Titty Fuck', 'Blowjob', 'Deepthroat', 'Vaginal',
+      'Cowgirl', 'Reverse Cowgirl', 'Spooning', 'Doggy', 'Anal', 'Ass to Mouth', 'Fingering']
   },
   {
     'producer': 'angelawhite.com',
@@ -3276,7 +3277,8 @@ export let data: Scene[] = [
     'altTitles': ['Buttman Anal & Oral Antics - Scene 2'],
     'playtime': '1:59:19',
     'partners': ['John Stegliano'],
-    'links': ['https://angelawhite.empirestores.co/1916211/buttman-anal-oral-antics-porn-videos.html'],
+    'links': ['https://angelawhite.empirestores.co/1916211/buttman-anal-oral-antics-porn-videos.html',
+      'https://angelawhite.empirestores.co/2598622/buttmans-jerkoff-file-porn-movies.html'],
     'tags': [],
     'release': moment('2017-06-10')
   },
@@ -3582,6 +3584,17 @@ export let data: Scene[] = [
     'title': 'Angela\'s Ass Licker',
     'altTitles': [],
     'playtime': '0:13:26',
+    'partners': [],
+    'links': [],
+    'tags': [],
+    'release': moment('2017-04-28')
+  },
+  {
+    'producer': 'femdomempire.com',
+    'series': '',
+    'title': 'Adicted to Angela',
+    'altTitles': [],
+    'playtime': '0:08:39',
     'partners': [],
     'links': [],
     'tags': [],
@@ -3991,7 +4004,8 @@ export let data: Scene[] = [
     'playtime': '00:45:15',
     'partners': ['Abella Danger', 'Krissy Lynn'],
     'links': [],
-    'tags': ['Girl/Girl', 'Acting', 'On Desk'],
+    'tags': ['Girl/Girl/Girl', 'Acting', 'On Desk', 'Anal', 'Cunnilingus', 'Elbow Birthmark', 'Feet',
+      'Birthmark left inner thigh', 'Fingering', 'Face Sitting', 'Anilingus', 'Dildo', 'Anal', 'Squirt', 'Smothering', 'Vaginal'],
     'release': moment('2019-01-27')
   },
   {
@@ -4658,7 +4672,10 @@ export let data: Scene[] = [
     'playtime': '0:46:16',
     'partners': ['Kissa Sins', 'Markus Dupree'],
     'links': ['https://angelawhite.empirestores.co/2524257/corruption-of-kissa-sins-the-porn-videos.html'],
-    'tags': ['AVN Best Threesome Girl/Girl/Boy 2019'],
+    'tags': ['AVN Best Threesome Girl/Girl/Boy 2019', 'Boy/Girl/Girl', 'On Couch', 'Girl/Girl', 'Tribbing',
+      'Cunnilingus', 'Neck Tattoo', 'Anilingus', 'Fingering', 'Squirt', 'Birthmark left inner thigh', 'Oil',
+      'Choking', 'Spanking', 'Anal', 'Blowjob', 'Ass to Mouth', 'Titty Fuck', 'Missionary', 'Reverse Cowgirl', 'Cowgirl',
+      'Squirt Foutain', 'Mouth to Mouth'],
     'release': moment('2018-07-30')
   },
   {
@@ -4979,8 +4996,8 @@ export let data: Scene[] = [
   {
     'producer': 'newsensations.com',
     'series': '',
-    'title': 'In The Room : I Like To Watch Volume 2 - Scene 1',
-    'altTitles': [],
+    'title': 'Up Inside Angela\'s Tightest Hole',
+    'altTitles': ['In The Room : I Like To Watch Volume 2 - Scene 1'],
     'playtime': '0:38:08',
     'partners': ['Ramon Nomar'],
     'links': ['https://angelawhite.empirestores.co/2592889/in-the-room-i-like-to-watch-vol-2-porn-movies.html'],
@@ -5331,8 +5348,8 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:31:45',
     'partners': ['Ramon Nomar'],
-    'links': [],
-    'tags': [],
+    'links': ['https://angelawhite.empirestores.co/2608018/rk-prime-12-porn-movies.html'],
+    'tags': ['Boy/Girl'],
     'release': moment('2017-07-17')
   },
   {
