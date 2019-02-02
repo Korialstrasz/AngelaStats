@@ -396,7 +396,8 @@ export let data: Scene[] = [
     'playtime': '0:32:16',
     'partners': ['Sophie Dee'],
     'links': [],
-    'tags': ['Strap-on', 'Girl/Girl', 'Outside']
+    'tags': ['Strap-on', 'Girl/Girl', 'Outside'],
+    'release': moment('2013-10-09')
   },
   {
     'producer': 'angelawhite.com',
@@ -406,7 +407,8 @@ export let data: Scene[] = [
     'playtime': '0:11:26',
     'partners': [],
     'links': [],
-    'tags': ['Solo', 'Cage']
+    'tags': ['Solo', 'Cage'],
+    'release': moment('2013-10-16')
   },
   {
     'producer': 'angelawhite.com',
@@ -417,7 +419,8 @@ export let data: Scene[] = [
     'partners': ['Keni Styles'],
     'links': [],
     'tags': ['Boy/Girl', 'Facial', 'Vaginal', 'Doggy', 'Cowgirl', 'Reverse Cowgirl', 'Square Buttons', 'Cunnilingus',
-      'Blowjob', '69', 'Deepthroat', 'Missionary', 'Finger in Butt', 'On Couch']
+      'Blowjob', '69', 'Deepthroat', 'Missionary', 'Finger in Butt', 'On Couch'],
+    'release': moment('2013-10-23')
   },
   {
     'producer': 'angelawhite.com',
@@ -428,7 +431,8 @@ export let data: Scene[] = [
     'partners': ['Booty Call'],
     'links': [],
     'tags': ['Boy/Girl', 'POV', 'Candid', 'Facial', 'Multiple Orgasms', 'Doggy', 'Blowjob', 'Deepthroat', 'Cowgirl',
-      'Reverse Cowgirl', 'Titty Fuck', 'On Bed']
+      'Reverse Cowgirl', 'Titty Fuck', 'On Bed'],
+    'release': moment('2013-10-30')
   },
   {
     'producer': 'angelawhite.com',
@@ -438,7 +442,8 @@ export let data: Scene[] = [
     'playtime': '0:27:38',
     'partners': ['Siri'],
     'links': [],
-    'tags': ['Girl/Girl', 'Blond']
+    'tags': ['Girl/Girl', 'Blond'],
+    'release': moment('2013-11-06')
   },
   {
     'producer': 'angelawhite.com',
@@ -448,7 +453,8 @@ export let data: Scene[] = [
     'playtime': '0:05:20',
     'partners': [],
     'links': [],
-    'tags': ['Solo', 'Water', 'Outside']
+    'tags': ['Solo', 'Water', 'Outside'],
+    'release': moment('2013-11-13')
   },
   {
     'producer': 'angelawhite.com',
@@ -459,7 +465,8 @@ export let data: Scene[] = [
     'partners': ['Seth Gamble'],
     'links': [],
     'tags': ['Boy/Girl', 'Outside', 'Cowgirl', 'Reverse Cowgirl', 'Doggy', 'Facial', 'Blowjob', 'Vaginal',
-      'Missionary', 'On Couch']
+      'Missionary', 'On Couch'],
+    'release': moment('2013-11-20')
   },
   {
     'producer': 'angelawhite.com',
@@ -469,7 +476,8 @@ export let data: Scene[] = [
     'playtime': '0:13:34',
     'partners': [],
     'links': [],
-    'tags': ['BTS']
+    'tags': ['BTS'],
+    'release': moment('2013-11-27')
   },
   {
     'producer': 'angelawhite.com',
@@ -479,7 +487,8 @@ export let data: Scene[] = [
     'playtime': '0:23:17',
     'partners': ['Jayden James'],
     'links': [],
-    'tags': ['Girl/Girl', 'Anal', 'On Couch']
+    'tags': ['Girl/Girl', 'Anal', 'On Couch'],
+    'release': moment('2013-12-04')
   },
   {
     'producer': 'angelawhite.com',
@@ -489,7 +498,8 @@ export let data: Scene[] = [
     'playtime': '0:11:40',
     'partners': [],
     'links': [],
-    'tags': ['Solo', 'Dildo', 'Vibrator', 'On Couch']
+    'tags': ['Solo', 'Dildo', 'Vibrator', 'On Couch'],
+    'release': moment('2013-12-11')
   },
   {
     'producer': 'angelawhite.com',
@@ -499,7 +509,8 @@ export let data: Scene[] = [
     'playtime': '0:34:00',
     'partners': ['Rocco Reed'],
     'links': [],
-    'tags': ['Boy/Girl', 'Vaginal', 'Standing', 'On Chair', 'Cowgirl', 'Reverse Cowgirl', 'Blowjob']
+    'tags': ['Boy/Girl', 'Vaginal', 'Standing', 'On Chair', 'Cowgirl', 'Reverse Cowgirl', 'Blowjob'],
+    'release': moment('2013-12-18')
   },
   {
     'producer': 'angelawhite.com',
@@ -509,7 +520,8 @@ export let data: Scene[] = [
     'playtime': '0:24:23',
     'partners': ['Steven'],
     'links': [],
-    'tags': ['Boy/Girl', 'Cowgirl', 'Blowjob', 'Deepthroat', 'Outside', 'Public', 'Dog']
+    'tags': ['Boy/Girl', 'Cowgirl', 'Blowjob', 'Deepthroat', 'Outside', 'Public', 'Dog'],
+    'release': moment('2013-12-25')
   },
   {
     'producer': 'angelawhite.com',
@@ -519,7 +531,8 @@ export let data: Scene[] = [
     'playtime': '0:36:30',
     'partners': ['Bree Daniels'],
     'links': ['https://angelawhite.empirestores.co/1729348/angela-loves-women-porn-movies.html'],
-    'tags': ['Girl/Girl', 'AVN Best All-Girl Movie 2016', 'Blond']
+    'tags': ['Girl/Girl', 'AVN Best All-Girl Movie 2016', 'Blond'],
+    'release': moment('2014-01-01')
   },
   {
     'producer': 'angelawhite.com',
@@ -529,7 +542,8 @@ export let data: Scene[] = [
     'playtime': '0:18:47',
     'partners': [],
     'links': [],
-    'tags': ['Solo', 'On Bed']
+    'tags': ['Solo', 'On Bed'],
+    'release': moment('2014-01-08')
   },
   {
     'producer': 'angelawhite.com',
@@ -540,7 +554,8 @@ export let data: Scene[] = [
     'partners': ['Ramon Nomar'],
     'links': ['https://angelawhite.empirestores.co/1749233/angela-loves-men-porn-movies.html'],
     'tags': ['Boy/Girl', 'Squirt', 'Standing', 'Vaginal', 'Doggy', 'Cowgirl', 'Reverse Cowgirl', 'Facial',
-      'Blowjob', 'Stockings', 'On Stairs']
+      'Blowjob', 'Stockings', 'On Stairs'],
+    'release': moment('2014-01-15')
   },
   {
     'producer': 'angelawhite.com',
@@ -550,7 +565,8 @@ export let data: Scene[] = [
     'playtime': '0:12:28',
     'partners': [],
     'links': [],
-    'tags': ['BTS']
+    'tags': ['BTS'],
+    'release': moment('2014-01-22')
   },
   {
     'producer': 'angelawhite.com',
@@ -560,7 +576,8 @@ export let data: Scene[] = [
     'playtime': '0:21:02',
     'partners': ['Dani Daniels'],
     'links': ['https://angelawhite.empirestores.co/1729348/angela-loves-women-porn-movies.html'],
-    'tags': ['Girl/Girl', 'AVN Best All-Girl Movie 2016', 'Outside', 'Water']
+    'tags': ['Girl/Girl', 'AVN Best All-Girl Movie 2016', 'Outside', 'Water'],
+    'release': moment('2014-01-29')
   },
   {
     'producer': 'angelawhite.com',
@@ -570,7 +587,8 @@ export let data: Scene[] = [
     'playtime': '0:23:36',
     'partners': [],
     'links': [],
-    'tags': ['Solo', 'Water', 'Bath', 'Jewellery']
+    'tags': ['Solo', 'Water', 'Bath', 'Jewellery'],
+    'release': moment('2014-02-05')
   },
   {
     'producer': 'angelawhite.com',
@@ -580,7 +598,8 @@ export let data: Scene[] = [
     'playtime': '0:33:01',
     'partners': ['James Deen'],
     'links': [],
-    'tags': ['Boy/Girl', 'On Bed', 'Vaginal', 'Blowjob', 'Side Fuck']
+    'tags': ['Boy/Girl', 'On Bed', 'Vaginal', 'Blowjob', 'Side Fuck'],
+    'release': moment('2014-02-12')
   },
   {
     'producer': 'angelawhite.com',
@@ -591,7 +610,8 @@ export let data: Scene[] = [
     'partners': ['Manuel Ferrara'],
     'links': [],
     'tags': ['Boy/Girl', 'POV', 'Candid', 'On Couch', 'On Bed', 'Choking', 'Vaginal', 'Missionary', 'Cowgirl',
-      'Reverse Cowgirl', 'Blowjob']
+      'Reverse Cowgirl', 'Blowjob'],
+    'release': moment('2014-02-19')
   },
   {
     'producer': 'angelawhite.com',
@@ -601,7 +621,8 @@ export let data: Scene[] = [
     'playtime': '0:31:45',
     'partners': ['Alexis Texas'],
     'links': [],
-    'tags': ['Girl/Girl', 'Dildo', 'On Bed', 'Blond']
+    'tags': ['Girl/Girl', 'Dildo', 'On Bed', 'Blond'],
+    'release': moment('2014-02-26')
   },
   {
     'producer': 'angelawhite.com',
@@ -611,7 +632,8 @@ export let data: Scene[] = [
     'playtime': '0:20:59',
     'partners': [],
     'links': ['https://angelawhite.empirestores.co/1786446/angela-loves-gonzo-porn-movies.html'],
-    'tags': ['Solo', 'Ice Cream', 'AVN Best Gonzo Movie 2017']
+    'tags': ['Solo', 'Ice Cream', 'AVN Best Gonzo Movie 2017'],
+    'release': moment('2014-03-05')
   },
   {
     'producer': 'angelawhite.com',
@@ -621,7 +643,8 @@ export let data: Scene[] = [
     'playtime': '0:24:09',
     'partners': ['Voodoo'],
     'links': [],
-    'tags': []
+    'tags': ['Boy/Girl'],
+    'release': moment('2014-03-12')
   },
   {
     'producer': 'angelawhite.com',
@@ -631,7 +654,8 @@ export let data: Scene[] = [
     'playtime': '0:17:09',
     'partners': ['Steven'],
     'links': [],
-    'tags': ['Public', 'POV', 'Candid', 'Blowjob', 'On Chair', 'Reverse Cowgirl', 'Cum on Tits']
+    'tags': ['Boy/Girl', 'Public', 'POV', 'Candid', 'Blowjob', 'On Chair', 'Reverse Cowgirl', 'Cum on Tits'],
+    'release': moment('2014-03-19')
   },
   {
     'producer': 'angelawhite.com',
@@ -641,7 +665,8 @@ export let data: Scene[] = [
     'playtime': '0:27:10',
     'partners': ['Phoenix Marie'],
     'links': [],
-    'tags': []
+    'tags': ['Girl/Girl', 'Kitchen', 'Milkshake'],
+    'release': moment('2014-03-26')
   },
   {
     'producer': 'angelawhite.com',
@@ -651,7 +676,8 @@ export let data: Scene[] = [
     'playtime': '0:13:37',
     'partners': [],
     'links': [],
-    'tags': ['Solo', 'On Bed']
+    'tags': ['Solo', 'On Bed'],
+    'release': moment('2014-04-02')
   },
   {
     'producer': 'angelawhite.com',
@@ -661,7 +687,8 @@ export let data: Scene[] = [
     'playtime': '0:26:32',
     'partners': ['Manuel Ferrara'],
     'links': ['https://angelawhite.empirestores.co/1866301/angela-loves-men-2-porn-movies.html'],
-    'tags': ['Birthmark left inner thigh', 'Speaking French', 'On Couch', 'Stockings', 'Feet']
+    'tags': ['Birthmark left inner thigh', 'Speaking French', 'On Couch', 'Stockings', 'Feet'],
+    'release': moment('2014-04-09')
   },
   {
     'producer': 'angelawhite.com',
@@ -671,7 +698,8 @@ export let data: Scene[] = [
     'playtime': '0:36:20',
     'partners': ['Anikka Albrite'],
     'links': [],
-    'tags': []
+    'tags': ['Girl/Girl'],
+    'release': moment('2014-04-16')
   },
   {
     'producer': 'angelawhite.com',
@@ -681,7 +709,8 @@ export let data: Scene[] = [
     'playtime': '0:19:21',
     'partners': ['Asa Akira'],
     'links': [],
-    'tags': []
+    'tags': ['Girl/Girl'],
+    'release': moment('2014-04-23')
   },
   {
     'producer': 'angelawhite.com',
@@ -691,7 +720,8 @@ export let data: Scene[] = [
     'playtime': '0:07:55',
     'partners': [],
     'links': [],
-    'tags': ['Solo', 'Lingerie']
+    'tags': ['Solo', 'Lingerie'],
+    'release': moment('2014-04-30')
   },
   {
     'producer': 'angelawhite.com',
@@ -701,7 +731,8 @@ export let data: Scene[] = [
     'playtime': '0:24:37',
     'partners': ['Danny Mountain'],
     'links': ['https://angelawhite.empirestores.co/1749233/angela-loves-men-porn-movies.html'],
-    'tags': ['Boy/Girl', 'Standing 69', 'On Chair', 'Vaginal', 'Cum on Pussy', 'Outside', 'Blowjob', 'Deepthroat']
+    'tags': ['Boy/Girl', 'Standing 69', 'On Chair', 'Vaginal', 'Cum on Pussy', 'Outside', 'Blowjob', 'Deepthroat'],
+    'release': moment('2014-05-07')
   },
   {
     'producer': 'angelawhite.com',
@@ -710,9 +741,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:26:56',
     'partners': ['Johnny Castle'],
-    'links': [],
+    'links': ['Boy/Girl'],
     'tags': ['POV', 'Candid', 'On Bed', 'On Chair', 'Missionary', 'Blowjob', 'Deepthroat', 'Vaginal', 'Doggy',
-      'Side Fuck', 'Cowgirl', 'Cunnilingus', 'Reverse Cowgirl', 'Cum on Pussy']
+      'Side Fuck', 'Cowgirl', 'Cunnilingus', 'Reverse Cowgirl', 'Cum on Pussy'],
+    'release': moment('2014-05-14')
   },
   {
     'producer': 'angelawhite.com',
@@ -722,7 +754,8 @@ export let data: Scene[] = [
     'playtime': '0:25:38',
     'partners': ['Kelly Divine'],
     'links': [],
-    'tags': []
+    'tags': ['Girl/Girl'],
+    'release': moment('2014-05-21')
   },
   {
     'producer': 'angelawhite.com',
@@ -732,7 +765,8 @@ export let data: Scene[] = [
     'playtime': '0:18:47',
     'partners': [],
     'links': [],
-    'tags': ['Solo', 'Lingerie', 'On Bed']
+    'tags': ['Solo', 'Lingerie', 'On Bed'],
+    'release': moment('2014-05-28')
   },
   {
     'producer': 'angelawhite.com',
@@ -742,7 +776,8 @@ export let data: Scene[] = [
     'playtime': '0:29:25',
     'partners': ['Mick Blue'],
     'links': ['https://angelawhite.empirestores.co/1866301/angela-loves-men-2-porn-movies.html'],
-    'tags': []
+    'tags': ['Boy/Girl'],
+    'release': moment('2014-06-04')
   },
   {
     'producer': 'angelawhite.com',
@@ -753,7 +788,8 @@ export let data: Scene[] = [
     'partners': ['Ramon Nomar'],
     'links': ['https://angelawhite.empirestores.co/1786446/angela-loves-gonzo-porn-movies.html'],
     'tags': ['POV', 'Candid', 'Bath', 'Standing', 'Boy/Girl', 'Vaginal', 'On Bed', 'Doggy', 'Cowgirl', 'Titty Fuck',
-      'Missionary', 'Finger in Butt', 'Side Fuck', 'Choking', 'Clothed', 'Against Wall', 'AVN Best Gonzo Movie 2017']
+      'Missionary', 'Finger in Butt', 'Side Fuck', 'Choking', 'Clothed', 'Against Wall', 'AVN Best Gonzo Movie 2017'],
+    'release': moment('2014-06-11')
   },
   {
     'producer': 'angelawhite.com',
@@ -763,7 +799,8 @@ export let data: Scene[] = [
     'playtime': '0:35:24',
     'partners': ['Jelena Jensen'],
     'links': [],
-    'tags': []
+    'tags': ['Girl/Girl'],
+    'release': moment('2014-06-18')
   },
   {
     'producer': 'angelawhite.com',
@@ -773,7 +810,8 @@ export let data: Scene[] = [
     'playtime': '0:13:58',
     'partners': [],
     'links': [],
-    'tags': ['Solo', 'Bath', 'Water']
+    'tags': ['Solo', 'Bath', 'Water'],
+    'release': moment('2014-06-25')
   },
   {
     'producer': 'angelawhite.com',
@@ -783,7 +821,8 @@ export let data: Scene[] = [
     'playtime': '0:30:05',
     'partners': ['Rocco Reed'],
     'links': [],
-    'tags': []
+    'tags': ['Boy/Girl'],
+    'release': moment('2014-07-02')
   },
   {
     'producer': 'angelawhite.com',
@@ -793,8 +832,10 @@ export let data: Scene[] = [
     'playtime': '0:56:07',
     'partners': ['Mick Blue', 'Anikka Albright'],
     'links': ['https://angelawhite.empirestores.co/1786446/angela-loves-gonzo-porn-movies.html'],
-    'tags': ['POV', 'Candid', 'Boy/Girl/Girl', 'Girl/Girl', 'Outside', 'Public', 'Pool', 'On Bed', 'Blowjob', 'Deepthroat', 'Fingering',
-      'Cunnilingus', 'Anilingus', 'Vaginal', 'Doggy', 'Face Sitting', 'Tribbing', 'Elbow Birthmark', 'Choking', 'AVN Best Gonzo Movie 2017']
+    'tags': ['POV', 'Candid', 'Boy/Girl/Girl', 'Girl/Girl', 'Outside', 'Public', 'Pool', 'On Bed', 'Blowjob', 'Deepthroat',
+      'Fingering', 'Cunnilingus', 'Anilingus', 'Vaginal', 'Doggy', 'Face Sitting', 'Tribbing', 'Elbow Birthmark', 'Choking',
+      'AVN Best Gonzo Movie 2017'],
+    'release': moment('2014-07-09')
   },
   {
     'producer': 'angelawhite.com',
@@ -804,7 +845,8 @@ export let data: Scene[] = [
     'playtime': '0:33:17',
     'partners': ['Gracie Glam'],
     'links': ['https://angelawhite.empirestores.co/1729348/angela-loves-women-porn-movies.html'],
-    'tags': ['Girl/Girl', 'AVN Best All-Girl Movie 2016']
+    'tags': ['Girl/Girl', 'AVN Best All-Girl Movie 2016'],
+    'release': moment('2014-07-16')
   },
   {
     'producer': 'angelawhite.com',
@@ -814,7 +856,8 @@ export let data: Scene[] = [
     'playtime': '0:08:30',
     'partners': [],
     'links': [],
-    'tags': ['Solo']
+    'tags': ['Solo'],
+    'release': moment('2014-07-23')
   },
   {
     'producer': 'angelawhite.com',
@@ -824,7 +867,8 @@ export let data: Scene[] = [
     'playtime': '0:29:24',
     'partners': ['James Deen'],
     'links': [],
-    'tags': []
+    'tags': ['Boy/Girl'],
+    'release': moment('2014-07-30')
   },
   {
     'producer': 'angelawhite.com',
@@ -834,7 +878,8 @@ export let data: Scene[] = [
     'playtime': '1:02:03',
     'partners': ['Toni Ribas'],
     'links': ['https://angelawhite.empirestores.co/1786446/angela-loves-gonzo-porn-movies.html'],
-    'tags': ['Boy/Girl', 'AVN Best Gonzo Movie 2017']
+    'tags': ['Boy/Girl', 'AVN Best Gonzo Movie 2017'],
+    'release': moment('2014-08-06')
   },
   {
     'producer': 'angelawhite.com',
@@ -844,7 +889,8 @@ export let data: Scene[] = [
     'playtime': '0:28:46',
     'partners': ['Julia Ann'],
     'links': [],
-    'tags': []
+    'tags': ['Girl/Girl'],
+    'release': moment('2014-08-13')
   },
   {
     'producer': 'angelawhite.com',
@@ -854,7 +900,8 @@ export let data: Scene[] = [
     'playtime': '0:10:43',
     'partners': [],
     'links': [],
-    'tags': ['Solo']
+    'tags': ['Solo'],
+    'release': moment('2014-08-20')
   },
   {
     'producer': 'angelawhite.com',
@@ -864,7 +911,8 @@ export let data: Scene[] = [
     'playtime': '0:34:29',
     'partners': ['Mick Blue'],
     'links': [],
-    'tags': []
+    'tags': ['Boy/Girl'],
+    'release': moment('2014-08-27')
   },
   {
     'producer': 'angelawhite.com',
@@ -874,7 +922,8 @@ export let data: Scene[] = [
     'playtime': '0:22:29',
     'partners': ['Voodoo'],
     'links': [],
-    'tags': []
+    'tags': ['Boy/Girl'],
+    'release': moment('2014-09-03')
   },
   {
     'producer': 'angelawhite.com',
@@ -884,7 +933,8 @@ export let data: Scene[] = [
     'playtime': '0:27:26',
     'partners': ['Celeste Star'],
     'links': ['https://angelawhite.empirestores.co/1729348/angela-loves-women-porn-movies.html'],
-    'tags': ['Girl/Girl', 'AVN Best All-Girl Movie 2016']
+    'tags': ['Girl/Girl', 'AVN Best All-Girl Movie 2016'],
+    'release': moment('2014-09-10')
   },
   {
     'producer': 'angelawhite.com',
@@ -894,7 +944,8 @@ export let data: Scene[] = [
     'playtime': '0:50:55',
     'partners': ['Phoenix Marie'],
     'links': [],
-    'tags': ['Girl/Girl', 'Hitachi', 'Dildo', 'Anal']
+    'tags': ['Girl/Girl', 'Hitachi', 'Dildo', 'Anal'],
+    'release': moment('2014-10-27')
   },
   {
     'producer': 'angelawhite.com',
@@ -904,7 +955,8 @@ export let data: Scene[] = [
     'playtime': '0:18:07',
     'partners': ['Manuel Ferrara'],
     'links': [],
-    'tags': ['Boy/Girl', 'Outside']
+    'tags': ['Boy/Girl', 'Outside'],
+    'release': moment('2014-11-05')
   },
   {
     'producer': 'angelawhite.com',
@@ -914,7 +966,8 @@ export let data: Scene[] = [
     'playtime': '0:06:15',
     'partners': [],
     'links': [],
-    'tags': ['Solo', 'Dildo', 'Anal']
+    'tags': ['Solo', 'Dildo', 'Anal'],
+    'release': moment('2014-11-14')
   },
   {
     'producer': 'angelawhite.com',
@@ -924,7 +977,8 @@ export let data: Scene[] = [
     'playtime': '0:41:48',
     'partners': ['Steve Holmes'],
     'links': [],
-    'tags': ['Boy/Girl']
+    'tags': ['Boy/Girl', 'Candid', 'POV'],
+    'release': moment('2014-11-23')
   },
   {
     'producer': 'angelawhite.com',
@@ -934,7 +988,8 @@ export let data: Scene[] = [
     'playtime': '0:29:51',
     'partners': ['Anissa Kate'],
     'links': [],
-    'tags': []
+    'tags': ['Girl/Girl'],
+    'release': moment('2014-12-02')
   },
   {
     'producer': 'angelawhite.com',
@@ -944,7 +999,8 @@ export let data: Scene[] = [
     'playtime': '0:33:12',
     'partners': ['Toni Ribas'],
     'links': ['https://angelawhite.empirestores.co/1749233/angela-loves-men-porn-movies.html'],
-    'tags': ['Boy/Girl', 'On Couch']
+    'tags': ['Boy/Girl', 'On Couch'],
+    'release': moment('2014-12-11')
   },
   {
     'producer': 'angelawhite.com',
@@ -954,7 +1010,8 @@ export let data: Scene[] = [
     'playtime': '1:09:53',
     'partners': ['Ava Addams', 'Phoenix Marie'],
     'links': [],
-    'tags': ['POV', 'Candid']
+    'tags': ['POV', 'Candid'],
+    'release': moment('2014-12-20')
   },
   {
     'producer': 'angelawhite.com',
@@ -964,7 +1021,8 @@ export let data: Scene[] = [
     'playtime': '0:29:47',
     'partners': ['James Deen'],
     'links': ['https://angelawhite.empirestores.co/1712600/angela-porn-movies.html'],
-    'tags': ['Boy/Girl', 'Standing', 'Anal']
+    'tags': ['Boy/Girl', 'Standing', 'Anal'],
+    'release': moment('2014-10-03')
   },
   {
     'producer': 'angelawhite.com',
@@ -974,7 +1032,8 @@ export let data: Scene[] = [
     'playtime': '0:29:57',
     'partners': ['Chanel Preston'],
     'links': [],
-    'tags': []
+    'tags': ['Girl/Girl'],
+    'release': moment('2015-01-07')
   },
   {
     'producer': 'angelawhite.com',
@@ -984,7 +1043,8 @@ export let data: Scene[] = [
     'playtime': '0:15:22',
     'partners': [],
     'links': [],
-    'tags': ['BTS']
+    'tags': ['BTS'],
+    'release': moment('2015-01-16')
   },
   {
     'producer': 'angelawhite.com',
@@ -994,7 +1054,8 @@ export let data: Scene[] = [
     'playtime': '0:31:37',
     'partners': ['Lexington Steele'],
     'links': ['https://angelawhite.empirestores.co/1712600/angela-porn-movies.html'],
-    'tags': ['Boy/Girl', 'Interracial', 'Anal', 'Vaginal']
+    'tags': ['Boy/Girl', 'Interracial', 'Anal', 'Vaginal'],
+    'release': moment('2014-10-03')
   },
   {
     'producer': 'angelawhite.com',
@@ -1004,7 +1065,8 @@ export let data: Scene[] = [
     'playtime': '0:12:24',
     'partners': [],
     'links': [],
-    'tags': ['Solo']
+    'tags': ['Solo'],
+    'release': moment('2015-02-03')
   },
   {
     'producer': 'angelawhite.com',
@@ -1014,7 +1076,8 @@ export let data: Scene[] = [
     'playtime': '0:40:10',
     'partners': ['Kristina Rose'],
     'links': [],
-    'tags': []
+    'tags': ['Girl/Girl'],
+    'release': moment('2015-02-12')
   },
   {
     'producer': 'angelawhite.com',
@@ -1024,7 +1087,8 @@ export let data: Scene[] = [
     'playtime': '0:25:11',
     'partners': ['Manuel Ferrara', 'Kelly Divine'],
     'links': ['https://angelawhite.empirestores.co/1712600/angela-porn-movies.html'],
-    'tags': []
+    'tags': [],
+    'release': moment('2014-10-03')
   },
   {
     'producer': 'angelawhite.com',
@@ -1034,7 +1098,8 @@ export let data: Scene[] = [
     'playtime': '0:37:48',
     'partners': ['James Deen'],
     'links': [],
-    'tags': []
+    'tags': ['Boy/Girl', 'Candid', 'POV'],
+    'release': moment('2015-03-02')
   },
   {
     'producer': 'angelawhite.com',
@@ -1044,7 +1109,8 @@ export let data: Scene[] = [
     'playtime': '0:31:37',
     'partners': ['Skin Diamond'],
     'links': [],
-    'tags': []
+    'tags': ['Girl/Girl'],
+    'release': moment('2015-03-11')
   },
   {
     'producer': 'angelawhite.com',
@@ -1054,7 +1120,8 @@ export let data: Scene[] = [
     'playtime': '0:23:57',
     'partners': ['Erik Everhard'],
     'links': [],
-    'tags': []
+    'tags': ['Boy/Girl', 'Outside', 'On Couch'],
+    'release': moment('2015-03-20')
   },
   {
     'producer': 'angelawhite.com',
@@ -1064,7 +1131,8 @@ export let data: Scene[] = [
     'playtime': '0:26:08',
     'partners': ['Toni Ribas', 'Mr Pete'],
     'links': ['https://angelawhite.empirestores.co/1712600/angela-porn-movies.html'],
-    'tags': []
+    'tags': ['Boy/Boy/Girl'],
+    'release': moment('2014-10-03')
   },
   {
     'producer': 'angelawhite.com',
@@ -1074,7 +1142,9 @@ export let data: Scene[] = [
     'playtime': '1:07:42',
     'partners': ['Steve Holmes', 'Phoenix Marie'],
     'links': [],
-    'tags': []
+    'tags': ['Boy/Girl/Girl', 'Candid', 'POV'],
+    'release': moment('2015-04-07')
+
   },
   {
     'producer': 'angelawhite.com',
@@ -1084,7 +1154,8 @@ export let data: Scene[] = [
     'playtime': '0:08:41',
     'partners': [],
     'links': [],
-    'tags': ['Solo', 'Outside', 'On Chair']
+    'tags': ['Solo', 'Outside', 'On Chair'],
+    'release': moment('2015-04-16')
   },
   {
     'producer': 'angelawhite.com',
@@ -1094,7 +1165,8 @@ export let data: Scene[] = [
     'playtime': '0:20:12',
     'partners': ['Jada Stevens'],
     'links': [],
-    'tags': ['Girl/Girl']
+    'tags': ['Girl/Girl'],
+    'release': moment('2015-04-25')
   },
   {
     'producer': 'angelawhite.com',
@@ -1104,7 +1176,8 @@ export let data: Scene[] = [
     'playtime': '0:23:54',
     'partners': ['David'],
     'links': [],
-    'tags': ['Boy/Girl', 'Handjob', 'Blowjob', 'Titty Fuck']
+    'tags': ['Boy/Girl', 'Handjob', 'Blowjob', 'Titty Fuck', 'Candid', 'POV'],
+    'release': moment('2015-05-04')
   },
   {
     'producer': 'angelawhite.com',
@@ -1114,7 +1187,8 @@ export let data: Scene[] = [
     'playtime': '0:24:41',
     'partners': ['Prince Yahshua'],
     'links': [],
-    'tags': []
+    'tags': ['Boy/Girl', 'Interracial', 'Vaginal', 'On Couch'],
+    'release': moment('2015-05-13')
   },
   {
     'producer': 'angelawhite.com',
@@ -1124,7 +1198,8 @@ export let data: Scene[] = [
     'playtime': '0:11:04',
     'partners': [],
     'links': [],
-    'tags': ['Solo']
+    'tags': ['Solo'],
+    'release': moment('2015-05-22')
   },
   {
     'producer': 'angelawhite.com',
@@ -1134,7 +1209,8 @@ export let data: Scene[] = [
     'playtime': '0:27:10',
     'partners': ['Asa Akira'],
     'links': [],
-    'tags': ['Girl/Girl', 'Outside']
+    'tags': ['Girl/Girl', 'Outside', 'Tribbing'],
+    'release': moment('2015-05-31')
   },
   {
     'producer': 'angelawhite.com',
@@ -1144,7 +1220,8 @@ export let data: Scene[] = [
     'playtime': '0:33:15',
     'partners': ['Manuel Ferrara'],
     'links': ['https://angelawhite.empirestores.co/1749233/angela-loves-men-porn-movies.html'],
-    'tags': ['Boy/Girl', 'Outside', 'On Couch']
+    'tags': ['Boy/Girl', 'Outside', 'On Couch'],
+    'release': moment('2015-06-09')
   },
   {
     'producer': 'angelawhite.com',
@@ -1154,7 +1231,8 @@ export let data: Scene[] = [
     'playtime': '0:20:02',
     'partners': ['David'],
     'links': [],
-    'tags': ['POV', 'Candid', 'Boy/Girl']
+    'tags': ['POV', 'Candid', 'Boy/Girl'],
+    'release': moment('2015-06-18')
   },
   {
     'producer': 'angelawhite.com',
@@ -1164,7 +1242,8 @@ export let data: Scene[] = [
     'playtime': '0:30:24',
     'partners': ['Alexis Texas'],
     'links': [],
-    'tags': ['Girl/Girl', 'Domination', 'Submission']
+    'tags': ['Girl/Girl', 'Domination', 'Submission'],
+    'release': moment('2015-06-27')
   },
   {
     'producer': 'angelawhite.com',
@@ -1174,7 +1253,8 @@ export let data: Scene[] = [
     'playtime': '0:24:03',
     'partners': ['Ramon Nomar'],
     'links': ['https://angelawhite.empirestores.co/1866301/angela-loves-men-2-porn-movies.html'],
-    'tags': ['Boy/Girl', 'Bath', 'Water', 'Standing']
+    'tags': ['Boy/Girl', 'Bath', 'Water', 'Standing'],
+    'release': moment('2015-07-06')
   },
   {
     'producer': 'angelawhite.com',
@@ -1184,7 +1264,8 @@ export let data: Scene[] = [
     'playtime': '0:48:33',
     'partners': ['James Deen'],
     'links': [],
-    'tags': []
+    'tags': ['Boy/Girl', 'Candid', 'POV'],
+    'release': moment('2015-07-15')
   },
   {
     'producer': 'angelawhite.com',
@@ -1194,7 +1275,8 @@ export let data: Scene[] = [
     'playtime': '0:26:36',
     'partners': ['Manuel Ferrara', 'Ava Addams'],
     'links': [],
-    'tags': []
+    'tags': ['Boy/Girl/Girl'],
+    'release': moment('2015-07-24')
   },
   {
     'producer': 'angelawhite.com',
@@ -1204,7 +1286,8 @@ export let data: Scene[] = [
     'playtime': '0:27:17',
     'partners': ['Sovereign Syre'],
     'links': [],
-    'tags': []
+    'tags': ['Girl/Girl'],
+    'release': moment('2015-08-02')
   },
   {
     'producer': 'angelawhite.com',
@@ -1214,7 +1297,8 @@ export let data: Scene[] = [
     'playtime': '0:41:08',
     'partners': ['Mickey Mod'],
     'links': [],
-    'tags': ['Boy/Girl', 'Interracial', 'Candid', 'POV']
+    'tags': ['Boy/Girl', 'Interracial', 'Candid', 'POV'],
+    'release': moment('2015-08-11')
   },
   {
     'producer': 'angelawhite.com',
@@ -1224,7 +1308,8 @@ export let data: Scene[] = [
     'playtime': '0:05:59',
     'partners': [],
     'links': [],
-    'tags': ['Solo']
+    'tags': ['Solo'],
+    'release': moment('2015-08-20')
   },
   {
     'producer': 'angelawhite.com',
@@ -1234,7 +1319,8 @@ export let data: Scene[] = [
     'playtime': '0:32:59',
     'partners': ['Flash Brown', 'Kagney Linn Karter'],
     'links': ['https://angelawhite.empirestores.co/1746328/angela-loves-threesomes-porn-movies.html'],
-    'tags': []
+    'tags': ['Boy/Girl/Girl', 'Interracial'],
+    'release': moment('2015-07-31')
   },
   {
     'producer': 'angelawhite.com',
@@ -1244,7 +1330,8 @@ export let data: Scene[] = [
     'playtime': '0:31:26',
     'partners': ['Johnny Castle'],
     'links': [],
-    'tags': []
+    'tags': ['Boy/Girl'],
+    'release': moment('2015-09-07')
   },
   {
     'producer': 'angelawhite.com',
@@ -1254,7 +1341,8 @@ export let data: Scene[] = [
     'playtime': '0:09:26',
     'partners': [],
     'links': [],
-    'tags': ['Solo', 'Outside', 'Water']
+    'tags': ['Solo', 'Outside', 'Water'],
+    'release': moment('2015-09-16')
   },
   {
     'producer': 'angelawhite.com',
@@ -1264,7 +1352,8 @@ export let data: Scene[] = [
     'playtime': '0:36:16',
     'partners': ['Erik Everhard', 'Bonnie Rotten'],
     'links': ['https://angelawhite.empirestores.co/1746328/angela-loves-threesomes-porn-movies.html'],
-    'tags': []
+    'tags': [],
+    'release': moment('2015-07-31')
   },
   {
     'producer': 'angelawhite.com',
@@ -1274,17 +1363,19 @@ export let data: Scene[] = [
     'playtime': '0:26:54',
     'partners': ['Dani Daniels'],
     'links': [],
-    'tags': []
+    'tags': ['Girl/Girl'],
+    'release': moment('2015-10-04')
   },
   {
     'producer': 'angelawhite.com',
     'series': '',
     'title': '089 - Angela White x Prince Yahshua x Jada Stevens',
-    'altTitles': ['Angela Loves Threesoms - Scene 1'],
+    'altTitles': ['Angela Loves Threesomes - Scene 1'],
     'playtime': '0:31:16',
     'partners': ['Prince Yahshua', 'Jada Stevens'],
     'links': ['https://angelawhite.empirestores.co/1746328/angela-loves-threesomes-porn-movies.html'],
-    'tags': []
+    'tags': [],
+    'release': moment('2015-07-31')
   },
   {
     'producer': 'angelawhite.com',
@@ -1294,7 +1385,8 @@ export let data: Scene[] = [
     'playtime': '1:25:13',
     'partners': ['Manuel Ferrara'],
     'links': ['https://angelawhite.empirestores.co/1786446/angela-loves-gonzo-porn-movies.html'],
-    'tags': ['Boy/Girl', 'AVN Best Gonzo Movie 2017']
+    'tags': ['Boy/Girl', 'Candid', 'POV', 'AVN Best Gonzo Movie 2017'],
+    'release': moment('2015-11-10')
   },
   {
     'producer': 'angelawhite.com',
@@ -1304,7 +1396,8 @@ export let data: Scene[] = [
     'playtime': '0:11:28',
     'partners': [],
     'links': [],
-    'tags': ['Solo']
+    'tags': ['Solo'],
+    'release': moment('2015-11-24')
   },
   {
     'producer': 'angelawhite.com',
@@ -1314,7 +1407,8 @@ export let data: Scene[] = [
     'playtime': '0:31:05',
     'partners': ['Bruce Venture'],
     'links': ['https://angelawhite.empirestores.co/1866301/angela-loves-men-2-porn-movies.html'],
-    'tags': []
+    'tags': ['Boy/Girl'],
+    'release': moment('2015-12-13')
   },
   {
     'producer': 'angelawhite.com',
@@ -1324,7 +1418,8 @@ export let data: Scene[] = [
     'playtime': '0:32:03',
     'partners': ['Alexis Texas', 'Anikka Albrite'],
     'links': ['https://angelawhite.empirestores.co/1752871/angela-vol-2-porn-movies.html'],
-    'tags': ['Girl/Girl/Girl', 'Threesome', 'Blond', 'Tribbing', 'AVN Best All-Girl Group Sex Scene 2016']
+    'tags': ['Girl/Girl/Girl', 'Threesome', 'Blond', 'Tribbing', 'AVN Best All-Girl Group Sex Scene 2016'],
+    'release': moment('2015-12-26')
   },
   {
     'producer': 'angelawhite.com',
@@ -1334,7 +1429,8 @@ export let data: Scene[] = [
     'playtime': '0:42:23',
     'partners': ['Lexington Steele'],
     'links': [],
-    'tags': []
+    'tags': ['Boy/Girl', 'Interracial', 'Candid', 'POV'],
+    'release': moment('2016-01-09')
   },
   {
     'producer': 'angelawhite.com',
@@ -1344,7 +1440,8 @@ export let data: Scene[] = [
     'playtime': '0:33:39',
     'partners': ['Axel Aces', 'Chad Alva', 'Damon Dice', 'Marco Banderas', 'Michael Vegas', 'Ricky Johnson', 'Robby Echo'],
     'links': ['https://angelawhite.empirestores.co/1752871/angela-vol-2-porn-movies.html'],
-    'tags': ['Boy/Girl', 'Gangbang', 'Blowjob', 'Deepthroat', 'Facial', 'AVN Best Oral Sex Scene 2016']
+    'tags': ['Boy/Girl', 'Blowbang', 'Blowjob', 'Deepthroat', 'Facial', 'AVN Best Oral Sex Scene 2016'],
+    'release': moment('2016-01-19')
   },
   {
     'producer': 'angelawhite.com',
@@ -1354,7 +1451,8 @@ export let data: Scene[] = [
     'playtime': '0:33:04',
     'partners': ['Manuel Ferrara', 'Valentina Nappi'],
     'links': ['https://angelawhite.empirestores.co/1926055/angela-loves-threesomes-2-porn-movies.html'],
-    'tags': ['Boy/Girl/Girl']
+    'tags': ['Boy/Girl/Girl'],
+    'release': moment('2016-01-29')
   },
   {
     'producer': 'angelawhite.com',
@@ -1364,7 +1462,8 @@ export let data: Scene[] = [
     'playtime': '0:09:04',
     'partners': [],
     'links': [],
-    'tags': ['Solo']
+    'tags': ['Solo'],
+    'release': moment('2016-02-12')
   },
   {
     'producer': 'angelawhite.com',
@@ -1374,7 +1473,8 @@ export let data: Scene[] = [
     'playtime': '0:38:21',
     'partners': ['Lexington Steele', 'Moe Johnson', 'Rico Strong'],
     'links': ['https://angelawhite.empirestores.co/1752871/angela-vol-2-porn-movies.html'],
-    'tags': []
+    'tags': ['Boy/Boy/Girl', 'Interracial'],
+    'release': moment('2016-02-27')
   },
   {
     'producer': 'angelawhite.com',
@@ -1384,7 +1484,8 @@ export let data: Scene[] = [
     'playtime': '0:12:48',
     'partners': [],
     'links': [],
-    'tags': ['Solo']
+    'tags': ['Solo'],
+    'release': moment('2016-03-10')
   },
   {
     'producer': 'angelawhite.com',
@@ -1395,7 +1496,8 @@ export let data: Scene[] = [
     'partners': ['Erik Everhard', 'James Deen', 'John Strong', 'Mick Blue', 'Mr Pete'],
     'links': ['https://angelawhite.empirestores.co/1752871/angela-vol-2-porn-movies.html'],
     'tags': ['Boy/Girl', 'Gangbang', 'Standing', 'Blowjob', 'Vaginal', 'Anal', 'Double Penetration', 'DP',
-      'Triple Penetration', 'TP', 'Double Vag', 'DV', 'Double Anal', 'DA', 'Off the Ground']
+      'Triple Penetration', 'TP', 'Double Vag', 'DV', 'Double Anal', 'DA', 'Off the Ground'],
+    'release': moment('2016-03-26')
   },
   {
     'producer': 'angelawhite.com',
@@ -1405,7 +1507,8 @@ export let data: Scene[] = [
     'playtime': '0:33:03',
     'partners': ['Carter Cruise'],
     'links': ['https://angelawhite.empirestores.co/1827227/angela-loves-women-2-porn-movies.html'],
-    'tags': []
+    'tags': ['Girl/Girl'],
+    'release': moment('2016-04-05')
   },
   {
     'producer': 'angelawhite.com',
@@ -1415,7 +1518,8 @@ export let data: Scene[] = [
     'playtime': '0:05:36',
     'partners': [],
     'links': [],
-    'tags': ['Solo']
+    'tags': ['Solo'],
+    'release': moment('2016-04-17')
   },
   {
     'producer': 'angelawhite.com',
@@ -1425,7 +1529,8 @@ export let data: Scene[] = [
     'playtime': '0:32:13',
     'partners': ['James Deen', 'Danny Mountain'],
     'links': ['https://angelawhite.empirestores.co/1746328/angela-loves-threesomes-porn-movies.html'],
-    'tags': []
+    'tags': ['Boy/Boy/Girl', 'Pool', 'Outside'],
+    'release': moment('2015-07-31')
   },
   {
     'producer': 'angelawhite.com',
@@ -1435,7 +1540,8 @@ export let data: Scene[] = [
     'playtime': '0:11:00',
     'partners': [],
     'links': [],
-    'tags': ['Solo']
+    'tags': ['Solo'],
+    'release': moment('2016-05-14')
   },
   {
     'producer': 'angelawhite.com',
@@ -1445,7 +1551,8 @@ export let data: Scene[] = [
     'playtime': '0:29:03',
     'partners': ['Ramon Nomar'],
     'links': [],
-    'tags': []
+    'tags': ['Boy/Girl'],
+    'release': moment('2016-05-25')
   },
   {
     'producer': 'angelawhite.com',
@@ -1455,7 +1562,8 @@ export let data: Scene[] = [
     'playtime': '0:06:22',
     'partners': [],
     'links': [],
-    'tags': ['Solo']
+    'tags': ['Solo'],
+    'release': moment('2016-06-04')
   },
   {
     'producer': 'angelawhite.com',
@@ -1465,7 +1573,8 @@ export let data: Scene[] = [
     'playtime': '0:14:47',
     'partners': ['David'],
     'links': [],
-    'tags': []
+    'tags': ['Boy/Girl', 'Candid', 'POV'],
+    'release': moment('2016-06-14')
   },
   {
     'producer': 'angelawhite.com',
@@ -1475,7 +1584,8 @@ export let data: Scene[] = [
     'playtime': '0:27:14',
     'partners': ['Alex Chance'],
     'links': [],
-    'tags': []
+    'tags': ['Girl/Girl'],
+    'release': moment('2016-06-24')
   },
   {
     'producer': 'angelawhite.com',
@@ -1485,7 +1595,8 @@ export let data: Scene[] = [
     'playtime': '0:12:07',
     'partners': [],
     'links': [],
-    'tags': ['Solo']
+    'tags': ['Solo'],
+    'release': moment('2016-07-16')
   },
   {
     'producer': 'angelawhite.com',
@@ -1495,7 +1606,8 @@ export let data: Scene[] = [
     'playtime': '0:22:19',
     'partners': ['Voodoo'],
     'links': [],
-    'tags': []
+    'tags': ['Boy/Girl'],
+    'release': moment('2016-07-28')
   },
   {
     'producer': 'angelawhite.com',
@@ -1505,7 +1617,8 @@ export let data: Scene[] = [
     'playtime': '0:39:10',
     'partners': ['A. J. Applegate'],
     'links': ['https://angelawhite.empirestores.co/1827227/angela-loves-women-2-porn-movies.html'],
-    'tags': []
+    'tags': ['Girl/Girl'],
+    'release': moment('2016-07-06')
   },
   {
     'producer': 'angelawhite.com',
@@ -1515,7 +1628,8 @@ export let data: Scene[] = [
     'playtime': '0:14:52',
     'partners': ['David'],
     'links': [],
-    'tags': []
+    'tags': ['Boy/Girl', 'Candid', 'POV'],
+    'release': moment('2016-08-23')
   },
   {
     'producer': 'angelawhite.com',
@@ -1525,7 +1639,8 @@ export let data: Scene[] = [
     'playtime': '0:35:22',
     'partners': ['Lexi Belle'],
     'links': ['https://angelawhite.empirestores.co/1827227/angela-loves-women-2-porn-movies.html'],
-    'tags': ['Girl/Girl', 'Blond', 'Tribbing']
+    'tags': ['Girl/Girl', 'Blond', 'Tribbing'],
+    'release': moment('2016-07-06')
   },
   {
     'producer': 'angelawhite.com',
@@ -1536,7 +1651,8 @@ export let data: Scene[] = [
     'partners': ['Rico Strong'],
     'links': ['https://angelawhite.empirestores.co/1926052/angela-loves-anal-porn-movies.html'],
     'tags': ['Boy/Girl', 'Interracial', 'Neck Tattoo', 'On Couch', 'Titty Fuck', 'Blowjob', 'Deepthroat', 'Vaginal',
-      'Cowgirl', 'Reverse Cowgirl', 'Spooning', 'Doggy', 'Anal', 'Ass to Mouth', 'Fingering']
+      'Cowgirl', 'Reverse Cowgirl', 'Spooning', 'Doggy', 'Anal', 'Ass to Mouth', 'Fingering'],
+    'release': moment('2016-10-02')
   },
   {
     'producer': 'angelawhite.com',
@@ -1546,7 +1662,8 @@ export let data: Scene[] = [
     'playtime': '0:24:41',
     'partners': ['Remy Lacroix'],
     'links': ['https://angelawhite.empirestores.co/1827227/angela-loves-women-2-porn-movies.html'],
-    'tags': []
+    'tags': ['Girl/Girl'],
+    'release': moment('2016-07-06')
   },
   {
     'producer': 'angelawhite.com',
@@ -1556,7 +1673,8 @@ export let data: Scene[] = [
     'playtime': '0:13:39',
     'partners': [],
     'links': [],
-    'tags': ['Solo']
+    'tags': ['Solo'],
+    'release': moment('2016-11-12')
   },
   {
     'producer': 'angelawhite.com',
@@ -1566,7 +1684,8 @@ export let data: Scene[] = [
     'playtime': '0:38:17',
     'partners': ['Mickey Mod'],
     'links': [],
-    'tags': []
+    'tags': ['Boy/Girl'],
+    'release': moment('2016-11-24')
   },
   {
     'producer': 'angelawhite.com',
@@ -1576,7 +1695,8 @@ export let data: Scene[] = [
     'playtime': '0:45:40',
     'partners': ['Markus Dupree'],
     'links': [],
-    'tags': []
+    'tags': ['Boy/Girl', 'Anal', 'Candid', 'POV'],
+    'release': moment('2016-12-07')
   },
   {
     'producer': 'angelawhite.com',
@@ -1586,7 +1706,8 @@ export let data: Scene[] = [
     'playtime': '0:29:40',
     'partners': ['Jenna Sativa'],
     'links': ['https://angelawhite.empirestores.co/1898765/angela-loves-women-3-porn-movies.html'],
-    'tags': ['Girl/Girl', 'AVN Best All-Girl Movie 2018']
+    'tags': ['Girl/Girl', 'AVN Best All-Girl Movie 2018'],
+    'release': moment('2016-12-27')
   },
   {
     'producer': 'angelawhite.com',
@@ -1596,7 +1717,8 @@ export let data: Scene[] = [
     'playtime': '0:11:48',
     'partners': [],
     'links': [],
-    'tags': ['Solo']
+    'tags': ['Solo'],
+    'release': moment('2017-01-30')
   },
   {
     'producer': 'angelawhite.com',
@@ -1606,7 +1728,8 @@ export let data: Scene[] = [
     'playtime': '0:48:41',
     'partners': ['Tommy Pistol'],
     'links': [],
-    'tags': []
+    'tags': ['Boy/Girl', 'Candid', 'POV'],
+    'release': moment('2017-02-23')
   },
   {
     'producer': 'angelawhite.com',
@@ -1616,7 +1739,8 @@ export let data: Scene[] = [
     'playtime': '0:33:15',
     'partners': ['Prince Yahshua', 'Rico Strong'],
     'links': ['https://angelawhite.empirestores.co/1926052/angela-loves-anal-porn-movies.html'],
-    'tags': []
+    'tags': ['Boy/Boy/Girl', 'Interracial', 'Double Penetration', 'DP', 'Vaginal', 'Anal'],
+    'release': moment('2017-03-13')
   },
   {
     'producer': 'angelawhite.com',
@@ -1626,7 +1750,8 @@ export let data: Scene[] = [
     'playtime': '0:35:22',
     'partners': ['Mia Malkova', 'Markus Dupree'],
     'links': ['https://angelawhite.empirestores.co/1926055/angela-loves-threesomes-2-porn-movies.html'],
-    'tags': []
+    'tags': ['Boy/Girl/Girl'],
+    'release': moment('2017-04-09')
   },
   {
     'producer': 'angelawhite.com',
@@ -1636,7 +1761,8 @@ export let data: Scene[] = [
     'playtime': '0:31:56',
     'partners': ['Abella Danger'],
     'links': ['https://angelawhite.empirestores.co/1898765/angela-loves-women-3-porn-movies.html'],
-    'tags': ['Girl/Girl', 'AVN Best All-Girl Movie 2018']
+    'tags': ['Girl/Girl', 'AVN Best All-Girl Movie 2018'],
+    'release': moment('2017-04-21')
   },
   {
     'producer': 'angelawhite.com',
@@ -1646,7 +1772,8 @@ export let data: Scene[] = [
     'playtime': '0:33:27',
     'partners': ['Valentina Nappi'],
     'links': ['https://angelawhite.empirestores.co/1898765/angela-loves-women-3-porn-movies.html'],
-    'tags': ['Girl/Girl', 'AVN Best All-Girl Movie 2018']
+    'tags': ['Girl/Girl', 'AVN Best All-Girl Movie 2018'],
+    'release': moment('2017-04-21')
   },
   {
     'producer': 'angelawhite.com',
@@ -1656,7 +1783,8 @@ export let data: Scene[] = [
     'playtime': '0:40:24',
     'partners': ['Jules Jordan'],
     'links': [],
-    'tags': []
+    'tags': ['Boy/Girl', 'Candid', 'POV'],
+    'release': moment('2017-07-05')
   },
   {
     'producer': 'angelawhite.com',
@@ -1666,7 +1794,8 @@ export let data: Scene[] = [
     'playtime': '0:34:57',
     'partners': ['Karlee Grey'],
     'links': ['https://angelawhite.empirestores.co/1898765/angela-loves-women-3-porn-movies.html'],
-    'tags': ['Girl/Girl', 'AVN Best All-Girl Movie 2018']
+    'tags': ['Girl/Girl', 'AVN Best All-Girl Movie 2018'],
+    'release': moment('2017-04-21')
   },
   {
     'producer': 'angelawhite.com',
@@ -1676,7 +1805,8 @@ export let data: Scene[] = [
     'playtime': '0:33:24',
     'partners': ['Steve Holmes', 'Keisha Grey'],
     'links': ['https://angelawhite.empirestores.co/1926055/angela-loves-threesomes-2-porn-movies.html'],
-    'tags': []
+    'tags': ['Boy/Girl/Girl'],
+    'release': moment('2017-08-11')
   },
   {
     'producer': 'angelawhite.com',
@@ -1687,7 +1817,7 @@ export let data: Scene[] = [
     'partners': ['Mandingo'],
     'links': ['https://angelawhite.empirestores.co/1928357/angela-vol-3-porn-movies.html'],
     'tags': ['Boy/Girl', 'Interracial', 'Anal', 'AVN Best Star Showcase 2018'],
-    'release': moment('2018-11-02')
+    'release': moment('2017-12-20')
   },
   {
     'producer': 'angelawhite.com',
@@ -1698,7 +1828,8 @@ export let data: Scene[] = [
     'partners': ['Manuel Ferrara', 'Karlee Grey'],
     'links': ['http://angelawhite.com/tour/trailers/130-angela-white-x-manuel-ferrara-x-karlee-grey',
       'https://angelawhite.empirestores.co/1926055/angela-loves-threesomes-2-porn-movies.html'],
-    'tags': []
+    'tags': ['Boy/Girl/Girl'],
+    'release': moment('2017-08-11')
   },
   {
     'producer': 'angelawhite.com',
@@ -1709,7 +1840,9 @@ export let data: Scene[] = [
     'partners': ['Mick Blue', 'Erik Everhard'],
     'links': ['http://angelawhite.com/tour/trailers/131-angela-white-x-mick-blue-x-erik-everhard',
       'https://angelawhite.empirestores.co/1926052/angela-loves-anal-porn-movies.html'],
-    'tags': []
+    'tags': ['Boy/Boy/Girl', 'On Couch', 'Blowjob', 'Deepthroat', 'Titty Fuck', 'Fingering', 'Doggy', 'Pussy to Ass',
+      'Vaginal', 'Anal', 'Ass to Mouth', 'Choking'],
+    'release': moment('2017-08-25')
   },
   {
     'producer': 'angelawhite.com',
@@ -1719,7 +1852,7 @@ export let data: Scene[] = [
     'playtime': '0:31:32',
     'partners': ['Markus Dupree'],
     'links': ['https://angelawhite.empirestores.co/1926052/angela-loves-anal-porn-movies.html'],
-    'tags': [],
+    'tags': ['Boy/Girl', 'Anal', 'Elbow Birthmark'],
     'release': moment('2017-08-25')
   },
   {
@@ -3233,7 +3366,8 @@ export let data: Scene[] = [
     'partners': ['Steve Holmes', 'Eddie Jaye', 'Filthy Rich', 'Robby Echo', 'Jason Moody', 'Eric John', 'Michael Vegas', 'Anthony Gaultier',
       'Filthy Rich', 'Eddie Jaye'],
     'links': ['https://angelawhite.empirestores.co/2592365/angela-by-darkko-porn-videos.html'],
-    'tags': ['On Couch', 'Boy/Girl', 'Gangbang', 'Blowjob', 'Deepthroat', 'Facial', 'Feet', 'AVN Best Oral Sex Scene 2019'],
+    'tags': ['On Couch', 'Boy/Girl', 'Blowbang', 'Blowjob', 'Deepthroat', 'Facial', 'Feet', 'Titty Fuck',
+      'Cunnilingus', 'Anilingus', 'Fingering', 'AVN Best Oral Sex Scene 2019'],
     'release': moment('2018-11-24')
   },
   {
@@ -3598,7 +3732,7 @@ export let data: Scene[] = [
     'partners': [],
     'links': [],
     'tags': [],
-    'release': moment('2017-04-28')
+    'release': moment('2019-01-23')
   },
   {
     'producer': 'femdomempire.com',
