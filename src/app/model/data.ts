@@ -794,7 +794,7 @@ export let data: Scene[] = [
     'partners': ['Mick Blue', 'Anikka Albright'],
     'links': ['https://angelawhite.empirestores.co/1786446/angela-loves-gonzo-porn-movies.html'],
     'tags': ['POV', 'Candid', 'Boy/Girl/Girl', 'Girl/Girl', 'Outside', 'Public', 'Pool', 'On Bed', 'Blowjob', 'Deepthroat', 'Fingering',
-      'Cunnilingus', 'Anilingus', 'AVN Best Gonzo Movie 2017']
+      'Cunnilingus', 'Anilingus', 'Vaginal', 'Doggy', 'Face Sitting', 'Tribbing', 'Elbow Birthmark', 'Choking', 'AVN Best Gonzo Movie 2017']
   },
   {
     'producer': 'angelawhite.com',
