@@ -23,6 +23,7 @@ export type Tag =
   | 'No Makeup'
   | 'Bruise left outer Hip'
   | 'Boy/Boy/Boy/Girl'
+  | 'Girls only'
   | 'Boy/Boy/Girl'
   | 'Boy/Girl/Girl'
   | 'Boy/Girl'
