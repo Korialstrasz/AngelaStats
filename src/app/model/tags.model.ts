@@ -117,7 +117,7 @@ export type Tag =
   | 'DP'
   | 'Triple Penetration'
   | 'TP'
-  | 'Double Vag'
+  | 'Double Vaginal'
   | 'DV'
   | 'Double Anal'
   | 'DA'

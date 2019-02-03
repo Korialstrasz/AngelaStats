@@ -1496,7 +1496,7 @@ export let data: Scene[] = [
     'partners': ['Erik Everhard', 'James Deen', 'John Strong', 'Mick Blue', 'Mr Pete'],
     'links': ['https://angelawhite.empirestores.co/1752871/angela-vol-2-porn-movies.html'],
     'tags': ['Boy/Girl', 'Gangbang', 'Standing', 'Blowjob', 'Vaginal', 'Anal', 'Double Penetration', 'DP',
-      'Triple Penetration', 'TP', 'Double Vag', 'DV', 'Double Anal', 'DA', 'Off the Ground'],
+      'Triple Penetration', 'TP', 'Double Vaginal', 'DV', 'Double Anal', 'DA', 'Off the Ground'],
     'release': moment('2016-03-26')
   },
   {
@@ -1841,7 +1841,8 @@ export let data: Scene[] = [
     'links': ['http://angelawhite.com/tour/trailers/131-angela-white-x-mick-blue-x-erik-everhard',
       'https://angelawhite.empirestores.co/1926052/angela-loves-anal-porn-movies.html'],
     'tags': ['Boy/Boy/Girl', 'On Couch', 'Blowjob', 'Deepthroat', 'Titty Fuck', 'Fingering', 'Doggy', 'Pussy to Ass',
-      'Vaginal', 'Anal', 'Ass to Mouth', 'Choking'],
+      'Vaginal', 'Anal', 'Ass to Mouth', 'Choking', 'Gaping', 'Cowgirl', 'Double Penetration', 'DP', 'Elbow Birthmark',
+      'Reverse Cowgirl', 'Double Anal', 'DA', 'Fingering', 'Double Vaginal', 'DV'],
     'release': moment('2017-08-25')
   },
   {
@@ -2622,6 +2623,17 @@ export let data: Scene[] = [
   {
     'producer': 'brazzers.com',
     'series': 'Big Butts Like It Big',
+    'title': 'Busting On The Burglar',
+    'altTitles': [],
+    'playtime': '0:36:00',
+    'partners': ['Zac Wild'],
+    'links': [],
+    'tags': ['Boy/Girl', 'Anal', 'On Couch'],
+    'release': moment('2019-02-07')
+  },
+  {
+    'producer': 'brazzers.com',
+    'series': 'Big Butts Like It Big',
     'title': 'The Magician\'s Ass-istant',
     'altTitles': [],
     'playtime': '0:31:26',
@@ -3390,7 +3402,7 @@ export let data: Scene[] = [
     'partners': ['John Strong', 'Markus Dupree', 'Steve Holmes', 'Mick Blue', 'Mr. Pete'],
     'links': ['https://angelawhite.empirestores.co/2592365/angela-by-darkko-porn-videos.html'],
     'tags': ['Elbow Birthmark', 'Birthmark left inner thigh', 'Boy/Girl', 'Gangbang', 'Blowjob', 'Vaginal', 'Anal',
-      'Double Penetration', 'DP', 'Triple Penetration', 'TP', 'Double Vag', 'DV', 'Double Anal', 'DA'],
+      'Double Penetration', 'DP', 'Triple Penetration', 'TP', 'Double Vaginal', 'DV', 'Double Anal', 'DA'],
     'release': moment(' 2018-12-01')
   },
   {
@@ -3488,7 +3500,7 @@ export let data: Scene[] = [
     'partners': ['Markus Dupree', 'Mick Blue', 'Steve Holmes'],
     'links': ['https://angelawhite.empirestores.co/2555658/i-am-angela-porn-videos.html'],
     'tags': ['Elbow Birthmark', 'Neck Tattoo', 'Birthmark left inner thigh', 'Boy/Boy/Boy/Girl', 'Foursome', 'DP',
-      'Double Penetration', 'TP', 'Triple Penetration', 'Double Vag', 'DV', 'DA', 'Double Anal', 'Facial', 'Blowjob',
+      'Double Penetration', 'TP', 'Triple Penetration', 'Double Vaginal', 'DV', 'DA', 'Double Anal', 'Facial', 'Blowjob',
       'Deepthroat', 'On Couch', 'AVN Best Star Showcase 2019'],
     'release': moment('2018-10-31')
   },
@@ -3522,7 +3534,7 @@ export let data: Scene[] = [
     'title': 'Episode 4: Ciao Bella!',
     'altTitles': ['I Am Angela - Scene 4'],
     'playtime': '1:21:37',
-    'partners': ['Rocci Siffredi'],
+    'partners': ['Rocco Siffredi'],
     'links': ['https://angelawhite.empirestores.co/2555658/i-am-angela-porn-videos.html'],
     'tags': ['Boy/Girl', 'Anal', 'Vaginal', 'On Couch', 'Standing', 'On Chair', 'Facial', 'Blowjob', 'Deepthroat',
       'AVN Best Star Showcase 2019', 'AVN Best Anal Sex Scene 2019'],
@@ -5656,7 +5668,7 @@ export let data: Scene[] = [
     'producer': 'scoreland.com',
     'series': '',
     'title': 'Dance of the Breast Stars',
-    'altTitles': [],
+    'altTitles': ['Busty dancers Angela White and Gianna Rossi'],
     'playtime': '0:18:15',
     'partners': ['Gianna Michaels'],
     'links': [],
