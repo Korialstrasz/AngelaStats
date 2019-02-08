@@ -1919,7 +1919,9 @@ export let data: Scene[] = [
     'playtime': '1:10:24',
     'partners': ['Manuel Ferrara'],
     'links': ['https://angelawhite.empirestores.co/1928357/angela-vol-3-porn-movies.html'],
-    'tags': ['Boy/Girl', 'On Couch', 'Creampie', 'Vaginal', 'Cuddling', 'AVN Best Boy/Girl Sex Scene 2018', 'AVN Best Star Showcase 2018'],
+    'tags': ['Boy/Girl', 'On Couch', 'Creampie', 'Vaginal', 'Cuddling', 'Missionary', 'Cowgirl', 'Fingering', 'Squirt', 'Choking',
+      'Blowjob', 'Face Sitting', 'Handjob', 'Cunnilingus', 'Spooning', 'Doggy', 'Finger in Butt', 'Neck Tattoo', '69',
+      'Feet', 'Anilingus', 'Elbow Birthmark', 'AVN Best Boy/Girl Sex Scene 2018', 'AVN Best Star Showcase 2018'],
     'release': moment('2017-09-21')
   },
   {
@@ -2166,7 +2168,7 @@ export let data: Scene[] = [
     'playtime': '0:15:00',
     'partners': [],
     'links': [],
-    'tags': ['Live Stream', 'Solo', 'Dildo', 'Vibrator', 'Bodysuite']
+    'tags': ['Live Stream', 'Solo', 'Dildo', 'Vibrator', 'Bodysuit']
   },
   {
     'producer': 'angelawhite.com',
@@ -2628,7 +2630,9 @@ export let data: Scene[] = [
     'playtime': '0:36:00',
     'partners': ['Zac Wild'],
     'links': [],
-    'tags': ['Boy/Girl', 'Anal', 'On Couch'],
+    'tags': ['Boy/Girl', 'Anal', 'On Couch', 'Bodysuit', 'Clothed', 'Jeweled Butt Plug', 'On Chair', 'Blowjob',
+      'Deepthroat', 'Titty Fuck', 'Cunnilingus', 'Vaginal', 'On Desk', 'Standing', 'Cowgirl', 'Reverse Cowgirl',
+      'Side Rider', 'Side Fuck', 'Choking'],
     'release': moment('2019-02-07')
   },
   {
@@ -4128,7 +4132,7 @@ export let data: Scene[] = [
     'partners': ['Whitney Wright'],
     'links': [],
     'tags': ['Girl/Girl', 'Acting', 'On Bed', 'Spanking', 'Cunnilingus', 'Anilingus', 'Vaginal', 'Bush', 'Biting',
-      'Elbow Birthmark', 'Tit Sucking 69', 'Smothering', '69', 'Neck Tattoo', 'Tribbing', 'Hurt Knee', 'Choking']
+      'Elbow Birthmark', 'Tit Sucking 69', 'Smothering', '69', 'Neck Tattoo', 'Tribbing', 'Hurt Knee', 'Choking', 'Bodysuit']
   },
   {
     'producer': 'girlsway.com',
@@ -5779,7 +5783,9 @@ export let data: Scene[] = [
     'playtime': '0:32:41',
     'partners': ['Markus Dupree'],
     'links': ['https://angelawhite.empirestores.co/1964831/games-we-play-porn-movies.html'],
-    'tags': ['Boy/Girl', 'On Bed', 'Acting', 'AVN Best Actress - Featurette 2019 (Angela White)'],
+    'tags': ['Boy/Girl', 'On Bed', 'Acting', 'Neck Tattoo', 'Cunnilingus', 'Anilingus', 'Blowjob', 'Titty Fuck',
+      'Choking', 'Birthmark left inner thigh', 'Vaginal', 'Cowgirl', 'Missionary', 'Anal', 'Feet', 'On Chair',
+      'Elbow Birthmark', 'Squirt', 'AVN Best Actress - Featurette 2019 (Angela White)'],
     'release': moment('2018-02-20')
   },
   {
