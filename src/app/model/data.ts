@@ -554,7 +554,7 @@ export let data: Scene[] = [
     'partners': ['Ramon Nomar'],
     'links': ['https://angelawhite.empirestores.co/1749233/angela-loves-men-porn-movies.html'],
     'tags': ['Boy/Girl', 'Squirt', 'Standing', 'Vaginal', 'Doggy', 'Cowgirl', 'Reverse Cowgirl', 'Facial',
-      'Blowjob', 'Stockings', 'On Stairs'],
+      'Blowjob', 'Stockings', 'On Stairs', 'Off the Ground', 'Cunnilingus', 'Anilingus', 'Face Sitting', '69', 'Missionary', 'Feet'],
     'release': moment('2014-01-15')
   },
   {
