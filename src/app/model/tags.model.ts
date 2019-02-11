@@ -62,6 +62,8 @@ export type Tag =
   | 'Finger in Butt'
   | 'Fingering'
   | 'Off the Ground'
+  | 'Leash'
+  | 'Key Necklace'
   | 'Clothed'
   | 'Panty Gag'
   | 'Feet'

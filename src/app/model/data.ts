@@ -687,7 +687,9 @@ export let data: Scene[] = [
     'playtime': '0:26:32',
     'partners': ['Manuel Ferrara'],
     'links': ['https://angelawhite.empirestores.co/1866301/angela-loves-men-2-porn-movies.html'],
-    'tags': ['Birthmark left inner thigh', 'Speaking French', 'On Couch', 'Stockings', 'Feet'],
+    'tags': ['Birthmark left inner thigh', 'Speaking French', 'On Couch', 'Stockings', 'Feet', 'Fingering', 'Cunnilingus',
+      'Feet', 'Leash', 'Titty Fuck', 'Blowjob', 'Handjob', 'Deepthroat', 'Anilingus', 'Side Fuck', 'Missionary', 'Doggy',
+      'Cowgirl', 'Face Sitting', 'Reverse Cowgirl', 'Choking', 'Standing'],
     'release': moment('2014-04-09')
   },
   {
@@ -878,7 +880,9 @@ export let data: Scene[] = [
     'playtime': '1:02:03',
     'partners': ['Toni Ribas'],
     'links': ['https://angelawhite.empirestores.co/1786446/angela-loves-gonzo-porn-movies.html'],
-    'tags': ['Boy/Girl', 'AVN Best Gonzo Movie 2017'],
+    'tags': ['Boy/Girl', 'POV', 'Candid', 'On Bed', 'Key Necklace', 'Elbow Birthmark', 'Blowjob', 'Deepthroat', 'Feet',
+      'Titty Fuck', 'Vaginal', 'Cunnilingus', 'Missionary', 'Fingering', 'Choking', 'Cowgirl', 'Doggy', 'Spanking',
+      'Finger in Butt', 'Squirt', 'Reverse Cowgirl', 'Side Fuck', 'AVN Best Gonzo Movie 2017'],
     'release': moment('2014-08-06')
   },
   {
@@ -1617,7 +1621,8 @@ export let data: Scene[] = [
     'playtime': '0:39:10',
     'partners': ['A. J. Applegate'],
     'links': ['https://angelawhite.empirestores.co/1827227/angela-loves-women-2-porn-movies.html'],
-    'tags': ['Girl/Girl'],
+    'tags': ['Girl/Girl', 'Blond', 'On Couch', 'Cunnilingus', 'Fingering', 'Elbow Birthmark', 'Anilingus', 'Feet',
+      'Neck Tattoo', 'Face Sitting', 'Tribbing', 'Choking'],
     'release': moment('2016-07-06')
   },
   {
@@ -1628,7 +1633,7 @@ export let data: Scene[] = [
     'playtime': '0:14:52',
     'partners': ['David'],
     'links': [],
-    'tags': ['Boy/Girl', 'Candid', 'POV'],
+    'tags': ['Boy/Girl', 'Candid', 'POV', 'Bath', 'Water', 'Blowjob', 'Deepthroat', 'Titty Fuck', 'Standing', 'Vaginal'],
     'release': moment('2016-08-23')
   },
   {
@@ -5981,7 +5986,7 @@ export let data: Scene[] = [
   },
   {
     'producer': 'vixenx.com',
-    'series': 'property sex',
+    'series': 'Property Sex',
     'title': 'Landlord Roleplay',
     'altTitles': ['Angela White'],
     'playtime': '0:48:16',
@@ -5993,14 +5998,15 @@ export let data: Scene[] = [
   },
   {
     'producer': 'vixenx.com',
-    'series': 'property sex',
-    'title': ' Putting Out The Signels',
+    'series': 'Property Sex',
+    'title': 'Putting Out The Signals',
     'altTitles': [],
     'playtime': '0:39:36',
     'partners': [],
     'links': [],
     'tags': ['Boy/Girl', 'Acting', 'Vaginal', 'On Couch', 'Winking', 'Comedy', 'POV', 'Blowjob', 'Spanking', 'Deepthroat',
-      'Titty Fuck', 'Birthmark left inner thigh', 'Elbow Birthmark', 'Cowgirl', 'Reverse Cowgirl', 'Anilingus'],
+      'Titty Fuck', 'Birthmark left inner thigh', 'Elbow Birthmark', 'Missionary', 'Doggy', 'Cowgirl', 'Reverse Cowgirl',
+      'Anilingus', 'Clothed'],
     'release': moment('2018-03-31')
   },
   {
