@@ -5503,7 +5503,7 @@ export let data: Scene[] = [
     'producer': 'realitykings.com',
     'series': 'RK Prime',
     'title': 'Little Red Hood Riding XXX Parody',
-    'altTitles': [],
+    'altTitles': ['RK Prime 12 - Scene 5'],
     'playtime': '0:31:45',
     'partners': ['Ramon Nomar'],
     'links': ['https://angelawhite.empirestores.co/2608018/rk-prime-12-porn-movies.html'],
