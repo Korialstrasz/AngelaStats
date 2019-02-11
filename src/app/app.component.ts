@@ -1,5 +1,6 @@
 import {Component} from '@angular/core';
 import {Location, LocationStrategy, PathLocationStrategy} from '@angular/common';
+import {environment} from '../environments/environment';
 
 @Component({
   selector: 'aws-root',
@@ -12,6 +13,7 @@ export class AppComponent {
   searchTermScene = '';
   searchTermStats = '';
   toggle = 'scene';
+  buildTime = environment.version;
 
   constructor(private loc: Location) {
     const query = loc.path().replace('?', '');

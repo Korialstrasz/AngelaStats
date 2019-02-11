@@ -10,6 +10,7 @@
     </mat-button-toggle>
   </mat-button-toggle-group>
   <a href="https://twitter.com/intent/tweet?text=@korialstraszbob " target="_blank" class="tweet center"> Feedback? Tweet @me</a>
+  <span class="center">{{buildTime}}</span>
 </div>
 
 <aws-scene-overview *ngIf="toggle === 'scene'" [searchTerm]="searchTermScene"></aws-scene-overview>
