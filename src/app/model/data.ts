@@ -1913,7 +1913,10 @@ export let data: Scene[] = [
     'playtime': '0:39:20',
     'partners': ['Mick Blue', 'Markus Dupree'],
     'links': ['https://angelawhite.empirestores.co/1928357/angela-vol-3-porn-movies.html'],
-    'tags': ['Boy/Boy/Girl', 'AVN Best Double Penetration Sex Scene 2018', 'AVN Best Star Showcase 2018'],
+    'tags': ['Boy/Boy/Girl', 'Blowjob', 'On Couch', 'Anal', 'Doggy', 'Gaping', 'Elbow Birthmark', 'Dirty Talk', 'Reverse Cowgirl',
+      'DP', 'Double Penetration', 'Choking', 'Anilingus', 'Cowgirl', 'Vaginal', 'DV', 'Double Vaginal', 'Spooning', 'DA',
+      'Double Anal', 'Missionary', 'Squirt', 'Pussy to Ass', 'Ass to Pussy', 'Standing',
+      'AVN Best Double Penetration Sex Scene 2018', 'AVN Best Star Showcase 2018'],
     'release': moment('2017-09-21')
   },
   {
@@ -2544,7 +2547,7 @@ export let data: Scene[] = [
     'title': 'Big tits vs monster cock',
     'altTitles': ['Girls Of Bangbros Vol. 76: Angela White - Scene 3'],
     'playtime': '0:35:23',
-    'partners': ['Unknown'],
+    'partners': ['Slim Poke'],
     'links': [],
     'tags': ['Boy/Girl', 'Interracial'],
     'release': moment('2017-09-24')
@@ -3084,10 +3087,10 @@ export let data: Scene[] = [
     'producer': 'ddfnetwork.com',
     'series': '',
     'title': 'Doing Double Duty',
-    'altTitles': [],
+    'altTitles': ['Titty Pleasures -, Scene X'],
     'playtime': '0:32:52',
     'partners': [],
-    'links': [],
+    'links': ['https://angelawhite.empirestores.co/2605258/titty-pleasures-porn-movies.html'],
     'tags': ['Elbow Birthmark', 'Neck Tattoo', 'POV', 'Blowjob', 'Deepthroat', 'Cowgirl', 'Reverse Cowgirl', 'On Bed', 'Missionary'],
     'release': moment('2018-12-05')
   },
@@ -4841,7 +4844,7 @@ export let data: Scene[] = [
     'playtime': '0:58:54',
     'partners': ['Jean Paul The Pope'],
     'links': ['https://angelawhite.empirestores.co/2582619/hogtied-vol-28-roped-and-groped-by-the-pope-porn-videos.html'],
-    'tags': ['BDSM', 'Rope', 'Suspention', 'Dildo', 'Cane', 'Ball Gag', 'Nipple Clamps', 'Bastinado', 'Spanking'],
+    'tags': ['Rope Bondage', 'Suspension', 'Dildo', 'Cane', 'Ball Gag', 'Nipple Clamps', 'Bastinado', 'Spanking'],
     'release': moment('2018-02-15')
   },
   {
@@ -5108,8 +5111,19 @@ export let data: Scene[] = [
     'playtime': '0:47:26',
     'partners': ['Mick Blue'],
     'links': ['https://angelawhite.empirestores.co/2589907/hotwife-bound-4-porn-movies.html'],
-    'tags': ['Stockings', 'Elbow Birthmark', 'Sybian', 'Cuckhold', 'Squirt', 'Spanking', 'On Couch', 'Blowjob', 'Deepthroat',
-      'Vaginal', 'Face Fuck', '69', 'Anilingus', 'Feet', 'Pussy to Mouth'],
+    'tags': ['Stockings', 'Elbow Birthmark', 'Sybian', 'Cuckhold', 'Squirt', 'Spanking', 'Rope Bondage', 'Shackles',
+      'On Couch', 'Blowjob', 'Deepthroat', 'Vaginal', 'Side Fuck', 'Face Fuck', '69', 'Anilingus', 'Doggy', 'Feet', 'Pussy to Mouth'],
+    'release': moment('2018-12-10')
+  },
+  {
+    'producer': 'newsensations.com',
+    'series': 'Tales From The Edge',
+    'title': 'Hotwife Bound 4 BTS',
+    'altTitles': [],
+    'playtime': '0:13 :26',
+    'partners': ['Mick Blue'],
+    'links': ['https://angelawhite.empirestores.co/2589907/hotwife-bound-4-porn-movies.html'],
+    'tags': ['BTS'],
     'release': moment('2018-12-10')
   },
   {
@@ -6177,7 +6191,7 @@ export let data: Scene[] = [
     'playtime': '0:15:24',
     'partners': [],
     'links': [],
-    'tags': ['Solo', 'BDSM', 'Rope'],
+    'tags': ['Solo', 'Rope Bondage'],
     'release': moment('2011-09-01')
   },
   {
