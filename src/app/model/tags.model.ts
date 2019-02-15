@@ -1,6 +1,6 @@
 export type Tag =
   'BTS'
-  | 'Birthmark left inner thigh'
+  | 'Birthmark Left Inner Thigh'
   | 'Speaking French'
   | 'blue vintage bug'
   | 'Elbow Birthmark'
