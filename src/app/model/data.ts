@@ -318,9 +318,9 @@ export let data: Scene[] = [
     'title': 'Submissive Wifes - Scene 4',
     'altTitles': [],
     'playtime': '0:31:30',
-    'partners': [],
+    'partners': ['Marcus London'],
     'links': ['https://angelawhite.empirestores.co/2589225/submissive-wives-porn-movies.html'],
-    'tags': [],
+    'tags': ['Boy/Girl', 'Spanking', 'Rope Bondage', 'On Couch', 'Blowjob'],
     'release': moment('2018-11-23')
   },
   {
@@ -2580,7 +2580,7 @@ export let data: Scene[] = [
     'title': 'Lena Gets Her Groove Back',
     'altTitles': ['Interracial Icon Vol. 4 - Scene 2'],
     'playtime': '0:41:06',
-    'partners': ['Jason Brown'],
+    'partners': ['Jason Brown', 'Lena Paul'],
     'links': ['https://angelawhite.empirestores.co/1896122/interracial-icon-vol-4-porn-movies.html'],
     'tags': [],
     'release': moment('2016-12-26')
@@ -2626,7 +2626,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:35:16',
     'partners': ['Markus Dupree'],
-    'links': [],
+    'links': ['https://angelawhite.empirestores.co/2620593/bubble-butt-anal-slut-4-porn-movies.html'],
     'tags': [],
     'release': moment('2017-04-14')
   },
@@ -3348,6 +3348,18 @@ export let data: Scene[] = [
     'links': ['https://angelawhite.empirestores.co/1947185/anal-fitness-sluts-porn-videos.html'],
     'tags': [],
     'release': moment('2017-11-18')
+  },
+  {
+    'producer': 'evilangel.com',
+    'series': '',
+    'title': 'Oil Slick 2 - Scene X',
+    'altTitles': [],
+    'playtime': '',
+    'partners': ['Mick Blue', 'Ramon Nomar'],
+    'links': ['https://angelawhite.empirestores.co/2611159/oil-slick-2-porn-movies.html'],
+    'tags': ['Boy/Boy/Girl', 'Vaginal', 'Anal', 'Standing', 'Cowgirl', 'Reverse Cowgirl', 'DP', 'Double Penetration',
+      'Oil', 'Blowjob', 'Titty Fuck', 'Doggy', 'Fingering', 'Side Rider'],
+    'release': moment('2019-03-18')
   },
   {
     'producer': 'evilangel.com',
@@ -5231,7 +5243,9 @@ export let data: Scene[] = [
     'partners': ['Damon Dice'],
     'links': ['https://angelawhite.empirestores.co/2583133/watching-my-hotwife-4-porn-videos.html',
       'https://angelawhite.empirestores.co/2610919/another-mans-wife-5-porn-movies.html'],
-    'tags': [],
+    'tags': ['Boy/Girl', 'Voyeur', 'Elbow Birthmark', 'Blowjob', 'Deepthroat', 'Jerk Off Instructions', 'Dirty Talk',
+      'Titty Fuck', 'On Chair', 'Clothed', 'Fingering', 'Choking', 'Reverse Cowgirl', 'Side Fuck', 'Squirt', 'On Bed',
+      'Doggy', 'Anilingus', 'Missionary'],
     'release': moment('2018-10-29')
   },
   {
