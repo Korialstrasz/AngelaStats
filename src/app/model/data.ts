@@ -2643,7 +2643,7 @@ export let data: Scene[] = [
     'links': [],
     'tags': ['Boy/Girl', 'Anal', 'On Couch', 'Bodysuit', 'Clothed', 'Jeweled Butt Plug', 'On Chair', 'Blowjob',
       'Deepthroat', 'Titty Fuck', 'Cunnilingus', 'Vaginal', 'On Desk', 'Standing', 'Cowgirl', 'Reverse Cowgirl',
-      'Side Rider', 'Side Fuck', 'Choking'],
+      'Side-Saddle Cowgirl', 'Side Fuck', 'Choking'],
     'release': moment('2019-02-07')
   },
   {
@@ -2699,7 +2699,7 @@ export let data: Scene[] = [
     'partners': ['Prince Yahshua'],
     'links': [],
     'tags': ['Boy/Girl', 'On Desk', 'Interracial', 'On Chair', 'Acting', 'Comedy', 'Vaginal', 'Blowjob',
-      'Facial', 'Side Rider', 'Clothed'],
+      'Facial', 'Side-Saddle Cowgirl', 'Clothed'],
     'release': moment('2018-01-22')
   },
   {
@@ -2876,7 +2876,7 @@ export let data: Scene[] = [
     'partners': ['Xander Corvus'],
     'links': [],
     'tags': ['Boy/Girl', 'Blowjob', 'Deepthroat', 'Cowgirl', 'Cum on Tits', 'Facial', 'Missionary', 'Reverse Cowgirl',
-      'Side Fuck', 'Side Rider', 'Titty Fuck', 'Elbow Birthmark', 'On Couch', 'Cheating', 'Standing', 'Choking', 'Clothed'],
+      'Side Fuck', 'Side-Saddle Cowgirl', 'Titty Fuck', 'Elbow Birthmark', 'On Couch', 'Cheating', 'Standing', 'Choking', 'Clothed'],
     'release': moment('2018-12-31')
   },
   {
@@ -3204,7 +3204,7 @@ export let data: Scene[] = [
     'playtime': '0:41:13',
     'partners': ['Isiah Maxwell', 'Moe Johnson'],
     'links': ['https://angelawhite.empirestores.co/1930697/angela-white-is-titwoman-porn-movies.html'],
-    'tags': ['Gloryhole', 'Interracial'],
+    'tags': ['Gloryhole', 'Interracial', 'On Chair', 'Dildo'],
     'release': moment('2017-09-16')
   },
   {
@@ -3361,7 +3361,7 @@ export let data: Scene[] = [
     'partners': ['Mick Blue', 'Ramon Nomar'],
     'links': ['https://angelawhite.empirestores.co/2611159/oil-slick-2-porn-movies.html'],
     'tags': ['Boy/Boy/Girl', 'Vaginal', 'Anal', 'Standing', 'Cowgirl', 'Reverse Cowgirl', 'DP', 'Double Penetration',
-      'Oil', 'Blowjob', 'Titty Fuck', 'Doggy', 'Fingering', 'Side Rider'],
+      'Oil', 'Blowjob', 'Titty Fuck', 'Doggy', 'Fingering', 'Side-Saddle Cowgirl'],
     'release': moment('2019-03-18')
   },
   {
@@ -3934,7 +3934,8 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:58:38',
     'partners': ['Milana May'],
-    'links': ['https://angelawhite.empirestores.co/2505461/lesbian-psychodramas-vol-29-porn-videos.html'],
+    'links': ['https://angelawhite.empirestores.co/2505461/lesbian-psychodramas-vol-29-porn-videos.html',
+      'https://angelawhite.empirestores.co/2550510/olderyounger-unrefined-5-popporn-exclusive-porn-movies.html'],
     'tags': [],
     'release': moment('2018-06-06')
   },
@@ -5416,7 +5417,9 @@ export let data: Scene[] = [
     'playtime': '1:06:28',
     'partners': ['Charles Dera', 'Karlee Grey'],
     'links': ['https://angelawhite.empirestores.co/2510582/electra-complex-the-porn-movies.html'],
-    'tags': ['Elbow Birthmark', 'Acting', 'Boy/Girl/Girl', 'Girl/Girl'],
+    'tags': ['Elbow Birthmark', 'Acting', 'Boy/Girl', 'Boy/Girl/Girl', 'Girl/Girl', 'Fauxcest', 'Blowjob', 'On Chair',
+      'Handjob', 'Standing', 'Deepthroat', 'Cowgirl', 'Neck Tattoo', 'Cunnilingus', 'Tribbing', 'Fingering', 'Squirt',
+      'Face Sitting', 'On Desk', 'Missionary', 'Side Fuck'],
     'release': moment('2017-12-26')
   },
   {
