@@ -1500,8 +1500,10 @@ export let data: Scene[] = [
     'playtime': '0:53:42',
     'partners': ['Erik Everhard', 'James Deen', 'John Strong', 'Mick Blue', 'Mr Pete'],
     'links': ['https://angelawhite.empirestores.co/1752871/angela-vol-2-porn-movies.html'],
-    'tags': ['Boy/Girl', 'Gangbang', 'Standing', 'Blowjob', 'Vaginal', 'Anal', 'Double Penetration', 'DP',
-      'Triple Penetration', 'TP', 'Double Vaginal', 'DV', 'Double Anal', 'DA', 'Off the Ground'],
+    'tags': ['Boy/Girl', 'Gangbang', 'Doggy', 'On Couch', 'Missionary', 'Choking', 'Side Fuck', 'Fingering', 'Feet',
+      'Gaping', 'Cowgirl', 'Standing', 'Blowjob', 'Vaginal', 'Anal', 'Double Penetration', 'DP',
+      'Triple Penetration', 'TP', 'Double Vaginal', 'DV', 'Double Anal', 'DA', 'Reverse Cowgirl', 'Off the Ground', 'Pussy to Ass',
+      'Switching Holes', 'Spooning'],
     'release': moment('2016-03-26')
   },
   {
@@ -5856,7 +5858,7 @@ export let data: Scene[] = [
     'partners': ['Mike Adriano'],
     'links': [],
     'tags': ['Birthmark Left Inner Thigh', 'Anal', 'Boy/Girl', 'Dirty Talk', 'Lube', 'Squirt', 'Hitachi', 'Fishnet',
-      'Blowjob', 'Deepthroat', 'Vaginal', 'Ass to Pussy', 'Ass to Mouth'],
+      'Blowjob', 'Deepthroat', 'Vaginal', 'Ass to Pussy', 'Switching Holes', 'Ass to Mouth'],
     'release': moment('2018-12-14')
   },
   {

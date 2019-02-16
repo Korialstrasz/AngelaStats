@@ -57,6 +57,7 @@ export type Tag =
   | 'Blowjob'
   | '69'
   | 'Deepthroat'
+  | 'Switching Holes'
   | 'Roleplay'
   | 'Missionary'
   | 'Finger in Butt'
