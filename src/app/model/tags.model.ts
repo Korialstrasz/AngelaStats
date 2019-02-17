@@ -14,6 +14,7 @@ export type Tag =
   | 'Glasses'
   | 'Side-Saddle Cowgirl'
   | 'Candid'
+  | 'Spit'
   | 'Cheating'
   | 'Face Fuck'
   | 'Anilingus'

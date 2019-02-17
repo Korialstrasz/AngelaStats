@@ -3452,7 +3452,7 @@ export let data: Scene[] = [
     'partners': ['John Stegliano'],
     'links': ['https://angelawhite.empirestores.co/1916211/buttman-anal-oral-antics-porn-videos.html',
       'https://angelawhite.empirestores.co/2598622/buttmans-jerkoff-file-porn-movies.html'],
-    'tags': [],
+    'tags': ['Solo', 'Choking', 'Elbow Birthmark', 'Spanking', 'Feet', 'Finger in Butt', 'Dildo', 'Spit', 'Vibrator'],
     'release': moment('2017-06-10')
   },
   {
