@@ -1,9 +1,28 @@
 <section id="searchUi">
-  <form class="row" [formGroup]="form">
+  <form [formGroup]="form">
+    <section class="row">
     <mat-form-field class="example-full-width">
       <input matInput placeholder="search" formControlName="searchTerm" >
     </mat-form-field>
     <span class="center">http://angelastats-99708.firebaseapp.com/?scene={{form.get('searchTerm').value}}</span>
+    </section>
+    <section class="row">
+      <span class="mr-1">Sort by: </span>
+      <mat-radio-group formControlName="sortType">
+        <mat-radio-button class="mr-1" value="site">
+          Site
+        </mat-radio-button>
+        <mat-radio-button class="mr-1" value="title">
+          Titel
+        </mat-radio-button>
+        <mat-radio-button class="mr-1" value="releaseDesc">
+          Release Date Descending
+        </mat-radio-button>
+        <mat-radio-button class="mr-1" value="releaseAsc">
+          Release Date Ascending
+        </mat-radio-button>
+      </mat-radio-group>
+    </section>
   </form>
 
 </section>

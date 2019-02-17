@@ -3,8 +3,9 @@ import {data} from '../model/data';
 import {merge, Observable, of} from 'rxjs';
 import {Scene} from '../model/scene.model';
 import {FormBuilder} from '@angular/forms';
-import {map, switchMap} from 'rxjs/operators';
-import {Location, LocationStrategy, PathLocationStrategy} from '@angular/common';
+import {map, switchMap, withLatestFrom} from 'rxjs/operators';
+import * as moment from 'moment';
+
 
 @Component({
   selector: 'aws-scene-overview',
@@ -17,7 +18,8 @@ export class SceneOverviewComponent implements OnInit {
   searchTerm = '';
 
   form = this.fb.group({
-    searchTerm: ''
+    searchTerm: '',
+    sortType: 'site'
   });
   data$: Observable<Scene[]>;
 
@@ -25,15 +27,24 @@ export class SceneOverviewComponent implements OnInit {
   }
 
   ngOnInit(): void {
-    const form$ = this.form.get('searchTerm').valueChanges.pipe(
+    const filter$ = this.form.get('searchTerm').valueChanges.pipe(
       switchMap(value => of(this.filterData(value))),
       map(filter => {
         if (!filter || filter.length === 0) {
           return data;
         }
         return filter;
-      }));
-    this.data$ = merge(of(this.filterData(this.searchTerm)), form$);
+      }),
+      map(scenes => this.sort(scenes)));
+
+    const filteredData$ = merge(of(this.filterData(this.searchTerm)), filter$);
+
+    const sort$ = this.form.get('sortType').valueChanges.pipe(
+      withLatestFrom(filteredData$),
+      map(([sortType, scenes]) => this.sort(scenes, sortType))
+    );
+
+    this.data$ = merge(filteredData$, sort$);
     this.form.get('searchTerm').patchValue(this.searchTerm);
   }
 
@@ -51,6 +62,34 @@ export class SceneOverviewComponent implements OnInit {
 
   contains(value: string, contain: string): boolean {
     return value.toLowerCase().includes(contain.toLowerCase());
+  }
+
+  sort(scenes: Scene[], sortType = this.form.get('sortType').value): Scene[] {
+    switch (sortType) {
+      case 'site':
+        return scenes.sort((a, b) => a.producer.localeCompare(b.producer));
+      case 'title':
+        return scenes.sort((a, b) => a.title.localeCompare(b.title));
+      case 'releaseDesc':
+        return scenes.sort((a, b) => -1 * this.sortMoment(a, b));
+      case 'releaseAsc':
+        return scenes.sort((a, b) => this.sortMoment(a, b));
+    }
+
+    return scenes;
+  }
+
+  sortMoment(a: Scene, b: Scene): number {
+
+    if (!a.release) {
+      a.release = moment(0);
+    }
+
+    if (!b.release) {
+      b.release = moment(0);
+    }
+    return a.release.diff(b.release);
+
   }
 
 

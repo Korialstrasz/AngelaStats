@@ -2899,7 +2899,7 @@ export let data: Scene[] = [
     'partners': ['Karma Rx', 'Xander Corvus'],
     'links': ['https://angelawhite.empirestores.co/2510580/xanders-world-tour-porn-movies.html'],
     'tags': [],
-    'release': moment('2019-02-24')
+    'release': moment('2018-02-24')
   },
   {
     'producer': 'bskow.com',
@@ -6031,7 +6031,7 @@ export let data: Scene[] = [
     'links': [],
     'tags': ['POV', 'Acting', 'Boy/Girl', 'On Couch', 'Roleplay', 'Birthmark Left Inner Thigh', 'Blowjob', 'Titty Fuck',
       'Deepthroat', 'Vaginal', 'Reverse Cowgirl', 'Cowgirl', 'Choking', 'Doggy', 'Spanking', 'Cum on Tits'],
-    'release': moment('2019-01-04')
+    'release': moment('2018-01-04')
   },
   {
     'producer': 'vixenx.com',
