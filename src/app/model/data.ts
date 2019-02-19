@@ -4860,7 +4860,9 @@ export let data: Scene[] = [
     'playtime': '0:58:54',
     'partners': ['Jean Paul The Pope'],
     'links': ['https://angelawhite.empirestores.co/2582619/hogtied-vol-28-roped-and-groped-by-the-pope-porn-videos.html'],
-    'tags': ['Rope Bondage', 'Suspension', 'Dildo', 'Cane', 'Ball Gag', 'Nipple Clamps', 'Bastinado', 'Spanking'],
+    'tags': ['Standing', 'Choking', 'Rope Bondage', 'Fingering', 'Squirt', 'Whipping', 'Clamps', 'Neck Tattoo',
+      'Spanking', 'Hitachi', 'Rubberbands', 'Feet', 'Elbow Birthmark', 'Blowjob', 'Deepthroat', 'Birthmark Left Inner Thigh',
+      'Suspension', 'Dildo', 'Cane', 'Ball Gag', 'Nipple Clamps', 'Bastinado', 'Spanking'],
     'release': moment('2018-02-15')
   },
   {
