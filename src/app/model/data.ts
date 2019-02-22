@@ -789,7 +789,7 @@ export let data: Scene[] = [
     'playtime': '0:59:18',
     'partners': ['Ramon Nomar'],
     'links': ['https://angelawhite.empirestores.co/1786446/angela-loves-gonzo-porn-movies.html'],
-    'tags': ['POV', 'Candid', 'Bath', 'Standing', 'Boy/Girl', 'Vaginal', 'On Bed', 'Doggy', 'Cowgirl', 'Titty Fuck',
+    'tags': ['POV', 'Candid', 'Bath', 'In Car', 'Standing', 'Boy/Girl', 'Vaginal', 'On Bed', 'Doggy', 'Cowgirl', 'Titty Fuck',
       'Missionary', 'Finger in Butt', 'Side Fuck', 'Choking', 'Clothed', 'Against Wall', 'AVN Best Gonzo Movie 2017'],
     'release': moment('2014-06-11')
   },
@@ -2630,7 +2630,9 @@ export let data: Scene[] = [
     'playtime': '0:35:16',
     'partners': ['Markus Dupree'],
     'links': ['https://angelawhite.empirestores.co/2620593/bubble-butt-anal-slut-4-porn-movies.html'],
-    'tags': [],
+    'tags': ['Boy/Girl', 'In Car', 'Outside', 'Anal', 'Elbow Birthmark', 'Blowjob', 'Anilingus', 'Finger in Butt',
+      'Doggy', 'Gaping', 'Standing', 'Off the Ground', 'Reverse Cowgirl', 'Fingering', 'Birthmark Left Inner Thigh',
+      'Titty Fuck', 'Cunnilingus', 'Missionary', 'Squirt', 'Deepthroat', 'Cowgirl'],
     'release': moment('2017-04-14')
   },
   {
@@ -3428,7 +3430,7 @@ export let data: Scene[] = [
     'playtime': '0:48:22',
     'partners': ['John Strong', 'Markus Dupree', 'Steve Holmes', 'Mick Blue', 'Mr. Pete'],
     'links': ['https://angelawhite.empirestores.co/2592365/angela-by-darkko-porn-videos.html'],
-    'tags': ['Elbow Birthmark', 'Birthmark Left Inner Thigh', 'Boy/Girl', 'Gangbang', 'Blowjob', 'Vaginal', 'Anal',
+    'tags': ['Elbow Birthmark', 'Birthmark Left Inner Thigh', 'Boots', 'Gangbang', 'Blowjob', 'Vaginal', 'Anal',
       'Double Penetration', 'DP', 'Triple Penetration', 'TP', 'Double Vaginal', 'DV', 'Double Anal', 'DA'],
     'release': moment(' 2018-12-01')
   },
@@ -4864,6 +4866,20 @@ export let data: Scene[] = [
       'Spanking', 'Hitachi', 'Rubberbands', 'Feet', 'Elbow Birthmark', 'Blowjob', 'Deepthroat', 'Birthmark Left Inner Thigh',
       'Suspension', 'Dildo', 'Cane', 'Ball Gag', 'Nipple Clamps', 'Bastinado', 'Spanking'],
     'release': moment('2018-02-15')
+  },
+  {
+    'producer': 'ladygonzo.com',
+    'series': '',
+    'title': 'Joanna Angel & Angela White',
+    'altTitles': [],
+    'playtime': '0:53:36',
+    'partners': ['Joanna Angel', 'Ramon Nomar'],
+    'links': [],
+    'tags': ['Girl/Girl', 'Outside', 'Cunnilingus', 'Fingering', 'Boots', 'Jeweled Butt Plug', 'Finger in Butt', 'On Couch',
+      'Anilingus', 'Clothed', 'Vaginal', 'Missionary', 'Blowjob', 'Boy/Girl/Girl', 'Deepthroat', '69', 'Face Sitting',
+      'Reverse Cowgirl', 'Oil', 'Squirt', 'Cowgirl', 'Anal', 'Doggy', 'Pussy Stack', 'Ass to Pussy', 'Pussy to Ass',
+      'Elbow Birthmark', 'Choking', 'Anal Creampie', 'Creampie Eating', 'Cum Swap'],
+    'release': moment('2019-02-21')
   },
   {
     'producer': 'loveherfeet.com',
