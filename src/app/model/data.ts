@@ -2512,10 +2512,10 @@ export let data: Scene[] = [
     'producer': 'bangbros.com',
     'series': 'Big Tits, Round Asses',
     'title': 'Happy Ending',
-    'altTitles': [],
+    'altTitles': ['Girls Of Bangbros Vol. 76 - Scene 5'],
     'playtime': '0:42:47',
     'partners': ['Unknown'],
-    'links': [],
+    'links': ['https://angelawhite.empirestores.co/1969197/girls-of-bangbros-vol-76-angela-white-porn-movies.html'],
     'tags': [],
     'release': moment('2017-07-27')
   },
@@ -2551,7 +2551,7 @@ export let data: Scene[] = [
     'altTitles': ['Girls Of Bangbros Vol. 76: Angela White - Scene 3'],
     'playtime': '0:35:23',
     'partners': ['Slim Poke'],
-    'links': [],
+    'links': ['https://angelawhite.empirestores.co/1969197/girls-of-bangbros-vol-76-angela-white-porn-movies.html'],
     'tags': ['Boy/Girl', 'Interracial'],
     'release': moment('2017-09-24')
   },
@@ -3206,7 +3206,7 @@ export let data: Scene[] = [
     'playtime': '0:41:13',
     'partners': ['Isiah Maxwell', 'Moe Johnson'],
     'links': ['https://angelawhite.empirestores.co/1930697/angela-white-is-titwoman-porn-movies.html'],
-    'tags': ['Gloryhole', 'Interracial', 'On Chair', 'Dildo'],
+    'tags': ['Gloryhole', 'Interracial', 'On Chair', 'Dildo', 'Handjob', 'Titty Fuck', 'Blowjob', 'Deepthroat'],
     'release': moment('2017-09-16')
   },
   {
@@ -3217,7 +3217,7 @@ export let data: Scene[] = [
     'playtime': '0:28:12',
     'partners': ['Markus Dupree'],
     'links': ['https://angelawhite.empirestores.co/1930697/angela-white-is-titwoman-porn-movies.html'],
-    'tags': [],
+    'tags': ['Boy/Girl'],
     'release': moment('2017-09-16')
   },
   {
@@ -3663,7 +3663,9 @@ export let data: Scene[] = [
     'playtime': '0:39:21',
     'partners': ['Prince Yahshua'],
     'links': ['https://angelawhite.empirestores.co/2589267/top-heavy-sluts-porn-videos.html'],
-    'tags': ['Boy/Girl', 'Interracial'],
+    'tags': ['Boy/Girl', 'Interracial', 'On Couch', 'Blowjob', 'Deepthroat', 'Titty Fuck', 'Cunnilingus', 'Vaginal',
+      'Missionary', 'Choking', 'Cowgirl', 'Anilingus', 'Finger in Butt', 'Doggy', 'Elbow Birthmark', 'Gaping', 'Handjob',
+      'Squirt', 'Reverse Cowgirl', 'Pussy to Ass', 'Ass to Pussy', 'Side Fuck', 'Side-Saddle Cowgirl', 'Spooning'],
     'release': moment(' 2018-11-24')
   },
   {
