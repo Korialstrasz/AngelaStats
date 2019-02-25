@@ -3430,8 +3430,9 @@ export let data: Scene[] = [
     'playtime': '0:48:22',
     'partners': ['John Strong', 'Markus Dupree', 'Steve Holmes', 'Mick Blue', 'Mr. Pete'],
     'links': ['https://angelawhite.empirestores.co/2592365/angela-by-darkko-porn-videos.html'],
-    'tags': ['Elbow Birthmark', 'Birthmark Left Inner Thigh', 'Boots', 'Gangbang', 'Blowjob', 'Vaginal', 'Anal',
-      'Double Penetration', 'DP', 'Triple Penetration', 'TP', 'Double Vaginal', 'DV', 'Double Anal', 'DA'],
+    'tags': ['Elbow Birthmark', 'Birthmark Left Inner Thigh', 'Boots', 'Gangbang', 'Blowjob', 'Deepthroat', 'Vaginal',
+      'Doggy', 'Anal', 'Handjob', 'Cowgirl', 'Double Penetration', 'DP', 'Choking', 'Gaping', 'Reverse Cowgirl',
+      'Triple Penetration', 'TP', 'Double Vaginal', 'DV', 'Double Anal', 'DA', 'Switching Holes'],
     'release': moment(' 2018-12-01')
   },
   {
@@ -5572,7 +5573,10 @@ export let data: Scene[] = [
     'playtime': '0:36:27',
     'partners': ['Adriana Chechik', 'Xander Corvus'],
     'links': [],
-    'tags': [],
+    'tags': ['Vibrator', 'Squirt', 'Face Sitting', 'POV', 'Blowjob', 'Deepthroat', 'Titty Fuck', 'Anilingus', 'Vaginal',
+      'Standing', 'Choking', 'Anal', 'Birthmark Left Inner Thigh', 'Doggy', 'Pussy to Mouth', 'Pussy to Ass', 'Cunnilingus',
+      'Ass to Mouth', 'Cowgirl', 'Dirty Talk', 'Reverse Cowgirl', 'Spanking', 'Finger in Butt', 'Pile Driver', 'Ass to Pussy',
+      'Switching Holes', 'Gaping', 'Pussy Stack', 'Cum Swap'],
     'release': moment('2018-11-08')
   },
   {

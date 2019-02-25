@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  version: 'Last Update: 24.02.2019 16:15:46'
+  version: 'Last Update: 25.02.2019 20:26:37'
 };
