@@ -3419,7 +3419,7 @@ export let data: Scene[] = [
     'playtime': '0:35:38',
     'partners': ['Kristina Rose', 'Mick Blue'],
     'links': ['https://angelawhite.empirestores.co/2592365/angela-by-darkko-porn-videos.html'],
-    'tags': ['Elbow Birthmark', 'Birthmark Left Inner Thigh', 'Anal', 'Girl/Girl/Boy', 'Threesome', 'Dildo'],
+    'tags': ['Elbow Birthmark', 'Birthmark Left Inner Thigh', 'Anal', 'Boy/Girl/Girl', 'Threesome', 'Dildo'],
     'release': moment(' 2018-11-27')
   },
   {
@@ -5439,6 +5439,18 @@ export let data: Scene[] = [
   {
     'producer': 'puretaboo.com',
     'series': '',
+    'title': 'Immersion Therapy: A Jay Taylor Story',
+    'altTitles': [],
+    'playtime': '0:36:49',
+    'partners': ['Jay Taylor', 'Seth Gamble', 'Codey Steele'],
+    'links': [],
+    'tags': ['Boy/Girl', 'Cunnilingus', 'Anilingus', 'Doggy', 'Vaginal', 'Boy/Girl/Girl', 'Fingering', 'Boy/Boy/Girl/Girl',
+      'Blowjob', 'Cowgirl', 'Reverse Cowgirl', 'Neck Tattoo', 'DP', 'Double Penetration', 'Choking', 'Elbow Birthmark'],
+    'release': moment('2019-02-28')
+  },
+  {
+    'producer': 'puretaboo.com',
+    'series': '',
     'title': 'The Electra Complex',
     'altTitles': ['The Electra Complex - Scene 1'],
     'playtime': '1:06:28',
@@ -5513,7 +5525,9 @@ export let data: Scene[] = [
     'playtime': '0:33:58',
     'partners': ['Markus Dupree'],
     'links': ['https://angelawhite.empirestores.co/1972330/ass-that-wont-quit-porn-movies.html'],
-    'tags': ['Elbow Birthmark'],
+    'tags': ['Elbow Birthmark', 'Neck Tattoo', 'Cunnilingus', 'Doggy', 'On Couch', 'Vaginal', 'Gaping', 'Finger in Butt',
+      'Pussy to Ass', 'Anal', 'Anilingus', 'Blowjob', 'Titty Fuck', 'Missionary', 'Squirt', 'Standing', 'Off the Ground',
+      'Cowgirl', 'Birthmark Left Inner Thigh', 'Dirty Talk', 'Reverse Cowgirl'],
     'release': moment('2017-10-24')
   },
   {
