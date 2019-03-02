@@ -1962,10 +1962,11 @@ export let data: Scene[] = [
     'series': '',
     'title': 'Angela Loves Women 4 - Scene 1',
     'altTitles': [],
-    'playtime': '0:38:15',
+    'playtime': '0:39:17',
     'partners': ['Aidra Fox'],
     'links': ['https://angelawhite.empirestores.co/2521937/angela-loves-women-4-porn-movies.html'],
-    'tags': ['Girl/Girl', 'AVN Best All-Girl Movie 2019'],
+    'tags': ['Girl/Girl', 'On Bed', 'Grinding', 'Cunnilingus', 'Fingering', 'Spanking', 'Feet', 'Face Sitting', 'Anilingus',
+      'Elbow Birthmark', 'Neck Tattoo', '69', 'Tribbing', 'Choking', 'AVN Best All-Girl Movie 2019'],
     'release': moment('2018-07-27')
   },
   {

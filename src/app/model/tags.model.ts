@@ -10,6 +10,7 @@ export type Tag =
   | 'Standing 69'
   | 'Winking'
   | 'Cum on Pussy'
+  | 'Grinding'
   | 'Side Fuck'
   | 'Glasses'
   | 'Side-Saddle Cowgirl'
