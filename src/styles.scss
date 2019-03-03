@@ -7,7 +7,6 @@
 @import "~@angular/material/prebuilt-themes/indigo-pink.css";
 
 .center {
-  margin-left: 2rem;
   margin-top: auto;
   margin-bottom: auto;
 }
@@ -15,4 +14,11 @@
 
 .mr-1{
   margin-right: 1rem;
+}
+
+.mr-2{
+  margin-right: 2rem;
+}
+.overflow-hidden{
+  overflow: hidden;
 }

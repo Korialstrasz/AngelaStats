@@ -1,17 +1,15 @@
 <div class="row scene" (click)="showDetails = !showDetails">
-  <div class="col-3">
-    <p>
-      {{scene.producer}}<br>
-      <small>{{scene.series}}</small>
-    </p>
+  <div class="col-6 col-sm-3 overflow-hidden">
+    <p>{{scene.producer}}</p>
+    <p><small>{{scene.series}}</small></p>
   </div>
-  <div class="col-5">
+  <div class="col-6 col-sm-5">
     <p>{{scene.title}}</p>
   </div>
-  <div class="col-2">
+  <div class="col-6 col-sm-2">
     <p>{{scene.playtime}}</p>
   </div>
-  <div class="col-2">
+  <div class="col-6 col-sm-2">
     <p *ngFor="let link of scene.links"><a [href]="link">Buy here</a></p>
   </div>
 </div>
@@ -30,7 +28,7 @@
   </div>
   <div class="col-12">
     <p><b>Tags: </b>
-    <span *ngFor="let tag of scene.tags">{{tag}} </span></p>
+    <span >{{scene.tags.join(" | ")}} </span></p>
   </div>
 </div>
 
