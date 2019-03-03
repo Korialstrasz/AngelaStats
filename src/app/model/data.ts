@@ -1977,7 +1977,8 @@ export let data: Scene[] = [
     'playtime': '0:38:15',
     'partners': ['Karlee Grey'],
     'links': ['https://angelawhite.empirestores.co/2521937/angela-loves-women-4-porn-movies.html'],
-    'tags': ['Girl/Girl', 'AVN Best All-Girl Movie 2019'],
+    'tags': ['Girl/Girl', 'On Couch', 'Grinding', 'Cunnilingus', 'Feet', 'Anilingus', 'Fingering', 'Face Sitting', 'Squirt',
+      'Tribbing', 'Birthmark Left Inner Thigh', '69', 'AVN Best All-Girl Movie 2019'],
     'release': moment('2018-07-27')
   },
   {
@@ -3768,6 +3769,17 @@ export let data: Scene[] = [
     'links': [],
     'tags': [],
     'release': moment('2017-04-28')
+  },
+  {
+    'producer': 'femdomempire.com',
+    'series': '',
+    'title': 'Addicted to Angela',
+    'altTitles': [],
+    'playtime': '0:08:39',
+    'partners': [],
+    'links': [],
+    'tags': [],
+    'release': moment('2019-01-23')
   },
   {
     'producer': 'femdomempire.com',
