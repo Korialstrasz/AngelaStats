@@ -733,7 +733,8 @@ export let data: Scene[] = [
     'playtime': '0:24:37',
     'partners': ['Danny Mountain'],
     'links': ['https://angelawhite.empirestores.co/1749233/angela-loves-men-porn-movies.html'],
-    'tags': ['Boy/Girl', 'Standing 69', 'On Chair', 'Vaginal', 'Cum on Pussy', 'Outside', 'Blowjob', 'Deepthroat'],
+    'tags': ['Boy/Girl', 'Outside', 'Feet', 'Handjob', 'Blowjob', 'Deepthroat', 'Titty Fuck', 'Fingering', 'Cunnilingus',
+      'Anilingus', 'Grinding', 'Neck Tattoo', 'Standing 69', 'Vaginal', 'Doggy', 'Cowgirl', 'Missionary'],
     'release': moment('2014-05-07')
   },
   {
