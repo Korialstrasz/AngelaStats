@@ -3218,7 +3218,8 @@ export let data: Scene[] = [
     'playtime': '0:28:12',
     'partners': ['Markus Dupree'],
     'links': ['https://angelawhite.empirestores.co/1930697/angela-white-is-titwoman-porn-movies.html'],
-    'tags': ['Boy/Girl'],
+    'tags': ['Boy/Girl', 'Gun', 'On Couch', 'Blowjob', 'Deepthroat', 'Gloves', 'Boots', 'Reverse Cowgirl', 'Anal',
+      'Fingering', 'Cowgirl', 'Gaping', 'Missionary', 'Squirt', 'Choking', 'Pile Driver', 'Cowgirl', 'Side-Saddle Cowgirl', 'Standing'],
     'release': moment('2017-09-16')
   },
   {
