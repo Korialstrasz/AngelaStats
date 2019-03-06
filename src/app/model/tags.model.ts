@@ -2,7 +2,7 @@ export type Tag =
   'BTS'
   | 'Birthmark Left Inner Thigh'
   | 'Speaking French'
-  | 'blue vintage bug'
+  | 'Blue Vintage Bug'
   | 'Elbow Birthmark'
   | 'Sybian'
   | 'Cuckhold'
