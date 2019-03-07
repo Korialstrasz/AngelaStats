@@ -1975,7 +1975,7 @@ export let data: Scene[] = [
     'series': '',
     'title': 'Angela Loves Women 4 - Scene 2',
     'altTitles': [],
-    'playtime': '0:38:15',
+    'playtime': '0:34:10',
     'partners': ['Karlee Grey'],
     'links': ['https://angelawhite.empirestores.co/2521937/angela-loves-women-4-porn-movies.html'],
     'tags': ['Girl/Girl', 'On Couch', 'Grinding', 'Cunnilingus', 'Feet', 'Anilingus', 'Fingering', 'Face Sitting', 'Squirt',
@@ -1987,10 +1987,11 @@ export let data: Scene[] = [
     'series': '',
     'title': 'Angela Loves Women 4 - Scene 3',
     'altTitles': [],
-    'playtime': '0:38:15',
+    'playtime': '0:29:52',
     'partners': ['Riley Reid'],
     'links': ['https://angelawhite.empirestores.co/2521937/angela-loves-women-4-porn-movies.html'],
-    'tags': ['Girl/Girl', 'AVN Best All-Girl Movie 2019'],
+    'tags': ['Girl/Girl', 'Kitchen', 'Fingering', 'Cunnilingus', 'On Countertop', 'On Couch', 'Feet', 'Anilingus',
+      'Face Sitting', 'Elbow Birthmark', 'Tit on Pussy', 'Tribbing', 'AVN Best All-Girl Movie 2019'],
     'release': moment('2018-07-27')
   },
   {
@@ -2455,6 +2456,17 @@ export let data: Scene[] = [
     'links': [],
     'tags': [],
     'release': moment('2018-05-30')
+  },
+  {
+    'producer': 'bangbros.com',
+    'series': 'Big Tits, Round Asses',
+    'title': 'No Script For Huge Tits Angela',
+    'altTitles': [],
+    'playtime': '0:00:00',
+    'partners': ['Ricky Johnson'],
+    'links': [],
+    'tags': [],
+    'release': moment('2019-03-14')
   },
   {
     'producer': 'bangbros.com',
@@ -6117,6 +6129,17 @@ export let data: Scene[] = [
       'Titty Fuck', 'Birthmark Left Inner Thigh', 'Elbow Birthmark', 'Missionary', 'Doggy', 'Cowgirl', 'Reverse Cowgirl',
       'Anilingus', 'Clothed'],
     'release': moment('2018-03-31')
+  },
+  {
+    'producer': 'vogov.com',
+    'series': '',
+    'title': 'Angela white',
+    'altTitles': [],
+    'playtime': '00:00:00',
+    'partners': ['Markus Dupree'],
+    'links': [],
+    'tags': ['Boy/Girl', 'Anal'],
+    'release': moment('2019-03-07')
   },
   {
     'producer': 'vrbangers.com',

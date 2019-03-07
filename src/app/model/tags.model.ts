@@ -12,6 +12,8 @@ export type Tag =
   | 'Cum on Pussy'
   | 'Gloves'
   | 'Gun'
+  | 'On Countertop'
+  | 'Tit on Pussy'
   | 'Grinding'
   | 'Side Fuck'
   | 'Glasses'
