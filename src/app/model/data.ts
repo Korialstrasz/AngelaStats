@@ -2013,7 +2013,7 @@ export let data: Scene[] = [
     'playtime': '0:11:10',
     'partners': [],
     'links': [],
-    'tags': ['Solo', 'Heel Fetish', 'Stilettos', 'Pantyhose', 'Live Stream']
+    'tags': ['Solo', 'Heels', 'Stilettos', 'Pantyhose', 'Live Stream']
   },
   {
     'producer': 'angelawhite.com',
@@ -2445,6 +2445,17 @@ export let data: Scene[] = [
       'Titty Fuck', 'On Desk', 'Cunnilingus', 'Vaginal', 'Doggy', 'Birthmark Left Inner Thigh', 'Missionary', 'Choking',
       '69', 'Side Fuck', 'Cowgirl', 'Spooning'],
     'release': moment('2018-02-16')
+  },
+  {
+    'producer': 'bang.com',
+    'series': 'Bang! Tickery',
+    'title': 'Angela White Is A Hot Doctor That Cures Her Patient\'s Erectile Dysfunction',
+    'altTitles': [],
+    'playtime': '0:35:30',
+    'partners': [],
+    'links': [],
+    'tags': [],
+    'release': moment('2018-03-15')
   },
   {
     'producer': 'bang.com',
@@ -4911,6 +4922,18 @@ export let data: Scene[] = [
     'release': moment('2018-02-15')
   },
   {
+    'producer': 'kink.com',
+    'series': 'Device Bondage',
+    'title': 'Angela White Begs to Suffer For Her Master in Metal Bondage',
+    'altTitles': [],
+    'playtime': '0:49:21',
+    'partners': ['Jean Paul The Pope'],
+    'links': [],
+    'tags': ['Metal Bondage', 'Whipping', 'Clamps', 'Zapper', 'Ball Gag', 'Shackles', 'Fingering', 'Spanking',
+      'Hitachi', 'Birthmark Left Inner Thigh', 'Riding Crop', 'Feet', 'Denial', 'Dildo', 'Rubberbands', 'Choking'],
+    'release': moment('2018-03-07')
+  },
+  {
     'producer': 'ladygonzo.com',
     'series': '',
     'title': 'Joanna Angel & Angela White',
@@ -5508,7 +5531,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:54:40',
     'partners': ['Tommy Pistol', 'Karla Lane'],
-    'links': [],
+    'links': ['https://angelawhite.empirestores.co/2639980/weight-of-infidelity-the-porn-movies.html'],
     'tags': ['Acting', 'Boy/Girl', 'Girl/Girl', 'Ice Cream', 'Kitchen', 'Feeding', 'Vaginal', 'Blowjob', 'Deepthroat',
       'AVN Best Actor - Featurette 2019 (Tommy Pistol)', 'AVN Best Featurette 2019'],
     'release': moment('2018-04-20')
@@ -6133,12 +6156,13 @@ export let data: Scene[] = [
   {
     'producer': 'vogov.com',
     'series': '',
-    'title': 'Angela white',
+    'title': 'Anal Perfection',
     'altTitles': [],
-    'playtime': '00:00:00',
+    'playtime': '00:33:32',
     'partners': ['Markus Dupree'],
     'links': [],
-    'tags': ['Boy/Girl', 'Anal'],
+    'tags': ['Boy/Girl', 'Anal', 'On Couch', 'Birthmark Left Inner Thigh', 'Anilingus', 'Blowjob', 'Deepthroat',
+      'Titty Fuck', 'Elbow Birthmark', 'Heels', 'Finger in Butt', 'Doggy', 'Squirt', 'Gaping'],
     'release': moment('2019-03-07')
   },
   {
