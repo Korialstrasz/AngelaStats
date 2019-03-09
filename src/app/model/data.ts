@@ -6162,7 +6162,8 @@ export let data: Scene[] = [
     'partners': ['Markus Dupree'],
     'links': [],
     'tags': ['Boy/Girl', 'Anal', 'On Couch', 'Birthmark Left Inner Thigh', 'Anilingus', 'Blowjob', 'Deepthroat',
-      'Titty Fuck', 'Elbow Birthmark', 'Heels', 'Finger in Butt', 'Doggy', 'Squirt', 'Gaping'],
+      'Titty Fuck', 'Elbow Birthmark', 'Heels', 'Finger in Butt', 'Doggy', 'Squirt', 'Gaping', 'On Chair', 'Choking',
+      'Standing', 'Against Wall', 'Vaginal', 'Reverse Cowgirl', 'Face Sitting', 'Cowgirl', 'Ass to Pussy', 'Pussy to Ass'],
     'release': moment('2019-03-07')
   },
   {
