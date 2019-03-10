@@ -418,7 +418,7 @@ export let data: Scene[] = [
     'playtime': '0:28:42',
     'partners': ['Keni Styles'],
     'links': [],
-    'tags': ['Boy/Girl', 'Facial', 'Vaginal', 'Doggy', 'Cowgirl', 'Reverse Cowgirl', 'Square Buttons', 'Cunnilingus',
+    'tags': ['Boy/Girl', 'Vaginal', 'Doggy', 'Cowgirl', 'Reverse Cowgirl', 'Square Buttons', 'Cunnilingus',
       'Blowjob', '69', 'Deepthroat', 'Missionary', 'Finger in Butt', 'On Couch'],
     'release': moment('2013-10-23')
   },
@@ -430,7 +430,7 @@ export let data: Scene[] = [
     'playtime': '0:35:30',
     'partners': ['Booty Call'],
     'links': [],
-    'tags': ['Boy/Girl', 'POV', 'Candid', 'Facial', 'Multiple Orgasms', 'On Bed', 'Doggy', 'Blowjob', 'Deepthroat', 'Cowgirl',
+    'tags': ['Boy/Girl', 'POV', 'Candid', 'Multiple Orgasms', 'On Bed', 'Doggy', 'Blowjob', 'Deepthroat', 'Cowgirl',
       'Reverse Cowgirl', 'Titty Fuck', 'On Bed'],
     'release': moment('2013-10-30')
   },
@@ -464,7 +464,7 @@ export let data: Scene[] = [
     'playtime': '0:28:31',
     'partners': ['Seth Gamble'],
     'links': [],
-    'tags': ['Boy/Girl', 'Outside', 'Cowgirl', 'Reverse Cowgirl', 'Doggy', 'Facial', 'Blowjob', 'Vaginal',
+    'tags': ['Boy/Girl', 'Outside', 'Cowgirl', 'Reverse Cowgirl', 'Doggy', 'Blowjob', 'Vaginal',
       'Missionary', 'On Couch'],
     'release': moment('2013-11-20')
   },
@@ -553,7 +553,7 @@ export let data: Scene[] = [
     'playtime': '0:29:12',
     'partners': ['Ramon Nomar'],
     'links': ['https://angelawhite.empirestores.co/1749233/angela-loves-men-porn-movies.html'],
-    'tags': ['Boy/Girl', 'Squirt', 'Standing', 'Vaginal', 'Doggy', 'Cowgirl', 'Reverse Cowgirl', 'Facial',
+    'tags': ['Boy/Girl', 'Squirt', 'Standing', 'Vaginal', 'Doggy', 'Cowgirl', 'Reverse Cowgirl',
       'Blowjob', 'Stockings', 'On Stairs', 'Off the Ground', 'Cunnilingus', 'Anilingus', 'Face Sitting', '69', 'Missionary', 'Feet'],
     'release': moment('2014-01-15')
   },
@@ -1446,7 +1446,7 @@ export let data: Scene[] = [
     'playtime': '0:33:39',
     'partners': ['Axel Aces', 'Chad Alva', 'Damon Dice', 'Marco Banderas', 'Michael Vegas', 'Ricky Johnson', 'Robby Echo'],
     'links': ['https://angelawhite.empirestores.co/1752871/angela-vol-2-porn-movies.html'],
-    'tags': ['Boy/Girl', 'Blowbang', 'Blowjob', 'Deepthroat', 'Facial', 'AVN Best Oral Sex Scene 2016'],
+    'tags': ['Boy/Girl', 'Blowbang', 'Blowjob', 'Deepthroat', 'AVN Best Oral Sex Scene 2016'],
     'release': moment('2016-01-19')
   },
   {
@@ -2013,7 +2013,7 @@ export let data: Scene[] = [
     'playtime': '0:11:10',
     'partners': [],
     'links': [],
-    'tags': ['Solo', 'Heels', 'Stilettos', 'Pantyhose', 'Live Stream']
+    'tags': ['Solo', 'Heels', 'Pantyhose', 'Live Stream']
   },
   {
     'producer': 'angelawhite.com',
@@ -2636,7 +2636,7 @@ export let data: Scene[] = [
     'partners': ['Cash'],
     'links': [],
     'tags': ['Elbow Birthmark', 'Neck Tattoo', 'Boy/Girl', 'Interracial', 'On Bed', 'Blowjob', 'Reverse Cowgirl',
-      'Doggy', 'Facial'],
+      'Doggy'],
     'release': moment('2018-02-11')
   },
   {
@@ -2728,8 +2728,9 @@ export let data: Scene[] = [
     'playtime': '0:31:55',
     'partners': ['Prince Yahshua'],
     'links': [],
-    'tags': ['Boy/Girl', 'On Desk', 'Interracial', 'On Chair', 'Acting', 'Comedy', 'Vaginal', 'Blowjob',
-      'Facial', 'Side-Saddle Cowgirl', 'Clothed'],
+    'tags': ['Boy/Girl', 'On Desk', 'Interracial', 'On Chair', 'Acting', 'Comedy', 'Vaginal', 'Blowjob', 'Elbow Birthmark'
+      , 'Side-Saddle Cowgirl', 'Clothed', 'Pantyhose', 'Titty Fuck', 'POV', 'Missionary', 'Birthmark Left Inner Thigh',
+      'Cunnilingus', 'Anilingus', 'Standing', 'Doggy', 'Cowgirl', 'Reverse Cowgirl', 'Side Fuck'],
     'release': moment('2018-01-22')
   },
   {
@@ -2905,7 +2906,7 @@ export let data: Scene[] = [
     'playtime': '0:38:57',
     'partners': ['Xander Corvus'],
     'links': [],
-    'tags': ['Boy/Girl', 'Blowjob', 'Deepthroat', 'Cowgirl', 'Cum on Tits', 'Facial', 'Missionary', 'Reverse Cowgirl',
+    'tags': ['Boy/Girl', 'Blowjob', 'Deepthroat', 'Cowgirl', 'Cum on Tits', 'Missionary', 'Reverse Cowgirl',
       'Side Fuck', 'Side-Saddle Cowgirl', 'Titty Fuck', 'Elbow Birthmark', 'On Couch', 'Cheating', 'Standing', 'Choking', 'Clothed'],
     'release': moment('2018-12-31')
   },
@@ -3436,7 +3437,7 @@ export let data: Scene[] = [
     'partners': ['Steve Holmes', 'Eddie Jaye', 'Filthy Rich', 'Robby Echo', 'Jason Moody', 'Eric John', 'Michael Vegas',
       'Anthony Gaultier'],
     'links': ['https://angelawhite.empirestores.co/2592365/angela-by-darkko-porn-videos.html'],
-    'tags': ['On Couch', 'Boy/Girl', 'Blowbang', 'Blowjob', 'Deepthroat', 'Facial', 'Feet', 'Titty Fuck',
+    'tags': ['On Couch', 'Boy/Girl', 'Blowbang', 'Blowjob', 'Deepthroat', 'Feet', 'Titty Fuck',
       'Cunnilingus', 'Anilingus', 'Fingering', 'AVN Best Oral Sex Scene 2019'],
     'release': moment('2018-11-24')
   },
@@ -3559,7 +3560,7 @@ export let data: Scene[] = [
     'partners': ['Markus Dupree', 'Mick Blue', 'Steve Holmes'],
     'links': ['https://angelawhite.empirestores.co/2555658/i-am-angela-porn-videos.html'],
     'tags': ['Elbow Birthmark', 'Neck Tattoo', 'Birthmark Left Inner Thigh', 'Boy/Boy/Boy/Girl', 'Foursome', 'DP',
-      'Double Penetration', 'TP', 'Triple Penetration', 'Double Vaginal', 'DV', 'DA', 'Double Anal', 'Facial', 'Blowjob',
+      'Double Penetration', 'TP', 'Triple Penetration', 'Double Vaginal', 'DV', 'DA', 'Double Anal', 'Blowjob',
       'Deepthroat', 'On Couch', 'AVN Best Star Showcase 2019'],
     'release': moment('2018-10-31')
   },
@@ -3595,7 +3596,7 @@ export let data: Scene[] = [
     'playtime': '1:21:37',
     'partners': ['Rocco Siffredi'],
     'links': ['https://angelawhite.empirestores.co/2555658/i-am-angela-porn-videos.html'],
-    'tags': ['Boy/Girl', 'Anal', 'Vaginal', 'On Couch', 'Standing', 'On Chair', 'Facial', 'Blowjob', 'Deepthroat',
+    'tags': ['Boy/Girl', 'Anal', 'Vaginal', 'On Couch', 'Standing', 'On Chair', 'Blowjob', 'Deepthroat',
       'AVN Best Star Showcase 2019', 'AVN Best Anal Sex Scene 2019'],
     'release': moment('2018-11-09')
   },
@@ -5212,7 +5213,7 @@ export let data: Scene[] = [
     'partners': ['Mick Blue'],
     'links': ['https://angelawhite.empirestores.co/2589907/hotwife-bound-4-porn-movies.html'],
     'tags': ['Stockings', 'Elbow Birthmark', 'Sybian', 'Cuckhold', 'Squirt', 'Spanking', 'Rope Bondage', 'Shackles',
-      'On Couch', 'Blowjob', 'Deepthroat', 'Vaginal', 'Side Fuck', 'Face Fuck', '69', 'Anilingus', 'Doggy', 'Feet', 'Pussy to Mouth'],
+      'On Couch', 'Blowjob', 'Deepthroat', 'Vaginal', 'Side Fuck', '69', 'Anilingus', 'Doggy', 'Feet', 'Pussy to Mouth'],
     'release': moment('2018-12-10')
   },
   {
