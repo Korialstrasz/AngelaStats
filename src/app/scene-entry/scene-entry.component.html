@@ -10,7 +10,7 @@
     <p>{{scene.playtime}}</p>
   </div>
   <div class="col-6 col-sm-2">
-    <p *ngFor="let link of scene.links"><a [href]="link">Buy here</a></p>
+    <p *ngFor="let link of scene.links"><a [href]="link" target="_blank">Buy here</a></p>
   </div>
 </div>
 <div class="row border-info border details" *ngIf="showDetails">
