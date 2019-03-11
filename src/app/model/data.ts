@@ -1825,7 +1825,9 @@ export let data: Scene[] = [
     'playtime': '0:29:36',
     'partners': ['Mandingo'],
     'links': ['https://angelawhite.empirestores.co/1928357/angela-vol-3-porn-movies.html'],
-    'tags': ['Boy/Girl', 'Interracial', 'Anal', 'AVN Best Star Showcase 2018'],
+    'tags': ['Boy/Girl', 'Interracial', 'Anal', 'On Couch', 'Elbow Birthmark', 'Blowjob', 'Deepthroat', 'Vaginal',
+      'Side Fuck', 'Missionary', 'Birthmark Left Inner Thigh', 'Fingering', 'Reverse Cowgirl', 'Cowgirl', 'Doggy', 'Gaping',
+      'AVN Best Star Showcase 2018'],
     'release': moment('2017-12-20')
   },
   {
