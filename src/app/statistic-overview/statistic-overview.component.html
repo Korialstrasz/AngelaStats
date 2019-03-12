@@ -11,7 +11,7 @@
     <mat-form-field class="col-12 col-sm-3">
       <input matInput placeholder="filter" formControlName="searchTerm">
     </mat-form-field>
-    <span class="center">http://angelastats-99708.firebaseapp.com/?stats={{form.get('searchTerm').value}}|{{form.get('searchType').value}}</span>
+    <span class="center">http://angelastats-99708.firebaseapp.com/?stats={{form.get('searchTerm').value | encodeUri}}|{{form.get('searchType').value}}</span>
   </div>
   <div class="row">
     <span class="mr-1 col-1">Filter by: </span>

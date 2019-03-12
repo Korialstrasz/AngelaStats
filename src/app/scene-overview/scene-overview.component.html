@@ -4,7 +4,7 @@
     <mat-form-field class="col-12 col-sm-3 mr-2">
       <input matInput placeholder="search" formControlName="searchTerm" >
     </mat-form-field>
-    <span class="center">http://angelastats-99708.firebaseapp.com/?scene={{form.get('searchTerm').value}}</span>
+    <span class="center">http://angelastats-99708.firebaseapp.com/?scene={{form.get('searchTerm').value | encodeUri}}</span>
     </section>
     <section class="row">
       <span class="mr-1">Sort by: </span>
