@@ -396,7 +396,8 @@ export let data: Scene[] = [
     'playtime': '0:32:16',
     'partners': ['Sophie Dee'],
     'links': [],
-    'tags': ['Strap-on', 'Girl/Girl', 'Outside'],
+    'tags': ['Girl/Girl', 'On Couch', 'Anilingus', 'Cunnilingus', 'Vibrator', 'Vaginal', 'Vibrator', 'Fingering',
+      'Strap-on', 'Doggy', 'Dildo'],
     'release': moment('2013-10-09')
   },
   {
@@ -1827,7 +1828,7 @@ export let data: Scene[] = [
     'links': ['https://angelawhite.empirestores.co/1928357/angela-vol-3-porn-movies.html'],
     'tags': ['Boy/Girl', 'Interracial', 'Anal', 'On Couch', 'Elbow Birthmark', 'Blowjob', 'Deepthroat', 'Vaginal',
       'Side Fuck', 'Missionary', 'Birthmark Left Inner Thigh', 'Fingering', 'Reverse Cowgirl', 'Cowgirl', 'Doggy', 'Gaping',
-      'AVN Best Star Showcase 2018'],
+      'Ass to Pussy', 'AVN Best Star Showcase 2018'],
     'release': moment('2017-12-20')
   },
   {
@@ -2450,13 +2451,15 @@ export let data: Scene[] = [
   },
   {
     'producer': 'bang.com',
-    'series': 'Bang! Tickery',
+    'series': 'Bang! Trickery',
     'title': 'Angela White Is A Hot Doctor That Cures Her Patient\'s Erectile Dysfunction',
     'altTitles': [],
     'playtime': '0:35:30',
-    'partners': [],
+    'partners': ['Damon Dice'],
     'links': [],
-    'tags': [],
+    'tags': ['Boy/Girl', 'Gloves', 'POV', 'Handjob', 'Blowjob', 'Deepthroat', 'Clothed', 'Cowgirl', 'Reverse Cowgirl',
+      'Titty Fuck', 'Standing', 'Doggy', 'Cunnilingus', 'Anilingus', 'Fingering', 'Birthmark Left Inner Thigh', 'Missionary',
+      'Fingering', 'Squirt', 'Side Fuck'],
     'release': moment('2018-03-15')
   },
   {
