@@ -2002,10 +2002,11 @@ export let data: Scene[] = [
     'series': '',
     'title': 'Angela Loves Women 4 - Scene 4',
     'altTitles': [],
-    'playtime': '0:38:15',
+    'playtime': '0:44:57',
     'partners': ['Ivy Wolfe'],
     'links': ['https://angelawhite.empirestores.co/2521937/angela-loves-women-4-porn-movies.html'],
-    'tags': ['Girl/Girl', 'AVN Best All-Girl Movie 2019'],
+    'tags': ['Girl/Girl', 'Feet', 'Cunnilingus', 'Anilingus', 'Fingering', 'Panty Gag', 'Grinding', 'Tribbing',
+      'Choking', 'Biting', 'Face Sitting', '69', 'Spanking', 'Tit on Pussy', 'AVN Best All-Girl Movie 2019'],
     'release': moment('2018-07-27')
   },
   {
@@ -3209,6 +3210,28 @@ export let data: Scene[] = [
     'links': ['https://angelawhite.empirestores.co/1948656/fuck-me-silly-vol-2-porn-videos.html'],
     'tags': [],
     'release': moment('2017-04-21')
+  },
+  {
+    'producer': 'digitalplayground.com',
+    'series': '',
+    'title': 'Fuck Forever - Scene X',
+    'altTitles': [],
+    'playtime': '0:00:00',
+    'partners': ['Ivy Wolfe'],
+    'links': [],
+    'tags': [],
+    'release': moment('2019-03-20')
+  },
+  {
+    'producer': 'digitalplayground.com',
+    'series': '',
+    'title': 'Fuck Forever - Scene Y',
+    'altTitles': [],
+    'playtime': '0:00:00',
+    'partners': ['Xander Corvus', 'Gina Valentina'],
+    'links': [],
+    'tags': [],
+    'release': moment('2019-03-20')
   },
   {
     'producer': 'digitalplayground.com',
