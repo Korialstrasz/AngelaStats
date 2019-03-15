@@ -1947,7 +1947,8 @@ export let data: Scene[] = [
     'playtime': '0:38:33',
     'partners': ['Prince Yahshua', 'Rico Strong', 'Isiah Maxwell', 'Jon Jon', 'Rob Piper'],
     'links': ['https://angelawhite.empirestores.co/1928357/angela-vol-3-porn-movies.html'],
-    'tags': ['Gangbang', 'Interracial', 'On Couch', 'AVN Best Star Showcase 2018'],
+    'tags': ['Gangbang', 'Interracial', 'On Couch', 'Fingering', 'Cunnilingus', 'Blowjob', 'Deepthroat', 'Neck Tattoo',
+      'Doggy', 'Vaginal', 'Missionary', 'Anal', 'AVN Best Star Showcase 2018'],
     'release': moment('2017-09-21')
   },
   {
@@ -2479,10 +2480,11 @@ export let data: Scene[] = [
     'series': 'Big Tits, Round Asses',
     'title': 'No Script For Huge Tits Angela',
     'altTitles': [],
-    'playtime': '0:00:00',
+    'playtime': '0:29:01',
     'partners': ['Ricky Johnson'],
     'links': [],
-    'tags': [],
+    'tags': ['Boy/Girl', 'On Couch', 'Cunnilingus', 'Blowjob', 'Deepthroat', 'Titty Fuck', 'Vaginal', 'Cowgirl',
+      'Reverse Cowgirl', 'Birthmark Left Inner Thigh', 'Missionary', 'Feet', 'Spooning', 'Doggy', 'Elbow Birthmark', 'Neck Tattoo'],
     'release': moment('2019-03-14')
   },
   {
@@ -3415,13 +3417,13 @@ export let data: Scene[] = [
   {
     'producer': 'evilangel.com',
     'series': '',
-    'title': 'Oil Slick 2 - Scene X',
-    'altTitles': [],
-    'playtime': '',
+    'title': 'Buxom Angela White\'s Oily DP Threesome',
+    'altTitles': ['Oil Slick 2 - Scene 1'],
+    'playtime': '00:33:48',
     'partners': ['Mick Blue', 'Ramon Nomar'],
     'links': ['https://angelawhite.empirestores.co/2611159/oil-slick-2-porn-movies.html'],
-    'tags': ['Boy/Boy/Girl', 'Vaginal', 'Anal', 'Standing', 'Cowgirl', 'Reverse Cowgirl', 'DP', 'Double Penetration',
-      'Oil', 'Blowjob', 'Titty Fuck', 'Doggy', 'Fingering', 'Side-Saddle Cowgirl'],
+    'tags': ['Oil', 'Boy/Boy/Girl', 'Titty Fuck', 'Blowjob', 'Standing', 'Vaginal', 'On Couch', 'Cowgirl', 'Anal', 'Doggy',
+      'Reverse Cowgirl', 'DP', 'Double Penetration', 'Pussy to Ass', 'Handjob', 'Finger in Butt', 'Dirty Talk', 'Side-Saddle Cowgirl'],
     'release': moment('2019-03-18')
   },
   {
