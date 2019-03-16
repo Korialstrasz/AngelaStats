@@ -5456,7 +5456,7 @@ export let data: Scene[] = [
     'title': 'SY-166 -  An Amateur In A One Room Apartment 166 - A Married Woman, Angela White , Age 29 The Kanda River Colossal Tits',
     'altTitles': [],
     'playtime': '2:08:37',
-    'partners': [],
+    'partners': ['Yusuke Kawasaki'],
     'links': ['http://www.r18.com/videos/vod/movies/detail/-/id=h_113sy00166/?i3_ref=search&i3_ord=1'],
     'tags': ['JAV'],
     'release': moment('2015-08-01')
