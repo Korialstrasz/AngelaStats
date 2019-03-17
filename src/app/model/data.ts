@@ -1948,7 +1948,8 @@ export let data: Scene[] = [
     'partners': ['Prince Yahshua', 'Rico Strong', 'Isiah Maxwell', 'Jon Jon', 'Rob Piper'],
     'links': ['https://angelawhite.empirestores.co/1928357/angela-vol-3-porn-movies.html'],
     'tags': ['Gangbang', 'Interracial', 'On Couch', 'Fingering', 'Cunnilingus', 'Blowjob', 'Deepthroat', 'Neck Tattoo',
-      'Doggy', 'Vaginal', 'Missionary', 'Anal', 'AVN Best Star Showcase 2018'],
+      'Doggy', 'Vaginal', 'Missionary', 'Anal', 'Choking', 'Feet', 'Gaping', 'Cowgirl', 'Finger in Butt', 'DP',
+      'Double Penetration', 'Pile Driver', 'AVN Best Star Showcase 2018'],
     'release': moment('2017-09-21')
   },
   {
@@ -2803,7 +2804,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:39:44',
     'partners': ['Nicolette Shea', 'Jessy Jones'],
-    'links': [],
+    'links': ['https://angelawhite.empirestores.co/2643355/dream-cum-true-2-a-porn-movies.html'],
     'tags': [],
     'release': moment('2018-11-30')
   },
@@ -6132,7 +6133,7 @@ export let data: Scene[] = [
     'partners': ['Tori Black', 'Mia Malkova', 'Vicki Chase', 'Kira Noir', 'Ana Foxxx', 'Abella Danger', 'Jessa Rhodes',
       'Ricky Johnson', 'Mick Blue', 'Bambino', 'Ryan Driller', 'Alex Jones'],
     'links': ['https://angelawhite.empirestores.co/2549033/after-dark-porn-movies.html'],
-    'tags': ['Bruise left outer Hip', 'Gangbang', 'AVN Best Drama 2019', 'AVN Best Group Sex Scene 2019'],
+    'tags': ['Bruise left outer Hip', 'Orgy', 'AVN Best Drama 2019', 'AVN Best Group Sex Scene 2019'],
     'release': moment('2018-09-27')
   },
   {

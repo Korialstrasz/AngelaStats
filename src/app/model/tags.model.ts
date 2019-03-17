@@ -8,6 +8,7 @@ export type Tag =
   | 'Cuckhold'
   | 'Spanking'
   | 'Standing 69'
+  | 'Orgy'
   | 'Winking'
   | 'Cum on Pussy'
   | 'Gloves'
