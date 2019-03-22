@@ -101,6 +101,8 @@ export type Tag =
   | 'On Couch'
   | 'On Stairs'
   | 'On Desk'
+  | 'On Table'
+  | 'Phone Sex'
   | 'Public'
   | 'Dog'
   | 'Tribbing'
