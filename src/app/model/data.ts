@@ -2425,7 +2425,7 @@ export let data: Scene[] = [
     'title': 'New Year\'s Lay',
     'altTitles': [],
     'playtime': '0:43:15',
-    'partners': ['Unknown'],
+    'partners': ['Tommy Gunn'],
     'links': [],
     'tags': ['VR', 'Boy/Girl'],
     'release': moment('2018-01-01')
@@ -6059,10 +6059,11 @@ export let data: Scene[] = [
     'series': 'When Girls Play',
     'title': 'Broken Hearted Hottie',
     'altTitles': [],
-    'playtime': '0:00:00',
+    'playtime': '0:26:53',
     'partners': ['Darcie Dolce'],
     'links': [],
-    'tags': [],
+    'tags': ['Girl/Girl', 'Bath', 'On Couch', 'Grinding', 'Neck Tattoo', 'Cunnilingus', 'Birthmark Left Inner Thigh',
+      'Face Sitting', 'Fingering', 'Elbow Birthmark', 'Tribbing', 'Choking', '69'],
     'release': moment('2019-03-23')
   },
   {
