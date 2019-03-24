@@ -2809,7 +2809,8 @@ export let data: Scene[] = [
     'links': ['https://angelawhite.empirestores.co/2643355/dream-cum-true-2-a-porn-movies.html'],
     'tags': ['Boy/Girl/Girl', 'Phone Sex', 'On Table', 'Blowjob', 'Deepthroat', 'Titty Fuck', 'Neck Tattoo', 'Vaginal',
       'Missionary', 'Pussy to Mouth', 'Squirt', 'Cunnilingus', 'Face Sitting', 'Standing', 'Anilingus', 'Choking',
-      'On Couch', 'Reverse Cowgirl'],
+      'On Couch', 'Reverse Cowgirl', 'Cowgirl', 'Spanking', 'Finger in Butt', 'Pussy Stack', 'Fingering', 'Elbow Birthmark',
+      'Cum Swap'],
     'release': moment('2018-11-30')
   },
   {
