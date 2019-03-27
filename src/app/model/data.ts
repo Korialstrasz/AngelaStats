@@ -2614,7 +2614,8 @@ export let data: Scene[] = [
     'partners': ['Flash Brown'],
     'links': ['https://angelawhite.empirestores.co/1770365/interracial-icon-vol-2-porn-movies.html'],
     'tags': ['Boy/Girl', 'Outside', 'Blowjob', 'Elbow Birthmark', 'On Bed', 'Handjob', 'Deepthroat', 'Neck Tattoo',
-      'Titty Fuck', 'Missionary', 'Vaginal', 'Birthmark Left Inner Thigh', 'Elbow Birthmark', 'Feet',],
+      'Titty Fuck', 'Missionary', 'Vaginal', 'Birthmark Left Inner Thigh', 'Elbow Birthmark', 'Feet', 'Reverse Cowgirl',
+      'Neck Tattoo', 'Doggy'],
     'release': moment('2015-02-05')
   },
   {
@@ -5438,6 +5439,17 @@ export let data: Scene[] = [
     'links': [],
     'tags': [],
     'release': moment('2017-11-17')
+  },
+  {
+    'producer': 'nfbusty.com',
+    'series': '',
+    'title': 'Busty Vol. 8: Stacked - Scene 1',
+    'altTitles': [],
+    'playtime': '0:22:58',
+    'partners': [],
+    'links': ['https://angelawhite.empirestores.co/2643746/busty-vol-8-stacked-porn-movies.html'],
+    'tags': [],
+    'release': moment('2017-03-27')
   },
   {
     'producer': 'penthouse.com',
