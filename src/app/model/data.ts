@@ -2615,7 +2615,7 @@ export let data: Scene[] = [
     'links': ['https://angelawhite.empirestores.co/1770365/interracial-icon-vol-2-porn-movies.html'],
     'tags': ['Boy/Girl', 'Outside', 'Blowjob', 'Elbow Birthmark', 'On Bed', 'Handjob', 'Deepthroat', 'Neck Tattoo',
       'Titty Fuck', 'Missionary', 'Vaginal', 'Birthmark Left Inner Thigh', 'Elbow Birthmark', 'Feet', 'Reverse Cowgirl',
-      'Neck Tattoo', 'Doggy'],
+      'Neck Tattoo', 'Doggy', 'Anilingus', 'Handjob'],
     'release': moment('2015-02-05')
   },
   {
@@ -2869,6 +2869,17 @@ export let data: Scene[] = [
     'links': [],
     'tags': [],
     'release': moment('2017-05-02')
+  },
+  {
+    'producer': 'brazzers.com',
+    'series': 'Pornstars Like It Big',
+    'title': 'Anatomy Of A Sex Scene',
+    'altTitles': [],
+    'playtime': '0:36:00',
+    'partners': ['Johnny Sins'],
+    'links': [],
+    'tags': [],
+    'release': moment('2019-04-01')
   },
   {
     'producer': 'brazzers.com',
@@ -5425,7 +5436,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:22:58',
     'partners': ['Ryan Diller'],
-    'links': [],
+    'links': ['https://angelawhite.empirestores.co/2643746/busty-vol-8-stacked-porn-movies.html'],
     'tags': ['Elbow Birthmark', 'Neck Tattoo'],
     'release': moment('2018-02-02')
   },
@@ -5439,17 +5450,6 @@ export let data: Scene[] = [
     'links': [],
     'tags': [],
     'release': moment('2017-11-17')
-  },
-  {
-    'producer': 'nfbusty.com',
-    'series': '',
-    'title': 'Busty Vol. 8: Stacked - Scene 1',
-    'altTitles': [],
-    'playtime': '0:22:58',
-    'partners': [],
-    'links': ['https://angelawhite.empirestores.co/2643746/busty-vol-8-stacked-porn-movies.html'],
-    'tags': [],
-    'release': moment('2017-03-27')
   },
   {
     'producer': 'penthouse.com',
