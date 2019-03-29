@@ -2615,7 +2615,7 @@ export let data: Scene[] = [
     'links': ['https://angelawhite.empirestores.co/1770365/interracial-icon-vol-2-porn-movies.html'],
     'tags': ['Boy/Girl', 'Outside', 'Blowjob', 'Elbow Birthmark', 'On Bed', 'Handjob', 'Deepthroat', 'Neck Tattoo',
       'Titty Fuck', 'Missionary', 'Vaginal', 'Birthmark Left Inner Thigh', 'Elbow Birthmark', 'Feet', 'Reverse Cowgirl',
-      'Neck Tattoo', 'Doggy', 'Anilingus', 'Handjob'],
+      'Neck Tattoo', 'Doggy', 'Anilingus'],
     'release': moment('2015-02-05')
   },
   {
@@ -3070,8 +3070,8 @@ export let data: Scene[] = [
   {
     'producer': 'cospimps.com',
     'series': '',
-    'title': 'Busty Cosplay Girl Angela White Take a Huge Cock Balls Deep',
-    'altTitles': [],
+    'title': 'Junko Enoshima vs Godzicock',
+    'altTitles': ['Busty Cosplay Girl Angela White Take a Huge Cock Balls Deep'],
     'playtime': '0:33:06',
     'partners': ['Bruce Venture'],
     'links': [],
@@ -6066,7 +6066,10 @@ export let data: Scene[] = [
     'playtime': '0:42:13',
     'partners': ['Markus Dupree'],
     'links': [],
-    'tags': [],
+    'tags': ['Clothed', 'Blowjob', 'Dirty Talk', 'Deepthroat', 'POV', 'Titty Fuck', 'Jeweled Butt Plug', 'On Chair', 'Cunnilingus',
+      'Vaginal', 'Missionary', 'Anal', 'Gaping', 'Choking', 'Fingering', 'Squirt', 'Ass to Mouth', 'Finger in Butt', 'Doggy',
+      'Neck Tattoo', 'On Couch', 'Elbow Birthmark', 'Reverse Cowgirl', 'Birthmark Left Inner Thigh', 'Cowgirl', 'Ass to Pussy',
+      'Pussy to Ass', 'Switching Holes'],
     'release': moment('2018-11-26')
   },
   {
