@@ -918,7 +918,9 @@ export let data: Scene[] = [
     'playtime': '0:34:29',
     'partners': ['Mick Blue'],
     'links': [],
-    'tags': ['Boy/Girl'],
+    'tags': ['Boy/Girl', 'Candid', 'POV', 'Blowjob', 'Deepthroat', 'Anilingus', 'Titty Fuck', 'Handjob',
+      'Birthmark Left Inner Thigh', 'Solo', 'Fingering', 'On Couch', 'Vaginal', 'Missionary', 'Cunnilingus',
+      'Finger in Butt', 'Doggy', 'Neck Tattoo', 'Feet'],
     'release': moment('2014-08-27')
   },
   {
@@ -951,7 +953,8 @@ export let data: Scene[] = [
     'playtime': '0:50:55',
     'partners': ['Phoenix Marie'],
     'links': [],
-    'tags': ['Girl/Girl', 'Hitachi', 'Dildo', 'Anal'],
+    'tags': ['Girl/Girl', 'Strap-on', 'Blowjob', 'Deepthroat', 'On Couch', 'Spanking', 'Feet', 'Finger in Butt',
+      'Jeweled Butt Plug', 'Elbow Birthmark', 'Dildo', 'Anal', 'Hitachi', 'Neck Tattoo'],
     'release': moment('2014-10-27')
   },
   {
@@ -1898,7 +1901,9 @@ export let data: Scene[] = [
     'playtime': '0:50:52',
     'partners': ['Manuel Ferrara'],
     'links': ['https://angelawhite.empirestores.co/1926052/angela-loves-anal-porn-movies.html'],
-    'tags': ['Boy/Girl', 'On Couch', 'Anal Creampie', 'Anal', 'Cuddling'],
+    'tags': ['Boy/Girl', 'On Couch', 'Elbow Birthmark', 'Feet', 'Cunnilingus', 'Anilingus', 'Blowjob', 'Deepthroat', 'Handjob',
+      'Fingering', 'Birthmark Left Inner Thigh', 'Vaginal', 'Cowgirl', 'Spooning', 'Anal', 'Choking', 'Titty Fuck', 'Doggy',
+      'Gaping', 'Reverse Cowgirl', 'Neck Tattoo', 'Missionary', 'Anal Creampie', 'Cuddling'],
     'release': moment('2018-11-02')
   },
   {
