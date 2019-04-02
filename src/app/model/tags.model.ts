@@ -21,6 +21,7 @@ export type Tag =
   | 'Side-Saddle Cowgirl'
   | 'Candid'
   | 'In Car'
+  | 'On Car'
   | 'Spit'
   | 'Rubberbands'
   | 'Whipping'

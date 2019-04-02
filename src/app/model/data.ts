@@ -965,7 +965,9 @@ export let data: Scene[] = [
     'playtime': '0:18:07',
     'partners': ['Manuel Ferrara'],
     'links': [],
-    'tags': ['Boy/Girl', 'Outside'],
+    'tags': ['Boy/Girl', 'Outside', 'Elbow Birthmark', 'On Car', 'Blowjob', 'Deepthroat', 'Handjob', 'Titty Fuck', 'Heels',
+      'Cunnilingus', 'Finger in Butt', 'Missionary', 'Vaginal', 'Birthmark Left Inner Thigh', 'Choking', 'Standing', 'Doggy',
+      'Spanking', 'Squirt'],
     'release': moment('2014-11-05')
   },
   {
@@ -975,7 +977,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:06:15',
     'partners': [],
-    'links': [],
+    'links': ['Solo', 'Jeweled Butt Plug', 'Dildo', 'Anal', 'Gaping', 'Finger in Butt'],
     'tags': ['Solo', 'Dildo', 'Anal'],
     'release': moment('2014-11-14')
   },
@@ -2880,10 +2882,12 @@ export let data: Scene[] = [
     'series': 'Pornstars Like It Big',
     'title': 'Anatomy Of A Sex Scene',
     'altTitles': [],
-    'playtime': '0:36:00',
+    'playtime': '0:36:04',
     'partners': ['Johnny Sins'],
     'links': [],
-    'tags': [],
+    'tags': ['Blowjob', 'Deepthroat', 'On Couch', 'Handjob', 'Elbow Birthmark', 'Neck Tattoo', 'Fingering', 'Cunnilingus',
+      'Anilingus', 'Vaginal', 'Missionary', 'Birthmark Left Inner Thigh', 'Titty Fuck', 'Cowgirl', 'Finger in Butt',
+      'Reverse Cowgirl', 'Doggy', 'Side Fuck'],
     'release': moment('2019-04-01')
   },
   {
@@ -4316,7 +4320,8 @@ export let data: Scene[] = [
     'playtime': '00:0:00',
     'partners': ['Gia Derza'],
     'links': [],
-    'tags': ['Girl/Girl', 'Anal', 'Dildo'],
+    'tags': ['Girl/Girl', 'On Bed', 'Finger in Butt', 'Neck Tattoo', 'Dildo', 'Anal', 'Elbow Birthmark', 'Spanking',
+      'Cunnilingus', 'Anilingus', 'Fingering', 'Grinding', 'Tribbing', 'Feet', 'Cuddling'],
     'release': moment('2019-03-31')
   },
   {
@@ -6070,7 +6075,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:42:13',
     'partners': ['Markus Dupree'],
-    'links': [],
+    'links': ['https://angelawhite.empirestores.co/2653418/tushy-raw-v1-porn-movies.html'],
     'tags': ['Clothed', 'Blowjob', 'Dirty Talk', 'Deepthroat', 'POV', 'Titty Fuck', 'Jeweled Butt Plug', 'On Chair', 'Cunnilingus',
       'Vaginal', 'Missionary', 'Anal', 'Gaping', 'Choking', 'Fingering', 'Squirt', 'Ass to Mouth', 'Finger in Butt', 'Doggy',
       'Neck Tattoo', 'On Couch', 'Elbow Birthmark', 'Reverse Cowgirl', 'Birthmark Left Inner Thigh', 'Cowgirl', 'Ass to Pussy',
