@@ -4317,12 +4317,23 @@ export let data: Scene[] = [
     'series': 'Girls Try Anal',
     'title': 'Knocking At The Back Door',
     'altTitles': [],
-    'playtime': '00:0:00',
+    'playtime': '00:38:49',
     'partners': ['Gia Derza'],
     'links': [],
     'tags': ['Girl/Girl', 'On Bed', 'Finger in Butt', 'Neck Tattoo', 'Dildo', 'Anal', 'Elbow Birthmark', 'Spanking',
       'Cunnilingus', 'Anilingus', 'Fingering', 'Grinding', 'Tribbing', 'Feet', 'Cuddling'],
     'release': moment('2019-03-31')
+  },
+  {
+    'producer': 'girlsway.com',
+    'series': '',
+    'title': 'Maid For Each Other: My M.A.I.D.D.',
+    'altTitles': [],
+    'playtime': '00:00:00',
+    'partners': ['Jill Kassidy'],
+    'links': [],
+    'tags': [],
+    'release': moment('2019-04-25')
   },
   {
     'producer': 'girlsway.com',
@@ -5435,8 +5446,10 @@ export let data: Scene[] = [
     'playtime': '0:36:25',
     'partners': ['Logan Pierce'],
     'links': ['https://angelawhite.empirestores.co/2582850/xxx-big-tit-rubdown-porn-movies.html',
-      'https://angelawhite.empirestores.co/2625155/sexual-desires-of-angela-white-the-porn-movies.html'],
-    'tags': [],
+      'https://angelawhite.empirestores.co/2625155/sexual-desires-of-angela-white-the-porn-movies.html',
+      'https://angelawhite.empirestores.co/2650605/most-beautiful-girls-in-porn-2-the-porn-movies.html'],
+    'tags': ['Boy/Girl', 'Oil', 'Feet', 'Blowjob', 'Deepthroat', 'Titty Fuck', 'Choking', 'Anilingus', 'Vaginal', 'Cowgirl',
+      'Footjob', 'Elbow Birthmark', 'Doggy', 'Missionary', 'Birthmark Left Inner Thigh', 'Reverse Cowgirl'],
     'release': moment('2018-11-10')
   },
   {
