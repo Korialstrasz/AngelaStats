@@ -1,5 +1,5 @@
 import {Component, Input, OnInit} from '@angular/core';
-import {Scene} from '../shared/model/scene.model';
+import {Dvd} from '../shared/model/dvd.model';
 
 @Component({
   selector: 'aws-dvd-entry',
@@ -8,11 +8,12 @@ import {Scene} from '../shared/model/scene.model';
 })
 export class DvdEntryComponent implements OnInit {
 
-  @Input() dvd: Scene;
+  @Input() dvd: Dvd;
   @Input() last: boolean;
   showDetails: boolean;
 
-  constructor() { }
+  constructor() {
+  }
 
   ngOnInit() {
   }

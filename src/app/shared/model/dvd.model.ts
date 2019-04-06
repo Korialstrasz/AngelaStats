@@ -1,4 +1,10 @@
+import {SceneReference} from './scene-reference.model';
+
 export interface Dvd {
-  name: string;
+  producer: string;
+  series: string;
+  title: string;
   link: string;
+  scene: SceneReference[];
+  partners: string[];
 }

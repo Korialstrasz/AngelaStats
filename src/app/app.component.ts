@@ -12,6 +12,7 @@ export class AppComponent {
   searchTerm = '';
   searchTermScene = '';
   searchTermStats = '';
+  searchTermDvd = '';
   toggle = 'scene';
   buildTime = environment.version;
 
@@ -21,6 +22,8 @@ export class AppComponent {
       [this.toggle, this.searchTerm] = decodeURIComponent(query).split('=');
       if (this.toggle === 'scene') {
         this.searchTermScene = this.searchTerm;
+      } else if (this.toggle === 'dvd') {
+        this.searchTermDvd = this.searchTerm;
       } else {
         this.searchTermStats = this.searchTerm;
       }

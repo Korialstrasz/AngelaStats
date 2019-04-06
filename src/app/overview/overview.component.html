@@ -30,5 +30,6 @@
 
 <section id="results">
   <aws-scene-list [scenes]="data$|async" *ngIf="type ==='scene'"></aws-scene-list>
-  <aws-dvd-list [scenes$]="data$" *ngIf="type ==='dvd'"></aws-dvd-list>
+  <aws-dvd-list [scenes$]="data$" *ngIf="type ==='dvd'"
+                [sorting$]="form.get('sortType').valueChanges"></aws-dvd-list>
 </section>

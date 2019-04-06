@@ -49,6 +49,7 @@ export class OverviewComponent implements OnInit {
 
     this.data$ = merge(filteredData$, sort$);
     this.form.get('searchTerm').patchValue(this.searchTerm);
+    this.form.get('sortType').patchValue(this.form.get('sortType').value);
   }
 
   filterData(value: string): Scene[] {
@@ -86,7 +87,6 @@ export class OverviewComponent implements OnInit {
     if (!a.release) {
       a.release = moment(0);
     }
-
     if (!b.release) {
       b.release = moment(0);
     }

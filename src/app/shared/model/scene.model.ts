@@ -1,7 +1,7 @@
 import {Moment} from 'moment';
 
 import {Tag} from './tags.model';
-import {Dvd} from './dvd.model';
+import {DvdReference} from './dvd-reference.model';
 
 export interface Scene {
   producer: string;
@@ -10,7 +10,7 @@ export interface Scene {
   altTitles: string[];
   playtime: string;
   partners: string[];
-  dvds: Dvd[];
+  dvds: DvdReference[];
   tags: Tag[];
   release?: Moment;
 }

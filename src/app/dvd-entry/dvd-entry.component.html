@@ -1,3 +1,36 @@
-<p>
-  dvd-entry works!
-</p>
+<div class="row entry" (click)="showDetails = !showDetails">
+  <div class="col-6 col-sm-3 overflow-hidden">
+    <p>{{dvd.producer}}</p>
+    <p>
+      <small>{{dvd.series}}</small>
+    </p>
+  </div>
+  <div class="col-6 col-sm-5">
+    <p>{{dvd.title}}</p>
+  </div>
+  <div class="col-6 col-sm-4">
+    <a [href]="dvd.link" target="_blank">Buy here</a>
+  </div>
+</div>
+<div class="row border-info border details" *ngIf="showDetails">
+  <div class="col-6 col-sm-6 overflow-hidden">
+    <p><b>Name</b></p>
+  </div>
+  <div class="col-4">
+    <p><b>Partners</b></p>
+  </div>
+  <div class="col-2">
+    <p><b>Playtime</b></p>
+  </div>
+  <ng-container *ngFor="let scene of dvd.scene" class="col-12 row">
+    <div class="col-6 col-sm-6 overflow-hidden">
+      <p>{{scene.name}}</p>
+    </div>
+    <div class="col-4">
+      <p *ngFor="let partner of scene.partners">{{partner}}</p>
+    </div>
+    <div class="col-2">
+      <p>{{scene.playtime}}</p>
+    </div>
+  </ng-container>
+</div>

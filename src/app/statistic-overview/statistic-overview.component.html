@@ -1,8 +1,9 @@
 <form [formGroup]="form">
   <div class="row">
-    <p class="col-12 col-sm-4">Total Playtime: {{(statistic$|async).totalPlaytime|duration}} in {{(statistic$|async).count}} Scenes </p>
+    <p class="col-12 col-sm-4">Total Playtime: {{(statistic$|async).totalPlaytime|duration}}
+      in {{(statistic$|async).count}} Scenes </p>
     <div>
-      <mat-checkbox  formControlName="excludeBts">Exclude Behind
+      <mat-checkbox formControlName="excludeBts">Exclude Behind
         the scenes
       </mat-checkbox>
     </div>
@@ -11,7 +12,8 @@
     <mat-form-field class="col-12 col-sm-3">
       <input matInput placeholder="filter" formControlName="searchTerm">
     </mat-form-field>
-    <span class="center">http://angelastats-99708.firebaseapp.com/?stats={{form.get('searchTerm').value | encodeUri}}|{{form.get('searchType').value}}</span>
+    <span class="center">http://angelastats-99708.firebaseapp.com/?stats={{form.get('searchTerm').value | encodeUri}}
+      |{{form.get('searchType').value}}</span>
   </div>
   <div class="row">
     <span class="mr-1 col-1">Filter by: </span>
@@ -30,13 +32,13 @@
   <div class="col-6 col-sm-3">
     <p><b>partners by count</b></p>
     <ol>
-      <li *ngFor="let partner of (statistic$|async).partners">{{partner.key}} ({{partner.count}})</li>
+      <li *ngFor="let partner of (statistic$|async).partners">{{partner.key}} ({{partner.value}})</li>
     </ol>
   </div>
   <div class="col-6 col-sm-3">
     <p><b>partners by playtime</b></p>
     <ol>
-      <li *ngFor="let partner of (statistic$|async).partnersDuration">{{partner.key}} ({{partner.duration|duration}}
+      <li *ngFor="let partner of (statistic$|async).partnersDuration">{{partner.key}} ({{partner.value|duration}}
         )
       </li>
     </ol>
@@ -44,17 +46,17 @@
   <div class="col-6 col-sm-3">
     <p><b>sites by count</b></p>
     <ol>
-      <li *ngFor="let site of (statistic$|async).sites ">{{site.key}} ({{site.count}})</li>
+      <li *ngFor="let site of (statistic$|async).sites ">{{site.key}} ({{site.value}})</li>
     </ol>
   </div>
   <div class="col-6 col-sm-3">
     <p><b>sites by playtime</b></p>
     <ol>
-      <li *ngFor="let site of (statistic$|async).sitesDuration ">{{site.key}} ({{site.duration|duration}})</li>
+      <li *ngFor="let site of (statistic$|async).sitesDuration ">{{site.key}} ({{site.value|duration}})</li>
     </ol>
   </div>
   <div class="col-12">
     <p><b>tags</b></p>
-    <span class="tags" *ngFor="let tags of (statistic$|async).tags ">{{tags.key}} ({{tags.count}})</span>
+    <span class="tags" *ngFor="let tags of (statistic$|async).tags ">{{tags.key}} ({{tags.value}})</span>
   </div>
 </div>

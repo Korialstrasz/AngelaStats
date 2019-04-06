@@ -54,12 +54,11 @@ export class StatisticOverviewComponent implements OnInit {
       }
     }
 
-    const sites = {};
-    const dvds = {};
-    const sitesDuration = {};
-    const partners = {};
-    const partnersDuration = {};
-    const tags = {};
+    const sites = new Map<string, string>();
+    const sitesDuration = new Map<string, Duration>();
+    const partners = new Map<string, string>();
+    const partnersDuration = new Map<string, Duration>();
+    const tags = new Map<string, string>();
 
     filteredData.forEach((item) => {
       statistic.totalPlaytime.add(durationFn(item.playtime));
@@ -74,48 +73,34 @@ export class StatisticOverviewComponent implements OnInit {
       });
     });
 
-    statistic.sites = this.getCount(sites);
-    statistic.sitesDuration = this.getCountDuration(sitesDuration);
-    statistic.partners = this.getCount(partners);
-    statistic.partnersDuration = this.getCountDuration(partnersDuration);
-    statistic.tags = this.getCount(tags);
+    statistic.sites = this.getCount(sites, (o1, o2) => o2.value - o1.value);
+    statistic.sitesDuration = this.getCount(sitesDuration, (o1, o2) => o2.value.asMilliseconds() - o1.value.asMilliseconds());
+    statistic.partners = this.getCount(partners, (o1, o2) => o2.value - o1.value);
+    statistic.partnersDuration = this.getCount(partnersDuration, (o1, o2) => o2.value.asMilliseconds() - o1.value.asMilliseconds());
+    statistic.tags = this.getCount(tags, (o1, o2) => o2.value - o1.value);
     statistic.count = filteredData.length;
     return statistic;
   }
 
   countDuration(container, key, time) {
-    let duration = container[key];
-    if (!duration) {
-      container[key] = duration = durationFn(0);
+    if (!container.has(key)) {
+      container.set(key, durationFn(0));
     }
-    duration.add(durationFn(time));
+    container.get(key).add(durationFn(time));
   }
 
-  countItem(container, value) {
-    let count = container[value];
-    if (!count) {
-      count = 0;
+  countItem(container: Map<string, any>, key) {
+    if (!container.has(key)) {
+      container.set(key, 0);
     }
-    container[value] = count + 1;
+    container.set(key, container.get(key) + 1);
+
   }
 
-  getCountDuration(thingToCount): { key: string, duration: Duration }[] {
-    const values: { key: string, duration: Duration }[] = [];
-    for (const key in thingToCount) {
-      if (Object.prototype.hasOwnProperty.call(thingToCount, key)) {
-        values.push({key, duration: thingToCount[key]});
-      }
-    }
-    return values.sort((o1, o2) => o2.duration.asMilliseconds() - o1.duration.asMilliseconds());
-  }
-
-  getCount(thingToCount): { key: string, count: number }[] {
-    const values: { key: string, count: number }[] = [];
-    for (const key in thingToCount) {
-      if (Object.prototype.hasOwnProperty.call(thingToCount, key)) {
-        values.push({key, count: thingToCount[key]});
-      }
-    }
-    return values.sort((o1, o2) => o2.count - o1.count);
+  getCount(thingToCount: Map<string, any>, sortFn: any): { key: string, value: any }[] {
+    return Array.from(thingToCount.entries()).map(([key, value]) => ({
+      key,
+      value
+    })).sort(sortFn);
   }
 }
