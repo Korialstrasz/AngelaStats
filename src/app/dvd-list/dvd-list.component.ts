@@ -18,7 +18,7 @@ export class DvdListComponent implements OnInit {
   @Input()
   sorting$: Observable<any>;
 
-  private dvd$: Observable<Dvd[]>;
+  dvd$: Observable<Dvd[]>;
 
   constructor() {
   }
