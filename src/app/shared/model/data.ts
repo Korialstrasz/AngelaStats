@@ -9,7 +9,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:29:41',
     'partners': [],
-    'links': ['https://21roles.com/game/DisplayPlayer/gameId/85450?search=angela%20white'],
+    'dvds': [],
     'tags': [],
     'release': moment('2017-03-31')
   },
@@ -20,7 +20,10 @@ export let data: Scene[] = [
     'altTitles': ['Footsie Babes - Scene 3'],
     'playtime': '0:32:31',
     'partners': ['Bill Bailey'],
-    'links': ['https://angelawhite.empirestores.co/1952717/footsie-babes-more-foot-fetish-6-porn-videos.html'],
+    'dvds': [{
+      name: 'Footsie Babes: More Foot Fetish 6',
+      link: 'https://angelawhite.empirestores.co/1952717/footsie-babes-more-foot-fetish-6-porn-videos.html'
+    }],
     'tags': [],
     'release': moment('2017-03-12')
   },
@@ -31,7 +34,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:05:20',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': []
   },
   {
@@ -41,7 +44,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:22:14',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['Solo', 'On Chair', 'Lingerie'],
     'release': moment('2013-02-19')
   },
@@ -52,7 +55,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:13:39',
     'partners': ['Krystin DIM'],
-    'links': [],
+    'dvds': [],
     'tags': ['Girl/Girl', 'On Couch', 'Dildo', 'Vibrator'],
     'release': moment('2008-03-25')
   },
@@ -63,7 +66,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:29:07',
     'partners': ['Fotina'],
-    'links': [],
+    'dvds': [],
     'tags': ['Girl/Girl', 'Outside'],
     'release': moment('2008-07-11')
   },
@@ -74,7 +77,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:18:47',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['Solo', 'On Bed'],
     'release': moment('2008-08-17')
   },
@@ -85,7 +88,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:11:41',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['Solo', 'On Bed'],
     'release': moment('2008-11-29')
   },
@@ -96,7 +99,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:11:57',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['Solo', 'Outside'],
     'release': moment('2009-12-19')
   },
@@ -107,7 +110,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:10:04',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['Solo', 'Outside'],
     'release': moment('2010-06-20')
   },
@@ -118,7 +121,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:23:13',
     'partners': ['Blossom'],
-    'links': [],
+    'dvds': [],
     'tags': ['Girl/Girl', 'On Couch'],
     'release': moment('2010-04-19')
   },
@@ -129,7 +132,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:30:11',
     'partners': ['Indiana'],
-    'links': [],
+    'dvds': [],
     'tags': ['Girl/Girl', 'On Desk', 'Anal'],
     'release': moment('2008-06-20')
   },
@@ -140,7 +143,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:10:49',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['BTS']
   },
   {
@@ -150,7 +153,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:42:08',
     'partners': ['Shaminee'],
-    'links': [],
+    'dvds': [],
     'tags': ['Girl/Girl', 'On Couch', 'Anal'],
     'release': moment('2008-07-28')
   },
@@ -161,7 +164,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:18:02',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['BTS']
   },
   {
@@ -171,7 +174,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:31:51',
     'partners': ['Chloe B'],
-    'links': [],
+    'dvds': [],
     'tags': ['Girl/Girl', 'Outside', 'Anal', 'Tribbing'],
     'release': moment('2008-08-08')
   },
@@ -182,7 +185,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:07:29',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['BTS']
   },
   {
@@ -192,7 +195,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:31:39',
     'partners': ['Fae'],
-    'links': [],
+    'dvds': [],
     'tags': ['Girl/Girl', 'On Bed', 'Anal'],
     'release': moment('2008-08-18')
   },
@@ -203,7 +206,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:09:08',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['BTS']
   },
   {
@@ -213,7 +216,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:33:55',
     'partners': ['Blaire'],
-    'links': [],
+    'dvds': [],
     'tags': ['Girl/Girl', 'Anal', 'Tribbing'],
     'release': moment('2008-08-29')
   },
@@ -224,7 +227,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:14:41',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['BTS']
   },
   {
@@ -234,7 +237,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:35:34',
     'partners': ['Odette'],
-    'links': [],
+    'dvds': [],
     'tags': ['Girl/Girl', 'Anal', 'On Desk'],
     'release': moment('2008-09-05')
   },
@@ -245,7 +248,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:14:41',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['BTS']
   },
   {
@@ -255,7 +258,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:32:32',
     'partners': ['Cleo'],
-    'links': [],
+    'dvds': [],
     'tags': ['Girl/Girl', 'Anal', 'On Bed'],
     'release': moment('2008-09-12')
   },
@@ -266,7 +269,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:19:48',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['BTS']
   },
   {
@@ -276,7 +279,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:24:13',
     'partners': [],
-    'links': ['https://angelawhite.empirestores.co/1971196/sex-across-america-a-look-back-with-angela-white-porn-videos.html'],
+    'dvds': [{
+      name: 'Sex Across America: A Look Back With Angela White',
+      link: 'https://angelawhite.empirestores.co/1971196/sex-across-america-a-look-back-with-angela-white-porn-videos.html'
+    }],
     'tags': [],
     'release': moment('2018-04-03')
   },
@@ -287,7 +293,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:33:56',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['Solo', 'Dildo', 'On Chair', 'On Desk'],
     'release': moment('2008-03-10')
   },
@@ -298,7 +304,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:32:02',
     'partners': ['Anneke', 'Indiana', 'Shee-ra', 'Corelle'],
-    'links': [],
+    'dvds': [],
     'tags': ['Wrestling'],
     'release': moment('2008-04-15')
   },
@@ -309,7 +315,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:32:02',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['BTS']
   },
   {
@@ -319,7 +325,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:31:30',
     'partners': ['Marcus London'],
-    'links': ['https://angelawhite.empirestores.co/2589225/submissive-wives-porn-movies.html'],
+    'dvds': [{
+      name: 'Submissive Wives',
+      link: 'https://angelawhite.empirestores.co/2589225/submissive-wives-porn-movies.html'
+    }],
     'tags': ['Boy/Girl', 'Spanking', 'Rope Bondage', 'On Couch', 'Blowjob'],
     'release': moment('2018-11-23')
   },
@@ -330,7 +339,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:16:17',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['Solo', 'On Bed'],
     'release': moment('2008-11-11')
   },
@@ -341,7 +350,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:15:07',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['Solo', 'Bath', 'Vibrator', 'Anal'],
     'release': moment('2009-02-17')
   },
@@ -352,7 +361,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:32:46',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2010-04-18')
   },
@@ -363,7 +372,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:07:00',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['BTS']
   },
   {
@@ -373,7 +382,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:24:46',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['Solo', 'On Chair'],
     'release': moment('2010-09-26')
   },
@@ -384,7 +393,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:21:05',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['Solo', 'On Bed'],
     'release': moment('2011-05-10')
   },
@@ -395,7 +404,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:32:16',
     'partners': ['Sophie Dee'],
-    'links': [],
+    'dvds': [],
     'tags': ['Girl/Girl', 'On Couch', 'Anilingus', 'Cunnilingus', 'Vibrator', 'Vaginal', 'Vibrator', 'Fingering',
       'Strap-on', 'Doggy', 'Dildo'],
     'release': moment('2013-10-09')
@@ -407,7 +416,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:11:26',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['Solo', 'Cage'],
     'release': moment('2013-10-16')
   },
@@ -418,7 +427,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:28:42',
     'partners': ['Keni Styles'],
-    'links': [],
+    'dvds': [],
     'tags': ['Boy/Girl', 'Vaginal', 'Doggy', 'Cowgirl', 'Reverse Cowgirl', 'Square Buttons', 'Cunnilingus',
       'Blowjob', '69', 'Deepthroat', 'Missionary', 'Finger in Butt', 'On Couch'],
     'release': moment('2013-10-23')
@@ -430,7 +439,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:35:30',
     'partners': ['Booty Call'],
-    'links': [],
+    'dvds': [],
     'tags': ['Boy/Girl', 'POV', 'Candid', 'Multiple Orgasms', 'On Bed', 'Doggy', 'Blowjob', 'Deepthroat', 'Cowgirl',
       'Reverse Cowgirl', 'Titty Fuck', 'On Bed'],
     'release': moment('2013-10-30')
@@ -442,7 +451,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:27:38',
     'partners': ['Siri'],
-    'links': [],
+    'dvds': [],
     'tags': ['Girl/Girl', 'Blond'],
     'release': moment('2013-11-06')
   },
@@ -453,7 +462,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:05:20',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['Solo', 'Water', 'Outside'],
     'release': moment('2013-11-13')
   },
@@ -464,7 +473,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:28:31',
     'partners': ['Seth Gamble'],
-    'links': [],
+    'dvds': [],
     'tags': ['Boy/Girl', 'Outside', 'Cowgirl', 'Reverse Cowgirl', 'Doggy', 'Blowjob', 'Vaginal',
       'Missionary', 'On Couch'],
     'release': moment('2013-11-20')
@@ -476,7 +485,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:13:34',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['BTS'],
     'release': moment('2013-11-27')
   },
@@ -487,7 +496,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:23:17',
     'partners': ['Jayden James'],
-    'links': [],
+    'dvds': [],
     'tags': ['Girl/Girl', 'Anal', 'On Couch'],
     'release': moment('2013-12-04')
   },
@@ -498,7 +507,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:11:40',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['Solo', 'Dildo', 'Vibrator', 'On Couch'],
     'release': moment('2013-12-11')
   },
@@ -509,7 +518,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:34:00',
     'partners': ['Rocco Reed'],
-    'links': [],
+    'dvds': [],
     'tags': ['Boy/Girl', 'Vaginal', 'Standing', 'On Chair', 'Cowgirl', 'Reverse Cowgirl', 'Blowjob'],
     'release': moment('2013-12-18')
   },
@@ -520,7 +529,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:24:23',
     'partners': ['Steven'],
-    'links': [],
+    'dvds': [],
     'tags': ['Boy/Girl', 'Cowgirl', 'Blowjob', 'Deepthroat', 'Outside', 'Public', 'Dog'],
     'release': moment('2013-12-25')
   },
@@ -531,7 +540,10 @@ export let data: Scene[] = [
     'altTitles': ['Angela Loves Women - Scene 4'],
     'playtime': '0:36:30',
     'partners': ['Bree Daniels'],
-    'links': ['https://angelawhite.empirestores.co/1729348/angela-loves-women-porn-movies.html'],
+    'dvds': [{
+      name: 'Angela Loves Women',
+      link: 'https://angelawhite.empirestores.co/1729348/angela-loves-women-porn-movies.html'
+    }],
     'tags': ['Girl/Girl', 'AVN Best All-Girl Movie 2016', 'Blond'],
     'release': moment('2014-01-01')
   },
@@ -542,7 +554,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:18:47',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['Solo', 'On Bed'],
     'release': moment('2014-01-08')
   },
@@ -553,7 +565,10 @@ export let data: Scene[] = [
     'altTitles': ['Angela Loves Men - Scene 2'],
     'playtime': '0:29:12',
     'partners': ['Ramon Nomar'],
-    'links': ['https://angelawhite.empirestores.co/1749233/angela-loves-men-porn-movies.html'],
+    'dvds': [{
+      name: 'Angela Loves Men',
+      link: 'https://angelawhite.empirestores.co/1749233/angela-loves-men-porn-movies.html'
+    }],
     'tags': ['Boy/Girl', 'Squirt', 'Standing', 'Vaginal', 'Doggy', 'Cowgirl', 'Reverse Cowgirl',
       'Blowjob', 'Stockings', 'On Stairs', 'Off the Ground', 'Cunnilingus', 'Anilingus', 'Face Sitting', '69', 'Missionary', 'Feet'],
     'release': moment('2014-01-15')
@@ -565,7 +580,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:12:28',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['BTS'],
     'release': moment('2014-01-22')
   },
@@ -576,7 +591,10 @@ export let data: Scene[] = [
     'altTitles': ['Angela Loves Women - Scene 1'],
     'playtime': '0:21:02',
     'partners': ['Dani Daniels'],
-    'links': ['https://angelawhite.empirestores.co/1729348/angela-loves-women-porn-movies.html'],
+    'dvds': [{
+      name: 'Angela Loves Women',
+      link: 'https://angelawhite.empirestores.co/1729348/angela-loves-women-porn-movies.html'
+    }],
     'tags': ['Girl/Girl', 'AVN Best All-Girl Movie 2016', 'Outside', 'Water'],
     'release': moment('2014-01-29')
   },
@@ -587,7 +605,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:23:36',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['Solo', 'Water', 'Bath', 'Jewellery'],
     'release': moment('2014-02-05')
   },
@@ -598,7 +616,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:33:01',
     'partners': ['James Deen'],
-    'links': [],
+    'dvds': [],
     'tags': ['Boy/Girl', 'On Bed', 'Vaginal', 'Blowjob', 'Side Fuck'],
     'release': moment('2014-02-12')
   },
@@ -609,7 +627,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:33:50',
     'partners': ['Manuel Ferrara'],
-    'links': [],
+    'dvds': [],
     'tags': ['Boy/Girl', 'POV', 'Candid', 'On Couch', 'On Bed', 'Choking', 'Vaginal', 'Missionary', 'Cowgirl',
       'Reverse Cowgirl', 'Blowjob'],
     'release': moment('2014-02-19')
@@ -621,7 +639,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:31:45',
     'partners': ['Alexis Texas'],
-    'links': [],
+    'dvds': [],
     'tags': ['Girl/Girl', 'Dildo', 'On Bed', 'Blond'],
     'release': moment('2014-02-26')
   },
@@ -632,7 +650,10 @@ export let data: Scene[] = [
     'altTitles': ['Angela Loves Gonzo - Bonus'],
     'playtime': '0:20:59',
     'partners': [],
-    'links': ['https://angelawhite.empirestores.co/1786446/angela-loves-gonzo-porn-movies.html'],
+    'dvds': [{
+      name: 'Angela Loves Gonzo',
+      link: 'https://angelawhite.empirestores.co/1786446/angela-loves-gonzo-porn-movies.html'
+    }],
     'tags': ['Solo', 'Ice Cream', 'AVN Best Gonzo Movie 2017'],
     'release': moment('2014-03-05')
   },
@@ -643,7 +664,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:24:09',
     'partners': ['Voodoo'],
-    'links': [],
+    'dvds': [],
     'tags': ['Boy/Girl'],
     'release': moment('2014-03-12')
   },
@@ -654,7 +675,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:17:09',
     'partners': ['Steven'],
-    'links': [],
+    'dvds': [],
     'tags': ['Boy/Girl', 'Public', 'POV', 'Candid', 'Blowjob', 'On Chair', 'Reverse Cowgirl', 'Cum on Tits'],
     'release': moment('2014-03-19')
   },
@@ -665,7 +686,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:27:10',
     'partners': ['Phoenix Marie'],
-    'links': [],
+    'dvds': [],
     'tags': ['Girl/Girl', 'Kitchen', 'Milkshake'],
     'release': moment('2014-03-26')
   },
@@ -676,7 +697,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:13:37',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['Solo', 'On Bed'],
     'release': moment('2014-04-02')
   },
@@ -687,7 +708,10 @@ export let data: Scene[] = [
     'altTitles': ['Angela Loves Men 2 - Scene 4'],
     'playtime': '0:26:32',
     'partners': ['Manuel Ferrara'],
-    'links': ['https://angelawhite.empirestores.co/1866301/angela-loves-men-2-porn-movies.html'],
+    'dvds': [{
+      name: 'Angela Loves Men 2',
+      link: 'https://angelawhite.empirestores.co/1866301/angela-loves-men-2-porn-movies.html'
+    }],
     'tags': ['Birthmark Left Inner Thigh', 'Speaking French', 'On Couch', 'Stockings', 'Feet', 'Fingering', 'Cunnilingus',
       'Feet', 'Leash', 'Titty Fuck', 'Blowjob', 'Handjob', 'Deepthroat', 'Anilingus', 'Side Fuck', 'Missionary', 'Doggy',
       'Cowgirl', 'Face Sitting', 'Reverse Cowgirl', 'Choking', 'Standing'],
@@ -700,7 +724,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:36:20',
     'partners': ['Anikka Albrite'],
-    'links': [],
+    'dvds': [],
     'tags': ['Girl/Girl'],
     'release': moment('2014-04-16')
   },
@@ -711,7 +735,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:19:21',
     'partners': ['Asa Akira'],
-    'links': [],
+    'dvds': [],
     'tags': ['Girl/Girl'],
     'release': moment('2014-04-23')
   },
@@ -722,7 +746,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:07:55',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['Solo', 'Lingerie'],
     'release': moment('2014-04-30')
   },
@@ -733,7 +757,10 @@ export let data: Scene[] = [
     'altTitles': ['Angela Loves Men - Scene 1'],
     'playtime': '0:24:37',
     'partners': ['Danny Mountain'],
-    'links': ['https://angelawhite.empirestores.co/1749233/angela-loves-men-porn-movies.html'],
+    'dvds': [{
+      name: 'Angela Loves Men',
+      link: 'https://angelawhite.empirestores.co/1749233/angela-loves-men-porn-movies.html'
+    }],
     'tags': ['Boy/Girl', 'Outside', 'Feet', 'Handjob', 'Blowjob', 'Deepthroat', 'Titty Fuck', 'Fingering', 'Cunnilingus',
       'Anilingus', 'Grinding', 'Neck Tattoo', 'Standing 69', 'Vaginal', 'Doggy', 'Cowgirl', 'Missionary'],
     'release': moment('2014-05-07')
@@ -745,8 +772,8 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:26:56',
     'partners': ['Johnny Castle'],
-    'links': ['Boy/Girl'],
-    'tags': ['POV', 'Candid', 'On Bed', 'On Chair', 'Missionary', 'Blowjob', 'Deepthroat', 'Vaginal', 'Doggy',
+    'dvds': [],
+    'tags': ['Boy/Girl', 'POV', 'Candid', 'On Bed', 'On Chair', 'Missionary', 'Blowjob', 'Deepthroat', 'Vaginal', 'Doggy',
       'Side Fuck', 'Cowgirl', 'Cunnilingus', 'Reverse Cowgirl', 'Cum on Pussy'],
     'release': moment('2014-05-14')
   },
@@ -757,7 +784,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:25:38',
     'partners': ['Kelly Divine'],
-    'links': [],
+    'dvds': [],
     'tags': ['Girl/Girl'],
     'release': moment('2014-05-21')
   },
@@ -768,7 +795,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:18:47',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['Solo', 'Lingerie', 'On Bed'],
     'release': moment('2014-05-28')
   },
@@ -779,7 +806,10 @@ export let data: Scene[] = [
     'altTitles': ['Angela Loves Men 2 - Scene 3'],
     'playtime': '0:29:25',
     'partners': ['Mick Blue'],
-    'links': ['https://angelawhite.empirestores.co/1866301/angela-loves-men-2-porn-movies.html'],
+    'dvds': [{
+      name: 'Angela Loves Men 2',
+      link: 'https://angelawhite.empirestores.co/1866301/angela-loves-men-2-porn-movies.html'
+    }],
     'tags': ['Boy/Girl'],
     'release': moment('2014-06-04')
   },
@@ -790,7 +820,10 @@ export let data: Scene[] = [
     'altTitles': ['Angela Loves Gonzo - Scene 1'],
     'playtime': '0:59:18',
     'partners': ['Ramon Nomar'],
-    'links': ['https://angelawhite.empirestores.co/1786446/angela-loves-gonzo-porn-movies.html'],
+    'dvds': [{
+      name: 'Angela Loves Gonzo',
+      link: 'https://angelawhite.empirestores.co/1786446/angela-loves-gonzo-porn-movies.html'
+    }],
     'tags': ['POV', 'Candid', 'Bath', 'In Car', 'Standing', 'Boy/Girl', 'Vaginal', 'On Bed', 'Doggy', 'Cowgirl', 'Titty Fuck',
       'Missionary', 'Finger in Butt', 'Side Fuck', 'Choking', 'Clothed', 'Against Wall', 'AVN Best Gonzo Movie 2017'],
     'release': moment('2014-06-11')
@@ -802,7 +835,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:35:24',
     'partners': ['Jelena Jensen'],
-    'links': [],
+    'dvds': [],
     'tags': ['Girl/Girl'],
     'release': moment('2014-06-18')
   },
@@ -813,7 +846,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:13:58',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['Solo', 'Bath', 'Water'],
     'release': moment('2014-06-25')
   },
@@ -824,7 +857,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:30:05',
     'partners': ['Rocco Reed'],
-    'links': [],
+    'dvds': [],
     'tags': ['Boy/Girl'],
     'release': moment('2014-07-02')
   },
@@ -835,7 +868,10 @@ export let data: Scene[] = [
     'altTitles': ['Angela Loves Gonzo - Scene 2'],
     'playtime': '0:56:07',
     'partners': ['Mick Blue', 'Anikka Albright'],
-    'links': ['https://angelawhite.empirestores.co/1786446/angela-loves-gonzo-porn-movies.html'],
+    'dvds': [{
+      name: 'Angela Loves Gonzo',
+      link: 'https://angelawhite.empirestores.co/1786446/angela-loves-gonzo-porn-movies.html'
+    }],
     'tags': ['POV', 'Candid', 'Boy/Girl/Girl', 'Girl/Girl', 'Outside', 'Public', 'Pool', 'On Bed', 'Blowjob', 'Deepthroat',
       'Fingering', 'Cunnilingus', 'Anilingus', 'Vaginal', 'Doggy', 'Face Sitting', 'Tribbing', 'Elbow Birthmark', 'Choking',
       'AVN Best Gonzo Movie 2017'],
@@ -848,7 +884,10 @@ export let data: Scene[] = [
     'altTitles': ['Angela Loves Women - Scene 2'],
     'playtime': '0:33:17',
     'partners': ['Gracie Glam'],
-    'links': ['https://angelawhite.empirestores.co/1729348/angela-loves-women-porn-movies.html'],
+    'dvds': [{
+      name: 'Angela Loves Women',
+      link: 'https://angelawhite.empirestores.co/1729348/angela-loves-women-porn-movies.html'
+    }],
     'tags': ['Girl/Girl', 'AVN Best All-Girl Movie 2016'],
     'release': moment('2014-07-16')
   },
@@ -859,7 +898,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:08:30',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['Solo'],
     'release': moment('2014-07-23')
   },
@@ -870,7 +909,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:29:24',
     'partners': ['James Deen'],
-    'links': [],
+    'dvds': [],
     'tags': ['Boy/Girl', 'Jeweled Butt Plug', 'Fingering', 'Blowjob', 'Deepthroat', 'Vaginal', 'Standing', 'Cunnilingus',
       'On Couch', 'Missionary', 'Side Fuck', 'Titty Fuck', 'Choking', 'Against Wall', 'Cowgirl', 'Doggy', 'Finger in Butt'],
     'release': moment('2014-07-30')
@@ -882,7 +921,10 @@ export let data: Scene[] = [
     'altTitles': ['Angela Loves Gonzo - Scene 3'],
     'playtime': '1:02:03',
     'partners': ['Toni Ribas'],
-    'links': ['https://angelawhite.empirestores.co/1786446/angela-loves-gonzo-porn-movies.html'],
+    'dvds': [{
+      name: 'Angela Loves Gonzo',
+      link: 'https://angelawhite.empirestores.co/1786446/angela-loves-gonzo-porn-movies.html'
+    }],
     'tags': ['Boy/Girl', 'POV', 'Candid', 'On Bed', 'Key Necklace', 'Elbow Birthmark', 'Blowjob', 'Deepthroat', 'Feet',
       'Titty Fuck', 'Vaginal', 'Cunnilingus', 'Missionary', 'Fingering', 'Choking', 'Cowgirl', 'Doggy', 'Spanking',
       'Finger in Butt', 'Squirt', 'Reverse Cowgirl', 'Side Fuck', 'AVN Best Gonzo Movie 2017'],
@@ -895,7 +937,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:28:46',
     'partners': ['Julia Ann'],
-    'links': [],
+    'dvds': [],
     'tags': ['Girl/Girl'],
     'release': moment('2014-08-13')
   },
@@ -906,7 +948,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:10:43',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['Solo'],
     'release': moment('2014-08-20')
   },
@@ -917,7 +959,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:34:29',
     'partners': ['Mick Blue'],
-    'links': [],
+    'dvds': [],
     'tags': ['Boy/Girl', 'Candid', 'POV', 'Blowjob', 'Deepthroat', 'Anilingus', 'Titty Fuck', 'Handjob',
       'Birthmark Left Inner Thigh', 'Solo', 'Fingering', 'On Couch', 'Vaginal', 'Missionary', 'Cunnilingus',
       'Finger in Butt', 'Doggy', 'Neck Tattoo', 'Feet'],
@@ -930,7 +972,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:22:29',
     'partners': ['Voodoo'],
-    'links': [],
+    'dvds': [],
     'tags': ['Boy/Girl'],
     'release': moment('2014-09-03')
   },
@@ -941,7 +983,10 @@ export let data: Scene[] = [
     'altTitles': ['Angela Loves Women - Scene 3'],
     'playtime': '0:27:26',
     'partners': ['Celeste Star'],
-    'links': ['https://angelawhite.empirestores.co/1729348/angela-loves-women-porn-movies.html'],
+    'dvds': [{
+      name: 'Angela Loves Women',
+      link: 'https://angelawhite.empirestores.co/1729348/angela-loves-women-porn-movies.html'
+    }],
     'tags': ['Girl/Girl', 'AVN Best All-Girl Movie 2016'],
     'release': moment('2014-09-10')
   },
@@ -952,7 +997,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:50:55',
     'partners': ['Phoenix Marie'],
-    'links': [],
+    'dvds': [],
     'tags': ['Girl/Girl', 'Strap-on', 'Blowjob', 'Deepthroat', 'On Couch', 'Spanking', 'Feet', 'Finger in Butt',
       'Jeweled Butt Plug', 'Elbow Birthmark', 'Dildo', 'Anal', 'Hitachi', 'Neck Tattoo'],
     'release': moment('2014-10-27')
@@ -964,7 +1009,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:18:07',
     'partners': ['Manuel Ferrara'],
-    'links': [],
+    'dvds': [],
     'tags': ['Boy/Girl', 'Outside', 'Elbow Birthmark', 'On Car', 'Blowjob', 'Deepthroat', 'Handjob', 'Titty Fuck', 'Heels',
       'Cunnilingus', 'Finger in Butt', 'Missionary', 'Vaginal', 'Birthmark Left Inner Thigh', 'Choking', 'Standing', 'Doggy',
       'Spanking', 'Squirt'],
@@ -977,8 +1022,8 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:06:15',
     'partners': [],
-    'links': ['Solo', 'Jeweled Butt Plug', 'Dildo', 'Anal', 'Gaping', 'Finger in Butt'],
-    'tags': ['Solo', 'Dildo', 'Anal'],
+    'dvds': [],
+    'tags': ['Solo', 'Jeweled Butt Plug', 'Dildo', 'Anal', 'Gaping', 'Finger in Butt'],
     'release': moment('2014-11-14')
   },
   {
@@ -988,7 +1033,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:41:48',
     'partners': ['Steve Holmes'],
-    'links': [],
+    'dvds': [],
     'tags': ['Boy/Girl', 'Candid', 'POV'],
     'release': moment('2014-11-23')
   },
@@ -999,7 +1044,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:29:51',
     'partners': ['Anissa Kate'],
-    'links': [],
+    'dvds': [],
     'tags': ['Girl/Girl'],
     'release': moment('2014-12-02')
   },
@@ -1010,7 +1055,10 @@ export let data: Scene[] = [
     'altTitles': ['Angela Loves Men - Scene 4'],
     'playtime': '0:33:12',
     'partners': ['Toni Ribas'],
-    'links': ['https://angelawhite.empirestores.co/1749233/angela-loves-men-porn-movies.html'],
+    'dvds': [{
+      name: 'Angela Loves Men',
+      link: 'https://angelawhite.empirestores.co/1749233/angela-loves-men-porn-movies.html'
+    }],
     'tags': ['Boy/Girl', 'On Couch'],
     'release': moment('2014-12-11')
   },
@@ -1021,7 +1069,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '1:09:53',
     'partners': ['Ava Addams', 'Phoenix Marie'],
-    'links': [],
+    'dvds': [],
     'tags': ['POV', 'Candid'],
     'release': moment('2014-12-20')
   },
@@ -1032,7 +1080,10 @@ export let data: Scene[] = [
     'altTitles': ['Angela - Scene 1'],
     'playtime': '0:29:47',
     'partners': ['James Deen'],
-    'links': ['https://angelawhite.empirestores.co/1712600/angela-porn-movies.html'],
+    'dvds': [{
+      name: 'Angela',
+      link: 'https://angelawhite.empirestores.co/1712600/angela-porn-movies.html'
+    }],
     'tags': ['Boy/Girl', 'Standing', 'Anal'],
     'release': moment('2014-10-03')
   },
@@ -1043,7 +1094,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:29:57',
     'partners': ['Chanel Preston'],
-    'links': [],
+    'dvds': [],
     'tags': ['Girl/Girl'],
     'release': moment('2015-01-07')
   },
@@ -1054,7 +1105,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:15:22',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['BTS'],
     'release': moment('2015-01-16')
   },
@@ -1065,7 +1116,10 @@ export let data: Scene[] = [
     'altTitles': ['Angela - Scene 2'],
     'playtime': '0:31:37',
     'partners': ['Lexington Steele'],
-    'links': ['https://angelawhite.empirestores.co/1712600/angela-porn-movies.html'],
+    'dvds': [{
+      name: 'Angela',
+      link: 'https://angelawhite.empirestores.co/1712600/angela-porn-movies.html'
+    }],
     'tags': ['Boy/Girl', 'Interracial', 'Anal', 'Vaginal'],
     'release': moment('2014-10-03')
   },
@@ -1076,7 +1130,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:12:24',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['Solo'],
     'release': moment('2015-02-03')
   },
@@ -1087,7 +1141,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:40:10',
     'partners': ['Kristina Rose'],
-    'links': [],
+    'dvds': [],
     'tags': ['Girl/Girl'],
     'release': moment('2015-02-12')
   },
@@ -1098,7 +1152,10 @@ export let data: Scene[] = [
     'altTitles': ['Angela - Scene 3'],
     'playtime': '0:25:11',
     'partners': ['Manuel Ferrara', 'Kelly Divine'],
-    'links': ['https://angelawhite.empirestores.co/1712600/angela-porn-movies.html'],
+    'dvds': [{
+      name: 'Angela',
+      link: 'https://angelawhite.empirestores.co/1712600/angela-porn-movies.html'
+    }],
     'tags': [],
     'release': moment('2014-10-03')
   },
@@ -1109,7 +1166,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:37:48',
     'partners': ['James Deen'],
-    'links': [],
+    'dvds': [],
     'tags': ['Boy/Girl', 'Candid', 'POV'],
     'release': moment('2015-03-02')
   },
@@ -1120,7 +1177,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:31:37',
     'partners': ['Skin Diamond'],
-    'links': [],
+    'dvds': [],
     'tags': ['Girl/Girl'],
     'release': moment('2015-03-11')
   },
@@ -1131,7 +1188,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:23:57',
     'partners': ['Erik Everhard'],
-    'links': [],
+    'dvds': [],
     'tags': ['Boy/Girl', 'Outside', 'On Couch'],
     'release': moment('2015-03-20')
   },
@@ -1142,7 +1199,10 @@ export let data: Scene[] = [
     'altTitles': ['Angela - Scene 4'],
     'playtime': '0:26:08',
     'partners': ['Toni Ribas', 'Mr Pete'],
-    'links': ['https://angelawhite.empirestores.co/1712600/angela-porn-movies.html'],
+    'dvds': [{
+      name: 'Angela',
+      link: 'https://angelawhite.empirestores.co/1712600/angela-porn-movies.html'
+    }],
     'tags': ['Boy/Boy/Girl'],
     'release': moment('2014-10-03')
   },
@@ -1153,7 +1213,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '1:07:42',
     'partners': ['Steve Holmes', 'Phoenix Marie'],
-    'links': [],
+    'dvds': [],
     'tags': ['Boy/Girl/Girl', 'Candid', 'POV'],
     'release': moment('2015-04-07')
 
@@ -1165,7 +1225,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:08:41',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['Solo', 'Outside', 'On Chair'],
     'release': moment('2015-04-16')
   },
@@ -1176,7 +1236,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:20:12',
     'partners': ['Jada Stevens'],
-    'links': [],
+    'dvds': [],
     'tags': ['Girl/Girl'],
     'release': moment('2015-04-25')
   },
@@ -1187,7 +1247,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:23:54',
     'partners': ['David'],
-    'links': [],
+    'dvds': [],
     'tags': ['Boy/Girl', 'Handjob', 'Blowjob', 'Titty Fuck', 'Candid', 'POV'],
     'release': moment('2015-05-04')
   },
@@ -1198,7 +1258,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:24:41',
     'partners': ['Prince Yahshua'],
-    'links': [],
+    'dvds': [],
     'tags': ['Boy/Girl', 'Interracial', 'Vaginal', 'On Couch'],
     'release': moment('2015-05-13')
   },
@@ -1209,7 +1269,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:11:04',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['Solo'],
     'release': moment('2015-05-22')
   },
@@ -1220,7 +1280,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:27:10',
     'partners': ['Asa Akira'],
-    'links': [],
+    'dvds': [],
     'tags': ['Girl/Girl', 'Outside', 'Tribbing'],
     'release': moment('2015-05-31')
   },
@@ -1231,7 +1291,10 @@ export let data: Scene[] = [
     'altTitles': ['Angela Loves Men - Scene 3'],
     'playtime': '0:33:15',
     'partners': ['Manuel Ferrara'],
-    'links': ['https://angelawhite.empirestores.co/1749233/angela-loves-men-porn-movies.html'],
+    'dvds': [{
+      name: 'Angela Loves Men',
+      link: 'https://angelawhite.empirestores.co/1749233/angela-loves-men-porn-movies.html'
+    }],
     'tags': ['Boy/Girl', 'Outside', 'On Couch'],
     'release': moment('2015-06-09')
   },
@@ -1242,7 +1305,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:20:02',
     'partners': ['David'],
-    'links': [],
+    'dvds': [],
     'tags': ['POV', 'Candid', 'Boy/Girl'],
     'release': moment('2015-06-18')
   },
@@ -1253,7 +1316,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:30:24',
     'partners': ['Alexis Texas'],
-    'links': [],
+    'dvds': [],
     'tags': ['Girl/Girl', 'Domination', 'Submission'],
     'release': moment('2015-06-27')
   },
@@ -1264,7 +1327,10 @@ export let data: Scene[] = [
     'altTitles': ['Angela Loves Men 2 - Scene 1'],
     'playtime': '0:24:03',
     'partners': ['Ramon Nomar'],
-    'links': ['https://angelawhite.empirestores.co/1866301/angela-loves-men-2-porn-movies.html'],
+    'dvds': [{
+      name: 'Angela Loves Men 2',
+      link: 'https://angelawhite.empirestores.co/1866301/angela-loves-men-2-porn-movies.html'
+    }],
     'tags': ['Boy/Girl', 'Bath', 'Water', 'Standing'],
     'release': moment('2015-07-06')
   },
@@ -1275,7 +1341,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:48:33',
     'partners': ['James Deen'],
-    'links': [],
+    'dvds': [],
     'tags': ['Boy/Girl', 'Candid', 'POV'],
     'release': moment('2015-07-15')
   },
@@ -1286,7 +1352,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:26:36',
     'partners': ['Manuel Ferrara', 'Ava Addams'],
-    'links': [],
+    'dvds': [],
     'tags': ['Boy/Girl/Girl'],
     'release': moment('2015-07-24')
   },
@@ -1297,7 +1363,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:27:17',
     'partners': ['Sovereign Syre'],
-    'links': [],
+    'dvds': [],
     'tags': ['Girl/Girl'],
     'release': moment('2015-08-02')
   },
@@ -1308,7 +1374,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:41:08',
     'partners': ['Mickey Mod'],
-    'links': [],
+    'dvds': [],
     'tags': ['Boy/Girl', 'Interracial', 'Candid', 'POV'],
     'release': moment('2015-08-11')
   },
@@ -1319,7 +1385,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:05:59',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['Solo'],
     'release': moment('2015-08-20')
   },
@@ -1330,7 +1396,10 @@ export let data: Scene[] = [
     'altTitles': ['Angela Loves Threesomes - Scene 3'],
     'playtime': '0:32:59',
     'partners': ['Flash Brown', 'Kagney Linn Karter'],
-    'links': ['https://angelawhite.empirestores.co/1746328/angela-loves-threesomes-porn-movies.html'],
+    'dvds': [{
+      name: 'Angela Loves Threesomes',
+      link: 'https://angelawhite.empirestores.co/1746328/angela-loves-threesomes-porn-movies.html'
+    }],
     'tags': ['Boy/Girl/Girl', 'Interracial'],
     'release': moment('2015-07-31')
   },
@@ -1341,7 +1410,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:31:26',
     'partners': ['Johnny Castle'],
-    'links': [],
+    'dvds': [],
     'tags': ['Boy/Girl'],
     'release': moment('2015-09-07')
   },
@@ -1352,7 +1421,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:09:26',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['Solo', 'Outside', 'Water'],
     'release': moment('2015-09-16')
   },
@@ -1363,7 +1432,10 @@ export let data: Scene[] = [
     'altTitles': ['Angela Loves Threesomes - Scene 2'],
     'playtime': '0:36:16',
     'partners': ['Erik Everhard', 'Bonnie Rotten'],
-    'links': ['https://angelawhite.empirestores.co/1746328/angela-loves-threesomes-porn-movies.html'],
+    'dvds': [{
+      name: 'Angela Loves Threesomes',
+      link: 'https://angelawhite.empirestores.co/1746328/angela-loves-threesomes-porn-movies.html'
+    }],
     'tags': [],
     'release': moment('2015-07-31')
   },
@@ -1374,7 +1446,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:26:54',
     'partners': ['Dani Daniels'],
-    'links': [],
+    'dvds': [],
     'tags': ['Girl/Girl'],
     'release': moment('2015-10-04')
   },
@@ -1385,7 +1457,10 @@ export let data: Scene[] = [
     'altTitles': ['Angela Loves Threesomes - Scene 1'],
     'playtime': '0:31:16',
     'partners': ['Prince Yahshua', 'Jada Stevens'],
-    'links': ['https://angelawhite.empirestores.co/1746328/angela-loves-threesomes-porn-movies.html'],
+    'dvds': [{
+      name: 'Angela Loves Threesomes',
+      link: 'https://angelawhite.empirestores.co/1746328/angela-loves-threesomes-porn-movies.html'
+    }],
     'tags': [],
     'release': moment('2015-07-31')
   },
@@ -1396,7 +1471,10 @@ export let data: Scene[] = [
     'altTitles': ['Angela Loves Gonzo - Scene 4'],
     'playtime': '1:25:13',
     'partners': ['Manuel Ferrara'],
-    'links': ['https://angelawhite.empirestores.co/1786446/angela-loves-gonzo-porn-movies.html'],
+    'dvds': [{
+      name: 'Angela Loves Gonzo',
+      link: 'https://angelawhite.empirestores.co/1786446/angela-loves-gonzo-porn-movies.html'
+    }],
     'tags': ['Boy/Girl', 'Candid', 'POV', 'AVN Best Gonzo Movie 2017'],
     'release': moment('2015-11-10')
   },
@@ -1407,7 +1485,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:11:28',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['Solo'],
     'release': moment('2015-11-24')
   },
@@ -1418,7 +1496,10 @@ export let data: Scene[] = [
     'altTitles': ['Angela Loves Men 2 - Scene 2'],
     'playtime': '0:31:05',
     'partners': ['Bruce Venture'],
-    'links': ['https://angelawhite.empirestores.co/1866301/angela-loves-men-2-porn-movies.html'],
+    'dvds': [{
+      name: 'Angela Loves Men 2',
+      link: 'https://angelawhite.empirestores.co/1866301/angela-loves-men-2-porn-movies.html'
+    }],
     'tags': ['Boy/Girl'],
     'release': moment('2015-12-13')
   },
@@ -1429,7 +1510,10 @@ export let data: Scene[] = [
     'altTitles': ['Angela Volume 2 - Scene 1'],
     'playtime': '0:32:03',
     'partners': ['Alexis Texas', 'Anikka Albrite'],
-    'links': ['https://angelawhite.empirestores.co/1752871/angela-vol-2-porn-movies.html'],
+    'dvds': [{
+      name: 'Angela Vol. 2',
+      link: 'https://angelawhite.empirestores.co/1752871/angela-vol-2-porn-movies.html'
+    }],
     'tags': ['Girl/Girl/Girl', 'Threesome', 'Blond', 'Tribbing', 'AVN Best All-Girl Group Sex Scene 2016'],
     'release': moment('2015-12-26')
   },
@@ -1440,7 +1524,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:42:23',
     'partners': ['Lexington Steele'],
-    'links': [],
+    'dvds': [],
     'tags': ['Boy/Girl', 'Interracial', 'Candid', 'POV'],
     'release': moment('2016-01-09')
   },
@@ -1451,7 +1535,10 @@ export let data: Scene[] = [
     'altTitles': ['Angela Volume 2 - Scene 2'],
     'playtime': '0:33:39',
     'partners': ['Axel Aces', 'Chad Alva', 'Damon Dice', 'Marco Banderas', 'Michael Vegas', 'Ricky Johnson', 'Robby Echo'],
-    'links': ['https://angelawhite.empirestores.co/1752871/angela-vol-2-porn-movies.html'],
+    'dvds': [{
+      name: 'Angela Vol. 2',
+      link: 'https://angelawhite.empirestores.co/1752871/angela-vol-2-porn-movies.html'
+    }],
     'tags': ['Boy/Girl', 'Blowbang', 'Blowjob', 'Deepthroat', 'AVN Best Oral Sex Scene 2016'],
     'release': moment('2016-01-19')
   },
@@ -1462,7 +1549,10 @@ export let data: Scene[] = [
     'altTitles': ['Angela Loves Threesomes 2 - Scene 2'],
     'playtime': '0:33:04',
     'partners': ['Manuel Ferrara', 'Valentina Nappi'],
-    'links': ['https://angelawhite.empirestores.co/1926055/angela-loves-threesomes-2-porn-movies.html'],
+    'dvds': [{
+      name: 'Angela Loves Threesomes 2',
+      link: 'https://angelawhite.empirestores.co/1926055/angela-loves-threesomes-2-porn-movies.html'
+    }],
     'tags': ['Boy/Girl/Girl'],
     'release': moment('2016-01-29')
   },
@@ -1473,7 +1563,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:09:04',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['Solo'],
     'release': moment('2016-02-12')
   },
@@ -1484,7 +1574,10 @@ export let data: Scene[] = [
     'altTitles': ['Angela Volume 2 - Scene 3'],
     'playtime': '0:38:21',
     'partners': ['Lexington Steele', 'Moe Johnson', 'Rico Strong'],
-    'links': ['https://angelawhite.empirestores.co/1752871/angela-vol-2-porn-movies.html'],
+    'dvds': [{
+      name: 'Angela Vol. 2',
+      link: 'https://angelawhite.empirestores.co/1752871/angela-vol-2-porn-movies.html'
+    }],
     'tags': ['Boy/Boy/Girl', 'Interracial'],
     'release': moment('2016-02-27')
   },
@@ -1495,7 +1588,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:12:48',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['Solo'],
     'release': moment('2016-03-10')
   },
@@ -1506,7 +1599,10 @@ export let data: Scene[] = [
     'altTitles': ['Angela Volume 2 - Scene 4'],
     'playtime': '0:53:42',
     'partners': ['Erik Everhard', 'James Deen', 'John Strong', 'Mick Blue', 'Mr Pete'],
-    'links': ['https://angelawhite.empirestores.co/1752871/angela-vol-2-porn-movies.html'],
+    'dvds': [{
+      name: 'Angela Vol. 2',
+      link: 'https://angelawhite.empirestores.co/1752871/angela-vol-2-porn-movies.html'
+    }],
     'tags': ['Boy/Girl', 'Gangbang', 'Doggy', 'On Couch', 'Missionary', 'Choking', 'Side Fuck', 'Fingering', 'Feet',
       'Gaping', 'Cowgirl', 'Standing', 'Blowjob', 'Vaginal', 'Anal', 'Double Penetration', 'DP',
       'Triple Penetration', 'TP', 'Double Vaginal', 'DV', 'Double Anal', 'DA', 'Reverse Cowgirl', 'Off the Ground', 'Pussy to Ass',
@@ -1520,7 +1616,10 @@ export let data: Scene[] = [
     'altTitles': ['Angela Loves Women 2 - Scene 4'],
     'playtime': '0:33:03',
     'partners': ['Carter Cruise'],
-    'links': ['https://angelawhite.empirestores.co/1827227/angela-loves-women-2-porn-movies.html'],
+    'dvds': [{
+      name: 'Angela Loves Women 2',
+      link: 'https://angelawhite.empirestores.co/1827227/angela-loves-women-2-porn-movies.html'
+    }],
     'tags': ['Girl/Girl'],
     'release': moment('2016-04-05')
   },
@@ -1531,7 +1630,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:05:36',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['Solo'],
     'release': moment('2016-04-17')
   },
@@ -1542,7 +1641,10 @@ export let data: Scene[] = [
     'altTitles': ['Angela Loves Threesomes - Scene 4'],
     'playtime': '0:32:13',
     'partners': ['James Deen', 'Danny Mountain'],
-    'links': ['https://angelawhite.empirestores.co/1746328/angela-loves-threesomes-porn-movies.html'],
+    'dvds': [{
+      name: 'Angela Loves Threesomes',
+      link: 'https://angelawhite.empirestores.co/1746328/angela-loves-threesomes-porn-movies.html'
+    }],
     'tags': ['Boy/Boy/Girl', 'Pool', 'Outside'],
     'release': moment('2015-07-31')
   },
@@ -1553,7 +1655,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:11:00',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['Solo'],
     'release': moment('2016-05-14')
   },
@@ -1564,7 +1666,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:29:03',
     'partners': ['Ramon Nomar'],
-    'links': [],
+    'dvds': [],
     'tags': ['Boy/Girl'],
     'release': moment('2016-05-25')
   },
@@ -1575,7 +1677,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:06:22',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['Solo'],
     'release': moment('2016-06-04')
   },
@@ -1586,7 +1688,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:14:47',
     'partners': ['David'],
-    'links': [],
+    'dvds': [],
     'tags': ['Boy/Girl', 'Candid', 'POV'],
     'release': moment('2016-06-14')
   },
@@ -1597,7 +1699,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:27:14',
     'partners': ['Alex Chance'],
-    'links': [],
+    'dvds': [],
     'tags': ['Girl/Girl'],
     'release': moment('2016-06-24')
   },
@@ -1608,7 +1710,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:12:07',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['Solo'],
     'release': moment('2016-07-16')
   },
@@ -1619,7 +1721,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:22:19',
     'partners': ['Voodoo'],
-    'links': [],
+    'dvds': [],
     'tags': ['Boy/Girl'],
     'release': moment('2016-07-28')
   },
@@ -1630,7 +1732,10 @@ export let data: Scene[] = [
     'altTitles': ['Angela Loves Women 2 - Scene 1'],
     'playtime': '0:39:10',
     'partners': ['A. J. Applegate'],
-    'links': ['https://angelawhite.empirestores.co/1827227/angela-loves-women-2-porn-movies.html'],
+    'dvds': [{
+      name: 'Angela Loves Women 2',
+      link: 'https://angelawhite.empirestores.co/1827227/angela-loves-women-2-porn-movies.html'
+    }],
     'tags': ['Girl/Girl', 'Blond', 'On Couch', 'Cunnilingus', 'Fingering', 'Elbow Birthmark', 'Anilingus', 'Feet',
       'Neck Tattoo', 'Face Sitting', 'Tribbing', 'Choking'],
     'release': moment('2016-07-06')
@@ -1642,7 +1747,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:14:52',
     'partners': ['David'],
-    'links': [],
+    'dvds': [],
     'tags': ['Boy/Girl', 'Candid', 'POV', 'Bath', 'Water', 'Blowjob', 'Deepthroat', 'Titty Fuck', 'Standing', 'Vaginal'],
     'release': moment('2016-08-23')
   },
@@ -1653,7 +1758,10 @@ export let data: Scene[] = [
     'altTitles': ['Angela Loves Women 2 - Scene 2'],
     'playtime': '0:35:22',
     'partners': ['Lexi Belle'],
-    'links': ['https://angelawhite.empirestores.co/1827227/angela-loves-women-2-porn-movies.html'],
+    'dvds': [{
+      name: 'Angela Loves Women 2',
+      link: 'https://angelawhite.empirestores.co/1827227/angela-loves-women-2-porn-movies.html'
+    }],
     'tags': ['Girl/Girl', 'Blond', 'Tribbing'],
     'release': moment('2016-07-06')
   },
@@ -1664,7 +1772,10 @@ export let data: Scene[] = [
     'altTitles': ['Angela Loves Anal - Scene 1'],
     'playtime': '0:26:55',
     'partners': ['Rico Strong'],
-    'links': ['https://angelawhite.empirestores.co/1926052/angela-loves-anal-porn-movies.html'],
+    'dvds': [{
+      name: 'Angela Loves Anal',
+      link: 'https://angelawhite.empirestores.co/1926052/angela-loves-anal-porn-movies.html'
+    }],
     'tags': ['Boy/Girl', 'Interracial', 'Neck Tattoo', 'On Couch', 'Titty Fuck', 'Blowjob', 'Deepthroat', 'Vaginal',
       'Cowgirl', 'Reverse Cowgirl', 'Spooning', 'Doggy', 'Anal', 'Ass to Mouth', 'Fingering'],
     'release': moment('2016-10-02')
@@ -1676,7 +1787,10 @@ export let data: Scene[] = [
     'altTitles': ['Angela Loves Women 2 - Scene 3'],
     'playtime': '0:24:41',
     'partners': ['Remy Lacroix'],
-    'links': ['https://angelawhite.empirestores.co/1827227/angela-loves-women-2-porn-movies.html'],
+    'dvds': [{
+      name: 'Angela Loves Women 2',
+      link: 'https://angelawhite.empirestores.co/1827227/angela-loves-women-2-porn-movies.html'
+    }],
     'tags': ['Girl/Girl'],
     'release': moment('2016-07-06')
   },
@@ -1687,7 +1801,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:13:39',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['Solo'],
     'release': moment('2016-11-12')
   },
@@ -1698,7 +1812,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:38:17',
     'partners': ['Mickey Mod'],
-    'links': [],
+    'dvds': [],
     'tags': ['Boy/Girl'],
     'release': moment('2016-11-24')
   },
@@ -1709,7 +1823,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:45:40',
     'partners': ['Markus Dupree'],
-    'links': [],
+    'dvds': [],
     'tags': ['Boy/Girl', 'Anal', 'Candid', 'POV'],
     'release': moment('2016-12-07')
   },
@@ -1720,7 +1834,10 @@ export let data: Scene[] = [
     'altTitles': ['Angela Loves Women 3 - Scene 4'],
     'playtime': '0:29:40',
     'partners': ['Jenna Sativa'],
-    'links': ['https://angelawhite.empirestores.co/1898765/angela-loves-women-3-porn-movies.html'],
+    'dvds': [{
+      name: 'Angela Loves Women 3',
+      link: 'https://angelawhite.empirestores.co/1898765/angela-loves-women-3-porn-movies.html'
+    }],
     'tags': ['Girl/Girl', 'AVN Best All-Girl Movie 2018'],
     'release': moment('2016-12-27')
   },
@@ -1731,7 +1848,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:11:48',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['Solo'],
     'release': moment('2017-01-30')
   },
@@ -1742,7 +1859,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:48:41',
     'partners': ['Tommy Pistol'],
-    'links': [],
+    'dvds': [],
     'tags': ['Boy/Girl', 'Candid', 'POV'],
     'release': moment('2017-02-23')
   },
@@ -1753,7 +1870,10 @@ export let data: Scene[] = [
     'altTitles': ['Angela Loves Anal - Scene 3'],
     'playtime': '0:33:15',
     'partners': ['Prince Yahshua', 'Rico Strong'],
-    'links': ['https://angelawhite.empirestores.co/1926052/angela-loves-anal-porn-movies.html'],
+    'dvds': [{
+      name: 'Angela Loves Anal',
+      link: 'https://angelawhite.empirestores.co/1926052/angela-loves-anal-porn-movies.html'
+    }],
     'tags': ['Boy/Boy/Girl', 'Interracial', 'Double Penetration', 'DP', 'Vaginal', 'Anal'],
     'release': moment('2017-03-13')
   },
@@ -1764,7 +1884,10 @@ export let data: Scene[] = [
     'altTitles': ['Angela Loves Threesomes 2 - Scene 1'],
     'playtime': '0:35:22',
     'partners': ['Mia Malkova', 'Markus Dupree'],
-    'links': ['https://angelawhite.empirestores.co/1926055/angela-loves-threesomes-2-porn-movies.html'],
+    'dvds': [{
+      name: 'Angela Loves Threesomes 2',
+      link: 'https://angelawhite.empirestores.co/1926055/angela-loves-threesomes-2-porn-movies.html'
+    }],
     'tags': ['Boy/Girl/Girl'],
     'release': moment('2017-04-09')
   },
@@ -1775,7 +1898,10 @@ export let data: Scene[] = [
     'altTitles': ['Angela Loves Women 3 - Scene 3'],
     'playtime': '0:31:56',
     'partners': ['Abella Danger'],
-    'links': ['https://angelawhite.empirestores.co/1898765/angela-loves-women-3-porn-movies.html'],
+    'dvds': [{
+      name: 'Angela Loves Women 3',
+      link: 'https://angelawhite.empirestores.co/1898765/angela-loves-women-3-porn-movies.html'
+    }],
     'tags': ['Girl/Girl', 'AVN Best All-Girl Movie 2018'],
     'release': moment('2017-04-21')
   },
@@ -1786,7 +1912,10 @@ export let data: Scene[] = [
     'altTitles': ['Angela Loves Women 3 - Scene 2'],
     'playtime': '0:33:27',
     'partners': ['Valentina Nappi'],
-    'links': ['https://angelawhite.empirestores.co/1898765/angela-loves-women-3-porn-movies.html'],
+    'dvds': [{
+      name: 'Angela Loves Women 3',
+      link: 'https://angelawhite.empirestores.co/1898765/angela-loves-women-3-porn-movies.html'
+    }],
     'tags': ['Girl/Girl', 'AVN Best All-Girl Movie 2018'],
     'release': moment('2017-04-21')
   },
@@ -1797,7 +1926,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:40:24',
     'partners': ['Jules Jordan'],
-    'links': [],
+    'dvds': [],
     'tags': ['Boy/Girl', 'Candid', 'POV'],
     'release': moment('2017-07-05')
   },
@@ -1808,7 +1937,10 @@ export let data: Scene[] = [
     'altTitles': ['Angela Loves Women 3 - Scene 1'],
     'playtime': '0:34:57',
     'partners': ['Karlee Grey'],
-    'links': ['https://angelawhite.empirestores.co/1898765/angela-loves-women-3-porn-movies.html'],
+    'dvds': [{
+      name: 'Angela Loves Women 3',
+      link: 'https://angelawhite.empirestores.co/1898765/angela-loves-women-3-porn-movies.html'
+    }],
     'tags': ['Girl/Girl', 'AVN Best All-Girl Movie 2018'],
     'release': moment('2017-04-21')
   },
@@ -1819,7 +1951,10 @@ export let data: Scene[] = [
     'altTitles': ['Angela Loves Threesomes 2 - Scene 3'],
     'playtime': '0:33:24',
     'partners': ['Steve Holmes', 'Keisha Grey'],
-    'links': ['https://angelawhite.empirestores.co/1926055/angela-loves-threesomes-2-porn-movies.html'],
+    'dvds': [{
+      name: 'Angela Loves Threesomes 2',
+      link: 'https://angelawhite.empirestores.co/1926055/angela-loves-threesomes-2-porn-movies.html'
+    }],
     'tags': ['Boy/Girl/Girl'],
     'release': moment('2017-08-11')
   },
@@ -1830,7 +1965,10 @@ export let data: Scene[] = [
     'altTitles': ['Angela Volume 3 - Scene 2'],
     'playtime': '0:29:36',
     'partners': ['Mandingo'],
-    'links': ['https://angelawhite.empirestores.co/1928357/angela-vol-3-porn-movies.html'],
+    'dvds': [{
+      name: 'Angela Vol. 3',
+      link: 'https://angelawhite.empirestores.co/1928357/angela-vol-3-porn-movies.html'
+    }],
     'tags': ['Boy/Girl', 'Interracial', 'Anal', 'On Couch', 'Elbow Birthmark', 'Blowjob', 'Deepthroat', 'Vaginal',
       'Side Fuck', 'Missionary', 'Birthmark Left Inner Thigh', 'Fingering', 'Reverse Cowgirl', 'Cowgirl', 'Doggy', 'Gaping',
       'Ass to Pussy', 'AVN Best Star Showcase 2018'],
@@ -1843,8 +1981,10 @@ export let data: Scene[] = [
     'altTitles': ['Angela Loves Threesomes 2 - Scene 4'],
     'playtime': '0:35:01',
     'partners': ['Manuel Ferrara', 'Karlee Grey'],
-    'links': ['http://angelawhite.com/tour/trailers/130-angela-white-x-manuel-ferrara-x-karlee-grey',
-      'https://angelawhite.empirestores.co/1926055/angela-loves-threesomes-2-porn-movies.html'],
+    'dvds': [{
+      name: 'Angela Loves Threesomes 2',
+      link: 'https://angelawhite.empirestores.co/1926055/angela-loves-threesomes-2-porn-movies.html'
+    }],
     'tags': ['Boy/Girl/Girl'],
     'release': moment('2017-08-11')
   },
@@ -1855,8 +1995,10 @@ export let data: Scene[] = [
     'altTitles': ['Angela Loves Anal - Scene 4'],
     'playtime': '0:31:42',
     'partners': ['Mick Blue', 'Erik Everhard'],
-    'links': ['http://angelawhite.com/tour/trailers/131-angela-white-x-mick-blue-x-erik-everhard',
-      'https://angelawhite.empirestores.co/1926052/angela-loves-anal-porn-movies.html'],
+    'dvds': [{
+      name: 'Angela Loves Anal',
+      link: 'https://angelawhite.empirestores.co/1926052/angela-loves-anal-porn-movies.html'
+    }],
     'tags': ['Boy/Boy/Girl', 'On Couch', 'Blowjob', 'Deepthroat', 'Titty Fuck', 'Fingering', 'Doggy', 'Pussy to Ass',
       'Vaginal', 'Anal', 'Ass to Mouth', 'Choking', 'Gaping', 'Cowgirl', 'Double Penetration', 'DP', 'Elbow Birthmark',
       'Reverse Cowgirl', 'Double Anal', 'DA', 'Fingering', 'Double Vaginal', 'DV'],
@@ -1869,7 +2011,10 @@ export let data: Scene[] = [
     'altTitles': ['Angela Loves Anal - Scene 2'],
     'playtime': '0:31:32',
     'partners': ['Markus Dupree'],
-    'links': ['https://angelawhite.empirestores.co/1926052/angela-loves-anal-porn-movies.html'],
+    'dvds': [{
+      name: 'Angela Loves Anal',
+      link: 'https://angelawhite.empirestores.co/1926052/angela-loves-anal-porn-movies.html'
+    }],
     'tags': ['Boy/Girl', 'Anal', 'Elbow Birthmark'],
     'release': moment('2017-08-25')
   },
@@ -1880,7 +2025,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:29:59',
     'partners': ['Markus Dupree'],
-    'links': ['https://angelawhite.empirestores.co/2554826/angela-loves-anal-2-porn-movies.html'],
+    'dvds': [{
+      name: 'Angela Loves Anal 2',
+      link: 'https://angelawhite.empirestores.co/2554826/angela-loves-anal-2-porn-movies.html'
+    }],
     'tags': [],
     'release': moment('2018-11-02')
   },
@@ -1891,7 +2039,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:35:10',
     'partners': ['Toni Ribas', 'Ramon Nomar'],
-    'links': ['https://angelawhite.empirestores.co/2554826/angela-loves-anal-2-porn-movies.html'],
+    'dvds': [{
+      name: 'Angela Loves Anal 2',
+      link: 'https://angelawhite.empirestores.co/2554826/angela-loves-anal-2-porn-movies.html'
+    }],
     'tags': [],
     'release': moment('2018-11-02')
   },
@@ -1902,7 +2053,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:50:52',
     'partners': ['Manuel Ferrara'],
-    'links': ['https://angelawhite.empirestores.co/1926052/angela-loves-anal-porn-movies.html'],
+    'dvds': [{
+      name: 'Angela Loves Anal',
+      link: 'https://angelawhite.empirestores.co/1926052/angela-loves-anal-porn-movies.html'
+    }],
     'tags': ['Boy/Girl', 'On Couch', 'Elbow Birthmark', 'Feet', 'Cunnilingus', 'Anilingus', 'Blowjob', 'Deepthroat', 'Handjob',
       'Fingering', 'Birthmark Left Inner Thigh', 'Vaginal', 'Cowgirl', 'Spooning', 'Anal', 'Choking', 'Titty Fuck', 'Doggy',
       'Gaping', 'Reverse Cowgirl', 'Neck Tattoo', 'Missionary', 'Anal Creampie', 'Cuddling'],
@@ -1915,7 +2069,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:36:25',
     'partners': ['Mick Blue', 'Markus Dupree'],
-    'links': ['https://angelawhite.empirestores.co/1926052/angela-loves-anal-porn-movies.html'],
+    'dvds': [{
+      name: 'Angela Loves Anal',
+      link: 'https://angelawhite.empirestores.co/1926052/angela-loves-anal-porn-movies.html'
+    }],
     'tags': [],
     'release': moment('2018-11-02')
   },
@@ -1926,7 +2083,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:39:20',
     'partners': ['Mick Blue', 'Markus Dupree'],
-    'links': ['https://angelawhite.empirestores.co/1928357/angela-vol-3-porn-movies.html'],
+    'dvds': [{
+      name: 'Angela Vol. 3',
+      link: 'https://angelawhite.empirestores.co/1928357/angela-vol-3-porn-movies.html'
+    }],
     'tags': ['Boy/Boy/Girl', 'Blowjob', 'On Couch', 'Anal', 'Doggy', 'Gaping', 'Elbow Birthmark', 'Dirty Talk', 'Reverse Cowgirl',
       'DP', 'Double Penetration', 'Choking', 'Anilingus', 'Cowgirl', 'Vaginal', 'DV', 'Double Vaginal', 'Spooning', 'DA',
       'Double Anal', 'Missionary', 'Squirt', 'Pussy to Ass', 'Ass to Pussy', 'Standing',
@@ -1940,7 +2100,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '1:10:24',
     'partners': ['Manuel Ferrara'],
-    'links': ['https://angelawhite.empirestores.co/1928357/angela-vol-3-porn-movies.html'],
+    'dvds': [{
+      name: 'Angela Vol. 3',
+      link: 'https://angelawhite.empirestores.co/1928357/angela-vol-3-porn-movies.html'
+    }],
     'tags': ['Boy/Girl', 'On Couch', 'Creampie', 'Vaginal', 'Cuddling', 'Missionary', 'Cowgirl', 'Fingering', 'Squirt', 'Choking',
       'Blowjob', 'Face Sitting', 'Handjob', 'Cunnilingus', 'Spooning', 'Doggy', 'Finger in Butt', 'Neck Tattoo', '69',
       'Feet', 'Anilingus', 'Elbow Birthmark', 'AVN Best Boy/Girl Sex Scene 2018', 'AVN Best Star Showcase 2018'],
@@ -1953,7 +2116,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:38:33',
     'partners': ['Prince Yahshua', 'Rico Strong', 'Isiah Maxwell', 'Jon Jon', 'Rob Piper'],
-    'links': ['https://angelawhite.empirestores.co/1928357/angela-vol-3-porn-movies.html'],
+    'dvds': [{
+      name: 'Angela Vol. 3',
+      link: 'https://angelawhite.empirestores.co/1928357/angela-vol-3-porn-movies.html'
+    }],
     'tags': ['Gangbang', 'Interracial', 'On Couch', 'Fingering', 'Cunnilingus', 'Blowjob', 'Deepthroat', 'Neck Tattoo',
       'Doggy', 'Vaginal', 'Missionary', 'Anal', 'Choking', 'Feet', 'Gaping', 'Cowgirl', 'Finger in Butt', 'DP',
       'Double Penetration', 'Pile Driver', 'Pussy to Ass', 'Side Fuck', 'AVN Best Star Showcase 2018'],
@@ -1966,7 +2132,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:59:32',
     'partners': ['Mick Blue', 'Xander Corvus', 'Toni Ribas', 'John Strong', 'Markus Dupree'],
-    'links': ['https://angelawhite.empirestores.co/1928357/angela-vol-3-porn-movies.html'],
+    'dvds': [{
+      name: 'Angela Vol. 3',
+      link: 'https://angelawhite.empirestores.co/1928357/angela-vol-3-porn-movies.html'
+    }],
     'tags': ['Boots', 'Fingering', 'Standing', 'Vaginal', 'Blowjob', 'Deepthroat', 'Blowbang', 'Gangbang', 'On Couch',
       'Cowgirl', 'DP', 'Double Penetration', 'Vaginal', 'Anal', 'Gangbang', 'Reverse Cowgirl', 'Choking', 'Off the Ground',
       'AVN Best Group Sex Scene 2018', 'AVN Best Star Showcase 2018'],
@@ -1979,7 +2148,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:39:17',
     'partners': ['Aidra Fox'],
-    'links': ['https://angelawhite.empirestores.co/2521937/angela-loves-women-4-porn-movies.html'],
+    'dvds': [{
+      name: 'Angela Loves Women 4',
+      link: 'https://angelawhite.empirestores.co/2521937/angela-loves-women-4-porn-movies.html'
+    }],
     'tags': ['Girl/Girl', 'On Bed', 'Grinding', 'Cunnilingus', 'Fingering', 'Spanking', 'Feet', 'Face Sitting', 'Anilingus',
       'Elbow Birthmark', 'Neck Tattoo', '69', 'Tribbing', 'Choking', 'AVN Best All-Girl Movie 2019'],
     'release': moment('2018-07-27')
@@ -1991,7 +2163,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:34:10',
     'partners': ['Karlee Grey'],
-    'links': ['https://angelawhite.empirestores.co/2521937/angela-loves-women-4-porn-movies.html'],
+    'dvds': [{
+      name: 'Angela Loves Women 4',
+      link: 'https://angelawhite.empirestores.co/2521937/angela-loves-women-4-porn-movies.html'
+    }],
     'tags': ['Girl/Girl', 'On Couch', 'Grinding', 'Cunnilingus', 'Feet', 'Anilingus', 'Fingering', 'Face Sitting', 'Squirt',
       'Tribbing', 'Birthmark Left Inner Thigh', '69', 'AVN Best All-Girl Movie 2019'],
     'release': moment('2018-07-27')
@@ -2003,7 +2178,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:29:52',
     'partners': ['Riley Reid'],
-    'links': ['https://angelawhite.empirestores.co/2521937/angela-loves-women-4-porn-movies.html'],
+    'dvds': [{
+      name: 'Angela Loves Women 4',
+      link: 'https://angelawhite.empirestores.co/2521937/angela-loves-women-4-porn-movies.html'
+    }],
     'tags': ['Girl/Girl', 'Kitchen', 'Fingering', 'Cunnilingus', 'On Countertop', 'On Couch', 'Feet', 'Anilingus',
       'Face Sitting', 'Elbow Birthmark', 'Tit on Pussy', 'Tribbing', 'AVN Best All-Girl Movie 2019'],
     'release': moment('2018-07-27')
@@ -2015,7 +2193,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:44:57',
     'partners': ['Ivy Wolfe'],
-    'links': ['https://angelawhite.empirestores.co/2521937/angela-loves-women-4-porn-movies.html'],
+    'dvds': [{
+      name: 'Angela Loves Women 4',
+      link: 'https://angelawhite.empirestores.co/2521937/angela-loves-women-4-porn-movies.html'
+    }],
     'tags': ['Girl/Girl', 'Feet', 'Cunnilingus', 'Anilingus', 'Fingering', 'Panty Gag', 'Grinding', 'Tribbing',
       'Choking', 'Biting', 'Face Sitting', '69', 'Spanking', 'Tit on Pussy', 'AVN Best All-Girl Movie 2019'],
     'release': moment('2018-07-27')
@@ -2027,7 +2208,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:11:10',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['Solo', 'Heels', 'Pantyhose', 'Live Stream']
   },
   {
@@ -2037,7 +2218,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:20:28',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['Solo', 'Live Stream']
   },
   {
@@ -2047,7 +2228,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:59:24',
     'partners': ['Phoenix Marie'],
-    'links': [],
+    'dvds': [],
     'tags': ['Feet', 'Submission', 'Domination', 'Girl/Girl', 'Blond', 'Live Stream']
   },
   {
@@ -2057,7 +2238,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:17:27',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['Solo', 'Lingerie', 'Hitachi', 'Live Stream']
   },
   {
@@ -2067,7 +2248,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:27:10',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['Solo', 'Vibrator', 'Vaginal', 'Live Stream']
   },
   {
@@ -2077,7 +2258,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:15:35',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['Solo', 'Dildo', 'Anal', 'Live Stream']
   },
   {
@@ -2087,7 +2268,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:23:46',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['Solo', 'Dildo', 'Live Stream']
   },
   {
@@ -2097,7 +2278,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:14:19',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['Solo', 'Live Stream']
   },
   {
@@ -2107,7 +2288,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:18:19',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['Live Stream', 'Solo', 'Dildo', 'Vibrator']
   },
   {
@@ -2117,7 +2298,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:39:48',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['Live Stream', 'Solo', 'Dildo', 'Vibrator', 'Anal']
   },
   {
@@ -2127,7 +2308,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:26:44',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['Live Stream', 'Solo', 'Dildo', 'Vibrator']
   },
   {
@@ -2137,7 +2318,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:25:20',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['Live Stream', 'Solo', 'Dildo', 'Vibrator', 'Lingerie']
   },
   {
@@ -2147,7 +2328,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:20:07',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['Live Stream', 'Solo', 'Dildo', 'Vibrator', 'Lingerie']
   },
   {
@@ -2157,7 +2338,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:20:10',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['Live Stream', 'Solo', 'Vibrator', 'Dildo', 'Hitachi', 'Ass to Mouth', 'Anal', 'Vaginal']
   },
   {
@@ -2167,7 +2348,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:14:07',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['Live Stream', 'Solo', 'Dildo', 'Vibrator']
   },
   {
@@ -2177,7 +2358,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:09:37',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['Live Stream', 'Solo', 'Dildo', 'Vibrator']
   },
   {
@@ -2187,7 +2368,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:15:08',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['Live Stream', 'Solo', 'Dildo', 'Vibrator']
   },
   {
@@ -2197,7 +2378,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:15:00',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['Live Stream', 'Solo', 'Dildo', 'Vibrator', 'Bodysuit']
   },
   {
@@ -2207,7 +2388,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:09:41',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['Solo', 'Live Stream']
   },
   {
@@ -2217,7 +2398,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:25:57',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['Solo', 'Live Stream']
   },
   {
@@ -2227,7 +2408,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:18:33',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['Solo', 'Live Stream']
   },
   {
@@ -2237,7 +2418,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:29:02',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['Live Stream']
   },
   {
@@ -2247,7 +2428,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:50:37',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['Live Stream']
   },
   {
@@ -2257,7 +2438,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:25:44',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['Live Stream']
   },
   {
@@ -2267,7 +2448,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:13:29',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['Live Stream']
   },
   {
@@ -2277,7 +2458,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:33:35',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['Live Stream']
   },
   {
@@ -2287,7 +2468,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:26:30',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['Live Stream']
   },
   {
@@ -2297,7 +2478,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:32:22',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['Live Stream']
   },
   {
@@ -2307,7 +2488,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:36:47',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['Live Stream']
   },
   {
@@ -2317,7 +2498,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:25:07',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['Live Stream']
   },
   {
@@ -2327,7 +2508,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:37:30',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['Live Stream']
   },
   {
@@ -2337,7 +2518,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:24:23',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['Live Stream']
   },
   {
@@ -2347,7 +2528,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:25:22',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['Live Stream']
   },
   {
@@ -2357,7 +2538,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:22:39',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['Live Stream']
   },
   {
@@ -2367,7 +2548,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:12:13',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['Live Stream']
   },
   {
@@ -2377,7 +2558,10 @@ export let data: Scene[] = [
     'altTitles': ['Beautiful Tits Vol. 4 - Scene 4'],
     'playtime': '0:35:03',
     'partners': ['Ramon Nomar'],
-    'links': ['https://angelawhite.empirestores.co/1918245/beautiful-tits-vol-4-porn-videos.html'],
+    'dvds': [{
+      name: 'Beautiful Tits Vol. 4',
+      link: 'https://angelawhite.empirestores.co/1918245/beautiful-tits-vol-4-porn-videos.html'
+    }],
     'tags': [],
     'release': moment('2017-06-02')
   },
@@ -2388,7 +2572,10 @@ export let data: Scene[] = [
     'altTitles': ['Kendra\'s Angels - Scene 4'],
     'playtime': '0:29:13',
     'partners': ['Kendra Lust'],
-    'links': ['https://angelawhite.empirestores.co/1943843/kendras-angels-porn-videos.html'],
+    'dvds': [{
+      name: 'Kendra\'s Angels',
+      link: 'https://angelawhite.empirestores.co/1943843/kendras-angels-porn-videos.html'
+    }],
     'tags': [],
     'release': moment('2017-11-07')
   },
@@ -2399,7 +2586,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:29:40',
     'partners': ['Tyler Knight'],
-    'links': [],
+    'dvds': [],
     'tags': ['Blue Vintage Bug'],
     'release': moment('2017-12-29')
   },
@@ -2410,7 +2597,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:36:47',
     'partners': ['Markus Dupree'],
-    'links': [],
+    'dvds': [],
     'tags': ['Boy/Girl', 'On Couch', 'Anal', 'Submission', 'Blowjob', 'Standing', 'Off the Ground', 'Cunnilingus',
       'Clothed', 'Panty Gag', 'Gaping', 'Squirt', 'Missionary', 'Doggy', 'Titty Fuck', 'Reverse Cowgirl', 'Cowgirl', 'Vaginal'],
     'release': moment('2018-11-20')
@@ -2422,7 +2609,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:44:17',
     'partners': ['Unknown'],
-    'links': [],
+    'dvds': [],
     'tags': ['VR', 'Boy/Girl'],
     'release': moment('2017-08-07')
   },
@@ -2433,7 +2620,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:43:15',
     'partners': ['Tommy Gunn'],
-    'links': [],
+    'dvds': [],
     'tags': ['VR', 'Boy/Girl'],
     'release': moment('2018-01-01')
   },
@@ -2444,7 +2631,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:36:00',
     'partners': ['Unknown'],
-    'links': [],
+    'dvds': [],
     'tags': ['VR', 'Boy/Girl', 'Stockings'],
     'release': moment('2018-01-01')
   },
@@ -2455,7 +2642,7 @@ export let data: Scene[] = [
     'altTitles': ['Angela White Gets An A+ Sucking Cock In Traffic School'],
     'playtime': '0:45:46',
     'partners': ['Ricky Johnson'],
-    'links': [],
+    'dvds': [],
     'tags': ['Boy/Girl', 'Interracial', 'Blue Vintage Bug', 'Blowjob', 'Deepthroat', 'Clothed', 'Handjob', 'On Chair',
       'Titty Fuck', 'On Desk', 'Cunnilingus', 'Vaginal', 'Doggy', 'Birthmark Left Inner Thigh', 'Missionary', 'Choking',
       '69', 'Side Fuck', 'Cowgirl', 'Spooning'],
@@ -2468,7 +2655,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:35:30',
     'partners': ['Damon Dice'],
-    'links': [],
+    'dvds': [],
     'tags': ['Boy/Girl', 'Gloves', 'POV', 'Handjob', 'Blowjob', 'Deepthroat', 'Clothed', 'Cowgirl', 'Reverse Cowgirl',
       'Titty Fuck', 'Standing', 'Doggy', 'Cunnilingus', 'Anilingus', 'Fingering', 'Birthmark Left Inner Thigh', 'Missionary',
       'Fingering', 'Squirt', 'Side Fuck'],
@@ -2481,7 +2668,7 @@ export let data: Scene[] = [
     'altTitles': ['Angela White Sucks Her Own Tits As She\'s Fucked'],
     'playtime': '0:44:16',
     'partners': ['Manuel Ferrara'],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2018-05-30')
   },
@@ -2492,7 +2679,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:29:01',
     'partners': ['Ricky Johnson'],
-    'links': [],
+    'dvds': [],
     'tags': ['Boy/Girl', 'On Couch', 'Cunnilingus', 'Blowjob', 'Deepthroat', 'Titty Fuck', 'Vaginal', 'Cowgirl',
       'Reverse Cowgirl', 'Birthmark Left Inner Thigh', 'Missionary', 'Feet', 'Spooning', 'Doggy', 'Elbow Birthmark', 'Neck Tattoo'],
     'release': moment('2019-03-14')
@@ -2504,7 +2691,10 @@ export let data: Scene[] = [
     'altTitles': ['Big Tits Round Asses 52 - Scene 2'],
     'playtime': '0:49:14',
     'partners': ['Justin Hunt'],
-    'links': ['https://angelawhite.empirestores.co/1945468/big-tits-round-asses-52-porn-movies.html'],
+    'dvds': [{
+      name: 'Big Tits Round Asses 52',
+      link: 'https://angelawhite.empirestores.co/1945468/big-tits-round-asses-52-porn-movies.html'
+    }],
     'tags': [],
     'release': moment('2018-02-15')
   },
@@ -2515,7 +2705,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:40:55',
     'partners': ['Ricky Johnson'],
-    'links': [],
+    'dvds': [],
     'tags': ['Boy/Girl', 'Water', 'Bath', 'Interracial'],
     'release': moment('2018-06-07')
   },
@@ -2526,8 +2716,13 @@ export let data: Scene[] = [
     'altTitles': ['Girls Of Bangbros Vol. 76: Angela White - Scene 2', 'Big Tits Round Asses 51 - Scene 4'],
     'playtime': '0:34:21',
     'partners': ['Unknown'],
-    'links': ['https://angelawhite.empirestores.co/1969197/girls-of-bangbros-vol-76-angela-white-porn-movies.html',
-      'https://angelawhite.empirestores.co/1931651/big-tits-round-asses-51-porn-movies.html'],
+    'dvds': [{
+      name: 'Girls Of BangBros Vol. 76: Angela White',
+      link: 'https://angelawhite.empirestores.co/1969197/girls-of-bangbros-vol-76-angela-white-porn-movies.html'
+    }, {
+      name: 'Big Tits Round Asses 51',
+      link: 'https://angelawhite.empirestores.co/1931651/big-tits-round-asses-51-porn-movies.html'
+    }],
     'tags': [],
     'release': moment('2017-02-23')
   },
@@ -2538,19 +2733,23 @@ export let data: Scene[] = [
     'altTitles': ['Girls Of Bangbros Vol. 76: Angela White - Scene 1', 'Big Tits Round Asses 54 - Scene 2'],
     'playtime': '0:26:58',
     'partners': ['Connor Kennedy'],
-    'links': ['https://angelawhite.empirestores.co/1969197/girls-of-bangbros-vol-76-angela-white-porn-movies.html',
-      'https://angelawhite.empirestores.co/1972616/big-tits-round-asses-54-porn-movies.html'],
+    'dvds': [{
+      name: 'Girls Of BangBros Vol. 76: Angela White',
+      link: 'https://angelawhite.empirestores.co/1969197/girls-of-bangbros-vol-76-angela-white-porn-movies.html'
+    }, {
+      name: 'Big Tits Round Asses 54',
+      link: 'https://angelawhite.empirestores.co/1972616/big-tits-round-asses-54-porn-movies.html'
+    }],
     'tags': [],
     'release': moment('2017-11-09')
-  },
-  {
+  }, {
     'producer': 'bangbros.com',
     'series': 'Big Tits, Round Asses',
     'title': 'Busty Angela Takes A BBC In Her Ass',
     'altTitles': [],
     'playtime': '0:40:58',
     'partners': ['Isiah Maxwell'],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2018-03-15')
   },
@@ -2561,7 +2760,10 @@ export let data: Scene[] = [
     'altTitles': ['Girls Of Bangbros Vol. 76 - Scene 5'],
     'playtime': '0:42:47',
     'partners': ['Unknown'],
-    'links': ['https://angelawhite.empirestores.co/1969197/girls-of-bangbros-vol-76-angela-white-porn-movies.html'],
+    'dvds': [{
+      name: 'Girls Of BangBros Vol. 76: Angela White',
+      link: 'https://angelawhite.empirestores.co/1969197/girls-of-bangbros-vol-76-angela-white-porn-movies.html'
+    }],
     'tags': [],
     'release': moment('2017-07-27')
   },
@@ -2572,7 +2774,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:36:49',
     'partners': ['Markus Dupree'],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2018-11-08')
   },
@@ -2584,42 +2786,52 @@ export let data: Scene[] = [
       'Girls Of Bangbros Vol. 76: Angela White - Scene 4'],
     'playtime': '0:39:06',
     'partners': ['Unknown'],
-    'links': ['https://angelawhite.empirestores.co/1955015/world-of-bangbros-big-tits-vol-6-porn-movies.html',
-      'https://angelawhite.empirestores.co/1906827/big-tits-round-asses-49-porn-movies.html',
-      'https://angelawhite.empirestores.co/1969197/girls-of-bangbros-vol-76-angela-white-porn-movies.html'],
+    'dvds': [{
+      name: 'World Of BangBros: Big Tits Vol. 6',
+      link: 'https://angelawhite.empirestores.co/1955015/world-of-bangbros-big-tits-vol-6-porn-movies.html'
+    }, {
+      name: 'Big Tits Round Asses 49',
+      link: 'https://angelawhite.empirestores.co/1906827/big-tits-round-asses-49-porn-movies.html'
+    }, {
+      name: 'Girls Of BangBros Vol. 76: Angela White',
+      link: 'https://angelawhite.empirestores.co/1969197/girls-of-bangbros-vol-76-angela-white-porn-movies.html'
+    }],
     'tags': [],
     'release': moment('2017-01-19')
-  },
-  {
+  }, {
     'producer': 'bangbros.com',
     'series': 'Monsters of Cock',
     'title': 'Big tits vs monster cock',
     'altTitles': ['Girls Of Bangbros Vol. 76: Angela White - Scene 3'],
     'playtime': '0:35:23',
     'partners': ['Slim Poke'],
-    'links': ['https://angelawhite.empirestores.co/1969197/girls-of-bangbros-vol-76-angela-white-porn-movies.html'],
+    'dvds': [{
+      name: 'Girls Of BangBros Vol. 76: Angela White',
+      link: 'https://angelawhite.empirestores.co/1969197/girls-of-bangbros-vol-76-angela-white-porn-movies.html'
+    }],
     'tags': ['Boy/Girl', 'Interracial'],
     'release': moment('2017-09-24')
-  },
-  {
+  }, {
     'producer': 'bigtitsinvr.com',
     'series': '',
     'title': 'Season 1 - Scene 1',
     'altTitles': [],
     'playtime': '0:37:28',
     'partners': ['Chad White'],
-    'links': [],
+    'dvds': [],
     'tags': ['VR'],
     'release': moment('2016-11-20')
-  },
-  {
+  }, {
     'producer': 'blacked.com',
     'series': '',
     'title': 'Big Natural Tits Australian Babe Fucks BBC',
     'altTitles': ['Interracial Icon Vol. 2 - Scene 4'],
     'playtime': '0:32:40',
     'partners': ['Flash Brown'],
-    'links': ['https://angelawhite.empirestores.co/1770365/interracial-icon-vol-2-porn-movies.html'],
+    'dvds': [{
+      name: 'Interracial Icon Vol. 2',
+      link: 'https://angelawhite.empirestores.co/1770365/interracial-icon-vol-2-porn-movies.html'
+    }],
     'tags': ['Boy/Girl', 'Outside', 'Blowjob', 'Elbow Birthmark', 'On Bed', 'Handjob', 'Deepthroat', 'Neck Tattoo',
       'Titty Fuck', 'Missionary', 'Vaginal', 'Birthmark Left Inner Thigh', 'Elbow Birthmark', 'Feet', 'Reverse Cowgirl',
       'Neck Tattoo', 'Doggy', 'Anilingus'],
@@ -2632,7 +2844,10 @@ export let data: Scene[] = [
     'altTitles': ['Interracial Icon Vol. 4 - Scene 2'],
     'playtime': '0:41:06',
     'partners': ['Jason Brown', 'Lena Paul'],
-    'links': ['https://angelawhite.empirestores.co/1896122/interracial-icon-vol-4-porn-movies.html'],
+    'dvds': [{
+      name: 'Interracial Icon Vol. 4',
+      link: 'https://angelawhite.empirestores.co/1896122/interracial-icon-vol-4-porn-movies.html'
+    }],
     'tags': [],
     'release': moment('2016-12-26')
   },
@@ -2643,7 +2858,10 @@ export let data: Scene[] = [
     'altTitles': ['Interracial Icon Vol. 8 - Scene 3'],
     'playtime': '0:45:19',
     'partners': ['Jason Brown'],
-    'links': ['https://angelawhite.empirestores.co/2497566/interracial-icon-vol-8-porn-movies.html'],
+    'dvds': [{
+      name: 'Interracial Icon Vol. 8',
+      link: 'https://angelawhite.empirestores.co/2497566/interracial-icon-vol-8-porn-movies.html'
+    }],
     'tags': [],
     'release': moment('2018-02-15')
   },
@@ -2654,7 +2872,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:39:57',
     'partners': ['Cash'],
-    'links': [],
+    'dvds': [],
     'tags': ['Elbow Birthmark', 'Neck Tattoo', 'Boy/Girl', 'Interracial', 'On Bed', 'Blowjob', 'Reverse Cowgirl',
       'Doggy'],
     'release': moment('2018-02-11')
@@ -2666,7 +2884,10 @@ export let data: Scene[] = [
     'altTitles': ['Evil Blackmail - Scene 1'],
     'playtime': '0:43:20',
     'partners': ['Jessy Jones'],
-    'links': ['https://angelawhite.empirestores.co/2521608/evil-blackmail-porn-movies.html'],
+    'dvds': [{
+      name: 'Evil Blackmail',
+      link: 'https://angelawhite.empirestores.co/2521608/evil-blackmail-porn-movies.html'
+    }],
     'tags': [],
     'release': moment('2018-06-07')
   },
@@ -2677,7 +2898,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:35:16',
     'partners': ['Markus Dupree'],
-    'links': ['https://angelawhite.empirestores.co/2620593/bubble-butt-anal-slut-4-porn-movies.html'],
+    'dvds': [{
+      name: 'Bubble Butt Anal Slut 4',
+      link: 'https://angelawhite.empirestores.co/2620593/bubble-butt-anal-slut-4-porn-movies.html'
+    }],
     'tags': ['Boy/Girl', 'In Car', 'Outside', 'Anal', 'Elbow Birthmark', 'Blowjob', 'Anilingus', 'Finger in Butt',
       'Doggy', 'Gaping', 'Standing', 'Off the Ground', 'Reverse Cowgirl', 'Fingering', 'Birthmark Left Inner Thigh',
       'Titty Fuck', 'Cunnilingus', 'Missionary', 'Squirt', 'Deepthroat', 'Cowgirl'],
@@ -2690,7 +2914,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:36:00',
     'partners': ['Zac Wild'],
-    'links': [],
+    'dvds': [],
     'tags': ['Boy/Girl', 'Anal', 'On Couch', 'Bodysuit', 'Clothed', 'Jeweled Butt Plug', 'On Chair', 'Blowjob',
       'Deepthroat', 'Titty Fuck', 'Cunnilingus', 'Vaginal', 'On Desk', 'Standing', 'Cowgirl', 'Reverse Cowgirl',
       'Side-Saddle Cowgirl', 'Side Fuck', 'Choking'],
@@ -2703,7 +2927,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:31:26',
     'partners': ['Ramon Nomar'],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2017-11-29')
   },
@@ -2714,7 +2938,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:36:03',
     'partners': ['Keiran Lee'],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2017-12-28')
   },
@@ -2725,7 +2949,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:38:08',
     'partners': ['Lunar Star', 'Xander Corvus'],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2018-03-25')
   },
@@ -2736,7 +2960,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:30:33',
     'partners': ['Karlo Karerra'],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2016-10-24')
   },
@@ -2747,7 +2971,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:31:55',
     'partners': ['Prince Yahshua'],
-    'links': [],
+    'dvds': [],
     'tags': ['Boy/Girl', 'On Table', 'Interracial', 'On Chair', 'Acting', 'Comedy', 'Vaginal', 'Blowjob', 'Elbow Birthmark'
       , 'Side-Saddle Cowgirl', 'Clothed', 'Pantyhose', 'Titty Fuck', 'POV', 'Missionary', 'Birthmark Left Inner Thigh',
       'Cunnilingus', 'Anilingus', 'Standing', 'Doggy', 'Cowgirl', 'Reverse Cowgirl', 'Side Fuck'],
@@ -2760,7 +2984,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:35:49',
     'partners': ['Markus Dupree'],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2017-02-25')
   },
@@ -2771,7 +2995,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:51:36',
     'partners': ['Lena Paul', 'Michael Vegas'],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2017-04-01')
   },
@@ -2782,7 +3006,10 @@ export let data: Scene[] = [
     'altTitles': ['Ass Candy 3 - Scene 5'],
     'playtime': '0:40:04',
     'partners': ['Markus Dupree'],
-    'links': ['https://angelawhite.empirestores.co/1970582/ass-candy-3-porn-movies.html'],
+    'dvds': [{
+      name: 'Ass Candy 3',
+      link: 'https://angelawhite.empirestores.co/1970582/ass-candy-3-porn-movies.html'
+    }],
     'tags': [],
     'release': moment('2016-11-09')
   },
@@ -2793,7 +3020,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:30:56',
     'partners': ['Keiran Lee'],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2018-09-14')
   },
@@ -2804,7 +3031,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:33:09',
     'partners': ['Keiran Lee'],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2017-04-24')
   },
@@ -2815,7 +3042,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:39:44',
     'partners': ['Nicolette Shea', 'Jessy Jones'],
-    'links': ['https://angelawhite.empirestores.co/2643355/dream-cum-true-2-a-porn-movies.html'],
+    'dvds': [{
+      name: 'A Dream Cum True 2',
+      link: 'https://angelawhite.empirestores.co/2643355/dream-cum-true-2-a-porn-movies.html'
+    }],
     'tags': ['Boy/Girl/Girl', 'Phone Sex', 'On Table', 'Blowjob', 'Deepthroat', 'Titty Fuck', 'Neck Tattoo', 'Vaginal',
       'Missionary', 'Pussy to Mouth', 'Squirt', 'Cunnilingus', 'Face Sitting', 'Standing', 'Anilingus', 'Choking',
       'On Couch', 'Reverse Cowgirl', 'Cowgirl', 'Spanking', 'Finger in Butt', 'Pussy Stack', 'Fingering', 'Elbow Birthmark',
@@ -2829,7 +3059,10 @@ export let data: Scene[] = [
     'altTitles': ['Pornstar Therapy - Scene 1'],
     'playtime': '0:56:01',
     'partners': ['Ava Addams', 'Bridgette B', 'Keiran Lee'],
-    'links': ['https://angelawhite.empirestores.co/1904167/pornstar-therapy-porn-movies.html'],
+    'dvds': [{
+      name: 'Pornstar Therapy',
+      link: 'https://angelawhite.empirestores.co/1904167/pornstar-therapy-porn-movies.html'
+    }],
     'tags': [],
     'release': moment('2016-11-28')
   },
@@ -2840,7 +3073,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:32:39',
     'partners': ['Jessy Jones'],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2016-09-23')
   },
@@ -2851,7 +3084,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:47:06',
     'partners': ['Romi Rain', 'Keiran Lee'],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2017-10-31')
   },
@@ -2862,7 +3095,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:38:46',
     'partners': ['Johnny Castle'],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2017-03-21')
   },
@@ -2873,7 +3106,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:39:09',
     'partners': ['Markus Dupree', 'Xander Corvus'],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2017-05-02')
   },
@@ -2884,7 +3117,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:36:04',
     'partners': ['Johnny Sins'],
-    'links': [],
+    'dvds': [],
     'tags': ['Blowjob', 'Deepthroat', 'On Couch', 'Handjob', 'Elbow Birthmark', 'Neck Tattoo', 'Fingering', 'Cunnilingus',
       'Anilingus', 'Vaginal', 'Missionary', 'Birthmark Left Inner Thigh', 'Titty Fuck', 'Cowgirl', 'Finger in Butt',
       'Reverse Cowgirl', 'Doggy', 'Side Fuck'],
@@ -2897,7 +3130,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:31:37',
     'partners': ['Keiran Lee'],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2018-10-31')
   },
@@ -2908,7 +3141,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:40:19',
     'partners': ['Phoenix Marie', 'Kagney Linn Karter', 'Johnny Sins'],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2018-05-01')
   },
@@ -2919,7 +3152,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:36:39',
     'partners': ['Xander Corvus'],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2018-05-20')
   },
@@ -2930,7 +3163,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:36:45',
     'partners': ['Keiran Lee'],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2017-08-14')
   },
@@ -2941,7 +3174,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:38:57',
     'partners': ['Xander Corvus'],
-    'links': [],
+    'dvds': [],
     'tags': ['Boy/Girl', 'Blowjob', 'Deepthroat', 'Cowgirl', 'Cum on Tits', 'Missionary', 'Reverse Cowgirl',
       'Side Fuck', 'Side-Saddle Cowgirl', 'Titty Fuck', 'Elbow Birthmark', 'On Couch', 'Cheating', 'Standing', 'Choking', 'Clothed'],
     'release': moment('2018-12-31')
@@ -2953,7 +3186,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:31:47',
     'partners': ['Charles Dera'],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2017-02-11')
   },
@@ -2964,7 +3197,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:46:13',
     'partners': ['Karma Rx', 'Xander Corvus'],
-    'links': ['https://angelawhite.empirestores.co/2510580/xanders-world-tour-porn-movies.html'],
+    'dvds': [{
+      name: 'Xanders World Tour',
+      link: 'https://angelawhite.empirestores.co/2510580/xanders-world-tour-porn-movies.html'
+    }],
     'tags': [],
     'release': moment('2018-02-24')
   },
@@ -2975,7 +3211,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:56:24',
     'partners': ['Ramon Nomar'],
-    'links': ['https://angelawhite.empirestores.co/1890494/ass-vs-pussy-5-porn-movies.html'],
+    'dvds': [{
+      name: 'Ass Vs. Pussy 5',
+      link: 'https://angelawhite.empirestores.co/1890494/ass-vs-pussy-5-porn-movies.html'
+    }],
     'tags': ['Outside'],
     'release': moment('2017-01-27')
   },
@@ -2986,7 +3225,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '1:23:50',
     'partners': ['Jon Jon'],
-    'links': ['https://angelawhite.empirestores.co/1890494/ass-vs-pussy-5-porn-movies.html'],
+    'dvds': [{
+      name: 'Ass Vs. Pussy 5',
+      link: 'https://angelawhite.empirestores.co/1890494/ass-vs-pussy-5-porn-movies.html'
+    }],
     'tags': ['Outside'],
     'release': moment('2017-02-25')
   },
@@ -2997,7 +3239,10 @@ export let data: Scene[] = [
     'altTitles': ['Metal Massage - Scene 3'],
     'playtime': '0:29:16',
     'partners': ['Small Hands'],
-    'links': ['https://angelawhite.empirestores.co/2522569/metal-massage-porn-movies.html'],
+    'dvds': [{
+      name: 'Metal Massage',
+      link: 'https://angelawhite.empirestores.co/2522569/metal-massage-porn-movies.html'
+    }],
     'tags': [],
     'release': moment('2018-08-07')
   },
@@ -3008,7 +3253,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:34:47',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': []
   },
   {
@@ -3018,7 +3263,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:23:31',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': []
   },
   {
@@ -3028,7 +3273,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:56:54',
     'partners': ['Mia Malkova'],
-    'links': [],
+    'dvds': [],
     'tags': ['Live Stream', 'Girl/Girl'],
     'release': moment('2017-03-24')
   },
@@ -3039,7 +3284,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:59:04',
     'partners': ['Danny Mountain'],
-    'links': [],
+    'dvds': [],
     'tags': ['Live Stream', 'Boy/Girl'],
     'release': moment('2017-09-14')
   },
@@ -3050,7 +3295,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:59:01',
     'partners': ['Nathon Bronson'],
-    'links': [],
+    'dvds': [],
     'tags': ['Live Stream', 'Boy/Girl'],
     'release': moment('2018-12-21')
   },
@@ -3061,7 +3306,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:11:09',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['Solo'],
     'release': moment('2017-09-29')
   },
@@ -3072,7 +3317,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:34:14',
     'partners': ['Manuel Ferrara'],
-    'links': ['https://angelawhite.empirestores.co/2539074/secrets-that-we-keep-porn-movies.html'],
+    'dvds': [{
+      name: 'Secrets That We Keep',
+      link: 'https://angelawhite.empirestores.co/2539074/secrets-that-we-keep-porn-movies.html'
+    }],
     'tags': [],
     'release': moment('2018-09-25')
   },
@@ -3083,7 +3331,7 @@ export let data: Scene[] = [
     'altTitles': ['Busty Cosplay Girl Angela White Take a Huge Cock Balls Deep'],
     'playtime': '0:33:06',
     'partners': ['Bruce Venture'],
-    'links': [],
+    'dvds': [],
     'tags': ['Elbow Birthmark', 'Birthmark Left Inner Thigh', 'Boy/Girl', 'On Couch'],
     'release': moment('2018-12-14')
   },
@@ -3094,7 +3342,10 @@ export let data: Scene[] = [
     'altTitles': ['Busty Interracial Vol. 3 - Scene 3'],
     'playtime': '0:34:48',
     'partners': ['Isiah Maxwell'],
-    'links': ['https://angelawhite.empirestores.co/1919471/busty-interracial-vol-3-porn-movies.html'],
+    'dvds': [{
+      name: 'Busty Interracial Vol. 3',
+      link: 'https://angelawhite.empirestores.co/1919471/busty-interracial-vol-3-porn-movies.html'
+    }],
     'tags': [],
     'release': moment('2017-05-19')
   },
@@ -3105,7 +3356,10 @@ export let data: Scene[] = [
     'altTitles': ['Busty Interracial Vol. 4 - Scene 2'],
     'playtime': '0:34:09',
     'partners': ['Ricky Johnson'],
-    'links': ['https://angelawhite.empirestores.co/1966141/busty-interracial-vol-4-porn-movies.html'],
+    'dvds': [{
+      name: 'Busty Interracial Vol. 4',
+      link: 'https://angelawhite.empirestores.co/1966141/busty-interracial-vol-4-porn-movies.html'
+    }],
     'tags': [],
     'release': moment('2018-04-12')
   },
@@ -3116,7 +3370,7 @@ export let data: Scene[] = [
     'altTitles': ['Jingel Her Bells'],
     'playtime': '0:15:37',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['Solo', 'Outside', 'Vibrator', 'On Couch'],
     'release': moment('2017-12-23')
   },
@@ -3127,7 +3381,10 @@ export let data: Scene[] = [
     'altTitles': ['Sensual Titty Seduction 2 - Scene 1', 'Brilliant Natural Tits Galore - Angela White'],
     'playtime': '0:20:32',
     'partners': ['Markus Dupree'],
-    'links': ['https://angelawhite.empirestores.co/2507756/sensual-titty-seduction-2-porn-videos.html'],
+    'dvds': [{
+      name: 'Sensual Titty Seduction 2',
+      link: 'https://angelawhite.empirestores.co/2507756/sensual-titty-seduction-2-porn-videos.html'
+    }],
     'tags': ['Boy/Girl', 'Water', 'Bath'],
     'release': moment('2018-09-09')
   },
@@ -3138,7 +3395,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:20:24',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['Solo'],
     'release': moment('2009-01-12')
   },
@@ -3149,7 +3406,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:16:49',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['Solo'],
     'release': moment('2012-04-09')
   },
@@ -3160,7 +3417,10 @@ export let data: Scene[] = [
     'altTitles': ['Titty Pleasures -, Scene X'],
     'playtime': '0:32:52',
     'partners': [],
-    'links': ['https://angelawhite.empirestores.co/2605258/titty-pleasures-porn-movies.html'],
+    'dvds': [{
+      name: 'Titty Pleasures',
+      link: 'https://angelawhite.empirestores.co/2605258/titty-pleasures-porn-movies.html'
+    }],
     'tags': ['Elbow Birthmark', 'Neck Tattoo', 'POV', 'Blowjob', 'Deepthroat', 'Cowgirl', 'Reverse Cowgirl', 'On Bed', 'Missionary'],
     'release': moment('2018-12-05')
   },
@@ -3171,7 +3431,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:25:41',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2008-10-27')
   },
@@ -3182,7 +3442,10 @@ export let data: Scene[] = [
     'altTitles': ['Busty Lovers 2 - Scene 4'],
     'playtime': '0:21:00',
     'partners': ['Unknown'],
-    'links': ['https://angelawhite.empirestores.co/1790042/busty-lovers-2-porn-videos.html'],
+    'dvds': [{
+      name: 'Busty Lovers 2',
+      link: 'https://angelawhite.empirestores.co/1790042/busty-lovers-2-porn-videos.html'
+    }],
     'tags': [],
     'release': moment('2012-08-31')
   },
@@ -3193,7 +3456,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:18:07',
     'partners': ['Unknown'],
-    'links': [],
+    'dvds': [],
     'tags': ['Solo', 'Sybian'],
     'release': moment('2008-11-21')
   },
@@ -3204,7 +3467,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:23:00',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2009-04-03')
   },
@@ -3215,7 +3478,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:35:00',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2012-05-11')
   },
@@ -3226,7 +3489,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:22:00',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2012-06-29')
   },
@@ -3237,7 +3500,10 @@ export let data: Scene[] = [
     'altTitles': ['Fuck Me Silly Vol. 2 - Scene 1'],
     'playtime': '0:31:23',
     'partners': ['Nicolette Shea', 'Keiran Lee'],
-    'links': ['https://angelawhite.empirestores.co/1948656/fuck-me-silly-vol-2-porn-videos.html'],
+    'dvds': [{
+      name: 'Fuck Me Silly Vol. 2',
+      link: 'https://angelawhite.empirestores.co/1948656/fuck-me-silly-vol-2-porn-videos.html'
+    }],
     'tags': [],
     'release': moment('2017-04-21')
   },
@@ -3248,7 +3514,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:31:22',
     'partners': ['Ivy Wolfe'],
-    'links': [],
+    'dvds': [],
     'tags': ['Girl/Girl', 'On Chair', 'Birthmark Left Inner Thigh', 'Fingering', 'Spanking', 'Anilingus', 'Smothering',
       'Cunnilingus', 'Heels', 'Standing', 'On Desk', 'Elbow Birthmark', 'Tribbing'],
     'release': moment('2019-03-20')
@@ -3260,7 +3526,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:37:08',
     'partners': ['Xander Corvus', 'Gina Valentina'],
-    'links': [],
+    'dvds': [],
     'tags': ['Boy/Girl/Girl', 'In Car', 'On Bed', 'Blowjob', 'Deepthroat', 'Elbow Birthmark', 'Cunnilingus', 'Vaginal',
       'Cowgirl', 'Boots', 'Missionary', 'Face Sitting', 'Doggy', 'Pussy to Mouth', '69', 'Anilingus', 'Side Fuck',
       'Spooning', 'Choking', 'Cum Swap'],
@@ -3273,7 +3539,10 @@ export let data: Scene[] = [
     'altTitles': ['Cock Therapy - Scene 1'],
     'playtime': '0:33:50',
     'partners': ['Ramon Nomar'],
-    'links': ['https://angelawhite.empirestores.co/2498130/cock-therapy-porn-videos.html'],
+    'dvds': [{
+      name: 'Cock Therapy',
+      link: 'https://angelawhite.empirestores.co/2498130/cock-therapy-porn-videos.html'
+    }],
     'tags': [],
     'release': moment('2017-07-14')
   },
@@ -3284,7 +3553,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:41:31',
     'partners': ['Colin Hart', 'Conner Kennedy'],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2017-10-25')
   },
@@ -3295,7 +3564,10 @@ export let data: Scene[] = [
     'altTitles': ['Angela White Is Titwoman -  Scene 1'],
     'playtime': '0:41:13',
     'partners': ['Isiah Maxwell', 'Moe Johnson'],
-    'links': ['https://angelawhite.empirestores.co/1930697/angela-white-is-titwoman-porn-movies.html'],
+    'dvds': [{
+      name: 'Angela White Is Titwoman',
+      link: 'https://angelawhite.empirestores.co/1930697/angela-white-is-titwoman-porn-movies.html'
+    }],
     'tags': ['Gloryhole', 'Interracial', 'On Chair', 'Dildo', 'Handjob', 'Titty Fuck', 'Blowjob', 'Deepthroat'],
     'release': moment('2017-09-16')
   },
@@ -3306,7 +3578,10 @@ export let data: Scene[] = [
     'altTitles': ['Angela White Is Titwoman -  Scene 2'],
     'playtime': '0:28:12',
     'partners': ['Markus Dupree'],
-    'links': ['https://angelawhite.empirestores.co/1930697/angela-white-is-titwoman-porn-movies.html'],
+    'dvds': [{
+      name: 'Angela White Is Titwoman',
+      link: 'https://angelawhite.empirestores.co/1930697/angela-white-is-titwoman-porn-movies.html'
+    }],
     'tags': ['Boy/Girl', 'Gun', 'On Couch', 'Blowjob', 'Deepthroat', 'Gloves', 'Boots', 'Reverse Cowgirl', 'Anal',
       'Fingering', 'Cowgirl', 'Gaping', 'Missionary', 'Squirt', 'Choking', 'Pile Driver', 'Cowgirl', 'Side-Saddle Cowgirl', 'Standing'],
     'release': moment('2017-09-16')
@@ -3318,7 +3593,10 @@ export let data: Scene[] = [
     'altTitles': ['Angela White Is Titwoman -  Scene 3'],
     'playtime': '0:32:17',
     'partners': ['Alexis Texas', 'James Deen'],
-    'links': ['https://angelawhite.empirestores.co/1930697/angela-white-is-titwoman-porn-movies.html'],
+    'dvds': [{
+      name: 'Angela White Is Titwoman',
+      link: 'https://angelawhite.empirestores.co/1930697/angela-white-is-titwoman-porn-movies.html'
+    }],
     'tags': [],
     'release': moment('2017-09-16')
   },
@@ -3329,7 +3607,10 @@ export let data: Scene[] = [
     'altTitles': ['Angela White Is Titwoman -  Scene 4'],
     'playtime': '0:30:36',
     'partners': ['Prince Yahshua', 'Isiah Maxwell'],
-    'links': ['https://angelawhite.empirestores.co/1930697/angela-white-is-titwoman-porn-movies.html'],
+    'dvds': [{
+      name: 'Angela White Is Titwoman',
+      link: 'https://angelawhite.empirestores.co/1930697/angela-white-is-titwoman-porn-movies.html'
+    }],
     'tags': [],
     'release': moment('2017-09-16')
   },
@@ -3340,7 +3621,10 @@ export let data: Scene[] = [
     'altTitles': ['Big Wet Tits 17 - Scene 1'],
     'playtime': '0:30:25',
     'partners': ['Markus Dupree'],
-    'links': ['https://angelawhite.empirestores.co/1954577/big-wet-tits-17-porn-movies.html'],
+    'dvds': [{
+      name: 'Big Wet Tits 17',
+      link: 'https://angelawhite.empirestores.co/1954577/big-wet-tits-17-porn-movies.html'
+    }],
     'tags': [],
     'release': moment('2018-02-19')
   },
@@ -3351,7 +3635,10 @@ export let data: Scene[] = [
     'altTitles': ['Curvy Girls 9 - Scene 1'],
     'playtime': '0:31:46',
     'partners': ['Steve Holmes'],
-    'links': ['https://angelawhite.empirestores.co/2588566/curvy-girls-vol-9-porn-movies.html'],
+    'dvds': [{
+      name: 'Curvy Girls 9',
+      link: 'https://angelawhite.empirestores.co/2588566/curvy-girls-vol-9-porn-movies.html'
+    }],
     'tags': [],
     'release': moment('2018-12-17')
   },
@@ -3362,7 +3649,10 @@ export let data: Scene[] = [
     'altTitles': ['Oil Explosion 3 - Scene 1'],
     'playtime': '0:31:50',
     'partners': ['Markus Dupree'],
-    'links': ['https://angelawhite.empirestores.co/1973844/oil-explosion-3-porn-movies.html'],
+    'dvds': [{
+      name: 'Oil Explosion 3',
+      link: 'https://angelawhite.empirestores.co/1973844/oil-explosion-3-porn-movies.html'
+    }],
     'tags': [],
     'release': moment('2018-06-26')
   },
@@ -3373,7 +3663,10 @@ export let data: Scene[] = [
     'altTitles': ['The Bombshells 8 - Scene 1'],
     'playtime': '0:34:07',
     'partners': ['Kissa Sins', 'Johnny Sins'],
-    'links': ['https://angelawhite.empirestores.co/2545040/bombshells-8-the-porn-movies.html'],
+    'dvds': [{
+      name: 'The Bombshells 8',
+      link: 'https://angelawhite.empirestores.co/2545040/bombshells-8-the-porn-movies.html'
+    }],
     'tags': [],
     'release': moment('2018-10-15')
   },
@@ -3384,7 +3677,10 @@ export let data: Scene[] = [
     'altTitles': ['Zoey\'s Squirt Shower - Scene 2'],
     'playtime': '0:27:16',
     'partners': ['Zoey Monroe'],
-    'links': ['https://angelawhite.empirestores.co/1940039/zoeys-squirt-shower-porn-movies.html'],
+    'dvds': [{
+      name: 'Zoey\'s Squirt Shower',
+      link: 'https://angelawhite.empirestores.co/1940039/zoeys-squirt-shower-porn-movies.html'
+    }],
     'tags': [],
     'release': moment('2017-11-20')
   },
@@ -3395,7 +3691,10 @@ export let data: Scene[] = [
     'altTitles': ['Performers Of The Year 2018 - Scene 1'],
     'playtime': '0:52:12',
     'partners': ['Gina Valentina', 'Manuel Ferrara'],
-    'links': ['https://angelawhite.empirestores.co/1991637/performers-of-the-year-2018-porn-movies.html'],
+    'dvds': [{
+      name: 'Performers Of The Year 2018',
+      link: 'https://angelawhite.empirestores.co/1991637/performers-of-the-year-2018-porn-movies.html'
+    }],
     'tags': [],
     'release': moment('2018-07-02')
   },
@@ -3406,7 +3705,10 @@ export let data: Scene[] = [
     'altTitles': ['Squirtwoman Wasteland - Scene 2'],
     'playtime': '0:23:29',
     'partners': ['Kleio Valentien'],
-    'links': ['https://angelawhite.empirestores.co/2535269/squirtwoman-wasteland-porn-movies.html'],
+    'dvds': [{
+      name: 'Squirtwoman Wasteland',
+      link: 'https://angelawhite.empirestores.co/2535269/squirtwoman-wasteland-porn-movies.html'
+    }],
     'tags': [],
     'release': moment('2018-09-24')
   },
@@ -3417,7 +3719,10 @@ export let data: Scene[] = [
     'altTitles': ['Teach me Vol. 5 - Scene 1'],
     'playtime': '0:33:56',
     'partners': ['Karlee Grey'],
-    'links': ['https://angelawhite.empirestores.co/2533161/teach-me-vol-5-porn-movies.html'],
+    'dvds': [{
+      name: 'Teach me Vol. 5',
+      link: 'https://angelawhite.empirestores.co/2533161/teach-me-vol-5-porn-movies.html'
+    }],
     'tags': [],
     'release': moment('2018-10-01')
   },
@@ -3428,7 +3733,10 @@ export let data: Scene[] = [
     'altTitles': ['Sexual Encounters Vol. 2 - Scene 4'],
     'playtime': '0:27:52',
     'partners': ['Markus Dupree'],
-    'links': ['https://angelawhite.empirestores.co/2573172/sexual-encounters-vol-2-porn-movies.html'],
+    'dvds': [{
+      name: 'Sexual Encounters Vol. 2',
+      link: 'https://angelawhite.empirestores.co/2573172/sexual-encounters-vol-2-porn-movies.html'
+    }],
     'tags': ['Boy/Girl', 'Elbow Birthmark', 'Heels', 'Anilingus', 'Cunnilingus', 'Blowjob', 'Deepthroat', 'Standing', 'Vaginal',
       'Against Wall', 'Squirt', 'Titty Fuck', 'On Bed', 'Missionary', 'Feet', 'Cowgirl', 'Spooning', 'Reverse Cowgirl',
       'Doggy', 'Cuddling'],
@@ -3441,7 +3749,10 @@ export let data: Scene[] = [
     'altTitles': ['Anal Fitness Sluts - Scene 2'],
     'playtime': '1:08:38',
     'partners': ['Markus Dupree', 'John Strong'],
-    'links': ['https://angelawhite.empirestores.co/1947185/anal-fitness-sluts-porn-videos.html'],
+    'dvds': [{
+      name: 'Anal Fitness Sluts',
+      link: 'https://angelawhite.empirestores.co/1947185/anal-fitness-sluts-porn-videos.html'
+    }],
     'tags': [],
     'release': moment('2017-11-18')
   },
@@ -3453,7 +3764,7 @@ export let data: Scene[] = [
     'altTitles': ['Anal Angels 3 - Scene X'],
     'playtime': '00:00:00',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2019-05-01')
   },
@@ -3464,7 +3775,10 @@ export let data: Scene[] = [
     'altTitles': ['Oil Slick 2 - Scene 1'],
     'playtime': '00:33:48',
     'partners': ['Mick Blue', 'Ramon Nomar'],
-    'links': ['https://angelawhite.empirestores.co/2611159/oil-slick-2-porn-movies.html'],
+    'dvds': [{
+      name: 'Oil Slick 2',
+      link: 'https://angelawhite.empirestores.co/2611159/oil-slick-2-porn-movies.html'
+    }],
     'tags': ['Oil', 'Boy/Boy/Girl', 'Titty Fuck', 'Blowjob', 'Standing', 'Vaginal', 'On Couch', 'Cowgirl', 'Anal', 'Doggy',
       'Reverse Cowgirl', 'DP', 'Double Penetration', 'Pussy to Ass', 'Handjob', 'Finger in Butt', 'Dirty Talk', 'Side-Saddle Cowgirl'],
     'release': moment('2019-03-18')
@@ -3476,7 +3790,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:04:01',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['BTS']
   },
   {
@@ -3486,7 +3800,10 @@ export let data: Scene[] = [
     'altTitles': ['Anal Heartbreakers 2 - Scene 1'],
     'playtime': '0:54:52',
     'partners': ['Francesca Le', 'Mark Wood'],
-    'links': ['https://angelawhite.empirestores.co/1899477/anal-heartbreakers-2-porn-videos.html'],
+    'dvds': [{
+      name: 'Anal Heartbreakers 2',
+      link: 'https://angelawhite.empirestores.co/1899477/anal-heartbreakers-2-porn-videos.html'
+    }],
     'tags': [],
     'release': moment('2017-03-19')
   },
@@ -3497,7 +3814,10 @@ export let data: Scene[] = [
     'altTitles': ['Angela by Darkko - Scene 1'],
     'playtime': '0:34:11',
     'partners': ['Markus Dupree'],
-    'links': ['https://angelawhite.empirestores.co/2592365/angela-by-darkko-porn-videos.html'],
+    'dvds': [{
+      name: 'Angela by Darkko',
+      link: 'https://angelawhite.empirestores.co/2592365/angela-by-darkko-porn-videos.html'
+    }],
     'tags': ['Boy/Girl', 'On Couch', 'Squirt', 'Anal', 'Lube'],
     'release': moment('2018-11-19')
   },
@@ -3509,7 +3829,10 @@ export let data: Scene[] = [
     'playtime': '0:32:27',
     'partners': ['Steve Holmes', 'Eddie Jaye', 'Filthy Rich', 'Robby Echo', 'Jason Moody', 'Eric John', 'Michael Vegas',
       'Anthony Gaultier'],
-    'links': ['https://angelawhite.empirestores.co/2592365/angela-by-darkko-porn-videos.html'],
+    'dvds': [{
+      name: 'Angela by Darkko',
+      link: 'https://angelawhite.empirestores.co/2592365/angela-by-darkko-porn-videos.html'
+    }],
     'tags': ['On Couch', 'Boy/Girl', 'Blowbang', 'Blowjob', 'Deepthroat', 'Feet', 'Titty Fuck',
       'Cunnilingus', 'Anilingus', 'Fingering', 'AVN Best Oral Sex Scene 2019'],
     'release': moment('2018-11-24')
@@ -3521,7 +3844,10 @@ export let data: Scene[] = [
     'altTitles': ['Angela by Darkko - Scene 3'],
     'playtime': '0:35:38',
     'partners': ['Kristina Rose', 'Mick Blue'],
-    'links': ['https://angelawhite.empirestores.co/2592365/angela-by-darkko-porn-videos.html'],
+    'dvds': [{
+      name: 'Angela by Darkko',
+      link: 'https://angelawhite.empirestores.co/2592365/angela-by-darkko-porn-videos.html'
+    }],
     'tags': ['Elbow Birthmark', 'Birthmark Left Inner Thigh', 'Anal', 'Boy/Girl/Girl', 'Threesome', 'Dildo'],
     'release': moment(' 2018-11-27')
   },
@@ -3532,7 +3858,10 @@ export let data: Scene[] = [
     'altTitles': ['Angela by Darkko - Scene 4'],
     'playtime': '0:48:22',
     'partners': ['John Strong', 'Markus Dupree', 'Steve Holmes', 'Mick Blue', 'Mr. Pete'],
-    'links': ['https://angelawhite.empirestores.co/2592365/angela-by-darkko-porn-videos.html'],
+    'dvds': [{
+      name: 'Angela by Darkko',
+      link: 'https://angelawhite.empirestores.co/2592365/angela-by-darkko-porn-videos.html'
+    }],
     'tags': ['Elbow Birthmark', 'Birthmark Left Inner Thigh', 'Boots', 'Gangbang', 'Blowjob', 'Deepthroat', 'Vaginal',
       'Doggy', 'Anal', 'Handjob', 'Cowgirl', 'Double Penetration', 'DP', 'Choking', 'Gaping', 'Reverse Cowgirl',
       'Triple Penetration', 'TP', 'Double Vaginal', 'DV', 'Double Anal', 'DA', 'Switching Holes'],
@@ -3542,10 +3871,13 @@ export let data: Scene[] = [
     'producer': 'evilangel.com',
     'series': '',
     'title': 'Angela & Asian MILF Big Boob BJ BGG',
-    'altTitles': ['Kianna Dior Busty Asian Cum Slut 4  - Scene 1'],
+    'altTitles': ['Kianna Dior: Busty Asian Cum Slut 4  - Scene 1'],
     'playtime': '1:17:37',
     'partners': ['Kianna Dior', 'Jonni Darkko'],
-    'links': ['https://angelawhite.empirestores.co/2510128/kianna-dior-busty-asian-cum-slut-4-porn-videos.html'],
+    'dvds': [{
+      name: 'Kianna Dior: Busty Asian Cum Slut 4',
+      link: 'https://angelawhite.empirestores.co/2510128/kianna-dior-busty-asian-cum-slut-4-porn-videos.html'
+    }],
     'tags': [],
     'release': moment('2018-06-08')
   },
@@ -3553,11 +3885,16 @@ export let data: Scene[] = [
     'producer': 'evilangel.com',
     'series': '',
     'title': 'Gaping Angela\'s Kinky Fetish Training',
-    'altTitles': ['Buttman Anal & Oral Antics - Scene 2'],
+    'altTitles': ['Buttman Anal & Oral Antics - Scene 2', 'Buttman\'s Jerkoff File - Scene 1'],
     'playtime': '1:59:19',
     'partners': ['John Stegliano'],
-    'links': ['https://angelawhite.empirestores.co/1916211/buttman-anal-oral-antics-porn-videos.html',
-      'https://angelawhite.empirestores.co/2598622/buttmans-jerkoff-file-porn-movies.html'],
+    'dvds': [{
+      name: 'Buttman Anal & Oral Antics',
+      link: 'https://angelawhite.empirestores.co/1916211/buttman-anal-oral-antics-porn-videos.html'
+    }, {
+      name: 'Buttman\'s Jerkoff File',
+      link: 'https://angelawhite.empirestores.co/2598622/buttmans-jerkoff-file-porn-movies.html'
+    }],
     'tags': ['Solo', 'Choking', 'Elbow Birthmark', 'Spanking', 'Feet', 'Finger in Butt', 'Dildo', 'Spit', 'Vibrator'],
     'release': moment('2017-06-10')
   },
@@ -3568,7 +3905,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:15:37',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['BTS']
   },
   {
@@ -3578,7 +3915,10 @@ export let data: Scene[] = [
     'altTitles': ['Dirty Talk 5 - Scene 1'],
     'playtime': '0:38:21',
     'partners': ['Manuel Ferrara'],
-    'links': ['https://angelawhite.empirestores.co/1884926/dirty-talk-5-porn-videos.html'],
+    'dvds': [{
+      name: 'Dirty Talk 5',
+      link: 'https://angelawhite.empirestores.co/1884926/dirty-talk-5-porn-videos.html'
+    }],
     'tags': [],
     'release': moment('2016-12-16')
   },
@@ -3589,7 +3929,10 @@ export let data: Scene[] = [
     'altTitles': ['First Class Anal - Scene 1'],
     'playtime': '0:46:24',
     'partners': ['Jessy Jones'],
-    'links': ['https://angelawhite.empirestores.co/2500835/first-class-anal-porn-videos.html'],
+    'dvds': [{
+      name: 'First Class Anal',
+      link: 'https://angelawhite.empirestores.co/2500835/first-class-anal-porn-videos.html'
+    }],
     'tags': [],
     'release': moment('2018-06-03')
   },
@@ -3600,7 +3943,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:03:28',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['BTS']
   },
   {
@@ -3610,7 +3953,10 @@ export let data: Scene[] = [
     'altTitles': ['Francesca Le Is A Hot Wife 2  - Scene 4'],
     'playtime': '0:40:49',
     'partners': ['Francesca Le'],
-    'links': ['https://angelawhite.empirestores.co/1918860/francesca-le-is-a-hotwife-2-porn-videos.html'],
+    'dvds': [{
+      name: 'Francesca Le Is A Hot Wife 2',
+      link: 'https://angelawhite.empirestores.co/1918860/francesca-le-is-a-hotwife-2-porn-videos.html'
+    }],
     'tags': [],
     'release': moment('2017-06-20')
   },
@@ -3621,7 +3967,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:11:24',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['BTS']
   },
   {
@@ -3631,7 +3977,10 @@ export let data: Scene[] = [
     'altTitles': ['I Am Angela - Scene 1'],
     'playtime': '1:04:02',
     'partners': ['Markus Dupree', 'Mick Blue', 'Steve Holmes'],
-    'links': ['https://angelawhite.empirestores.co/2555658/i-am-angela-porn-videos.html'],
+    'dvds': [{
+      name: 'I Am Angela',
+      link: 'https://angelawhite.empirestores.co/2555658/i-am-angela-porn-videos.html'
+    }],
     'tags': ['Elbow Birthmark', 'Neck Tattoo', 'Birthmark Left Inner Thigh', 'Boy/Boy/Boy/Girl', 'Foursome', 'DP',
       'Double Penetration', 'TP', 'Triple Penetration', 'Double Vaginal', 'DV', 'DA', 'Double Anal', 'Blowjob',
       'Deepthroat', 'On Couch', 'AVN Best Star Showcase 2019'],
@@ -3644,7 +3993,10 @@ export let data: Scene[] = [
     'altTitles': ['I Am Angela - Scene 2'],
     'playtime': '1:18:18',
     'partners': ['Johanna Angel', 'Daina Vespoli'],
-    'links': ['https://angelawhite.empirestores.co/2555658/i-am-angela-porn-videos.html'],
+    'dvds': [{
+      name: 'I Am Angela',
+      link: 'https://angelawhite.empirestores.co/2555658/i-am-angela-porn-videos.html'
+    }],
     'tags': ['Elbow Birthmark', 'Neck Tattoo', 'No Makeup', 'Girl/Girl/Girl', 'Dildo', 'Fisting', 'Anal', 'On Couch',
       'AVN Best Star Showcase 2019'],
     'release': moment('2018-11-03')
@@ -3656,7 +4008,10 @@ export let data: Scene[] = [
     'altTitles': ['I Am Angela - Scene 3'],
     'playtime': '0:49:50',
     'partners': ['Chanel Cantini'],
-    'links': ['https://angelawhite.empirestores.co/2555658/i-am-angela-porn-videos.html'],
+    'dvds': [{
+      name: 'I Am Angela',
+      link: 'https://angelawhite.empirestores.co/2555658/i-am-angela-porn-videos.html'
+    }],
     'tags': ['Elbow Birthmark', 'Birthmark Left Inner Thigh', 'T-Girl/Girl', 'Trans', 'Vaginal', 'Blowjob',
       'Deepthroat', 'Cuddling', 'AVN Best Star Showcase 2019'],
     'release': moment('2018-11-06')
@@ -3668,7 +4023,10 @@ export let data: Scene[] = [
     'altTitles': ['I Am Angela - Scene 4'],
     'playtime': '1:21:37',
     'partners': ['Rocco Siffredi'],
-    'links': ['https://angelawhite.empirestores.co/2555658/i-am-angela-porn-videos.html'],
+    'dvds': [{
+      name: 'I Am Angela',
+      link: 'https://angelawhite.empirestores.co/2555658/i-am-angela-porn-videos.html'
+    }],
     'tags': ['Boy/Girl', 'Anal', 'Vaginal', 'On Couch', 'Standing', 'On Chair', 'Blowjob', 'Deepthroat',
       'AVN Best Star Showcase 2019', 'AVN Best Anal Sex Scene 2019'],
     'release': moment('2018-11-09')
@@ -3680,7 +4038,10 @@ export let data: Scene[] = [
     'altTitles': ['Load Sharing 3  - Scene 2'],
     'playtime': '0:24:57',
     'partners': ['Adriana Chechik'],
-    'links': ['https://angelawhite.empirestores.co/2552966/load-sharing-3-porn-videos.html'],
+    'dvds': [{
+      name: 'Load Sharing 3',
+      link: 'https://angelawhite.empirestores.co/2552966/load-sharing-3-porn-videos.html'
+    }],
     'tags': [],
     'release': moment('2018-09-24')
   },
@@ -3691,7 +4052,10 @@ export let data: Scene[] = [
     'altTitles': ['Perfect Natural Breasts - Scene 1'],
     'playtime': '0:53:54',
     'partners': ['Mark Wood'],
-    'links': ['https://angelawhite.empirestores.co/1890723/perfect-natural-breasts-porn-videos.html'],
+    'dvds': [{
+      name: 'Perfect Natural Breasts',
+      link: 'https://angelawhite.empirestores.co/1890723/perfect-natural-breasts-porn-videos.html'
+    }],
     'tags': [],
     'release': moment('2017-01-09')
   },
@@ -3702,7 +4066,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:10:45',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['BTS']
   },
   {
@@ -3712,7 +4076,10 @@ export let data: Scene[] = [
     'altTitles': ['POV Juggfuckers 7 - Scene 1'],
     'playtime': '0:47:26',
     'partners': ['Jonni Darkko'],
-    'links': ['https://angelawhite.empirestores.co/1954517/pov-jugg-fuckers-7-porn-videos.html'],
+    'dvds': [{
+      name: 'POV Juggfuckers 7',
+      link: 'https://angelawhite.empirestores.co/1954517/pov-jugg-fuckers-7-porn-videos.html'
+    }],
     'tags': [],
     'release': moment('2018-01-01')
   },
@@ -3723,7 +4090,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:04:06',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['BTS']
   },
   {
@@ -3733,7 +4100,10 @@ export let data: Scene[] = [
     'altTitles': ['Psychotic Behaviour - Scene 2'],
     'playtime': '0:59:35',
     'partners': ['Owen Grey'],
-    'links': ['https://angelawhite.empirestores.co/1928047/psychotic-behavior-porn-videos.html'],
+    'dvds': [{
+      name: 'Psychotic Behaviour',
+      link: 'https://angelawhite.empirestores.co/1928047/psychotic-behavior-porn-videos.html'
+    }],
     'tags': [],
     'release': moment('2017-08-07')
   },
@@ -3744,7 +4114,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:49:01',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['BTS']
   },
   {
@@ -3754,8 +4124,13 @@ export let data: Scene[] = [
     'altTitles': ['Straight Up Anal 3 - Scene 2', 'More Than A Pretty Gape -  Scene 2'],
     'playtime': '1:01:30',
     'partners': ['Mike Adriano'],
-    'links': ['https://angelawhite.empirestores.co/1887878/straight-up-anal-3-porn-videos.html',
-      'https://angelawhite.empirestores.co/2521755/more-than-a-pretty-gape-porn-videos.html'],
+    'dvds': [{
+      name: 'Straight Up Anal 3',
+      link: 'https://angelawhite.empirestores.co/1887878/straight-up-anal-3-porn-videos.html'
+    }, {
+      name: 'More Than A Pretty Gape',
+      link: 'https://angelawhite.empirestores.co/2521755/more-than-a-pretty-gape-porn-videos.html'
+    }],
     'tags': [],
     'release': moment('2017-01-09')
   },
@@ -3766,7 +4141,10 @@ export let data: Scene[] = [
     'altTitles': ['Top Heavy Sluts - Scene 02'],
     'playtime': '0:39:21',
     'partners': ['Prince Yahshua'],
-    'links': ['https://angelawhite.empirestores.co/2589267/top-heavy-sluts-porn-videos.html'],
+    'dvds': [{
+      name: 'Top Heavy Sluts',
+      link: 'https://angelawhite.empirestores.co/2589267/top-heavy-sluts-porn-videos.html'
+    }],
     'tags': ['Boy/Girl', 'Interracial', 'On Couch', 'Blowjob', 'Deepthroat', 'Titty Fuck', 'Cunnilingus', 'Vaginal',
       'Missionary', 'Choking', 'Cowgirl', 'Anilingus', 'Finger in Butt', 'Doggy', 'Elbow Birthmark', 'Gaping', 'Handjob',
       'Squirt', 'Reverse Cowgirl', 'Pussy to Ass', 'Ass to Pussy', 'Side Fuck', 'Side-Saddle Cowgirl', 'Spooning'],
@@ -3779,7 +4157,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:10:12',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['BTS']
   },
   {
@@ -3789,7 +4167,10 @@ export let data: Scene[] = [
     'altTitles': ['True Anal 3 - Scene 2'],
     'playtime': '0:56:37',
     'partners': ['Mike Adriano'],
-    'links': ['https://angelawhite.empirestores.co/1904873/true-anal-3-porn-videos.html'],
+    'dvds': [{
+      name: 'True Anal 3',
+      link: 'https://angelawhite.empirestores.co/1904873/true-anal-3-porn-videos.html'
+    }],
     'tags': [],
     'release': moment('2017-04-17')
   },
@@ -3800,7 +4181,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:35:07',
     'partners': ['Whitney Wright', 'Cloe Cherry'],
-    'links': ['https://angelawhite.empirestores.co/2578658/three-girls-and-a-bolster-porn-videos.html'],
+    'dvds': [{
+      name: 'Three Girls and a Bolster',
+      link: 'https://angelawhite.empirestores.co/2578658/three-girls-and-a-bolster-porn-videos.html'
+    }],
     'tags': [],
     'release': moment('2018-01-15')
   },
@@ -3811,7 +4195,10 @@ export let data: Scene[] = [
     'altTitles': ['Spa Confessions - Scene 4'],
     'playtime': '0:40:00',
     'partners': ['Uma Jolie'],
-    'links': ['https://angelawhite.empirestores.co/2561566/spa-confessions-porn-videos.html'],
+    'dvds': [{
+      name: 'Spa Confessions',
+      link: 'https://angelawhite.empirestores.co/2561566/spa-confessions-porn-videos.html'
+    }],
     'tags': [],
     'release': moment('2017-09-18')
   },
@@ -3822,7 +4209,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:55:01',
     'partners': ['Penny Pax'],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2017-11-22')
   },
@@ -3833,7 +4220,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:43:25',
     'partners': ['Kristen Scott'],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2017-10-25')
   },
@@ -3844,7 +4231,7 @@ export let data: Scene[] = [
     'altTitles': ['The Taxi Girl - Scene 2'],
     'playtime': '0:28:03',
     'partners': ['Lena Paul'],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2017-08-09')
   },
@@ -3855,7 +4242,10 @@ export let data: Scene[] = [
     'altTitles': ['Surrender Your Stress - Scene 1'],
     'playtime': '0:35:59',
     'partners': ['Keisha Grey'],
-    'links': ['https://angelawhite.empirestores.co/2516983/surrender-your-stress-porn-videos.html'],
+    'dvds': [{
+      name: 'Surrender Your Stress',
+      link: 'https://angelawhite.empirestores.co/2516983/surrender-your-stress-porn-videos.html'
+    }],
     'tags': [],
     'release': moment('2017-03-20')
   },
@@ -3866,7 +4256,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:13:26',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2017-04-28')
   },
@@ -3877,7 +4267,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:08:39',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2019-01-23')
   },
@@ -3888,7 +4278,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:08:39',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2019-01-23')
   },
@@ -3899,7 +4289,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:17:43',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2017-12-19')
   },
@@ -3910,7 +4300,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:15:00',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2019-01-18')
   },
@@ -3921,7 +4311,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:20:14',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2017-03-16')
   },
@@ -3932,7 +4322,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:13:47',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2018-04-24')
   },
@@ -3943,7 +4333,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:11:28',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2017-03-11')
   },
@@ -3954,7 +4344,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:12:23',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2017-02-22')
   },
@@ -3965,7 +4355,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:10:25',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2017-02-10')
   },
@@ -3976,7 +4366,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:13:47',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2018-10-05')
   },
@@ -3987,7 +4377,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:10:52',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2017-10-18')
   },
@@ -3998,7 +4388,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:20:24',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2018-04-06')
   },
@@ -4009,7 +4399,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:13:12',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2018-01-22')
   },
@@ -4020,7 +4410,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:12:14',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2018-01-08')
   },
@@ -4031,7 +4421,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:20:47',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2018-11-21')
   },
@@ -4042,7 +4432,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '1:06:16',
     'partners': ['Giselle Palmer'],
-    'links': ['https://angelawhite.empirestores.co/2505757/lesbian-sex-vol-18-porn-videos.html'],
+    'dvds': [{
+      name: 'Lesbian Sex Vol. 18',
+      link: 'https://angelawhite.empirestores.co/2505757/lesbian-sex-vol-18-porn-videos.html'
+    }],
     'tags': [],
     'release': moment('2018-06-08')
   },
@@ -4050,11 +4443,16 @@ export let data: Scene[] = [
     'producer': 'girlfriendsfilms.com',
     'series': '',
     'title': 'Lesbian Psychodramas Vol. 29 - Scene 1',
-    'altTitles': [],
+    'altTitles': ['Older/Younger: Unrefined 5 - Scene 1'],
     'playtime': '0:58:38',
     'partners': ['Milana May'],
-    'links': ['https://angelawhite.empirestores.co/2505461/lesbian-psychodramas-vol-29-porn-videos.html',
-      'https://angelawhite.empirestores.co/2550510/olderyounger-unrefined-5-popporn-exclusive-porn-movies.html'],
+    'dvds': [{
+      name: 'Lesbian Psychodramas Vol. 29',
+      link: 'https://angelawhite.empirestores.co/2505461/lesbian-psychodramas-vol-29-porn-videos.html'
+    }, {
+      name: 'Older/Younger: Unrefined 5',
+      link: 'https://angelawhite.empirestores.co/2550510/olderyounger-unrefined-5-popporn-exclusive-porn-movies.html'
+    }],
     'tags': [],
     'release': moment('2018-06-06')
   },
@@ -4065,7 +4463,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:55:48',
     'partners': [],
-    'links': ['https://angelawhite.empirestores.co/2587246/lesbian-psychodramas-vol-31-porn-movies.html'],
+    'dvds': [{
+      name: 'Lesbian Psychodramas Vol. 31',
+      link: 'https://angelawhite.empirestores.co/2587246/lesbian-psychodramas-vol-31-porn-movies.html'
+    }],
     'tags': [],
     'release': moment('2018-12-04')
   },
@@ -4076,7 +4477,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:00:00',
     'partners': ['Dana Dearmond'],
-    'links': ['https://angelawhite.empirestores.co/2643726/lesbian-psychodramas-vol-32-porn-movies.html'],
+    'dvds': [{
+      name: 'Lesbian Psychodramas Vol. 32',
+      link: 'https://angelawhite.empirestores.co/2643726/lesbian-psychodramas-vol-32-porn-movies.html'
+    }],
     'tags': [],
     'release': moment('2019-03-22')
   },
@@ -4087,8 +4491,13 @@ export let data: Scene[] = [
     'altTitles': ['Scissoring - Scene 10'],
     'playtime': '0:55:26',
     'partners': ['Anya Olsen'],
-    'links': ['https://angelawhite.empirestores.co/1946949/lesbian-house-hunters-part-14-porn-videos.html',
-      'https://angelawhite.empirestores.co/2593213/scissoring-porn-movies.html'],
+    'dvds': [{
+      name: 'Lesbian House Hunters Part 14',
+      link: 'https://angelawhite.empirestores.co/1946949/lesbian-house-hunters-part-14-porn-videos.html'
+    }, {
+      name: 'Scissoring',
+      link: 'https://angelawhite.empirestores.co/2593213/scissoring-porn-movies.html'
+    }],
     'tags': [],
     'release': moment('2017-12-07')
   },
@@ -4099,7 +4508,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:09:44',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2010-04-02')
   },
@@ -4110,7 +4519,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:17:07',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2010-04-02')
   },
@@ -4121,7 +4530,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:12:03',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2010-04-02')
   },
@@ -4132,7 +4541,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:08:24',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2013-04-02')
   },
@@ -4143,7 +4552,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:14:06',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2011-04-02')
   },
@@ -4154,7 +4563,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:14:56',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2011-04-02')
   },
@@ -4165,7 +4574,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:17:14',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2011-04-02')
   },
@@ -4176,7 +4585,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:10:59',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['Solo', 'Vibrator'],
     'release': moment('2010-04-02')
   },
@@ -4187,7 +4596,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:17:17',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2012-04-02')
   },
@@ -4198,7 +4607,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:10:22',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': []
   },
   {
@@ -4208,7 +4617,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:08:24',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2011-04-02')
   },
@@ -4219,7 +4628,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:17:33',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2011-04-02')
   },
@@ -4230,7 +4639,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:18:13',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2011-04-02')
   },
@@ -4241,7 +4650,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '1:01:02',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2011-04-02')
   },
@@ -4252,7 +4661,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:12:13',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2011-04-02')
   },
@@ -4263,7 +4672,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:17:56',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['BTS']
   },
   {
@@ -4273,7 +4682,10 @@ export let data: Scene[] = [
     'altTitles': ['Dream Pairings: Chapter Two - Scene 1', 'Dream Pairings: Chapter Two - Scene 2'],
     'playtime': '1:18:50',
     'partners': ['Samantha Rone', 'Eva Lovia'],
-    'links': ['https://angelawhite.empirestores.co/1933928/dream-pairings-chapter-two-porn-videos.html'],
+    'dvds': [{
+      name: 'Dream Pairings: Chapter Two',
+      link: 'https://angelawhite.empirestores.co/1933928/dream-pairings-chapter-two-porn-videos.html'
+    }],
     'tags': [],
     'release': moment('2017-04-03')
   },
@@ -4284,7 +4696,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '00:29:54',
     'partners': ['Whitney Wright'],
-    'links': [],
+    'dvds': [],
     'tags': ['Girl/Girl', 'Acting', 'On Bed', 'Spanking', 'Cunnilingus', 'Anilingus', 'Vaginal', 'Bush', 'Biting',
       'Elbow Birthmark', 'Tit Sucking 69', 'Smothering', '69', 'Neck Tattoo', 'Tribbing', 'Hurt Knee', 'Choking', 'Bodysuit']
   },
@@ -4295,7 +4707,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '00:29:35',
     'partners': ['Kira Noir'],
-    'links': [],
+    'dvds': [],
     'tags': ['Girl/Girl', 'Acting', 'On Couch', 'Strap-on', 'Blowjob', 'Birthmark Left Inner Thigh', 'Vaginal', 'Hurt Knee',
       'Glasses', 'Doggy', 'Cunnilingus', 'Elbow Birthmark', 'Anilingus', 'Fingering', 'Panty Gag'],
     'release': moment('2019-01-13')
@@ -4307,7 +4719,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '00:45:15',
     'partners': ['Abella Danger', 'Krissy Lynn'],
-    'links': [],
+    'dvds': [],
     'tags': ['Girl/Girl/Girl', 'Acting', 'On Desk', 'Anal', 'Cunnilingus', 'Elbow Birthmark', 'Feet',
       'Birthmark Left Inner Thigh', 'Fingering', 'Face Sitting', 'Anilingus', 'Dildo', 'Anal', 'Squirt', 'Smothering', 'Vaginal'],
     'release': moment('2019-01-27')
@@ -4319,7 +4731,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '00:38:49',
     'partners': ['Gia Derza'],
-    'links': [],
+    'dvds': [],
     'tags': ['Girl/Girl', 'On Bed', 'Finger in Butt', 'Neck Tattoo', 'Dildo', 'Anal', 'Elbow Birthmark', 'Spanking',
       'Cunnilingus', 'Anilingus', 'Fingering', 'Grinding', 'Tribbing', 'Feet', 'Cuddling'],
     'release': moment('2019-03-31')
@@ -4331,7 +4743,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '00:00:00',
     'partners': ['Jill Kassidy'],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2019-04-25')
   },
@@ -4342,7 +4754,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:05:02',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['BTS']
   },
   {
@@ -4352,7 +4764,10 @@ export let data: Scene[] = [
     'altTitles': ['Fashion Model - Scene 1'],
     'playtime': '0:59:29',
     'partners': ['Lily Rider'],
-    'links': ['https://angelawhite.empirestores.co/1906963/fashion-model-porn-videos.html'],
+    'dvds': [{
+      name: 'Fashion Model',
+      link: 'https://angelawhite.empirestores.co/1906963/fashion-model-porn-videos.html'
+    }],
     'tags': [],
     'release': moment('2017-04-07')
   },
@@ -4363,7 +4778,10 @@ export let data: Scene[] = [
     'altTitles': ['Fashion Model - Scene 3'],
     'playtime': '0:50:47',
     'partners': ['Charlotte Stokely', 'Lily Rider'],
-    'links': ['https://angelawhite.empirestores.co/1906963/fashion-model-porn-videos.html'],
+    'dvds': [{
+      name: 'Fashion Model',
+      link: 'https://angelawhite.empirestores.co/1906963/fashion-model-porn-videos.html'
+    }],
     'tags': [],
     'release': moment('2017-04-21')
   },
@@ -4374,7 +4792,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:34:32',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['BTS']
   },
   {
@@ -4384,7 +4802,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:01:46',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2017-04-03')
   },
@@ -4395,7 +4813,10 @@ export let data: Scene[] = [
     'altTitles': ['Girlcore Vol. 3 - Scene 2'],
     'playtime': '0:59:11',
     'partners': ['Aidra Fox', 'Georgia Jones', 'Emily Willis'],
-    'links': ['https://angelawhite.empirestores.co/2593570/girlcore-vol-3-porn-movies.html'],
+    'dvds': [{
+      name: 'Girlcore Vol. 3',
+      link: 'https://angelawhite.empirestores.co/2593570/girlcore-vol-3-porn-movies.html'
+    }],
     'tags': [],
     'release': moment('2018-10-23')
   },
@@ -4406,28 +4827,35 @@ export let data: Scene[] = [
     'altTitles': ['Anal At The Office - Scene 2'],
     'playtime': '0:44:06',
     'partners': ['Abella Danger'],
-    'links': ['https://angelawhite.empirestores.co/2566706/anal-at-the-office-porn-videos.html'],
+    'dvds': [{
+      name: 'Anal At The Office',
+      link: 'https://angelawhite.empirestores.co/2566706/anal-at-the-office-porn-videos.html'
+    }],
     'tags': [],
     'release': moment('2018-05-28')
-  },
-  {
+  }, {
     'producer': 'girlsway.com',
     'series': '',
     'title': 'Lady Boss: The Research Assistent',
     'altTitles': ['Lady Boss Vol. 2 -Scene 1'],
     'playtime': '0:43:02',
     'partners': ['Whitney Wright'],
-    'links': ['https://angelawhite.empirestores.co/1991291/lady-boss-vol-2-porn-videos.html'],
+    'dvds': [{
+      name: 'Lady Boss Vol. 2',
+      link: 'https://angelawhite.empirestores.co/1991291/lady-boss-vol-2-porn-videos.html'
+    }],
     'tags': []
-  },
-  {
+  }, {
     'producer': 'girlsway.com',
     'series': '',
     'title': 'Naturally Stacked Stories: Personal Assistant',
     'altTitles': ['Naturally Stacked Stories - Scene 2'],
     'playtime': '0:58:11',
     'partners': ['Keisha Grey'],
-    'links': ['https://angelawhite.empirestores.co/1945857/naturally-stacked-stories-porn-videos.html'],
+    'dvds': [{
+      name: 'Naturally Stacked Stories',
+      link: 'https://angelawhite.empirestores.co/1945857/naturally-stacked-stories-porn-videos.html'
+    }],
     'tags': [],
     'release': moment('2017-06-15')
   },
@@ -4438,7 +4866,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:02:26',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['BTS']
   },
   {
@@ -4448,7 +4876,10 @@ export let data: Scene[] = [
     'altTitles': ['Naturally Stacked Stories - Scene 4'],
     'playtime': '1:13:19',
     'partners': ['Jelana Jensen'],
-    'links': ['https://angelawhite.empirestores.co/1945857/naturally-stacked-stories-porn-videos.html'],
+    'dvds': [{
+      name: 'Naturally Stacked Stories',
+      link: 'https://angelawhite.empirestores.co/1945857/naturally-stacked-stories-porn-videos.html'
+    }],
     'tags': [],
     'release': moment('2017-06-30')
   },
@@ -4459,7 +4890,10 @@ export let data: Scene[] = [
     'altTitles': ['Strap-On Stories - Scene 2'],
     'playtime': '0:58:13',
     'partners': ['Maddy O\'Reilly', 'Karlee Grey'],
-    'links': ['https://angelawhite.empirestores.co/1970643/strap-on-stories-porn-videos.html'],
+    'dvds': [{
+      name: 'Strap-On Stories',
+      link: 'https://angelawhite.empirestores.co/1970643/strap-on-stories-porn-videos.html'
+    }],
     'tags': []
   },
   {
@@ -4469,7 +4903,10 @@ export let data: Scene[] = [
     'altTitles': ['The Art of Pussy Eating - Scene 3'],
     'playtime': '0:36:51',
     'partners': ['Carter Cruise', 'Uma Jolie'],
-    'links': ['https://angelawhite.empirestores.co/1964858/art-of-pussy-eating-the-porn-videos.html'],
+    'dvds': [{
+      name: 'The Art of Pussy Eating',
+      link: 'https://angelawhite.empirestores.co/1964858/art-of-pussy-eating-the-porn-videos.html'
+    }],
     'tags': [],
     'release': moment('2017-09-25')
   },
@@ -4480,7 +4917,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:49:01',
     'partners': ['Abigail Mac', 'Jelena Jensen'],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2017-10-19')
   },
@@ -4491,7 +4928,7 @@ export let data: Scene[] = [
     'altTitles': ['We Like Girls - Episode 1'],
     'playtime': '1:18:47',
     'partners': ['Kissa Sins'],
-    'links': [],
+    'dvds': [],
     'tags': ['Girl/Girl', 'Genuine Feelings'],
     'release': moment('2018-12-23')
   },
@@ -4502,7 +4939,10 @@ export let data: Scene[] = [
     'altTitles': ['Awakening - Scene 1'],
     'playtime': '0:42:36',
     'partners': ['Serene Blair'],
-    'links': ['https://angelawhite.empirestores.co/2598473/awakening-porn-movies.html'],
+    'dvds': [{
+      name: 'Awakening',
+      link: 'https://angelawhite.empirestores.co/2598473/awakening-porn-movies.html'
+    }],
     'tags': ['Girl/Girl', 'On Bed'],
     'release': moment('2017-11-02')
   },
@@ -4513,7 +4953,10 @@ export let data: Scene[] = [
     'altTitles': ['Girlsway Crew - Scene 2'],
     'playtime': '0:51:14',
     'partners': ['Kimmy Granger'],
-    'links': ['https://angelawhite.empirestores.co/1966440/girlsway-crew-porn-videos.html'],
+    'dvds': [{
+      name: 'Girlsway Crew',
+      link: 'https://angelawhite.empirestores.co/1966440/girlsway-crew-porn-videos.html'
+    }],
     'tags': [],
     'release': moment('2017-07-10')
   },
@@ -4524,7 +4967,10 @@ export let data: Scene[] = [
     'altTitles': ['The Italian Tutor - Scene 3'],
     'playtime': '0:37:59',
     'partners': ['Jenna Sativa'],
-    'links': ['https://angelawhite.empirestores.co/1930565/italian-tutor-the-porn-videos.html'],
+    'dvds': [{
+      name: 'The Italian Tutor',
+      link: 'https://angelawhite.empirestores.co/1930565/italian-tutor-the-porn-videos.html'
+    }],
     'tags': [],
     'release': moment('2017-01-23')
   },
@@ -4535,7 +4981,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:36:10',
     'partners': ['April O\'Neil'],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2018-06-11')
   },
@@ -4546,7 +4992,10 @@ export let data: Scene[] = [
     'altTitles': ['The Breast Doctor Around - Scene 1'],
     'playtime': '0:48:29',
     'partners': ['Carter Cruise'],
-    'links': ['https://angelawhite.empirestores.co/1974998/breast-doctor-around-the-porn-videos.html'],
+    'dvds': [{
+      name: 'The Breast Doctor Around',
+      link: 'https://angelawhite.empirestores.co/1974998/breast-doctor-around-the-porn-videos.html'
+    }],
     'tags': [],
     'release': moment('2017-03-16')
   },
@@ -4557,7 +5006,10 @@ export let data: Scene[] = [
     'altTitles': ['The Chiropractor - Scene 1'],
     'playtime': '0:50:43',
     'partners': ['Mia Malkova'],
-    'links': ['https://angelawhite.empirestores.co/1963662/chiropractor-the-porn-videos.html'],
+    'dvds': [{
+      name: 'The Chiropractor',
+      link: 'https://angelawhite.empirestores.co/1963662/chiropractor-the-porn-videos.html'
+    }],
     'tags': [],
     'release': moment('2016-12-30')
   },
@@ -4568,7 +5020,10 @@ export let data: Scene[] = [
     'altTitles': ['The Chiropractor - Scene 4'],
     'playtime': '0:42:15',
     'partners': ['Mia Malkova', 'Georgia Jones'],
-    'links': ['https://angelawhite.empirestores.co/1963662/chiropractor-the-porn-videos.html'],
+    'dvds': [{
+      name: 'The Chiropractor',
+      link: 'https://angelawhite.empirestores.co/1963662/chiropractor-the-porn-videos.html'
+    }],
     'tags': [],
     'release': moment('2017-01-13')
   },
@@ -4579,7 +5034,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:13:32',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['BTS']
   },
   {
@@ -4589,7 +5044,10 @@ export let data: Scene[] = [
     'altTitles': ['Lipstick Lesbians - Scene 1'],
     'playtime': '0:48:55',
     'partners': ['Penny Pax', 'Brett Rossi'],
-    'links': ['https://angelawhite.empirestores.co/2615608/lipstick-lesbians-porn-movies.html'],
+    'dvds': [{
+      name: 'Lipstick Lesbians',
+      link: 'https://angelawhite.empirestores.co/2615608/lipstick-lesbians-porn-movies.html'
+    }],
     'tags': [],
     'release': moment('2017-11-27')
   },
@@ -4600,7 +5058,10 @@ export let data: Scene[] = [
     'altTitles': ['Wet Curves - Scene 4'],
     'playtime': '0:30:38',
     'partners': ['Mick Blue'],
-    'links': ['https://angelawhite.empirestores.co/1898493/wet-curves-porn-movies.html'],
+    'dvds': [{
+      name: 'Wet Curves',
+      link: 'https://angelawhite.empirestores.co/1898493/wet-curves-porn-movies.html'
+    }],
     'tags': [],
     'release': moment('2017-03-24')
   },
@@ -4611,7 +5072,10 @@ export let data: Scene[] = [
     'altTitles': ['Hardcore Threesomes - Scene 3'],
     'playtime': '0:35:28',
     'partners': ['Anikka Albrite', 'Mick Blue'],
-    'links': ['https://angelawhite.empirestores.co/1940921/hardcore-threesomes-porn-movies.html'],
+    'dvds': [{
+      name: 'Hardcore Threesomes',
+      link: 'https://angelawhite.empirestores.co/1940921/hardcore-threesomes-porn-movies.html'
+    }],
     'tags': [],
     'release': moment('2017-10-20')
   },
@@ -4622,7 +5086,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:09:51',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2018-03-15')
   },
@@ -4633,7 +5097,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2008-05-05')
   },
@@ -4644,7 +5108,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2008-05-18')
   },
@@ -4655,7 +5119,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:10:08',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2008-09-27')
   },
@@ -4666,7 +5130,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:05:20',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2008-10-12')
   },
@@ -4677,7 +5141,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': ' ',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2009-04-15')
   },
@@ -4688,7 +5152,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': ' ',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2009-04-19')
   },
@@ -4699,7 +5163,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': ' ',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2009-04-24')
   },
@@ -4710,7 +5174,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': ' ',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2009-06-06')
   },
@@ -4721,7 +5185,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': ' ',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2009-08-29')
   },
@@ -4732,7 +5196,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': ' ',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2010-10-19')
   },
@@ -4743,7 +5207,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': ' ',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2010-10-26')
   },
@@ -4754,7 +5218,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': ' ',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2010-11-09')
   },
@@ -4765,7 +5229,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': ' ',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2010-11-15')
   },
@@ -4776,7 +5240,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': ' ',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2011-11-07')
   },
@@ -4787,7 +5251,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': ' ',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2011-12-14')
   },
@@ -4798,7 +5262,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': ' ',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2013-01-01')
   },
@@ -4809,7 +5273,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': ' ',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2013-01-15')
   },
@@ -4820,7 +5284,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': ' ',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2013-01-29')
   },
@@ -4831,7 +5295,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': ' ',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2016-06-16')
   },
@@ -4842,7 +5306,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': ' ',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2008-07-02')
   },
@@ -4853,7 +5317,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': ' ',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2008-07-05')
   },
@@ -4864,7 +5328,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': ' ',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2008-07-16')
   },
@@ -4875,7 +5339,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': ' ',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2008-07-19')
   },
@@ -4886,7 +5350,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': ' ',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2011-05-25')
   },
@@ -4897,7 +5361,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': ' ',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2011-06-01')
   },
@@ -4908,7 +5372,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': ' ',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2011-06-15')
   },
@@ -4919,7 +5383,10 @@ export let data: Scene[] = [
     'altTitles': ['Anal Extremist - Scene 4'],
     'playtime': '0:29:57',
     'partners': ['Mandingo'],
-    'links': ['https://angelawhite.empirestores.co/2549002/anal-extremists-porn-videos.html'],
+    'dvds': [{
+      name: 'Anal Extremist',
+      link: 'https://angelawhite.empirestores.co/2549002/anal-extremists-porn-videos.html'
+    }],
     'tags': [],
     'release': moment('2018-09-10')
   },
@@ -4930,7 +5397,10 @@ export let data: Scene[] = [
     'altTitles': ['Anal Savages 2 - Scene 2'],
     'playtime': '0:41:43',
     'partners': ['Chris Strokes'],
-    'links': ['https://angelawhite.empirestores.co/1920849/anal-savages-2-porn-videos.html'],
+    'dvds': [{
+      name: 'Anal Savages 2',
+      link: 'https://angelawhite.empirestores.co/1920849/anal-savages-2-porn-videos.html'
+    }],
     'tags': [],
     'release': moment('2017-06-09')
   },
@@ -4941,7 +5411,10 @@ export let data: Scene[] = [
     'altTitles': ['Bra Busters 8 - Scene 1'],
     'playtime': '0:36:52',
     'partners': ['Manuel Ferrara'],
-    'links': ['https://angelawhite.empirestores.co/1890186/bra-busters-8-porn-videos.html'],
+    'dvds': [{
+      name: 'Bra Busters 8',
+      link: 'https://angelawhite.empirestores.co/1890186/bra-busters-8-porn-videos.html'
+    }],
     'tags': [],
     'release': moment('2017-01-06')
   },
@@ -4952,7 +5425,10 @@ export let data: Scene[] = [
     'altTitles': ['Breast Worship 5 - Scene 1'],
     'playtime': '0:38:35',
     'partners': ['Chris Strokes', 'Jules Jordan'],
-    'links': ['https://angelawhite.empirestores.co/1890700/breast-worship-5-porn-videos.html'],
+    'dvds': [{
+      name: 'Breast Worship 5',
+      link: 'https://angelawhite.empirestores.co/1890700/breast-worship-5-porn-videos.html'
+    }],
     'tags': [],
     'release': moment('2017-02-08')
   },
@@ -4963,7 +5439,10 @@ export let data: Scene[] = [
     'altTitles': ['Breast Worship 5 - Scene 4'],
     'playtime': '0:34:38',
     'partners': ['Lexington Steele'],
-    'links': ['https://angelawhite.empirestores.co/1890700/breast-worship-5-porn-videos.html'],
+    'dvds': [{
+      name: 'Breast Worship 5',
+      link: 'https://angelawhite.empirestores.co/1890700/breast-worship-5-porn-videos.html'
+    }],
     'tags': [],
     'release': moment('2016-10-28')
   },
@@ -4974,7 +5453,10 @@ export let data: Scene[] = [
     'altTitles': ['Dredd 4 - Scene 1'],
     'playtime': '0:36:22',
     'partners': ['Dredd'],
-    'links': ['https://angelawhite.empirestores.co/1968947/dredd-4-porn-videos.html'],
+    'dvds': [{
+      name: 'Dredd 4',
+      link: 'https://angelawhite.empirestores.co/1968947/dredd-4-porn-videos.html'
+    }],
     'tags': ['Boy/Girl', 'Anal', 'Interracial', 'Stockings', 'On Couch', 'Biting', 'Blowjob', 'Hicky', 'Vaginal',
       'Doggy', 'Cowgirl', 'Reverse Cowgirl', 'Side Fuck', 'Birthmark Left Inner Thigh', 'Ass to Pussy', 'Missionary',
       'Cum on Tits'],
@@ -4987,7 +5469,10 @@ export let data: Scene[] = [
     'altTitles': ['Manuel\'s Maximum Penetration 5 - Scene 4'],
     'playtime': '0:46:00',
     'partners': ['Manuel Ferrara'],
-    'links': ['https://angelawhite.empirestores.co/1951101/manuels-maximum-penetration-5-porn-videos.html'],
+    'dvds': [{
+      name: 'Manuel\'s Maximum Penetration 5',
+      link: 'https://angelawhite.empirestores.co/1951101/manuels-maximum-penetration-5-porn-videos.html'
+    }],
     'tags': [],
     'release': moment('2017-12-19')
   },
@@ -4998,7 +5483,10 @@ export let data: Scene[] = [
     'altTitles': ['The Corruption of Kissa Sins - Scene 2'],
     'playtime': '0:46:16',
     'partners': ['Kissa Sins', 'Markus Dupree'],
-    'links': ['https://angelawhite.empirestores.co/2524257/corruption-of-kissa-sins-the-porn-videos.html'],
+    'dvds': [{
+      name: 'The Corruption of Kissa Sins',
+      link: 'https://angelawhite.empirestores.co/2524257/corruption-of-kissa-sins-the-porn-videos.html'
+    }],
     'tags': ['AVN Best Threesome Girl/Girl/Boy 2019', 'Boy/Girl/Girl', 'On Couch', 'Girl/Girl', 'Tribbing',
       'Cunnilingus', 'Neck Tattoo', 'Anilingus', 'Fingering', 'Squirt', 'Birthmark Left Inner Thigh', 'Oil',
       'Choking', 'Spanking', 'Anal', 'Blowjob', 'Ass to Mouth', 'Titty Fuck', 'Missionary', 'Reverse Cowgirl', 'Cowgirl',
@@ -5009,10 +5497,13 @@ export let data: Scene[] = [
     'producer': 'kink.com',
     'series': 'Hogtied',
     'title': 'Angela White\'s First Time in Brutal Bondage and Tormented',
-    'altTitles': [],
+    'altTitles': ['Hogtied Vol. 28: Roped and Groped By The Pope - Scene 3'],
     'playtime': '0:58:54',
     'partners': ['Jean Paul The Pope'],
-    'links': ['https://angelawhite.empirestores.co/2582619/hogtied-vol-28-roped-and-groped-by-the-pope-porn-videos.html'],
+    'dvds': [{
+      name: 'Hogtied Vol. 28: Roped and Groped By The Pope',
+      link: 'https://angelawhite.empirestores.co/2582619/hogtied-vol-28-roped-and-groped-by-the-pope-porn-videos.html'
+    }],
     'tags': ['Standing', 'Choking', 'Rope Bondage', 'Fingering', 'Squirt', 'Whipping', 'Clamps', 'Neck Tattoo',
       'Spanking', 'Hitachi', 'Rubberbands', 'Feet', 'Elbow Birthmark', 'Blowjob', 'Deepthroat', 'Birthmark Left Inner Thigh',
       'Suspension', 'Dildo', 'Cane', 'Ball Gag', 'Nipple Clamps', 'Bastinado', 'Spanking'],
@@ -5025,7 +5516,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:49:21',
     'partners': ['Jean Paul The Pope'],
-    'links': [],
+    'dvds': [],
     'tags': ['Metal Bondage', 'Whipping', 'Clamps', 'Zapper', 'Ball Gag', 'Shackles', 'Fingering', 'Spanking',
       'Hitachi', 'Birthmark Left Inner Thigh', 'Riding Crop', 'Feet', 'Denial', 'Dildo', 'Rubberbands', 'Choking'],
     'release': moment('2018-03-07')
@@ -5037,7 +5528,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:53:36',
     'partners': ['Joanna Angel', 'Ramon Nomar'],
-    'links': [],
+    'dvds': [],
     'tags': ['Girl/Girl', 'Outside', 'Cunnilingus', 'Fingering', 'Boots', 'Jeweled Butt Plug', 'Finger in Butt', 'On Couch',
       'Anilingus', 'Clothed', 'Vaginal', 'Missionary', 'Blowjob', 'Boy/Girl/Girl', 'Deepthroat', '69', 'Face Sitting',
       'Reverse Cowgirl', 'Oil', 'Squirt', 'Cowgirl', 'Anal', 'Doggy', 'Pussy Stack', 'Ass to Pussy', 'Pussy to Ass',
@@ -5051,7 +5542,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:44:44',
     'partners': ['Jake Adams'],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2018-07-06')
   },
@@ -5062,7 +5553,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:24:13',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2017-04-25')
   },
@@ -5073,7 +5564,10 @@ export let data: Scene[] = [
     'altTitles': ['Anal Nymphos Anal Legends - Scene 4'],
     'playtime': '0:49:48',
     'partners': ['Manuel Ferrara'],
-    'links': ['https://angelawhite.empirestores.co/1902956/anal-nymphos-anal-legends-porn-movies.html'],
+    'dvds': [{
+      name: 'Anal Nymphos Anal Legends',
+      link: 'https://angelawhite.empirestores.co/1902956/anal-nymphos-anal-legends-porn-movies.html'
+    }],
     'tags': [],
     'release': moment('2017-10-31')
   },
@@ -5081,10 +5575,13 @@ export let data: Scene[] = [
     'producer': 'manuelferrara.com',
     'series': '',
     'title': 'Angela White\'s Big Tits Bounce As Manuel Pounds Her Ass',
-    'altTitles': ['Bounce Volume 2 - Scene 2'],
+    'altTitles': ['Bounce Vol. 2 - Scene 2'],
     'playtime': '0:42:31',
     'partners': ['Manuel Ferrara'],
-    'links': ['https://angelawhite.empirestores.co/1970625/bounce-vol-2-porn-videos.html'],
+    'dvds': [{
+      name: 'Bounce Vol. 2',
+      link: 'https://angelawhite.empirestores.co/1970625/bounce-vol-2-porn-videos.html'
+    }],
     'tags': ['Boy/Girl', 'On Couch', 'Cunnilingus', 'Birthmark Left Inner Thigh', 'Vaginal', 'Feet', 'Handjob',
       'Blowjob', 'Anilingus', 'Deepthroat', 'Titty Fuck', 'Doggy', 'Finger in Butt', 'Anal', 'Gaping', 'Elbow Birthmark',
       'Spooning', 'Ass to Pussy', 'Fingering', 'Neck Tattoo', 'Cowgirl', 'Reverse Cowgirl', 'Side Fuck'],
@@ -5097,7 +5594,10 @@ export let data: Scene[] = [
     'altTitles': ['Raw 28 - Scene 2'],
     'playtime': '0:49:22',
     'partners': ['Manuel Ferrara'],
-    'links': ['https://angelawhite.empirestores.co/1881702/raw-28-porn-videos.html'],
+    'dvds': [{
+      name: 'Raw 28',
+      link: 'https://angelawhite.empirestores.co/1881702/raw-28-porn-videos.html'
+    }],
     'tags': ['Boy/Girl', 'On Bed', 'Cunnilingus', 'Candid', 'Missionary', 'Vaginal', 'Fingering', 'Cowgirl', 'Elbow Birthmark',
       'Blowjob', 'Anilingus', 'Choking', 'POV', 'Titty Fuck', 'Deepthroat', 'Reverse Cowgirl', 'Face Sitting', '69', 'Grinding',
       'Spooning'],
@@ -5110,7 +5610,10 @@ export let data: Scene[] = [
     'altTitles': ['Raw 32 - Scene 4'],
     'playtime': '1:48:45',
     'partners': ['Manuel Ferrara'],
-    'links': ['https://angelawhite.empirestores.co/1960312/raw-32-porn-videos.html'],
+    'dvds': [{
+      name: 'Raw 32',
+      link: 'https://angelawhite.empirestores.co/1960312/raw-32-porn-videos.html'
+    }],
     'tags': [],
     'release': moment('2018-02-01')
   },
@@ -5121,7 +5624,10 @@ export let data: Scene[] = [
     'altTitles': ['Girls Love Natural Breasts - Scene 3'],
     'playtime': '0:30:32',
     'partners': ['Karlee Grey'],
-    'links': ['https://angelawhite.empirestores.co/1923980/girls-love-natural-breasts-porn-videos.html'],
+    'dvds': [{
+      name: 'Girls Love Natural Breasts',
+      link: 'https://angelawhite.empirestores.co/1923980/girls-love-natural-breasts-porn-videos.html'
+    }],
     'tags': [],
     'release': moment('2017-08-16')
   },
@@ -5132,7 +5638,10 @@ export let data: Scene[] = [
     'altTitles': ['Lesbian Anal - Scene 3'],
     'playtime': '0:33:34',
     'partners': ['Dana Vespoli'],
-    'links': ['https://angelawhite.empirestores.co/1916214/lesbian-anal-porn-videos.html'],
+    'dvds': [{
+      name: 'Lesbian Anal',
+      link: 'https://angelawhite.empirestores.co/1916214/lesbian-anal-porn-videos.html'
+    }],
     'tags': ['Girl/Girl', 'Anal', 'Dildo'],
     'release': moment('2017-06-05')
   },
@@ -5143,7 +5652,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:21:48',
     'partners': ['August Ames'],
-    'links': ['https://angelawhite.empirestores.co/1945586/lesbian-strap-on-bosses-vol-2-porn-videos.html'],
+    'dvds': [{
+      name: 'Lesbian Strap-On Bosses Vol.2',
+      link: 'https://angelawhite.empirestores.co/1945586/lesbian-strap-on-bosses-vol-2-porn-videos.html'
+    }],
     'tags': [],
     'release': moment('2017-10-17')
   },
@@ -5154,7 +5666,10 @@ export let data: Scene[] = [
     'altTitles': ['Forbidden Affairs Vol. 8 - My Best Friend\'s Husband - Scene 4'],
     'playtime': '0:30:38',
     'partners': ['Michael Vegas'],
-    'links': ['https://angelawhite.empirestores.co/1978618/forbidden-affairs-vol-8-my-best-friends-husband-porn-videos.html'],
+    'dvds': [{
+      name: 'Forbidden Affairs Vol. 8 - My Best Friend\'s Husband',
+      link: 'https://angelawhite.empirestores.co/1978618/forbidden-affairs-vol-8-my-best-friends-husband-porn-videos.html'
+    }],
     'tags': [],
     'release': moment('2018-05-19')
   },
@@ -5165,7 +5680,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:36:35',
     'partners': ['Tommy Gunn'],
-    'links': ['https://angelawhite.empirestores.co/1934562/forbidden-opportunity-porn-videos.html'],
+    'dvds': [{
+      name: 'Forbidden Opportunity',
+      link: 'https://angelawhite.empirestores.co/1934562/forbidden-opportunity-porn-videos.html'
+    }],
     'tags': [],
     'release': moment('2017-09-05')
   },
@@ -5176,7 +5694,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:36:03',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2016-10-08')
   },
@@ -5187,7 +5705,10 @@ export let data: Scene[] = [
     'altTitles': ['Share My Boyfriend Vol. 8 - Scene 1'],
     'playtime': '0:45:08',
     'partners': ['Violet Starr'],
-    'links': ['https://angelawhite.empirestores.co/2500771/share-my-boyfriend-vol-8-porn-movies.html'],
+    'dvds': [{
+      name: 'Share My Boyfriend Vol. 8',
+      link: 'https://angelawhite.empirestores.co/2500771/share-my-boyfriend-vol-8-porn-movies.html'
+    }],
     'tags': [],
     'release': moment('2017-11-27')
   },
@@ -5198,7 +5719,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '2:18:20',
     'partners': [],
-    'links': ['http://www.r18.com/videos/vod/movies/detail/-/id=ymdd00066/?i3_ref=search&i3_ord=1'],
+    'dvds': [{
+      name: 'YMDD-066 - SOAP -High Class Soapland- Angela White, The Soapland Worker With The Colossal Tits',
+      link: 'http://www.r18.com/videos/vod/movies/detail/-/id=ymdd00066/?i3_ref=search&i3_ord=1'
+    }],
     'tags': ['JAV'],
     'release': moment('2015-08-07')
   },
@@ -5209,7 +5733,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:34:33',
     'partners': ['Ryan Diller'],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2017-07-21')
   },
@@ -5220,7 +5744,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:38:24',
     'partners': ['Brad Newman'],
-    'links': [],
+    'dvds': [],
     'tags': ['Boy/Girl', 'On Bed', 'Picture-In-Picture', 'Cheating', 'Standing', 'Vaginal', 'Against Wall', 'Titty Fuck',
       'Cowgirl', 'Reverse Cowgirl', 'Cunnilingus', 'Missionary', 'Doggy', 'Hurt Knee', 'Cum on Tits'],
     'release': moment('2019-01-04')
@@ -5232,7 +5756,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:43:16',
     'partners': ['Johnny Castle'],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2017-03-09')
   },
@@ -5243,7 +5767,10 @@ export let data: Scene[] = [
     'altTitles': ['Dirty Wives Club Vol. 17 - Scene 1'],
     'playtime': '0:28:37',
     'partners': ['Ricky Johnson'],
-    'links': ['https://angelawhite.empirestores.co/2534653/dirty-wives-club-vol-17-porn-movies.html'],
+    'dvds': [{
+      name: 'Dirty Wives Club Vol. 17',
+      link: 'https://angelawhite.empirestores.co/2534653/dirty-wives-club-vol-17-porn-movies.html'
+    }],
     'tags': ['Elbow Birthmark', 'Neck Tattoo'],
     'release': moment('2017-12-08')
   },
@@ -5254,7 +5781,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:39:03',
     'partners': ['Johnny Castle'],
-    'links': [],
+    'dvds': [],
     'tags': ['Elbow Birthmark'],
     'release': moment('2017-01-12')
   },
@@ -5265,7 +5792,10 @@ export let data: Scene[] = [
     'altTitles': ['My Girlfriend\'s Busty Friend 23 - Scene 1'],
     'playtime': '0:46:20',
     'partners': ['Damon Dice'],
-    'links': ['https://angelawhite.empirestores.co/2497073/my-girlfriends-busty-friend-23-porn-movies.html'],
+    'dvds': [{
+      name: 'My Girlfriend\'s Busty Friend 23',
+      link: 'https://angelawhite.empirestores.co/2497073/my-girlfriends-busty-friend-23-porn-movies.html'
+    }],
     'tags': ['Elbow Birthmark', 'Neck Tattoo'],
     'release': moment('2017-07-28')
   },
@@ -5276,7 +5806,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:38:13',
     'partners': ['Sheridan Love', 'Chad White'],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2016-12-25')
   },
@@ -5287,7 +5817,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '1:08:09',
     'partners': ['Charles Dera'],
-    'links': [],
+    'dvds': [],
     'tags': ['VR'],
     'release': moment('2017-06-30')
   },
@@ -5298,7 +5828,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:44:01',
     'partners': ['Seth Gamble'],
-    'links': [],
+    'dvds': [],
     'tags': ['VR'],
     'release': moment('2016-12-16')
   },
@@ -5306,10 +5836,16 @@ export let data: Scene[] = [
     'producer': 'newsensations.com',
     'series': 'Tales From The Edge',
     'title': 'Angela Can Wait No Longer',
-    'altTitles': ['Hotwife Bound 4 - Scene 2'],
+    'altTitles': ['Hotwife Bound 4 - Scene 2', 'Tie Me Up And Fuck Me 2 - Scene X'],
     'playtime': '0:47:26',
     'partners': ['Mick Blue'],
-    'links': ['https://angelawhite.empirestores.co/2589907/hotwife-bound-4-porn-movies.html'],
+    'dvds': [{
+      name: 'Hotwife Bound 4',
+      link: 'https://angelawhite.empirestores.co/2589907/hotwife-bound-4-porn-movies.html'
+    }, {
+      name: 'Tie Me Up And F**k Me 2',
+      link: 'https://angelawhite.empirestores.co/2654048/tie-me-up-and-fk-me-2-porn-movies.html'
+    }],
     'tags': ['Stockings', 'Elbow Birthmark', 'Sybian', 'Cuckhold', 'Squirt', 'Spanking', 'Rope Bondage', 'Shackles',
       'On Couch', 'Blowjob', 'Deepthroat', 'Vaginal', 'Side Fuck', '69', 'Anilingus', 'Doggy', 'Feet', 'Pussy to Mouth'],
     'release': moment('2018-12-10')
@@ -5321,7 +5857,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:13 :26',
     'partners': ['Mick Blue'],
-    'links': ['https://angelawhite.empirestores.co/2589907/hotwife-bound-4-porn-movies.html'],
+    'dvds': [],
     'tags': ['BTS'],
     'release': moment('2018-12-10')
   },
@@ -5329,12 +5865,19 @@ export let data: Scene[] = [
     'producer': 'newsensations.com',
     'series': 'Tales From The Edge',
     'title': 'Big Tit Boss Angela Keeps Her Man',
-    'altTitles': ['Boss Lady 2 - Scene 1', 'Sexual Desires Of Angela White - Scene 5'],
+    'altTitles': ['Boss Lady 2 - Scene 1', 'The Award Goes To - Scene 4', 'The Sexual Desires Of Angela White - Scene 5'],
     'playtime': '0:34:01',
     'partners': ['Ramon Nomar'],
-    'links': ['https://angelawhite.empirestores.co/2526414/boss-lady-ii-porn-movies.html',
-      'https://angelawhite.empirestores.co/2602219/award-goes-to-the-porn-movies.html',
-      'https://angelawhite.empirestores.co/2625155/sexual-desires-of-angela-white-the-porn-movies.html'],
+    'dvds': [{
+      name: 'Boss Lady 2',
+      link: 'https://angelawhite.empirestores.co/2526414/boss-lady-ii-porn-movies.html'
+    }, {
+      name: 'The Award Goes To',
+      link: 'https://angelawhite.empirestores.co/2602219/award-goes-to-the-porn-movies.html',
+    }, {
+      name: 'The Sexual Desires Of Angela White',
+      link: 'https://angelawhite.empirestores.co/2625155/sexual-desires-of-angela-white-the-porn-movies.html',
+    }],
     'tags': ['Boy/Girl', 'On Bed', 'Titty Fuck', 'Blowjob', 'Deepthroat', 'Vaginal', 'Elbow Birthmark', 'Missionary', 'Side Fuck',
       'Cunnilingus', 'Anilingus', 'Birthmark Left Inner Thigh', 'Neck Tattoo', 'Reverse Cowgirl', 'Cowgirl', 'Feet'],
     'release': moment('2018-08-13')
@@ -5346,7 +5889,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:37:24',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['BTS']
   },
   {
@@ -5356,7 +5899,10 @@ export let data: Scene[] = [
     'altTitles': ['In The Room : I Like To Watch - Scene 1'],
     'playtime': '0:33:36',
     'partners': ['Tommy Gunn'],
-    'links': ['https://angelawhite.empirestores.co/2585366/in-the-room-i-like-to-watch-porn-movies.html'],
+    'dvds': [{
+      name: 'In The Room : I Like To Watch',
+      link: 'https://angelawhite.empirestores.co/2585366/in-the-room-i-like-to-watch-porn-movies.html'
+    }],
     'tags': ['Boy/Girl', 'Voyeur', 'Bath', 'Blowjob', 'On Bed', 'Deepthroat', 'Cowgirl', '69', 'Reverse Cowgirl',
       'Side Fuck', 'Cunnilingus', 'Anilingus', 'Feet', 'Doggy', 'Jerk Off Instructions', 'Elbow Birthmark', 'Choking',
       'Missionary', 'Titty Fuck', 'Cum on Tits', 'Vaginal'],
@@ -5366,10 +5912,13 @@ export let data: Scene[] = [
     'producer': 'newsensations.com',
     'series': '',
     'title': 'Up Inside Angela\'s Tightest Hole',
-    'altTitles': ['In The Room : I Like To Watch Volume 2 - Scene 1'],
+    'altTitles': ['In The Room : I Like To Watch Vol. 2 - Scene 1'],
     'playtime': '0:38:08',
     'partners': ['Ramon Nomar'],
-    'links': ['https://angelawhite.empirestores.co/2592889/in-the-room-i-like-to-watch-vol-2-porn-movies.html'],
+    'dvds': [{
+      name: 'In The Room : I Like To Watch Vol. 2',
+      link: 'https://angelawhite.empirestores.co/2592889/in-the-room-i-like-to-watch-vol-2-porn-movies.html'
+    }],
     'tags': ['Boy/Girl', 'Cuckhold', 'Anal', 'Elbow Birthmark', 'Finger in Butt', 'Anilingus', 'On Chair', 'Gaping',
       'Standing', 'Blowjob', 'Deepthroat', 'On Bed', 'Birthmark Left Inner Thigh', 'Cunnilingus', 'Ass to Mouth',
       'Cowgirl', 'Vaginal', 'Ass to Pussy', 'Reverse Cowgirl', 'Spooning', 'Doggy', 'Jerk Off Instructions'],
@@ -5379,12 +5928,19 @@ export let data: Scene[] = [
     'producer': 'newsensations.com',
     'series': '',
     'title': 'Angela Has Model Perfect Tits',
-    'altTitles': ['Model Perfect - Scene 2', 'Hottest Girls In Porn 7 - Scene 7', 'Sexual Desires Of Angela White - Scene 6'],
+    'altTitles': ['Model Perfect - Scene 2', 'Hottest Girls In Porn 7 - Scene 7', 'The Sexual Desires Of Angela White - Scene 6'],
     'playtime': '0:26:11',
     'partners': ['Steve Holmes'],
-    'links': ['https://angelawhite.empirestores.co/2521103/model-perfect-porn-videos.html',
-      'https://angelawhite.empirestores.co/2585365/hottest-girls-in-porn-7-the-porn-movies.html',
-      'https://angelawhite.empirestores.co/2625155/sexual-desires-of-angela-white-the-porn-movies.html'],
+    'dvds': [{
+      name: 'Model Perfect',
+      link: 'https://angelawhite.empirestores.co/2521103/model-perfect-porn-videos.html'
+    }, {
+      name: 'Hottest Girls In Porn 7',
+      link: 'https://angelawhite.empirestores.co/2585365/hottest-girls-in-porn-7-the-porn-movies.html'
+    }, {
+      name: 'The Sexual Desires Of Angela White',
+      link: 'https://angelawhite.empirestores.co/2625155/sexual-desires-of-angela-white-the-porn-movies.html'
+    }],
     'tags': [],
     'release': moment('2018-07-16')
   },
@@ -5392,16 +5948,29 @@ export let data: Scene[] = [
     'producer': 'newsensations.com',
     'series': '',
     'title': 'A Hot Birthday Surprise For Angela',
-    'altTitles': ['Sex Is For Lovers 2 - Scene 2', 'Big Tits Are Sexy 2 - Scene 2', ' Big Tit Babes 2 - Scene 6',
+    'altTitles': ['Sex Is For Lovers 2 - Scene 2', 'Big Tits Are Sexy 2 - Scene 2', 'Big Tit Babes 2 - Scene 6',
       'Young & Stunning - Scene 7', 'The Hottest Girls In Porn 5 - Scene 5', 'Sexual Desires Of Angela White - Scene 2'],
     'playtime': '0:36:43',
     'partners': ['Ramon Nomar'],
-    'links': ['https://angelawhite.empirestores.co/1889705/sex-is-for-lovers-2-porn-videos.html',
-      'https://angelawhite.empirestores.co/1972945/big-tits-are-sexy-2-porn-videos.html',
-      'https://angelawhite.empirestores.co/2595390/big-tit-babes-2-porn-movies.html',
-      'https://angelawhite.empirestores.co/1946983/young-stunning-porn-movies.html',
-      'https://angelawhite.empirestores.co/2500095/hottest-girls-in-porn-5-the-porn-movies.html',
-      'https://angelawhite.empirestores.co/2625155/sexual-desires-of-angela-white-the-porn-movies.html'],
+    'dvds': [{
+      name: 'Sex Is For Lovers 2',
+      link: 'https://angelawhite.empirestores.co/1889705/sex-is-for-lovers-2-porn-videos.html'
+    }, {
+      name: 'Big Tits Are Sexy 2',
+      link: 'https://angelawhite.empirestores.co/1972945/big-tits-are-sexy-2-porn-videos.html'
+    }, {
+      name: 'Big Tit Babes 2',
+      link: 'https://angelawhite.empirestores.co/2595390/big-tit-babes-2-porn-movies.html'
+    }, {
+      name: 'Young & Stunning',
+      link: 'https://angelawhite.empirestores.co/1946983/young-stunning-porn-movies.html'
+    }, {
+      name: 'The Hottest Girls In Porn 5',
+      link: 'https://angelawhite.empirestores.co/2500095/hottest-girls-in-porn-5-the-porn-movies.html'
+    }, {
+      name: 'The Sexual Desires Of Angela White',
+      link: 'https://angelawhite.empirestores.co/2625155/sexual-desires-of-angela-white-the-porn-movies.html'
+    }],
     'tags': [],
     'release': moment('2017-01-25')
   },
@@ -5414,14 +5983,31 @@ export let data: Scene[] = [
       'BWC: Big White Cock 5 - Scene 6', 'My Sexy Slutwife 2 - Scene 8', 'Sexual Desires Of Angela White - Scene 1'],
     'playtime': '0:42:29',
     'partners': ['Steve Holmes'],
-    'links': ['https://angelawhite.empirestores.co/1897209/stags-vixens-porn-videos.html',
-      'https://angelawhite.empirestores.co/1941725/big-tits-are-sexy-porn-videos.html',
-      'https://angelawhite.empirestores.co/1969584/big-tits-only-2-porn-videos.html',
-      'https://angelawhite.empirestores.co/2564599/youre-so-much-bigger-than-my-husband-vol-2-porn-videos.html',
-      'https://angelawhite.empirestores.co/1907394/big-beautiful-butts-porn-movies.html',
-      'https://angelawhite.empirestores.co/1930522/bwc-big-white-cock-5-porn-movies.html',
-      'https://angelawhite.empirestores.co/2607609/my-sexy-slutwife-2-porn-movies.html',
-      'https://angelawhite.empirestores.co/2625155/sexual-desires-of-angela-white-the-porn-movies.html'],
+    'dvds': [{
+      name: 'Stags and Vixens',
+      link: 'https://angelawhite.empirestores.co/1897209/stags-vixens-porn-videos.html'
+    }, {
+      name: 'Big Tits Are Sexy',
+      link: 'https://angelawhite.empirestores.co/1941725/big-tits-are-sexy-porn-videos.html'
+    }, {
+      name: 'Big Tits Only! 2',
+      link: 'https://angelawhite.empirestores.co/1969584/big-tits-only-2-porn-videos.html'
+    }, {
+      name: 'You\'re So Much Bigger Than My Husband Vol. 2',
+      link: 'https://angelawhite.empirestores.co/2564599/youre-so-much-bigger-than-my-husband-vol-2-porn-videos.html'
+    }, {
+      name: 'Big Beautiful Butts',
+      link: 'https://angelawhite.empirestores.co/1907394/big-beautiful-butts-porn-movies.html'
+    }, {
+      name: 'BWC: Big White Cock 5',
+      link: 'https://angelawhite.empirestores.co/1930522/bwc-big-white-cock-5-porn-movies.html'
+    }, {
+      name: 'My Sexy Slutwife 2',
+      link: 'https://angelawhite.empirestores.co/2607609/my-sexy-slutwife-2-porn-movies.html'
+    }, {
+      name: 'The Sexual Desires Of Angela White',
+      link: 'https://angelawhite.empirestores.co/2625155/sexual-desires-of-angela-white-the-porn-movies.html'
+    }],
     'tags': [],
     'release': moment('2017-02-17')
   },
@@ -5432,9 +6018,16 @@ export let data: Scene[] = [
     'altTitles': ['Watching My Hotwife 4 -  Scene 1', 'Another Man\'s Wife 5 - Scene 2', 'Sexual Desires Of Angela White - Scene 3'],
     'playtime': '0:41:28',
     'partners': ['Damon Dice'],
-    'links': ['https://angelawhite.empirestores.co/2583133/watching-my-hotwife-4-porn-videos.html',
-      'https://angelawhite.empirestores.co/2610919/another-mans-wife-5-porn-movies.html',
-      'https://angelawhite.empirestores.co/2625155/sexual-desires-of-angela-white-the-porn-movies.html'],
+    'dvds': [{
+      name: 'Watching My Hotwife 4',
+      link: 'https://angelawhite.empirestores.co/2583133/watching-my-hotwife-4-porn-videos.html'
+    }, {
+      name: 'Another Man\'s Wife 5',
+      link: 'https://angelawhite.empirestores.co/2610919/another-mans-wife-5-porn-movies.html'
+    }, {
+      name: 'The Sexual Desires Of Angela White',
+      link: 'https://angelawhite.empirestores.co/2625155/sexual-desires-of-angela-white-the-porn-movies.html'
+    }],
     'tags': ['Boy/Girl', 'Voyeur', 'Elbow Birthmark', 'Blowjob', 'Deepthroat', 'Jerk Off Instructions', 'Dirty Talk',
       'Titty Fuck', 'On Chair', 'Clothed', 'Fingering', 'Choking', 'Reverse Cowgirl', 'Side Fuck', 'Squirt', 'On Bed',
       'Doggy', 'Anilingus', 'Missionary', 'Finger in Butt', 'Spooning', 'Feet', 'Birthmark Left Inner Thigh'],
@@ -5444,12 +6037,21 @@ export let data: Scene[] = [
     'producer': 'newsensations.com',
     'series': '',
     'title': 'Angela Becomes Legendary',
-    'altTitles': ['XXX Big Tit Rubdown - Scene 1', 'Sexual Desires Of Angela White - Scene 4'],
+    'altTitles': ['XXX Big Tit Rubdown - Scene 1',
+      'Sexual Desires Of Angela White - Scene 4',
+      'The Most Beautiful Girls In Porn 2 - Scene X'],
     'playtime': '0:36:25',
     'partners': ['Logan Pierce'],
-    'links': ['https://angelawhite.empirestores.co/2582850/xxx-big-tit-rubdown-porn-movies.html',
-      'https://angelawhite.empirestores.co/2625155/sexual-desires-of-angela-white-the-porn-movies.html',
-      'https://angelawhite.empirestores.co/2650605/most-beautiful-girls-in-porn-2-the-porn-movies.html'],
+    'dvds': [{
+      name: 'XXX Big Tit Rubdown',
+      link: 'https://angelawhite.empirestores.co/2582850/xxx-big-tit-rubdown-porn-movies.html'
+    }, {
+      name: 'The Sexual Desires Of Angela White',
+      link: 'https://angelawhite.empirestores.co/2625155/sexual-desires-of-angela-white-the-porn-movies.html'
+    }, {
+      name: 'The Most Beautiful Girls In Porn 2',
+      link: 'https://angelawhite.empirestores.co/2650605/most-beautiful-girls-in-porn-2-the-porn-movies.html'
+    }],
     'tags': ['Boy/Girl', 'Oil', 'Feet', 'Blowjob', 'Deepthroat', 'Titty Fuck', 'Choking', 'Anilingus', 'Vaginal', 'Cowgirl',
       'Footjob', 'Elbow Birthmark', 'Doggy', 'Missionary', 'Birthmark Left Inner Thigh', 'Reverse Cowgirl'],
     'release': moment('2018-11-10')
@@ -5461,7 +6063,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:22:58',
     'partners': ['Ryan Diller'],
-    'links': ['https://angelawhite.empirestores.co/2643746/busty-vol-8-stacked-porn-movies.html'],
+    'dvds': [{
+      name: 'Busty Vol. 8: Stacked ',
+      link: 'https://angelawhite.empirestores.co/2643746/busty-vol-8-stacked-porn-movies.html'
+    }],
     'tags': ['Elbow Birthmark', 'Neck Tattoo'],
     'release': moment('2018-02-02')
   },
@@ -5472,7 +6077,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:22:37',
     'partners': ['T Stone'],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2017-11-17')
   },
@@ -5483,7 +6088,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:22:11',
     'partners': ['Jenna Sativa'],
-    'links': ['https://angelawhite.empirestores.co/1960967/jenna-sativas-booty-cuties-porn-videos.html'],
+    'dvds': [{
+      name: 'Jenna Sativa\'s Booty Cuties',
+      link: 'https://angelawhite.empirestores.co/1960967/jenna-sativas-booty-cuties-porn-videos.html'
+    }],
     'tags': ['Solo', 'Dildo', 'Girl/Girl', 'Bath', 'Anal', 'Water'],
     'release': moment('2018-02-14')
   },
@@ -5494,7 +6102,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:11:05',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2018-01-27')
   },
@@ -5505,7 +6113,10 @@ export let data: Scene[] = [
     'altTitles': ['Big Boob Anal Babes - Scene 1'],
     'playtime': '0:47:45',
     'partners': ['Ramon Nomar'],
-    'links': ['https://angelawhite.empirestores.co/1944642/big-boob-anal-babes-porn-videos.html'],
+    'dvds': [{
+      name: 'Big Boob Anal Babes',
+      link: 'https://angelawhite.empirestores.co/1944642/big-boob-anal-babes-porn-videos.html'
+    }],
     'tags': [],
     'release': moment('2017-08-17')
   },
@@ -5516,7 +6127,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '2:08:37',
     'partners': ['Yusuke Kawasaki'],
-    'links': ['http://www.r18.com/videos/vod/movies/detail/-/id=h_113sy00166/?i3_ref=search&i3_ord=1'],
+    'dvds': [{
+      name: 'SY-166 -  An Amateur In A One Room Apartment 166 - A Married Woman, Angela White , Age 29 The Kanda River Colossal Tits',
+      link: 'http://www.r18.com/videos/vod/movies/detail/-/id=h_113sy00166/?i3_ref=search&i3_ord=1'
+    }],
     'tags': ['JAV'],
     'release': moment('2015-08-01')
   },
@@ -5527,18 +6141,23 @@ export let data: Scene[] = [
     'altTitles': ['Pornfidelity 431'],
     'playtime': '0:30:01',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['BTS']
   },
   {
     'producer': 'pornfidelity.com',
     'series': '',
     'title': 'Madison\'s Go Down Under',
-    'altTitles': ['Pornfidelity 431', 'Natty Knockers 2 - Scene 1', 'Cumgasm 2 - Scene 2', 'Nothing Cumpares - Scene 5'],
+    'altTitles': ['Pornfidelity 431', 'Natty Knockers 2 - Scene 1', 'Cumgasm 2 - Scene 2'],
     'playtime': '0:54:00',
     'partners': ['Kelly Madison', 'Ryan Madison'],
-    'links': ['https://angelawhite.empirestores.co/1639449/natty-knockers-2-porn-videos.html',
-      'https://angelawhite.empirestores.co/1640996/cumgasm-2-porn-videos.html'],
+    'dvds': [{
+      name: 'Natty Knockers 2',
+      link: 'https://angelawhite.empirestores.co/1639449/natty-knockers-2-porn-videos.html'
+    }, {
+      name: 'Cumgasm 2',
+      link: 'https://angelawhite.empirestores.co/1640996/cumgasm-2-porn-videos.html'
+    }],
     'tags': [],
     'release': moment('2012-03-30')
   },
@@ -5549,7 +6168,10 @@ export let data: Scene[] = [
     'altTitles': ['Pornfidelity 688'],
     'playtime': '0:37:17',
     'partners': ['Ryan Rider'],
-    'links': ['https://angelawhite.empirestores.co/1921735/altar-of-aphrodite-the-porn-videos.html'],
+    'dvds': [{
+      name: 'Altar of Aphrodite',
+      link: 'https://angelawhite.empirestores.co/1921735/altar-of-aphrodite-the-porn-videos.html'
+    }],
     'tags': [],
     'release': moment('2017-05-02')
   },
@@ -5560,7 +6182,10 @@ export let data: Scene[] = [
     'altTitles': ['Pornfidelity 689'],
     'playtime': '0:40:39',
     'partners': ['Chad White', 'Flash Brown'],
-    'links': ['https://angelawhite.empirestores.co/1921735/altar-of-aphrodite-the-porn-videos.html'],
+    'dvds': [{
+      name: 'Altar of Aphrodite',
+      link: 'https://angelawhite.empirestores.co/1921735/altar-of-aphrodite-the-porn-videos.html'
+    }],
     'tags': [],
     'release': moment('2017-05-09')
   },
@@ -5571,8 +6196,13 @@ export let data: Scene[] = [
     'altTitles': ['Caught Being Naughty - Scene 1', 'A Tramps Guide to Sucking Cock - Scene 4'],
     'playtime': '0:38:28',
     'partners': ['Tyler Nixon'],
-    'links': ['https://angelawhite.empirestores.co/1945782/caught-being-naughty-porn-videos.html',
-      'https://angelawhite.empirestores.co/1949866/tramps-guide-to-sucking-cock-a-porn-videos.html'],
+    'dvds': [{
+      name: 'Caught Being Naughty',
+      link: 'https://angelawhite.empirestores.co/1945782/caught-being-naughty-porn-videos.html'
+    }, {
+      name: 'A Tramps Guide to Sucking Cock',
+      link: 'https://angelawhite.empirestores.co/1949866/tramps-guide-to-sucking-cock-a-porn-videos.html'
+    }],
     'tags': [],
     'release': moment('2017-03-10')
   },
@@ -5583,7 +6213,7 @@ export let data: Scene[] = [
     'altTitles': ['Councilwoman With A Dirty Secret Gets Exploited By Corrupt Businessman'],
     'playtime': '0:45:19',
     'partners': ['Zac Wild'],
-    'links': [],
+    'dvds': [],
     'tags': ['Boy/Girl', 'Acting', 'On Desk', 'Blackmail', 'Blowjob', 'Deepthroat', 'Cowgirl', 'On Chair', 'Sweat',
       'Vaginal', 'Choking', 'Cum on Tits'],
     'release': moment('2018-11-29')
@@ -5595,7 +6225,10 @@ export let data: Scene[] = [
     'altTitles': ['Future Darkly Vol. 2 - Scene 2'],
     'playtime': '1:00:09',
     'partners': ['Donnie Rock', 'Jane Wilde'],
-    'links': ['https://angelawhite.empirestores.co/2593586/future-darkly-vol-2-dont-panic-smart-house-of-horrors-porn-movies.html'],
+    'dvds': [{
+      name: 'Future Darkly - Smart House Of Horros',
+      link: 'https://angelawhite.empirestores.co/2593586/future-darkly-vol-2-dont-panic-smart-house-of-horrors-porn-movies.html'
+    }],
     'tags': ['Boy/Girl/Girl', 'Acting', 'Voyeur', 'Hurt Knee', 'Instructions', 'Blowjob', 'Deepthroat', 'Cunnilingus',
       'Fingering', 'On Couch', 'Missionary', 'Feet', 'Cowgirl', 'Anilingus', 'Elbow Birthmark', 'Pussy Stack', 'Switching'],
     'release': moment('2018-09-25')
@@ -5607,7 +6240,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:36:49',
     'partners': ['Jay Taylor', 'Seth Gamble', 'Codey Steele'],
-    'links': [],
+    'dvds': [],
     'tags': ['Boy/Girl', 'Cunnilingus', 'Anilingus', 'Doggy', 'Vaginal', 'Boy/Girl/Girl', 'Fingering', 'Boy/Boy/Girl/Girl',
       'Blowjob', 'Cowgirl', 'Reverse Cowgirl', 'Neck Tattoo', 'DP', 'Double Penetration', 'Choking', 'Elbow Birthmark'],
     'release': moment('2019-02-28')
@@ -5619,7 +6252,10 @@ export let data: Scene[] = [
     'altTitles': ['The Electra Complex - Scene 1'],
     'playtime': '1:06:28',
     'partners': ['Charles Dera', 'Karlee Grey'],
-    'links': ['https://angelawhite.empirestores.co/2510582/electra-complex-the-porn-movies.html'],
+    'dvds': [{
+      name: 'The Electra Complex',
+      link: 'https://angelawhite.empirestores.co/2510582/electra-complex-the-porn-movies.html'
+    }],
     'tags': ['Elbow Birthmark', 'Acting', 'Boy/Girl', 'Boy/Girl/Girl', 'Girl/Girl', 'Fauxcest', 'Blowjob', 'On Chair',
       'Handjob', 'Standing', 'Deepthroat', 'Cowgirl', 'Neck Tattoo', 'Cunnilingus', 'Tribbing', 'Fingering', 'Squirt',
       'Face Sitting', 'On Desk', 'Missionary', 'Side Fuck'],
@@ -5632,7 +6268,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:54:40',
     'partners': ['Tommy Pistol', 'Karla Lane'],
-    'links': ['https://angelawhite.empirestores.co/2639980/weight-of-infidelity-the-porn-movies.html'],
+    'dvds': [{
+      name: 'The Weight Of Infidelity',
+      link: 'https://angelawhite.empirestores.co/2639980/weight-of-infidelity-the-porn-movies.html'
+    }],
     'tags': ['Acting', 'Boy/Girl', 'Girl/Girl', 'Ice Cream', 'Kitchen', 'Feeding', 'Vaginal', 'Blowjob', 'Deepthroat',
       'AVN Best Actor - Featurette 2019 (Tommy Pistol)', 'AVN Best Featurette 2019'],
     'release': moment('2018-04-20')
@@ -5644,7 +6283,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:25:59',
     'partners': ['Markus Dupree'],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2018-09-25')
   },
@@ -5655,7 +6294,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:35:56',
     'partners': ['Charles Dera'],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2018-09-18')
   },
@@ -5666,7 +6305,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:32:38',
     'partners': ['Charles Dera'],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2017-12-13')
   },
@@ -5677,7 +6316,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:32:36',
     'partners': ['Markus Dupree'],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2018-06-20')
   },
@@ -5688,7 +6327,10 @@ export let data: Scene[] = [
     'altTitles': ['Ass That Won\'t Quit - Scene 4'],
     'playtime': '0:33:58',
     'partners': ['Markus Dupree'],
-    'links': ['https://angelawhite.empirestores.co/1972330/ass-that-wont-quit-porn-movies.html'],
+    'dvds': [{
+      name: 'Ass That Won\'t Quit',
+      link: 'https://angelawhite.empirestores.co/1972330/ass-that-wont-quit-porn-movies.html'
+    }],
     'tags': ['Elbow Birthmark', 'Neck Tattoo', 'Cunnilingus', 'Doggy', 'On Couch', 'Vaginal', 'Gaping', 'Finger in Butt',
       'Pussy to Ass', 'Anal', 'Anilingus', 'Blowjob', 'Titty Fuck', 'Missionary', 'Squirt', 'Standing', 'Off the Ground',
       'Cowgirl', 'Birthmark Left Inner Thigh', 'Dirty Talk', 'Reverse Cowgirl'],
@@ -5701,7 +6343,10 @@ export let data: Scene[] = [
     'altTitles': ['Ass That Won\'t Quit Vol. 3 - Scene 1'],
     'playtime': '0:41:52',
     'partners': ['Brigette B', 'Keiran Lee'],
-    'links': ['https://angelawhite.empirestores.co/2559387/ass-that-wont-quit-vol-3-porn-movies.html'],
+    'dvds': [{
+      name: 'Ass That Won\'t Quit Vol. 3',
+      link: 'https://angelawhite.empirestores.co/2559387/ass-that-wont-quit-vol-3-porn-movies.html'
+    }],
     'tags': [],
     'release': moment('2018-04-03')
   },
@@ -5712,7 +6357,10 @@ export let data: Scene[] = [
     'altTitles': ['RK Prime 11 - Scene 3'],
     'playtime': '0:33:50',
     'partners': ['Ramon Nomar'],
-    'links': ['https://angelawhite.empirestores.co/2535092/rk-prime-11-porn-movies.html'],
+    'dvds': [{
+      name: 'RK Prime 11',
+      link: 'https://angelawhite.empirestores.co/2535092/rk-prime-11-porn-movies.html'
+    }],
     'tags': [],
     'release': moment('2017-06-22')
   }, {
@@ -5722,7 +6370,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:40:27',
     'partners': ['Nia Nacci', 'Damon Dice'],
-    'links': [],
+    'dvds': [],
     'tags': ['Boy/Girl/Girl', 'Hurt Knee', 'On Couch', 'Elbow Birthmark', 'Girl/Girl', 'Domination', 'Submission',
       'Birthmark Left Inner Thigh', 'Cunnilingus', 'Anilingus', 'Cowgirl', 'Face Sitting', 'Cowgirl', 'Missionary', 'Feet', 'Neck Tattoo'],
     'release': moment('2019-01-02')
@@ -5734,7 +6382,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:39:28',
     'partners': ['Karlee Grey', 'Derrick Pierce'],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2018-01-11')
   },
@@ -5745,7 +6393,10 @@ export let data: Scene[] = [
     'altTitles': ['RK Prime 12 - Scene 5'],
     'playtime': '0:31:45',
     'partners': ['Ramon Nomar'],
-    'links': ['https://angelawhite.empirestores.co/2608018/rk-prime-12-porn-movies.html'],
+    'dvds': [{
+      name: 'RK Prime 12',
+      link: 'https://angelawhite.empirestores.co/2608018/rk-prime-12-porn-movies.html'
+    }],
     'tags': ['Boy/Girl'],
     'release': moment('2017-07-17')
   },
@@ -5756,7 +6407,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:36:27',
     'partners': ['Adriana Chechik', 'Xander Corvus'],
-    'links': [],
+    'dvds': [],
     'tags': ['Vibrator', 'Squirt', 'Face Sitting', 'POV', 'Blowjob', 'Deepthroat', 'Titty Fuck', 'Anilingus', 'Vaginal',
       'Standing', 'Choking', 'Anal', 'Birthmark Left Inner Thigh', 'Doggy', 'Pussy to Mouth', 'Pussy to Ass', 'Cunnilingus',
       'Ass to Mouth', 'Cowgirl', 'Dirty Talk', 'Reverse Cowgirl', 'Spanking', 'Finger in Butt', 'Pile Driver', 'Ass to Pussy',
@@ -5770,7 +6421,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:25:34',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': []
   },
   {
@@ -5780,7 +6431,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:31:11',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['Solo']
   },
   {
@@ -5790,7 +6441,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:34:58',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['BTS']
   },
   {
@@ -5800,7 +6451,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:11:27',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['Solo', 'Bath', 'Water']
   },
   {
@@ -5810,7 +6461,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:25:29',
     'partners': ['Brandy Talore'],
-    'links': [],
+    'dvds': [],
     'tags': ['Girl/Girl', 'On Bed', 'Strap-on']
   },
   {
@@ -5820,7 +6471,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:17:34',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['BTS']
   },
   {
@@ -5830,7 +6481,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:20:43',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['Solo', 'On Bed', 'Dildo']
   },
   {
@@ -5840,7 +6491,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:20:43',
     'partners': ['Gianna Michaels', 'Christy Marks', 'Terry Nova', 'Lorna Morgan'],
-    'links': [],
+    'dvds': [],
     'tags': ['Girls only']
   },
   {
@@ -5850,7 +6501,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:18:37',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2011-03-25')
   },
@@ -5861,7 +6512,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:13:42',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2008-02-02')
   },
@@ -5872,7 +6523,10 @@ export let data: Scene[] = [
     'altTitles': ['Angela White Finally Fucks - Scene 1'],
     'playtime': '0:15:40',
     'partners': [],
-    'links': ['https://angelawhite.empirestores.co/1620678/angela-white-finally-fucks-porn-movies.html'],
+    'dvds': [{
+      name: 'Angela White Finally Fucks',
+      link: 'https://angelawhite.empirestores.co/1620678/angela-white-finally-fucks-porn-movies.html'
+    }],
     'tags': ['Boy/Girl', 'Blowjob'],
     'release': moment('2011-04-01')
   },
@@ -5883,7 +6537,10 @@ export let data: Scene[] = [
     'altTitles': ['Angela White Finally Fucks - Scene 2'],
     'playtime': '0:26:18',
     'partners': [],
-    'links': ['https://angelawhite.empirestores.co/1620678/angela-white-finally-fucks-porn-movies.html'],
+    'dvds': [{
+      name: 'Angela White Finally Fucks',
+      link: 'https://angelawhite.empirestores.co/1620678/angela-white-finally-fucks-porn-movies.html'
+    }],
     'tags': [],
     'release': moment('2011-04-08')
   },
@@ -5894,7 +6551,10 @@ export let data: Scene[] = [
     'altTitles': ['Angela White Finally Fucks - Scene 3'],
     'playtime': '0:22:04',
     'partners': [],
-    'links': ['https://angelawhite.empirestores.co/1620678/angela-white-finally-fucks-porn-movies.html'],
+    'dvds': [{
+      name: 'Angela White Finally Fucks',
+      link: 'https://angelawhite.empirestores.co/1620678/angela-white-finally-fucks-porn-movies.html'
+    }],
     'tags': []
   },
   {
@@ -5904,7 +6564,10 @@ export let data: Scene[] = [
     'altTitles': ['Angela White Finally Fucks - Scene 4'],
     'playtime': '0:28:48',
     'partners': [],
-    'links': ['https://angelawhite.empirestores.co/1620678/angela-white-finally-fucks-porn-movies.html'],
+    'dvds': [{
+      name: 'Angela White Finally Fucks',
+      link: 'https://angelawhite.empirestores.co/1620678/angela-white-finally-fucks-porn-movies.html'
+    }],
     'tags': [],
     'release': moment('2011-04-15')
   },
@@ -5915,7 +6578,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:17:03',
     'partners': [],
-    'links': ['https://angelawhite.empirestores.co/1653187/big-boob-paradise-porn-movies.html'],
+    'dvds': [{
+      name: 'Big Boob Paradise',
+      link: 'https://angelawhite.empirestores.co/1653187/big-boob-paradise-porn-movies.html'
+    }],
     'tags': []
   },
   {
@@ -5925,7 +6591,7 @@ export let data: Scene[] = [
     'altTitles': ['Busty dancers Angela White and Gianna Rossi'],
     'playtime': '0:18:15',
     'partners': ['Gianna Michaels'],
-    'links': [],
+    'dvds': [],
     'tags': ['Girl/Girl']
   },
   {
@@ -5935,7 +6601,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:12:57',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2008-12-04')
   },
@@ -5943,10 +6609,13 @@ export let data: Scene[] = [
     'producer': 'scoreland.com',
     'series': '',
     'title': 'Angela & Maggie\'s Stacked Summer',
-    'altTitles': [],
+    'altTitles': ['Leanne\'s Stacked Summer - Scene X'],
     'playtime': '0:17:54',
     'partners': [],
-    'links': ['https://angelawhite.empirestores.co/1750825/leannes-stacked-summer-porn-movies.html'],
+    'dvds': [{
+      name: 'Leanne\'s Stacked Summer',
+      link: 'https://angelawhite.empirestores.co/1750825/leannes-stacked-summer-porn-movies.html'
+    }],
     'tags': []
   },
   {
@@ -5956,7 +6625,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:09:16',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['BTS']
   },
   {
@@ -5966,7 +6635,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '1:02:45',
     'partners': ['Kissa Sins', 'Johnny Sins'],
-    'links': ['https://angelawhite.empirestores.co/1945300/sins-life-sex-tour-round-4-porn-videos.html'],
+    'dvds': [{
+      name: 'Sins Sex Tour Round 4',
+      link: 'https://angelawhite.empirestores.co/1945300/sins-life-sex-tour-round-4-porn-videos.html'
+    }],
     'tags': [],
     'release': moment('2017-10-13')
   },
@@ -5977,7 +6649,10 @@ export let data: Scene[] = [
     'altTitles': ['Swallowed.com Vol. 8 - Scene 3'],
     'playtime': '0:52:20',
     'partners': ['Karlee Grey', 'Mike Adriano'],
-    'links': ['https://angelawhite.empirestores.co/1927580/swallowedcom-vol-8-porn-videos.html'],
+    'dvds': [{
+      name: 'Swallowed.com Vol. 8',
+      link: 'https://angelawhite.empirestores.co/1927580/swallowedcom-vol-8-porn-videos.html'
+    }],
     'tags': [],
     'release': moment('2017-04-21')
   },
@@ -5988,7 +6663,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '1:05:55',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2018-07-13')
   },
@@ -5999,7 +6674,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:24:07',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2017-05-05')
   },
@@ -6010,7 +6685,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:43:45',
     'partners': ['Mr. Pete'],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2017-01-20')
   },
@@ -6021,7 +6696,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '1:07:57',
     'partners': ['Brad Newman'],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2018-10-19')
   },
@@ -6032,7 +6707,10 @@ export let data: Scene[] = [
     'altTitles': ['Games We Play - Scene 2'],
     'playtime': '0:32:41',
     'partners': ['Markus Dupree'],
-    'links': ['https://angelawhite.empirestores.co/1964831/games-we-play-porn-movies.html'],
+    'dvds': [{
+      name: 'Games We Play',
+      link: 'https://angelawhite.empirestores.co/1964831/games-we-play-porn-movies.html'
+    }],
     'tags': ['Boy/Girl', 'On Bed', 'Acting', 'Neck Tattoo', 'Cunnilingus', 'Anilingus', 'Blowjob', 'Titty Fuck',
       'Choking', 'Birthmark Left Inner Thigh', 'Vaginal', 'Cowgirl', 'Missionary', 'Anal', 'Feet', 'On Chair',
       'Elbow Birthmark', 'Squirt', 'AVN Best Actress - Featurette 2019 (Angela White)'],
@@ -6045,7 +6723,10 @@ export let data: Scene[] = [
     'altTitles': ['Sacrosanct -  Scene 3'],
     'playtime': '0:25:27',
     'partners': ['Manuel Ferrara'],
-    'links': ['https://angelawhite.empirestores.co/1935684/sacrosanct-porn-videos.html'],
+    'dvds': [{
+      name: 'Sacrosanct',
+      link: 'https://angelawhite.empirestores.co/1935684/sacrosanct-porn-videos.html'
+    }],
     'tags': [],
     'release': moment('2017-07-29')
   },
@@ -6056,7 +6737,10 @@ export let data: Scene[] = [
     'altTitles': ['True Anal Addiction - Scene 3'],
     'playtime': '0:59:28',
     'partners': ['Mike Adriano'],
-    'links': ['https://angelawhite.empirestores.co/1954589/true-anal-addiction-porn-movies.html'],
+    'dvds': [{
+      name: 'True Anal Addiction',
+      link: 'https://angelawhite.empirestores.co/1954589/true-anal-addiction-porn-movies.html'
+    }],
     'tags': [],
     'release': moment('2018-01-08')
   },
@@ -6067,7 +6751,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '1:06:27',
     'partners': ['Mike Adriano'],
-    'links': [],
+    'dvds': [],
     'tags': ['Birthmark Left Inner Thigh', 'Anal', 'Boy/Girl', 'Dirty Talk', 'Lube', 'Squirt', 'Hitachi', 'Fishnet',
       'Blowjob', 'Deepthroat', 'Vaginal', 'Ass to Pussy', 'Switching Holes', 'Ass to Mouth'],
     'release': moment('2018-12-14')
@@ -6079,7 +6763,10 @@ export let data: Scene[] = [
     'altTitles': ['True Anal All Stars - Scene 4'],
     'playtime': '1:21:00',
     'partners': ['Mike Adriano'],
-    'links': ['https://angelawhite.empirestores.co/2523318/true-anal-all-stars-porn-movies.html'],
+    'dvds': [{
+      name: 'True Anal All Stars',
+      link: 'https://angelawhite.empirestores.co/2523318/true-anal-all-stars-porn-movies.html'
+    }],
     'tags': [],
     'release': moment('2018-06-07')
   },
@@ -6090,7 +6777,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:42:13',
     'partners': ['Markus Dupree'],
-    'links': ['https://angelawhite.empirestores.co/2653418/tushy-raw-v1-porn-movies.html'],
+    'dvds': [{
+      name: 'Tushy Raw V1',
+      link: 'https://angelawhite.empirestores.co/2653418/tushy-raw-v1-porn-movies.html'
+    }],
     'tags': ['Clothed', 'Blowjob', 'Dirty Talk', 'Deepthroat', 'POV', 'Titty Fuck', 'Jeweled Butt Plug', 'On Chair', 'Cunnilingus',
       'Vaginal', 'Missionary', 'Anal', 'Gaping', 'Choking', 'Fingering', 'Squirt', 'Ass to Mouth', 'Finger in Butt', 'Doggy',
       'Neck Tattoo', 'On Couch', 'Elbow Birthmark', 'Reverse Cowgirl', 'Birthmark Left Inner Thigh', 'Cowgirl', 'Ass to Pussy',
@@ -6104,7 +6794,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:34:18',
     'partners': ['Ana Foxx'],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2017-01-24')
   },
@@ -6115,7 +6805,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:26:53',
     'partners': ['Darcie Dolce'],
-    'links': [],
+    'dvds': [],
     'tags': ['Girl/Girl', 'Bath', 'On Couch', 'Grinding', 'Neck Tattoo', 'Cunnilingus', 'Birthmark Left Inner Thigh',
       'Face Sitting', 'Fingering', 'Elbow Birthmark', 'Tribbing', 'Choking', '69'],
     'release': moment('2019-03-23')
@@ -6127,7 +6817,10 @@ export let data: Scene[] = [
     'altTitles': ['The Ravishing Angela White - Scene 2'],
     'playtime': '0:28:04',
     'partners': ['Casey Calvert'],
-    'links': ['https://angelawhite.empirestores.co/2506963/ravishing-angela-white-the-porn-movies.html'],
+    'dvds': [{
+      name: 'The Ravishing Angela White',
+      link: 'https://angelawhite.empirestores.co/2506963/ravishing-angela-white-the-porn-movies.html'
+    }],
     'tags': [],
     'release': moment('2018-01-23')
   },
@@ -6138,7 +6831,10 @@ export let data: Scene[] = [
     'altTitles': ['The Ravishing Angela White - Scene 3'],
     'playtime': '0:36:07',
     'partners': ['Kate England'],
-    'links': ['https://angelawhite.empirestores.co/2506963/ravishing-angela-white-the-porn-movies.html'],
+    'dvds': [{
+      name: 'The Ravishing Angela White',
+      link: 'https://angelawhite.empirestores.co/2506963/ravishing-angela-white-the-porn-movies.html'
+    }],
     'tags': [],
     'release': moment('2017-12-05')
   },
@@ -6149,7 +6845,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:14:56',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2018-01-10')
   },
@@ -6160,7 +6856,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:13:53',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2018-01-03')
   },
@@ -6171,7 +6867,10 @@ export let data: Scene[] = [
     'altTitles': ['The Ravishing Angela White - Scene 4'],
     'playtime': '0:28:23',
     'partners': [],
-    'links': ['https://angelawhite.empirestores.co/2506963/ravishing-angela-white-the-porn-movies.html'],
+    'dvds': [{
+      name: 'The Ravishing Angela White',
+      link: 'https://angelawhite.empirestores.co/2506963/ravishing-angela-white-the-porn-movies.html'
+    }],
     'tags': [],
     'release': moment('2018-01-14')
   },
@@ -6182,7 +6881,10 @@ export let data: Scene[] = [
     'altTitles': ['The Ravishing Angela White - Scene 5'],
     'playtime': '0:11:36',
     'partners': [],
-    'links': ['https://angelawhite.empirestores.co/2506963/ravishing-angela-white-the-porn-movies.html'],
+    'dvds': [{
+      name: 'The Ravishing Angela White',
+      link: 'https://angelawhite.empirestores.co/2506963/ravishing-angela-white-the-porn-movies.html'
+    }],
     'tags': [],
     'release': moment('2018-01-17')
   },
@@ -6193,7 +6895,10 @@ export let data: Scene[] = [
     'altTitles': ['The Ravishing Angela White - Scene 1'],
     'playtime': '0:08:53',
     'partners': [],
-    'links': ['https://angelawhite.empirestores.co/2506963/ravishing-angela-white-the-porn-movies.html'],
+    'dvds': [{
+      name: 'The Ravishing Angela White',
+      link: 'https://angelawhite.empirestores.co/2506963/ravishing-angela-white-the-porn-movies.html'
+    }],
     'tags': [],
     'release': moment('2018-01-24')
   },
@@ -6205,7 +6910,10 @@ export let data: Scene[] = [
     'playtime': '1:00:20',
     'partners': ['Tori Black', 'Mia Malkova', 'Vicki Chase', 'Kira Noir', 'Ana Foxxx', 'Abella Danger', 'Jessa Rhodes',
       'Ricky Johnson', 'Mick Blue', 'Bambino', 'Ryan Driller', 'Alex Jones'],
-    'links': ['https://angelawhite.empirestores.co/2549033/after-dark-porn-movies.html'],
+    'dvds': [{
+      name: 'After Dark',
+      link: 'https://angelawhite.empirestores.co/2549033/after-dark-porn-movies.html'
+    }],
     'tags': ['Bruise left outer Hip', 'Orgy', 'AVN Best Drama 2019', 'AVN Best Group Sex Scene 2019'],
     'release': moment('2018-09-27')
   },
@@ -6216,7 +6924,10 @@ export let data: Scene[] = [
     'altTitles': ['Racks 2 - Scene 4'],
     'playtime': '0:42:23',
     'partners': ['Charles Dera'],
-    'links': ['https://angelawhite.empirestores.co/1920228/racks-vol-2-porn-movies.html'],
+    'dvds': [{
+      name: 'Racks 2',
+      link: 'https://angelawhite.empirestores.co/1920228/racks-vol-2-porn-movies.html'
+    }],
     'tags': [],
     'release': moment('2016-10-31')
   },
@@ -6224,10 +6935,13 @@ export let data: Scene[] = [
     'producer': 'vixen.com',
     'series': 'Vixen Angel',
     'title': 'I Waited For You',
-    'altTitles': [],
+    'altTitles': ['Natural Beauties Vol. 9 - Scene 2'],
     'playtime': '0:47:22',
     'partners': ['Manuel Ferrara'],
-    'links': ['https://angelawhite.empirestores.co/2535247/natural-beauties-vol-9-porn-movies.html'],
+    'dvds': [{
+      name: 'Natural Beauties Vol. 9',
+      link: 'https://angelawhite.empirestores.co/2535247/natural-beauties-vol-9-porn-movies.html'
+    }],
     'tags': ['Boy/Girl', 'On Bed', 'Blowjob', 'Bath', 'Kitchen', 'Solo', 'Against Wall', 'Panty Mail', 'Cunnilingus',
       'Standing', 'Elbow Birthmark', 'Feet', 'Vaginal', 'Missionary', 'Cowgirl', 'Neck Tattoo', 'Anilingus',
       'Cuddling', 'Spooning', 'Fingering', 'Doggy', 'Finger in Butt', '69'],
@@ -6240,7 +6954,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:40:33',
     'partners': ['Chris Diamond'],
-    'links': [],
+    'dvds': [],
     'tags': [],
     'release': moment('2017-08-22')
   },
@@ -6251,7 +6965,7 @@ export let data: Scene[] = [
     'altTitles': ['Angela White'],
     'playtime': '0:48:16',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['POV', 'Acting', 'Boy/Girl', 'On Couch', 'Roleplay', 'Birthmark Left Inner Thigh', 'Blowjob', 'Titty Fuck',
       'Deepthroat', 'Vaginal', 'Reverse Cowgirl', 'Cowgirl', 'Choking', 'Doggy', 'Spanking', 'Cum on Tits'],
     'release': moment('2018-01-04')
@@ -6263,7 +6977,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:39:36',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['Boy/Girl', 'Acting', 'Vaginal', 'On Couch', 'Winking', 'Comedy', 'POV', 'Blowjob', 'Spanking', 'Deepthroat',
       'Titty Fuck', 'Birthmark Left Inner Thigh', 'Elbow Birthmark', 'Missionary', 'Doggy', 'Cowgirl', 'Reverse Cowgirl',
       'Anilingus', 'Clothed'],
@@ -6276,7 +6990,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '00:33:32',
     'partners': ['Markus Dupree'],
-    'links': [],
+    'dvds': [],
     'tags': ['Boy/Girl', 'Anal', 'On Couch', 'Birthmark Left Inner Thigh', 'Anilingus', 'Blowjob', 'Deepthroat',
       'Titty Fuck', 'Elbow Birthmark', 'Heels', 'Finger in Butt', 'Doggy', 'Squirt', 'Gaping', 'On Chair', 'Choking',
       'Standing', 'Against Wall', 'Vaginal', 'Reverse Cowgirl', 'Face Sitting', 'Cowgirl', 'Ass to Pussy', 'Pussy to Ass'],
@@ -6289,7 +7003,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:50:27',
     'partners': [],
-    'links': ['https://angelawhite.empirestores.co/2597615/laid-off-porn-videos.html'],
+    'dvds': [{
+      name: 'I Am Angela',
+      link: 'https://angelawhite.empirestores.co/2597615/laid-off-porn-videos.html'
+    }],
     'tags': ['VR'],
     'release': moment('2018-07-25')
   },
@@ -6300,7 +7017,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:48:55',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['VR', 'Blowjob', 'Cowgirl', 'Deepthroat', 'Footjob'],
     'release': moment('2019-01-11')
   },
@@ -6311,7 +7028,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '',
     'partners': ['Michael Vegas'],
-    'links': [],
+    'dvds': [],
     'tags': ['VR'],
     'release': moment('2018-06-16')
   },
@@ -6322,7 +7039,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:59:49',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['VR'],
     'release': moment('2018-01-19')
   },
@@ -6333,7 +7050,10 @@ export let data: Scene[] = [
     'altTitles': ['Lexington Steele Houswives Demolition - Scene 1'],
     'playtime': '0:33:48',
     'partners': ['Lexington Steele'],
-    'links': ['https://angelawhite.empirestores.co/1918575/lexington-steele-houswives-demolition-porn-videos.html'],
+    'dvds': [{
+      name: 'Lexington Steele Houswives Demolition',
+      link: 'https://angelawhite.empirestores.co/1918575/lexington-steele-houswives-demolition-porn-videos.html'
+    }],
     'tags': [],
     'release': moment('2017-06-09')
   },
@@ -6344,8 +7064,13 @@ export let data: Scene[] = [
     'altTitles': ['Great Big Boobies - Scene 3'],
     'playtime': '0:27:00',
     'partners': ['Tommy Gunn'],
-    'links': ['https://angelawhite.empirestores.co/1915452/axel-brauns-busted-porn-videos.html',
-      'https://angelawhite.empirestores.co/1964138/great-big-boobies-wicked-4-hours-porn-videos.html'],
+    'dvds': [{
+      name: 'Axel Brown\'s Busted',
+      link: 'https://angelawhite.empirestores.co/1915452/axel-brauns-busted-porn-videos.html'
+    }, {
+      name: 'Great Big Boobies',
+      link: 'https://angelawhite.empirestores.co/1964138/great-big-boobies-wicked-4-hours-porn-videos.html'
+    }],
     'tags': ['On Chair'],
     'release': moment('2017-02-27')
   },
@@ -6356,7 +7081,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:34:21',
     'partners': [],
-    'links': ['https://angelawhite.empirestores.co/2510107/camgirl-porn-videos.html'],
+    'dvds': [{
+      name: 'Camgirl',
+      link: 'https://angelawhite.empirestores.co/2510107/camgirl-porn-videos.html'
+    }],
     'tags': [],
     'release': moment('2018-05-21')
   },
@@ -6364,11 +7092,16 @@ export let data: Scene[] = [
     'producer': 'wickedpictures.com',
     'series': '',
     'title': 'Carnal - Scene 3',
-    'altTitles': [],
+    'altTitles': ['The Perfect Orgy - Scene 1'],
     'playtime': '0:28:23',
     'partners': ['Jessica Drake', 'Mercedes Carrera'],
-    'links': ['https://angelawhite.empirestores.co/2549017/carnal-porn-videos.html',
-      'https://angelawhite.empirestores.co/2595873/perfect-Gangbang-the-wicked-4-hours-porn-movies.html'],
+    'dvds': [{
+      name: 'Carnal',
+      link: 'https://angelawhite.empirestores.co/2549017/carnal-porn-videos.html'
+    }, {
+      name: 'Perfect Orgy',
+      link: 'https://angelawhite.empirestores.co/2595873/perfect-Gangbang-the-wicked-4-hours-porn-movies.html'
+    }],
     'tags': [],
     'release': moment('2018-08-06')
   },
@@ -6379,7 +7112,10 @@ export let data: Scene[] = [
     'altTitles': ['Friends and Lovers - Scene 1'],
     'playtime': '0:26:05',
     'partners': [],
-    'links': ['https://angelawhite.empirestores.co/1915366/friends-and-lovers-porn-videos.html'],
+    'dvds': [{
+      name: 'Friends and Lovers',
+      link: 'https://angelawhite.empirestores.co/1915366/friends-and-lovers-porn-videos.html'
+    }],
     'tags': [],
     'release': moment('2017-03-27')
   },
@@ -6390,8 +7126,13 @@ export let data: Scene[] = [
     'altTitles': ['Pretty Pussy Party - Scene 13'],
     'playtime': '0:30:11',
     'partners': [],
-    'links': ['https://angelawhite.empirestores.co/1948461/jessica-drake-is-wicked-porn-videos.html',
-      'https://angelawhite.empirestores.co/1959132/pretty-pussy-party-wicked-4-hours-porn-videos.html'],
+    'dvds': [{
+      name: 'Jessica Drake is Wicked',
+      link: 'https://angelawhite.empirestores.co/1948461/jessica-drake-is-wicked-porn-videos.html'
+    }, {
+      name: 'Pretty Pussy Party',
+      link: 'https://angelawhite.empirestores.co/1959132/pretty-pussy-party-wicked-4-hours-porn-videos.html'
+    }],
     'tags': [],
     'release': moment('2017-09-11')
   },
@@ -6402,7 +7143,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:31:43',
     'partners': ['Ricky Johnson'],
-    'links': ['https://angelawhite.empirestores.co/1967698/second-first-date-porn-videos.html'],
+    'dvds': [{
+      name: 'Second First Date',
+      link: 'https://angelawhite.empirestores.co/1967698/second-first-date-porn-videos.html'
+    }],
     'tags': [],
     'release': moment('2018-02-26')
   },
@@ -6413,7 +7157,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:09:09',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['Solo', 'Outside', 'Ice Cream'],
     'release': moment('2008-12-13')
   },
@@ -6424,7 +7168,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:14:53',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['Solo'],
     'release': moment('2009-02-22')
   },
@@ -6435,7 +7179,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:14:04',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['Solo', 'Bath'],
     'release': moment('2010-12-11')
   },
@@ -6446,7 +7190,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:15:24',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['Solo', 'Rope Bondage'],
     'release': moment('2011-09-01')
   },
@@ -6457,7 +7201,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:14:53',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['Solo', 'Speaking French', 'Vibrator'],
     'release': moment('2012-03-15')
   },
@@ -6468,7 +7212,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:02:34',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['Solo', 'Outside'],
     'release': moment('2017-07-19')
   },
@@ -6479,7 +7223,7 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:02:09',
     'partners': [],
-    'links': [],
+    'dvds': [],
     'tags': ['Solo', 'Outside'],
     'release': moment('2016-01-03')
   }

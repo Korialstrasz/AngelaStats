@@ -1,7 +1,7 @@
 import {Component, Input, OnInit} from '@angular/core';
-import {data} from '../model/data';
+import {data} from '../shared/model/data';
 import {Duration, duration as durationFn} from 'moment';
-import {Statistics} from '../model/statistics.model';
+import {Statistics} from '../shared/model/statistics.model';
 import {FormBuilder} from '@angular/forms';
 import {Observable, of, merge} from 'rxjs';
 import {map} from 'rxjs/operators';
@@ -38,7 +38,7 @@ export class StatisticOverviewComponent implements OnInit {
 
   calcDurationAndSceneCount(form) {
     const statistic = new Statistics();
-    let filteredData = JSON.parse(JSON.stringify(data));
+    let filteredData = JSON.parse(JSON.stringify(data)); // deep copy
     if (form.excludeBts) {
       filteredData = filteredData.filter((scene) => !scene.tags.find(sceneTags => sceneTags === 'BTS'));
     }
@@ -55,6 +55,7 @@ export class StatisticOverviewComponent implements OnInit {
     }
 
     const sites = {};
+    const dvds = {};
     const sitesDuration = {};
     const partners = {};
     const partnersDuration = {};

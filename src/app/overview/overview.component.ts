@@ -1,21 +1,24 @@
 import {Component, Input, OnInit} from '@angular/core';
-import {data} from '../model/data';
+import {data} from '../shared/model/data';
 import {merge, Observable, of} from 'rxjs';
-import {Scene} from '../model/scene.model';
+import {Scene} from '../shared/model/scene.model';
 import {FormBuilder} from '@angular/forms';
 import {map, switchMap, withLatestFrom} from 'rxjs/operators';
 import * as moment from 'moment';
 
 
 @Component({
-  selector: 'aws-scene-overview',
-  templateUrl: './scene-overview.component.html',
-  styleUrls: ['./scene-overview.component.scss'],
+  selector: 'aws-overview',
+  templateUrl: './overview.component.html',
+  styleUrls: ['./overview.component.scss'],
 })
-export class SceneOverviewComponent implements OnInit {
+export class OverviewComponent implements OnInit {
 
   @Input()
   searchTerm = '';
+
+  @Input()
+  type = '';
 
   form = this.fb.group({
     searchTerm: '',
@@ -80,7 +83,6 @@ export class SceneOverviewComponent implements OnInit {
   }
 
   sortMoment(a: Scene, b: Scene): number {
-
     if (!a.release) {
       a.release = moment(0);
     }
@@ -89,7 +91,6 @@ export class SceneOverviewComponent implements OnInit {
       b.release = moment(0);
     }
     return a.release.diff(b.release);
-
   }
 
 

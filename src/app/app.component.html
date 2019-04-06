@@ -1,18 +1,23 @@
 <div class="container">
 
-<div class="row">
-  <mat-button-toggle-group (change)="toggle = $event.value" [value]="toggle">
-    <mat-button-toggle value="scene">
-      Search
-    </mat-button-toggle>
-    <mat-button-toggle value="stats">
-      Statistics
-    </mat-button-toggle>
-  </mat-button-toggle-group>
-  <a href="https://twitter.com/intent/tweet?text=@korialstraszbob " target="_blank" class="tweet center"> Feedback? Tweet @me</a>
-  <span class="center">{{buildTime}}</span>
-</div>
+  <div class="row">
+    <mat-button-toggle-group (change)="toggle = $event.value" [value]="toggle">
+      <mat-button-toggle value="scene">
+        Scenes
+      </mat-button-toggle>
+      <mat-button-toggle value="dvd">
+        DVDs
+      </mat-button-toggle>
+      <mat-button-toggle value="stats">
+        Statistics
+      </mat-button-toggle>
+    </mat-button-toggle-group>
+    <a href="https://twitter.com/intent/tweet?text=@korialstraszbob " target="_blank" class="tweet center"> Feedback?
+      Tweet @me</a>
+    <span class="center">{{buildTime}}</span>
+  </div>
 
-<aws-scene-overview *ngIf="toggle === 'scene'" [searchTerm]="searchTermScene"></aws-scene-overview>
-<aws-statistic-overview *ngIf="toggle === 'stats'" [searchTerm]="searchTermStats"></aws-statistic-overview>
+  <aws-overview *ngIf="toggle === 'scene'" [searchTerm]="searchTermScene" type="scene"></aws-overview>
+  <aws-overview *ngIf="toggle === 'dvd'" [searchTerm]="searchTermScene" type="dvd"></aws-overview>
+  <aws-statistic-overview *ngIf="toggle === 'stats'" [searchTerm]="searchTermStats"></aws-statistic-overview>
 </div>

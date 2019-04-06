@@ -1,5 +1,5 @@
 import {Component, Input, OnInit} from '@angular/core';
-import {Scene} from '../model/scene.model';
+import {Scene} from '../shared/model/scene.model';
 
 @Component({
   selector: 'aws-scene-entry',

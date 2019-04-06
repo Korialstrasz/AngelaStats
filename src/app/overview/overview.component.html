@@ -1,10 +1,11 @@
 <section id="searchUi">
   <form [formGroup]="form">
     <section class="row">
-    <mat-form-field class="col-12 col-sm-3 mr-2">
-      <input matInput placeholder="search" formControlName="searchTerm" >
-    </mat-form-field>
-    <span class="center">http://angelastats-99708.firebaseapp.com/?scene={{form.get('searchTerm').value | encodeUri}}</span>
+      <mat-form-field class="col-12 col-sm-3 mr-2">
+        <input matInput placeholder="search" formControlName="searchTerm">
+      </mat-form-field>
+      <span
+        class="center">http://angelastats-99708.firebaseapp.com/?{{type}}={{form.get('searchTerm').value | encodeUri}}</span>
     </section>
     <section class="row">
       <span class="mr-1">Sort by: </span>
@@ -24,10 +25,10 @@
       </mat-radio-group>
     </section>
   </form>
-
 </section>
 
 
 <section id="results">
-  <aws-scene-list [scenes]="data$|async"></aws-scene-list>
+  <aws-scene-list [scenes]="data$|async" *ngIf="type ==='scene'"></aws-scene-list>
+  <aws-dvd-list [scenes$]="data$" *ngIf="type ==='dvd'"></aws-dvd-list>
 </section>
