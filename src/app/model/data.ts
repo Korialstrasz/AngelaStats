@@ -5098,7 +5098,9 @@ export let data: Scene[] = [
     'playtime': '0:49:22',
     'partners': ['Manuel Ferrara'],
     'links': ['https://angelawhite.empirestores.co/1881702/raw-28-porn-videos.html'],
-    'tags': [],
+    'tags': ['Boy/Girl', 'On Bed', 'Cunnilingus', 'Candid', 'Missionary', 'Vaginal', 'Fingering', 'Cowgirl', 'Elbow Birthmark',
+      'Blowjob', 'Anilingus', 'Choking', 'POV', 'Titty Fuck', 'Deepthroat', 'Reverse Cowgirl', 'Face Sitting', '69', 'Grinding',
+      'Spooning'],
     'release': moment('2016-11-25')
   },
   {
