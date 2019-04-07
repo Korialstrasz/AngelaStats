@@ -33,6 +33,7 @@ export type Tag =
   | 'Pussy to Mouth'
   | 'Neck Tattoo'
   | 'No Makeup'
+  | 'Non Sex'
   | 'Bruise left outer Hip'
   | 'Boy/Boy/Boy/Girl'
   | 'Girls only'

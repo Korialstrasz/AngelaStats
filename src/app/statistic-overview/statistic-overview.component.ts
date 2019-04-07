@@ -21,7 +21,7 @@ export class StatisticOverviewComponent implements OnInit {
   form = this.fb.group({
     searchTerm: '',
     searchType: 'partner',
-    excludeBts: true,
+    excludeBtsNonSex: true,
   });
 
   constructor(private fb: FormBuilder) {
@@ -39,8 +39,8 @@ export class StatisticOverviewComponent implements OnInit {
   calcDurationAndSceneCount(form) {
     const statistic = new Statistics();
     let filteredData = JSON.parse(JSON.stringify(data)); // deep copy
-    if (form.excludeBts) {
-      filteredData = filteredData.filter((scene) => !scene.tags.find(sceneTags => sceneTags === 'BTS'));
+    if (form.excludeBtsNonSex) {
+      filteredData = filteredData.filter((scene) => !scene.tags.find(sceneTags => sceneTags === 'BTS' || sceneTags === 'Non Sex'));
     }
 
     if (form.searchTerm.length > 0) {

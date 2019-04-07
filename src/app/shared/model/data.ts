@@ -55,7 +55,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:13:39',
     'partners': ['Krystin DIM'],
-    'dvds': [],
+    'dvds': [{
+      title: 'Erotic Moods',
+      link: 'https://angelawhite.empirestores.co/1406301/erotic-moods-porn-movies.html'
+    }],
     'tags': ['Girl/Girl', 'On Couch', 'Dildo', 'Vibrator'],
     'release': moment('2008-03-25')
   },
@@ -66,7 +69,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:29:07',
     'partners': ['Fotina'],
-    'dvds': [],
+    'dvds': [{
+      title: 'Real Girls Real Orgasms',
+      link: 'https://angelawhite.empirestores.co/1433809/real-girls-real-orgasms-porn-movies.html'
+    }],
     'tags': ['Girl/Girl', 'Outside'],
     'release': moment('2008-07-11')
   },
@@ -77,7 +83,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:18:47',
     'partners': [],
-    'dvds': [],
+    'dvds': [{
+      title: 'Erotic Moods',
+      link: 'https://angelawhite.empirestores.co/1406301/erotic-moods-porn-movies.html'
+    }],
     'tags': ['Solo', 'On Bed'],
     'release': moment('2008-08-17')
   },
@@ -99,7 +108,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:11:57',
     'partners': [],
-    'dvds': [],
+    'dvds': [{
+      title: 'Real Orgasms',
+      link: 'https://angelawhite.empirestores.co/1563500/real-orgasms-porn-movies.html'
+    }],
     'tags': ['Solo', 'Outside'],
     'release': moment('2009-12-19')
   },
@@ -121,7 +133,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:23:13',
     'partners': ['Blossom'],
-    'dvds': [],
+    'dvds': [{
+      title: 'Alone & Lovable',
+      link: 'https://angelawhite.empirestores.co/1583463/alone-lovable-porn-movies.html'
+    }],
     'tags': ['Girl/Girl', 'On Couch'],
     'release': moment('2010-04-19')
   },
@@ -132,7 +147,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:30:11',
     'partners': ['Indiana'],
-    'dvds': [],
+    'dvds': [{
+      title: 'Tasty Girls',
+      link: 'https://angelawhite.empirestores.co/1638015/tasty-girls-porn-movies.html'
+    }],
     'tags': ['Girl/Girl', 'On Desk', 'Anal'],
     'release': moment('2008-06-20')
   },
@@ -174,7 +192,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:31:51',
     'partners': ['Chloe B'],
-    'dvds': [],
+    'dvds': [{
+      title: 'Girls With Desire',
+      link: 'https://angelawhite.empirestores.co/1424719/girls-with-desire-porn-movies.html'
+    }],
     'tags': ['Girl/Girl', 'Outside', 'Anal', 'Tribbing'],
     'release': moment('2008-08-08')
   },
@@ -195,7 +216,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:31:39',
     'partners': ['Fae'],
-    'dvds': [],
+    'dvds': [{
+      title: 'Girls Indulging',
+      link: 'https://angelawhite.empirestores.co/1581358/girls-indulging-porn-movies.html'
+    }],
     'tags': ['Girl/Girl', 'On Bed', 'Anal'],
     'release': moment('2008-08-18')
   },
@@ -206,7 +230,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:09:08',
     'partners': [],
-    'dvds': [],
+    'dvds': [{
+      title: 'Girls Indulging',
+      link: 'https://angelawhite.empirestores.co/1581358/girls-indulging-porn-movies.html'
+    }],
     'tags': ['BTS']
   },
   {
@@ -234,10 +261,13 @@ export let data: Scene[] = [
     'producer': 'abbywinters.com',
     'series': 'Girl Girl',
     'title': 'Tongue in ass Angie & Odette',
-    'altTitles': [],
+    'altTitles': ['Girls who Lust - Scene 1'],
     'playtime': '0:35:34',
     'partners': ['Odette'],
-    'dvds': [],
+    'dvds': [{
+      title: 'Girls who Lust',
+      link: 'https://angelawhite.empirestores.co/1431730/girls-who-lust-porn-movies.html'
+    }],
     'tags': ['Girl/Girl', 'Anal', 'On Desk'],
     'release': moment('2008-09-05')
   },
@@ -255,10 +285,13 @@ export let data: Scene[] = [
     'producer': 'abbywinters.com',
     'series': 'Girl Girl',
     'title': 'Ass licking Angie & Cleo',
-    'altTitles': [],
+    'altTitles': ['Girls Craving Girls - Scene 1'],
     'playtime': '0:32:32',
     'partners': ['Cleo'],
-    'dvds': [],
+    'dvds': [{
+      title: 'Girls Craving Girls',
+      link: 'https://angelawhite.empirestores.co/1442740/girls-craving-girls-porn-movies.html'
+    }],
     'tags': ['Girl/Girl', 'Anal', 'On Bed'],
     'release': moment('2008-09-12')
   },
@@ -293,7 +326,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:33:56',
     'partners': [],
-    'dvds': [],
+    'dvds': [{
+      title: 'Masturbation Collection 04',
+      link: 'https://angelawhite.empirestores.co/1682629/masturbation-collection-4-porn-movies.html'
+    }],
     'tags': ['Solo', 'Dildo', 'On Chair', 'On Desk'],
     'release': moment('2008-03-10')
   },
@@ -3214,6 +3250,9 @@ export let data: Scene[] = [
     'dvds': [{
       title: 'Ass Vs. Pussy 5',
       link: 'https://angelawhite.empirestores.co/1890494/ass-vs-pussy-5-porn-movies.html'
+    }, {
+      title: 'Big Boob Sex',
+      link: 'https://angelawhite.empirestores.co/1926101/big-boob-sex-porn-movies.html'
     }],
     'tags': ['Outside'],
     'release': moment('2017-01-27')
@@ -3520,6 +3559,17 @@ export let data: Scene[] = [
   {
     'producer': 'digitalplayground.com',
     'series': '',
+    'title': 'Fuck Forever - Scene 1',
+    'altTitles': [],
+    'playtime': '0:00:00',
+    'partners': [],
+    'dvds': [],
+    'tags': ['Non Sex'],
+    'release': moment('2019-03-20')
+  },
+  {
+    'producer': 'digitalplayground.com',
+    'series': '',
     'title': 'Fuck Forever - Scene 3',
     'altTitles': [],
     'playtime': '0:31:22',
@@ -3765,9 +3815,7 @@ export let data: Scene[] = [
     }],
     'tags': [],
     'release': moment('2017-11-18')
-  },
-
-  {
+  }, {
     'producer': 'evilangel.com',
     'series': '',
     'title': 'Anal Angels 3 - Scene X',
@@ -3816,6 +3864,20 @@ export let data: Scene[] = [
     }],
     'tags': [],
     'release': moment('2017-03-19')
+  },
+  {
+    'producer': 'evilangel.com',
+    'series': '',
+    'title': 'Camgirls: The Movie',
+    'altTitles': [],
+    'playtime': '0:00:00',
+    'partners': [],
+    'dvds': [{
+      title: 'Camgirls: The Movie',
+      link: 'https://angelawhite.empirestores.co/2521712/cam-girls-the-movie-porn-movies.html'
+    }],
+    'tags': ['Non Sex'],
+    'release': moment('2018-07-18')
   },
   {
     'producer': 'evilangel.com',
@@ -6236,7 +6298,7 @@ export let data: Scene[] = [
     'playtime': '1:00:09',
     'partners': ['Donnie Rock', 'Jane Wilde'],
     'dvds': [{
-      title: 'Future Darkly - Smart House Of Horros',
+      title: 'Future Darkly Vol. 2',
       link: 'https://angelawhite.empirestores.co/2593586/future-darkly-vol-2-dont-panic-smart-house-of-horrors-porn-movies.html'
     }],
     'tags': ['Boy/Girl/Girl', 'Acting', 'Voyeur', 'Hurt Knee', 'Instructions', 'Blowjob', 'Deepthroat', 'Cunnilingus',
@@ -6441,7 +6503,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:31:11',
     'partners': [],
-    'dvds': [],
+    'dvds': [{
+      title: 'Stacked & Packed 7',
+      link: 'https://angelawhite.empirestores.co/1321351/stacked-packed-7-porn-movies.html'
+    }],
     'tags': ['Solo']
   },
   {
@@ -6471,7 +6536,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:25:29',
     'partners': ['Brandy Talore'],
-    'dvds': [],
+    'dvds': [{
+      title: 'Bosom Buddies #6',
+      link: 'https://angelawhite.empirestores.co/1323397/bosom-buddies-6-porn-movies.html'
+    }],
     'tags': ['Girl/Girl', 'On Bed', 'Strap-on']
   },
   {
@@ -6597,6 +6665,19 @@ export let data: Scene[] = [
   {
     'producer': 'scoreland.com',
     'series': '',
+    'title': 'On Location Big Boob Paradise',
+    'altTitles': [],
+    'playtime': '0:00:00',
+    'partners': [],
+    'dvds': [{
+      title: 'On Location Big Boob Paradise',
+      link: 'https://angelawhite.empirestores.co/1668726/on-location-big-boob-paradise-porn-movies.html'
+    }],
+    'tags': ['BTS']
+  },
+  {
+    'producer': 'scoreland.com',
+    'series': '',
     'title': 'Dance of the Breast Stars',
     'altTitles': ['Busty dancers Angela White and Gianna Rossi'],
     'playtime': '0:18:15',
@@ -6611,7 +6692,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:12:57',
     'partners': [],
-    'dvds': [],
+    'dvds': [{
+      title: 'Big Fat Tits',
+      link: 'https://angelawhite.empirestores.co/1521283/big-fat-tits-porn-movies.html'
+    }],
     'tags': [],
     'release': moment('2008-12-04')
   },
