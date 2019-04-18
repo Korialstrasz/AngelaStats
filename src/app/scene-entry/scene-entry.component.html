@@ -13,7 +13,7 @@
     <p *ngFor="let dvd of scene.dvds"><a [href]="dvd.link" target="_blank">{{dvd.title}}</a></p>
   </div>
 </div>
-<div class="row border-info border details" *ngIf="showDetails">
+<div class="row border-info border details" *ngIf="showDetails" [@fadeInOut]>
   <div class="col-4">
     <p><b>Alternative Titels</b></p>
     <p *ngFor="let alt of scene.altTitles">{{alt}}</p>

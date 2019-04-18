@@ -12,7 +12,7 @@
     <a [href]="dvd.link" target="_blank">Buy here</a>
   </div>
 </div>
-<div class="row border-info border details" *ngIf="showDetails">
+<div class="row border-info border details" *ngIf="showDetails" [@fadeInOut]>
   <div class="col-6 col-sm-6 overflow-hidden">
     <p><b>Name</b></p>
   </div>
@@ -23,13 +23,13 @@
     <p><b>Playtime</b></p>
   </div>
   <ng-container *ngFor="let scene of dvd.scene" class="col-12 row">
-    <div class="col-6 col-sm-6 overflow-hidden">
+    <div class="col-6 overflow-hidden">
       <p>{{scene.name}}</p>
     </div>
     <div class="col-4">
       <p *ngFor="let partner of scene.partners">{{partner}}</p>
     </div>
-    <div class="col-2">
+    <div class="col-2 ">
       <p>{{scene.playtime}}</p>
     </div>
   </ng-container>
