@@ -52,7 +52,7 @@ export let data: Scene[] = [
     'producer': 'abbywinters.com',
     'series': 'Video Masturbation',
     'title': 'Angie & Krystin DIM',
-    'altTitles': [],
+    'altTitles': ['Erotic Moods - Scene 3'],
     'playtime': '0:13:39',
     'partners': ['Krystin DIM'],
     'dvds': [{
@@ -66,7 +66,7 @@ export let data: Scene[] = [
     'producer': 'abbywinters.com',
     'series': 'Video Masturbation',
     'title': 'Angie & Fotina',
-    'altTitles': [],
+    'altTitles': ['Real Girls Real Orgasms - Scene 6'],
     'playtime': '0:29:07',
     'partners': ['Fotina'],
     'dvds': [{
@@ -80,7 +80,7 @@ export let data: Scene[] = [
     'producer': 'abbywinters.com',
     'series': 'Video Masturbation',
     'title': 'Angie',
-    'altTitles': [],
+    'altTitles': ['Erotic Moods - Scene 5'],
     'playtime': '0:18:47',
     'partners': [],
     'dvds': [{
@@ -105,7 +105,7 @@ export let data: Scene[] = [
     'producer': 'abbywinters.com',
     'series': 'Video Masturbation',
     'title': 'Angie (3)',
-    'altTitles': [],
+    'altTitles': ['Real Orgasms - Scene 7'],
     'playtime': '0:11:57',
     'partners': [],
     'dvds': [{
@@ -130,7 +130,7 @@ export let data: Scene[] = [
     'producer': 'abbywinters.com',
     'series': 'Video Masturbation',
     'title': 'Angie & Blossom',
-    'altTitles': [],
+    'altTitles': ['Alone & Lovable - Scene 8'],
     'playtime': '0:23:13',
     'partners': ['Blossom'],
     'dvds': [{
@@ -144,7 +144,7 @@ export let data: Scene[] = [
     'producer': 'abbywinters.com',
     'series': 'Girl Girl',
     'title': 'Rimjob Angie & Indiana',
-    'altTitles': [],
+    'altTitles': ['Tasty Girls - Scene 2'],
     'playtime': '0:30:11',
     'partners': ['Indiana'],
     'dvds': [{
@@ -168,10 +168,13 @@ export let data: Scene[] = [
     'producer': 'abbywinters.com',
     'series': 'Girl Girl',
     'title': 'Lesbian anal Angie & Shaminee',
-    'altTitles': [],
+    'altTitles': ['Girls With Desire - Scene 2'],
     'playtime': '0:42:08',
     'partners': ['Shaminee'],
-    'dvds': [],
+    'dvds': [{
+      title: 'Girls With Desire',
+      link: 'https://angelawhitestore.com/1424719/girls-with-desire-porn-movies.html'
+    }],
     'tags': ['Girl/Girl', 'On Couch', 'Anal'],
     'release': moment('2008-07-28')
   },
@@ -189,7 +192,7 @@ export let data: Scene[] = [
     'producer': 'abbywinters.com',
     'series': 'Girl Girl',
     'title': 'Anal insertions Angie & Chloe B',
-    'altTitles': [],
+    'altTitles': ['Girls With Desire - Scene 1'],
     'playtime': '0:31:51',
     'partners': ['Chloe B'],
     'dvds': [{
@@ -213,7 +216,7 @@ export let data: Scene[] = [
     'producer': 'abbywinters.com',
     'series': 'Girl Girl',
     'title': 'Rimming Angie & Fae',
-    'altTitles': [],
+    'altTitles': ['Girls Indulging - Scene 1'],
     'playtime': '0:31:39',
     'partners': ['Fae'],
     'dvds': [{
@@ -227,7 +230,7 @@ export let data: Scene[] = [
     'producer': 'abbywinters.com',
     'series': 'Girl Girl',
     'title': 'Rimming Angie & Fae - Before, After, Backstage',
-    'altTitles': [],
+    'altTitles': ['Girls Indulging - Scene 1'],
     'playtime': '0:09:08',
     'partners': [],
     'dvds': [{
@@ -306,24 +309,10 @@ export let data: Scene[] = [
     'tags': ['BTS']
   },
   {
-    'producer': 'adamandeve.com',
-    'series': 'Sex Across America',
-    'title': 'A Look Back With Angela White',
-    'altTitles': [],
-    'playtime': '0:24:13',
-    'partners': [],
-    'dvds': [{
-      title: 'Sex Across America: A Look Back With Angela White',
-      link: 'https://angelawhitestore.com/1971196/sex-across-america-a-look-back-with-angela-white-porn-videos.html'
-    }],
-    'tags': [],
-    'release': moment('2018-04-03')
-  },
-  {
     'producer': 'abbywinters.com',
     'series': 'Nude Girls',
     'title': 'Massive breasts Angie',
-    'altTitles': [],
+    'altTitles': ['Masturbation Collection 04 - Scene X'],
     'playtime': '0:33:56',
     'partners': [],
     'dvds': [{
@@ -353,20 +342,6 @@ export let data: Scene[] = [
     'partners': [],
     'dvds': [],
     'tags': ['BTS']
-  },
-  {
-    'producer': 'adamandeve.com',
-    'series': '',
-    'title': 'Submissive Wifes - Scene 4',
-    'altTitles': [],
-    'playtime': '0:31:30',
-    'partners': ['Marcus London'],
-    'dvds': [{
-      title: 'Submissive Wives',
-      link: 'https://angelawhitestore.com/2589225/submissive-wives-porn-movies.html'
-    }],
-    'tags': ['Boy/Girl', 'Spanking', 'Rope Bondage', 'On Couch', 'Blowjob'],
-    'release': moment('2018-11-23')
   },
   {
     'producer': 'abbywinters.com',
@@ -432,6 +407,34 @@ export let data: Scene[] = [
     'dvds': [],
     'tags': ['Solo', 'On Bed'],
     'release': moment('2011-05-10')
+  },
+  {
+    'producer': 'adamandeve.com',
+    'series': 'Sex Across America',
+    'title': 'A Look Back With Angela White',
+    'altTitles': [],
+    'playtime': '0:24:13',
+    'partners': [],
+    'dvds': [{
+      title: 'Sex Across America: A Look Back With Angela White',
+      link: 'https://angelawhitestore.com/1971196/sex-across-america-a-look-back-with-angela-white-porn-videos.html'
+    }],
+    'tags': [],
+    'release': moment('2018-04-03')
+  },
+  {
+    'producer': 'adamandeve.com',
+    'series': '',
+    'title': 'Submissive Wifes - Scene 4',
+    'altTitles': [],
+    'playtime': '0:31:30',
+    'partners': ['Marcus London'],
+    'dvds': [{
+      title: 'Submissive Wives',
+      link: 'https://angelawhitestore.com/2589225/submissive-wives-porn-movies.html'
+    }],
+    'tags': ['Boy/Girl', 'Spanking', 'Rope Bondage', 'On Couch', 'Blowjob'],
+    'release': moment('2018-11-23')
   },
   {
     'producer': 'angelawhite.com',
@@ -1203,7 +1206,8 @@ export let data: Scene[] = [
     'playtime': '0:37:48',
     'partners': ['James Deen'],
     'dvds': [],
-    'tags': ['Boy/Girl', 'Candid', 'POV'],
+    'tags': ['Boy/Girl', 'Candid', 'POV', 'On Chair', 'Blowjob', 'Deepthroat', 'Handjob', 'Titty Fuck', 'Vaginal',
+      'Doggy', 'Reverse Cowgirl', 'On Bed', 'Missionary', 'Birthmark Left Inner Thigh', 'Cunnilingus', 'Side Fuck'],
     'release': moment('2015-03-02')
   },
   {
@@ -2795,7 +2799,7 @@ export let data: Scene[] = [
     'title': 'Happy Ending',
     'altTitles': ['Girls Of Bangbros Vol. 76 - Scene 5'],
     'playtime': '0:42:47',
-    'partners': ['Unknown'],
+    'partners': ['Chad White'],
     'dvds': [{
       title: 'Girls Of BangBros Vol. 76: Angela White',
       link: 'https://angelawhitestore.com/1969197/girls-of-bangbros-vol-76-angela-white-porn-movies.html'
@@ -2819,9 +2823,9 @@ export let data: Scene[] = [
     'series': 'Big Tits, Round Asses',
     'title': 'Stepsister Takes Selfies of Her huge Tits',
     'altTitles': ['Big Tits Round Asses 49 - Scene 5', 'World Of BangBros: Big Tits Vol. 6 - Scene 2',
-      'Girls Of Bangbros Vol. 76: Angela White - Scene 4'],
+      'Girls Of BangBros Vol. 76: Angela White - Scene 4'],
     'playtime': '0:39:06',
-    'partners': ['Unknown'],
+    'partners': ['Logan Long'],
     'dvds': [{
       title: 'World Of BangBros: Big Tits Vol. 6',
       link: 'https://angelawhitestore.com/1955015/world-of-bangbros-big-tits-vol-6-porn-movies.html'
@@ -2838,7 +2842,7 @@ export let data: Scene[] = [
     'producer': 'bangbros.com',
     'series': 'Monsters of Cock',
     'title': 'Big tits vs monster cock',
-    'altTitles': ['Girls Of Bangbros Vol. 76: Angela White - Scene 3'],
+    'altTitles': ['Girls Of BangBros Vol. 76: Angela White - Scene 3'],
     'playtime': '0:35:23',
     'partners': ['Slim Poke'],
     'dvds': [{
@@ -2905,11 +2909,11 @@ export let data: Scene[] = [
     'producer': 'blackedraw.com',
     'series': '',
     'title': 'Can\'t Wait For That BBC',
-    'altTitles': [],
+    'altTitles': ['Blacked Raw V17 - Scene X'],
     'playtime': '0:39:57',
     'partners': ['Cash'],
     'dvds': [{
-      title: 'Blackedraw V17',
+      title: 'Blacked Raw V17',
       link: 'https://angelawhitestore.com/2656583/blacked-raw-v17-porn-movies.html'
     }],
     'tags': ['Elbow Birthmark', 'Neck Tattoo', 'Boy/Girl', 'Interracial', 'On Bed', 'Blowjob', 'Reverse Cowgirl',
@@ -2934,7 +2938,7 @@ export let data: Scene[] = [
     'producer': 'brazzers.com',
     'series': 'Big Butts Like It Big',
     'title': 'Ass, Gas or Grass',
-    'altTitles': [],
+    'altTitles': ['Bubble Butt Anal Slut 4 - Scene 1'],
     'playtime': '0:35:16',
     'partners': ['Markus Dupree'],
     'dvds': [{
@@ -3078,7 +3082,7 @@ export let data: Scene[] = [
     'producer': 'brazzers.com',
     'series': 'Brazzers Exxtra',
     'title': 'Caught Talking Dirty',
-    'altTitles': [],
+    'altTitles': ['A Dream Cum True 2 - 1'],
     'playtime': '0:39:44',
     'partners': ['Nicolette Shea', 'Jessy Jones'],
     'dvds': [{
@@ -3233,7 +3237,7 @@ export let data: Scene[] = [
     'producer': 'brazzers.com',
     'series': 'ZZ series',
     'title': 'Xanders World Tour Episode 2',
-    'altTitles': [],
+    'altTitles': ['Xanders World Tour - Scene 2'],
     'playtime': '0:46:13',
     'partners': ['Karma Rx', 'Xander Corvus'],
     'dvds': [{
@@ -3247,7 +3251,7 @@ export let data: Scene[] = [
     'producer': 'bskow.com',
     'series': '',
     'title': 'Ass Vs Pussy 5 - Scene 1',
-    'altTitles': [],
+    'altTitles': ['Big Boob Sex - Scene 3'],
     'playtime': '0:56:24',
     'partners': ['Ramon Nomar'],
     'dvds': [{
@@ -3470,16 +3474,16 @@ export let data: Scene[] = [
     'playtime': '0:16:49',
     'partners': [],
     'dvds': [],
-    'tags': ['Solo'],
+    'tags': ['Solo', 'Outside', 'Easter', 'Chocolate'],
     'release': moment('2012-04-09')
   },
   {
     'producer': 'ddfnetwork.com',
     'series': '',
     'title': 'Doing Double Duty',
-    'altTitles': ['Titty Pleasures -, Scene X'],
+    'altTitles': ['Titty Pleasures - Scene 4'],
     'playtime': '0:32:52',
-    'partners': [],
+    'partners': ['Tony Profane'],
     'dvds': [{
       title: 'Titty Pleasures',
       link: 'https://angelawhitestore.com/2605258/titty-pleasures-porn-movies.html'
@@ -3504,7 +3508,7 @@ export let data: Scene[] = [
     'title': 'Coffee and Cunny Break',
     'altTitles': ['Busty Lovers 2 - Scene 4'],
     'playtime': '0:21:00',
-    'partners': ['Unknown'],
+    'partners': [],
     'dvds': [{
       title: 'Busty Lovers 2',
       link: 'https://angelawhitestore.com/1790042/busty-lovers-2-porn-videos.html'
@@ -3515,10 +3519,10 @@ export let data: Scene[] = [
   {
     'producer': 'ddfnetwork.com',
     'series': '',
-    'title': 'Riding Robo Dick for Kick',
+    'title': 'Riding Robo Dick for Kicks',
     'altTitles': [],
     'playtime': '0:18:07',
-    'partners': ['Unknown'],
+    'partners': [],
     'dvds': [],
     'tags': ['Solo', 'Sybian'],
     'release': moment('2008-11-21')
@@ -4577,8 +4581,8 @@ export let data: Scene[] = [
     'series': '',
     'title': 'Lesbian Psychodramas Vol. 32 - Scene 1',
     'altTitles': [],
-    'playtime': '0:00:00',
-    'partners': ['Dana Dearmond'],
+    'playtime': '0:40:01',
+    'partners': ['Dana DeArmond'],
     'dvds': [{
       title: 'Lesbian Psychodramas Vol. 32',
       link: 'https://angelawhitestore.com/2643726/lesbian-psychodramas-vol-32-porn-movies.html'
@@ -5950,7 +5954,7 @@ export let data: Scene[] = [
     'producer': 'newsensations.com',
     'series': 'Tales From The Edge',
     'title': 'Angela Can Wait No Longer',
-    'altTitles': ['Hotwife Bound 4 - Scene 2', 'Tie Me Up And Fuck Me 2 - Scene X'],
+    'altTitles': ['Hotwife Bound 4 - Scene 2', 'Tie Me Up And F**k Me 2 - Scene X'],
     'playtime': '0:47:26',
     'partners': ['Mick Blue'],
     'dvds': [{
@@ -6151,9 +6155,8 @@ export let data: Scene[] = [
     'producer': 'newsensations.com',
     'series': '',
     'title': 'Angela Becomes Legendary',
-    'altTitles': ['XXX Big Tit Rubdown - Scene 1',
-      'Sexual Desires Of Angela White - Scene 4',
-      'The Most Beautiful Girls In Porn 2 - Scene X'],
+    'altTitles': ['XXX Big Tit Rubdown - Scene 1', 'Sexual Desires Of Angela White - Scene 4',
+      'The Most Beautiful Girls In Porn 2 - Scene 8'],
     'playtime': '0:36:25',
     'partners': ['Logan Pierce'],
     'dvds': [{
@@ -6174,11 +6177,11 @@ export let data: Scene[] = [
     'producer': 'nfbusty.com',
     'series': '',
     'title': 'Bountieful Breast 4 - Scene 2',
-    'altTitles': [],
+    'altTitles': ['Busty Vol. 8: Stacked - Scene 1'],
     'playtime': '0:22:58',
     'partners': ['Ryan Driller'],
     'dvds': [{
-      title: 'Busty Vol. 8: Stacked ',
+      title: 'Busty Vol. 8: Stacked',
       link: 'https://angelawhitestore.com/2643746/busty-vol-8-stacked-porn-movies.html'
     }],
     'tags': ['Boy/Girl', 'On Bed', 'Elbow Birthmark', 'Fingering', 'Cunnilingus', 'Blowjob', 'Deepthroat', 'Neck Tattoo',
@@ -6543,7 +6546,7 @@ export let data: Scene[] = [
     'producer': 'scoreland.com',
     'series': '',
     'title': 'Private School Girl',
-    'altTitles': [],
+    'altTitles': ['Stacked & Packed 7 - Scene X'],
     'playtime': '0:31:11',
     'partners': [],
     'dvds': [{
@@ -6575,7 +6578,7 @@ export let data: Scene[] = [
   {
     'producer': 'scoreland.com',
     'series': '',
-    'title': 'Bosom Bbuddies',
+    'title': 'Bosom Buddies',
     'altTitles': [],
     'playtime': '0:25:29',
     'partners': ['Brandy Talore'],
@@ -6732,7 +6735,7 @@ export let data: Scene[] = [
     'producer': 'scoreland.com',
     'series': '',
     'title': 'Island Fever',
-    'altTitles': [],
+    'altTitles': ['Big Fat Tits - Scene X'],
     'playtime': '0:12:57',
     'partners': [],
     'dvds': [{
@@ -6857,7 +6860,7 @@ export let data: Scene[] = [
     'producer': 'trenchcoatx.com',
     'series': 'Sacrosanct',
     'title': 'Sirens',
-    'altTitles': ['Sacrosanct -  Scene 3'],
+    'altTitles': ['Sacrosanct - Scene 3'],
     'playtime': '0:25:27',
     'partners': ['Manuel Ferrara'],
     'dvds': [{
@@ -6911,7 +6914,7 @@ export let data: Scene[] = [
     'producer': 'tushyraw.com',
     'series': '',
     'title': 'Angela White - Red Eye',
-    'altTitles': [],
+    'altTitles': ['Tushy Raw V1 - Scene 3'],
     'playtime': '0:42:13',
     'partners': ['Markus Dupree'],
     'dvds': [{
@@ -7151,7 +7154,7 @@ export let data: Scene[] = [
     'playtime': '0:50:27',
     'partners': [],
     'dvds': [{
-      title: 'I Am Angela',
+      title: 'Laid Off',
       link: 'https://angelawhitestore.com/2597615/laid-off-porn-videos.html'
     }],
     'tags': ['VR'],

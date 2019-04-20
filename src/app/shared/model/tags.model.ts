@@ -26,6 +26,8 @@ export type Tag =
   | 'Rubberbands'
   | 'Whipping'
   | 'Clamps'
+  | 'Easter'
+  | 'Chocolate'
   | 'Riding Crop'
   | 'Cheating'
   | 'Anilingus'
