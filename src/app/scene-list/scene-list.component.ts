@@ -1,6 +1,5 @@
-import {Component, OnInit, Input} from '@angular/core';
+import {Component, Input, OnInit} from '@angular/core';
 import {Scene} from '../shared/model/scene.model';
-import {Observable} from 'rxjs';
 
 @Component({
   selector: 'aws-scene-list',

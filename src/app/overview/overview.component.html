@@ -2,10 +2,9 @@
   <form [formGroup]="form">
     <section class="row">
       <mat-form-field class="col-12 col-sm-3 mr-2">
-        <input matInput placeholder="search" formControlName="searchTerm">
+        <input formControlName="searchTerm" matInput placeholder="search">
       </mat-form-field>
-      <span
-        class="center">http://angelastats-99708.firebaseapp.com/?{{type}}={{form.get('searchTerm').value | encodeUri}}</span>
+      <aws-copy-to-clipboard [searchTerm]="form.get('searchTerm').value" [type]="this.type"></aws-copy-to-clipboard>
     </section>
     <section class="row">
       <span class="mr-1">Sort by: </span>
@@ -27,9 +26,7 @@
   </form>
 </section>
 
-
 <section id="results">
-  <aws-scene-list [scenes]="data$|async" *ngIf="type ==='scene'"></aws-scene-list>
-  <aws-dvd-list [scenes$]="data$" *ngIf="type ==='dvd'"
-                [sorting$]="form.get('sortType').valueChanges"></aws-dvd-list>
+  <aws-scene-list *ngIf="type ==='scene'" [scenes]="data$|async"></aws-scene-list>
+  <aws-dvd-list *ngIf="type ==='dvd'" [scenes$]="data$" [sorting$]="form.get('sortType').valueChanges"></aws-dvd-list>
 </section>

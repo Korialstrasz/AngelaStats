@@ -3,7 +3,7 @@ import {data} from '../shared/model/data';
 import {Duration, duration as durationFn} from 'moment';
 import {Statistics} from '../shared/model/statistics.model';
 import {FormBuilder} from '@angular/forms';
-import {Observable, of, merge} from 'rxjs';
+import {merge, Observable, of} from 'rxjs';
 import {map} from 'rxjs/operators';
 
 @Component({

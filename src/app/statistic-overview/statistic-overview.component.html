@@ -10,10 +10,10 @@
   </div>
   <div class="row">
     <mat-form-field class="col-12 col-sm-3">
-      <input matInput placeholder="filter" formControlName="searchTerm">
+      <input formControlName="searchTerm" matInput placeholder="filter">
     </mat-form-field>
-    <span class="center">http://angelastats-99708.firebaseapp.com/?stats={{form.get('searchTerm').value | encodeUri}}
-      |{{form.get('searchType').value}}</span>
+    <aws-copy-to-clipboard [searchTerm]="form.get('searchTerm').value +'|'+ form.get('searchType').value" class="center"
+                           type="stats"></aws-copy-to-clipboard>
   </div>
   <div class="row">
     <span class="mr-1 col-1">Filter by: </span>
@@ -57,6 +57,6 @@
   </div>
   <div class="col-12">
     <p><b>tags</b></p>
-    <span class="tags" *ngFor="let tags of (statistic$|async).tags ">{{tags.key}} ({{tags.value}})</span>
+    <span *ngFor="let tags of (statistic$|async).tags " class="tags">{{tags.key}} ({{tags.value}})</span>
   </div>
 </div>
