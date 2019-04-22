@@ -5354,10 +5354,10 @@ export let data: Scene[] = [
     'series': '',
     'title': 'Techsex 1',
     'altTitles': [],
-    'playtime': ' ',
+    'playtime': '0:03:42',
     'partners': [],
     'dvds': [],
-    'tags': [],
+    'tags': ['Solo', 'On Bed'],
     'release': moment('2011-11-07')
   },
   {
@@ -5365,10 +5365,10 @@ export let data: Scene[] = [
     'series': '',
     'title': 'Techsex 2',
     'altTitles': [],
-    'playtime': ' ',
+    'playtime': '0:09:45',
     'partners': [],
     'dvds': [],
-    'tags': [],
+    'tags': ['Solo', 'On Bed'],
     'release': moment('2011-12-14')
   },
   {
@@ -5806,6 +5806,17 @@ export let data: Scene[] = [
     'release': moment('2017-09-05')
   },
   {
+    'producer': 'milena-velba.com',
+    'series': '',
+    'title': 'Candyshop',
+    'altTitles': [],
+    'playtime': '0:12:16',
+    'partners': ['Milena Velba'],
+    'dvds': [],
+    'tags': ['Girl/Girl', 'Neck Tattoo', 'On Desk'],
+    'release': moment('2010-12-01')
+  },
+  {
     'producer': 'mofos.com',
     'series': 'Pervs On Patrol',
     'title': 'Angela White Titty-fucks A Voyeur',
@@ -5843,6 +5854,59 @@ export let data: Scene[] = [
     }],
     'tags': ['JAV'],
     'release': moment('2015-08-07')
+  },
+  {
+    'producer': 'nadine-j.de',
+    'series': '',
+    'title': 'Model and Artist',
+    'altTitles': [],
+    'playtime': '0:00:00',
+    'partners': ['Vendy'],
+    'dvds': [],
+    'tags': [],
+    'release': moment('2011-04-06')
+  },
+  {
+    'producer': 'nadine-j.de',
+    'series': '',
+    'title': 'American Diner',
+    'altTitles': [],
+    'playtime': '0:00:00',
+    'partners': ['Shione Cooper'],
+    'dvds': [],
+    'tags': [],
+    'release': moment('2011-03-18')
+  }, {
+    'producer': 'nadine-j.de',
+    'series': '',
+    'title': 'Crazy Nurse',
+    'altTitles': [],
+    'playtime': '0:13:23',
+    'partners': ['Nadine Jansen'],
+    'dvds': [],
+    'tags': [],
+    'release': moment('2009-05-08')
+  }, {
+    'producer': 'nadine-j.de',
+    'series': '',
+    'title': 'Girls Want Milkshake',
+    'altTitles': [],
+    'playtime': '0:00:00',
+    'partners': ['Shione Cooper'],
+    'dvds': [],
+    'tags': [],
+    'release': moment('2011-03-21')
+  },
+  {
+    'producer': 'nadine-j.de',
+    'series': '',
+    'title': 'Airport Security',
+    'altTitles': [],
+    'playtime': '0:16:34',
+    'partners': ['Nadine Jansen'],
+    'dvds': [],
+    'tags': [],
+    'release': moment('2011-03-18')
   },
   {
     'producer': 'naughtyamerica.com',
@@ -6278,26 +6342,53 @@ export let data: Scene[] = [
     }],
     'tags': [],
     'release': moment('2012-03-30')
+  }, {
+    'producer': 'pornfidelity.com',
+    'series': '',
+    'title': 'Altar of Aphrodite 1',
+    'altTitles': ['Altar of Aphrodite - Scene 1', 'Pornfidelity 686'],
+    'playtime': '0:00:00',
+    'partners': [],
+    'dvds': [{
+      title: 'Altar of Aphrodite',
+      link: 'https://angelawhitestore.com/1921735/altar-of-aphrodite-the-porn-videos.html'
+    }],
+    'tags': ['Non Sex'],
+    'release': moment('2017-04-18')
+  }, {
+    'producer': 'pornfidelity.com',
+    'series': '',
+    'title': 'Altar of Aphrodite 2',
+    'altTitles': ['Altar of Aphrodite - Scene 2', 'Pornfidelity 687'],
+    'playtime': '0:00:00',
+    'partners': [],
+    'dvds': [{
+      title: 'Altar of Aphrodite',
+      link: 'https://angelawhitestore.com/1921735/altar-of-aphrodite-the-porn-videos.html'
+    }],
+    'tags': ['Non Sex'],
+    'release': moment('2017-04-25')
   },
   {
     'producer': 'pornfidelity.com',
     'series': '',
-    'title': 'Altar of Aphrodite - Scene 3',
-    'altTitles': ['Pornfidelity 688'],
+    'title': 'Altar of Aphrodite 3',
+    'altTitles': ['Altar of Aphrodite - Scene 3', 'Pornfidelity 688'],
     'playtime': '0:37:17',
     'partners': ['Ryan Rider'],
     'dvds': [{
       title: 'Altar of Aphrodite',
       link: 'https://angelawhitestore.com/1921735/altar-of-aphrodite-the-porn-videos.html'
     }],
-    'tags': [],
+    'tags': ['Boy/Girl', 'Acting', 'Blowjob', 'Titty Fuck', 'Standing', 'Vaginal', 'Doggy', 'Fingering', 'On Bed',
+      'Elbow Birthmark', 'Missionary', 'Cowgirl', 'Spooning', 'Side Fuck', 'Birthmark Left Inner Thigh'],
     'release': moment('2017-05-02')
   },
   {
     'producer': 'pornfidelity.com',
     'series': '',
-    'title': 'Altar of Aphrodite - Scene 4',
-    'altTitles': ['Pornfidelity 689'],
+    'title': 'Altar of Aphrodite 4',
+    'altTitles': ['Altar of Aphrodite - Scene 4', 'Pornfidelity 689'],
     'playtime': '0:40:39',
     'partners': ['Chad White', 'Flash Brown'],
     'dvds': [{
