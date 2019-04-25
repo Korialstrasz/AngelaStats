@@ -3470,10 +3470,13 @@ export let data: Scene[] = [
     'producer': 'ddfnetwork.com',
     'series': '',
     'title': 'chesty and messy',
-    'altTitles': [],
+    'altTitles': ['Big Tits Like Big Dicks - Scene 4'],
     'playtime': '0:16:49',
     'partners': [],
-    'dvds': [],
+    'dvds': [{
+      title: 'Big Tits Like Big Dicks',
+      link: 'https://www.hotmovies.com/video/227916/Big-Tits-Like-Big-Dicks/'
+    }],
     'tags': ['Solo', 'Outside', 'Easter', 'Chocolate'],
     'release': moment('2012-04-09')
   },
@@ -4549,7 +4552,7 @@ export let data: Scene[] = [
     'producer': 'girlfriendsfilms.com',
     'series': '',
     'title': 'Lesbian Psychodramas Vol. 29 - Scene 1',
-    'altTitles': ['Older/Younger: Unrefined 5 - Scene 1'],
+    'altTitles': ['Older/Younger: Unrefined 5 - Scene 1', 'Big Boobs: It\'s A Girlfriend\'s Thing - Scene 8'],
     'playtime': '0:58:38',
     'partners': ['Milana May'],
     'dvds': [{
@@ -4558,6 +4561,9 @@ export let data: Scene[] = [
     }, {
       title: 'Older/Younger: Unrefined 5',
       link: 'https://angelawhitestore.com/2550510/olderyounger-unrefined-5-popporn-exclusive-porn-movies.html'
+    }, {
+      title: 'Big Boobs: It\'s A Girlfriend\'s Thing',
+      link: 'https://angelawhitestore.com/2656554/big-boobs-its-a-girlfriends-thing-porn-movies.html'
     }],
     'tags': [],
     'release': moment('2018-06-06')
@@ -4857,10 +4863,10 @@ export let data: Scene[] = [
     'series': '',
     'title': 'Maid For Each Other: My M.A.I.D.D.',
     'altTitles': [],
-    'playtime': '00:00:00',
+    'playtime': '00:42:45',
     'partners': ['Jill Kassidy'],
     'dvds': [],
-    'tags': [],
+    'tags': ['Girl/Girl'],
     'release': moment('2019-04-25')
   },
   {
@@ -6353,7 +6359,7 @@ export let data: Scene[] = [
       title: 'Altar of Aphrodite',
       link: 'https://angelawhitestore.com/1921735/altar-of-aphrodite-the-porn-videos.html'
     }],
-    'tags': ['Non Sex'],
+    'tags': ['Non Sex', 'Acting'],
     'release': moment('2017-04-18')
   }, {
     'producer': 'pornfidelity.com',
@@ -6366,7 +6372,7 @@ export let data: Scene[] = [
       title: 'Altar of Aphrodite',
       link: 'https://angelawhitestore.com/1921735/altar-of-aphrodite-the-porn-videos.html'
     }],
-    'tags': ['Non Sex'],
+    'tags': ['Non Sex', 'Acting'],
     'release': moment('2017-04-25')
   },
   {
@@ -6381,7 +6387,8 @@ export let data: Scene[] = [
       link: 'https://angelawhitestore.com/1921735/altar-of-aphrodite-the-porn-videos.html'
     }],
     'tags': ['Boy/Girl', 'Acting', 'Blowjob', 'Titty Fuck', 'Standing', 'Vaginal', 'Doggy', 'Fingering', 'On Bed',
-      'Elbow Birthmark', 'Missionary', 'Cowgirl', 'Spooning', 'Side Fuck', 'Birthmark Left Inner Thigh'],
+      'Elbow Birthmark', 'Missionary', 'Cowgirl', 'Spooning', 'Side Fuck', 'Birthmark Left Inner Thigh', 'Reverse Cowgirl',
+      'Deepthroat', 'Against Wall', 'On Couch', 'Choking', 'Neck Tattoo', 'Cunnilingus'],
     'release': moment('2017-05-02')
   },
   {
@@ -6395,7 +6402,8 @@ export let data: Scene[] = [
       title: 'Altar of Aphrodite',
       link: 'https://angelawhitestore.com/1921735/altar-of-aphrodite-the-porn-videos.html'
     }],
-    'tags': [],
+    'tags': ['Bath', 'Boy/Boy/Girl', 'Acting', 'Blindfold', 'Blowjob', 'Elbow Birthmark', 'Deepthroat', 'Vaginal',
+      'Standing', 'Doggy', 'On Chair'],
     'release': moment('2017-05-09')
   },
   {
@@ -6626,58 +6634,99 @@ export let data: Scene[] = [
   {
     'producer': 'scoreland.com',
     'series': '',
-    'title': 'A day with Angela',
+    'title': 'A day with Angela - Scene 1',
     'altTitles': [],
     'playtime': '0:25:34',
     'partners': [],
-    'dvds': [],
-    'tags': []
+    'dvds': [{
+      title: 'A Day With Angela White',
+      link: 'https://www.hotmovies.com/video/47998/A-Day-With-Angela-White'
+    }],
+    'tags': [],
+    'release': moment('2003-09-01')
+  },
+  {
+    'producer': 'scoreland.com',
+    'series': '',
+    'title': 'A day with Angela - Scene 5',
+    'altTitles': [],
+    'playtime': '0:40:55',
+    'partners': [],
+    'dvds': [{
+      title: 'A Day With Angela White',
+      link: 'https://www.hotmovies.com/video/47998/A-Day-With-Angela-White'
+    }],
+    'tags': ['BTS'],
+    'release': moment('2003-09-01')
   },
   {
     'producer': 'scoreland.com',
     'series': '',
     'title': 'Private School Girl',
-    'altTitles': ['Stacked & Packed 7 - Scene X'],
+    'altTitles': ['Stacked & Packed 7 - Scene 1'],
     'playtime': '0:31:11',
     'partners': [],
     'dvds': [{
       title: 'Stacked & Packed 7',
       link: 'https://angelawhitestore.com/1321351/stacked-packed-7-porn-movies.html'
     }],
-    'tags': ['Solo']
+    'tags': ['Solo'],
+    'release': moment('2005-03-01')
   },
   {
     'producer': 'scoreland.com',
     'series': '',
-    'title': 'Angela\'s locker room layover',
-    'altTitles': [],
+    'title': 'Angela\'s Locker Room Layover',
+    'altTitles': ['A Day With Angela White - Scene 2', 'A Day With Angela White - Scene 3', 'A Day With Angela White - Scene 4'],
     'playtime': '0:34:58',
     'partners': [],
-    'dvds': [],
-    'tags': ['BTS']
+    'dvds': [{
+      title: 'A Day With Angela White',
+      link: 'https://www.hotmovies.com/video/47998/A-Day-With-Angela-White'
+    }],
+    'tags': ['Solo'],
+    'release': moment('2003-09-01')
   },
   {
     'producer': 'scoreland.com',
     'series': '',
     'title': 'Bath time for Angela',
-    'altTitles': [],
+    'altTitles': ['A Day With Angela White - Scene 6'],
     'playtime': '0:11:27',
     'partners': [],
-    'dvds': [],
-    'tags': ['Solo', 'Bath', 'Water']
+    'dvds': [{
+      title: 'A Day With Angela White',
+      link: 'https://www.hotmovies.com/video/47998/A-Day-With-Angela-White'
+    }],
+    'tags': ['Solo', 'Bath', 'Water'],
+    'release': moment('2003-09-01')
   },
   {
     'producer': 'scoreland.com',
     'series': '',
     'title': 'Bosom Buddies',
-    'altTitles': [],
+    'altTitles': ['Bosom Buddies 6 - Scene 1'],
     'playtime': '0:25:29',
     'partners': ['Brandy Talore'],
     'dvds': [{
-      title: 'Bosom Buddies #6',
+      title: 'Bosom Buddies 6',
       link: 'https://angelawhitestore.com/1323397/bosom-buddies-6-porn-movies.html'
     }],
-    'tags': ['Girl/Girl', 'On Bed', 'Strap-on']
+    'tags': ['Girl/Girl', 'On Bed', 'Strap-on'],
+    'release': moment('2005-03-01')
+  }, {
+    'producer': 'scoreland.com',
+    'series': '',
+    'title': 'B.L.O.W. - Busty Ladies Of Oil Wrestling - Scene 4',
+    'altTitles': ['Bosom Buddies 6 - Scene 1'],
+    'playtime': '0:23:17',
+    'partners': ['Brandy Talore'],
+    'dvds': [{
+      title: 'B.L.O.W. - Busty Ladies Of Oil Wrestling',
+      link: 'https://www.hotmovies.com/video/63604/B-L-O-W-Busty-Ladies-Of-Oil-Wrestling/'
+    }],
+    'tags': [],
+    'release': moment('2005-01-01')
   },
   {
     'producer': 'scoreland.com',
@@ -6713,10 +6762,13 @@ export let data: Scene[] = [
     'producer': 'scoreland.com',
     'series': '',
     'title': 'Angela Jacks You Off',
-    'altTitles': [],
+    'altTitles': ['Tits and Tugs Hardcut 3 - Scene 1'],
     'playtime': '0:18:37',
     'partners': [],
-    'dvds': [],
+    'dvds': [{
+      title: 'Tits and Tugs Hardcut 3',
+      link: 'https://www.hotmovies.com/video/282766/Tits-Tugs-Hardcut-3/'
+    }],
     'tags': [],
     'release': moment('2011-03-25')
   },

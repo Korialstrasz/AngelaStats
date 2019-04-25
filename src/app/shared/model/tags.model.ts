@@ -28,6 +28,7 @@ export type Tag =
   | 'Clamps'
   | 'Easter'
   | 'Chocolate'
+  | 'Blindfold'
   | 'Riding Crop'
   | 'Cheating'
   | 'Anilingus'
