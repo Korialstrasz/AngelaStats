@@ -4866,7 +4866,8 @@ export let data: Scene[] = [
     'playtime': '00:42:45',
     'partners': ['Jill Kassidy'],
     'dvds': [],
-    'tags': ['Girl/Girl'],
+    'tags': ['Girl/Girl', 'Acting', 'Neck Tattoo', 'On Couch', 'Cunnilingus', 'Fingering', 'Birthmark Left Inner Thigh',
+      'Anilingus', 'Elbow Birthmark', 'Face Sitting', 'Tribbing', 'Feet', 'Cuddling'],
     'release': moment('2019-04-25')
   },
   {
