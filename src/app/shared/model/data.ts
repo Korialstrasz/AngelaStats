@@ -2817,8 +2817,7 @@ export let data: Scene[] = [
     'dvds': [],
     'tags': [],
     'release': moment('2018-11-08')
-  },
-  {
+  }, {
     'producer': 'bangbros.com',
     'series': 'Big Tits, Round Asses',
     'title': 'Stepsister Takes Selfies of Her huge Tits',
@@ -2838,6 +2837,16 @@ export let data: Scene[] = [
     }],
     'tags': [],
     'release': moment('2017-01-19')
+  }, {
+    'producer': 'bangbros.com',
+    'series': 'Big Tits, Round Asses',
+    'title': 'Stretching My Sister in Law\'s Asshole',
+    'altTitles': [],
+    'playtime': '0:54:27',
+    'partners': ['Logan Long'],
+    'dvds': [],
+    'tags': [],
+    'release': moment('2019-05-09')
   }, {
     'producer': 'bangbros.com',
     'series': 'Monsters of Cock',
