@@ -3860,17 +3860,18 @@ export let data: Scene[] = [
   }, {
     'producer': 'evilangel.com',
     'series': '',
-    'title': 'Anal Angels 3 - Scene 2',
+    'title': 'Big-Boob Angela: Anal/Cum Facial',
     'altTitles': ['Anal Angels 3 - Scene 2'],
-    'playtime': '00:00:00',
+    'playtime': '00:56:24',
     'partners': ['Jonni Darkko'],
     'dvds': [{
       title: 'Anal Angels 3',
       link: 'https://angelawhitestore.com/2650308/anal-angels-3-porn-movies.html'
     }],
-    'tags': ['Girl/Girl', 'Elbow Birthmark', 'On Desk', 'Cunnilingus', 'Fingering', '69', 'Face Sitting', 'Tribbing',
-      'Birthmark Left Inner Thigh', 'Cupcake'],
-    'release': moment('2019-05-01')
+    'tags': ['Boy/Girl', 'Anal', 'Stockings', 'Dirty Talk', 'POV', 'Blowjob', 'Deepthroat', 'On Bed', 'Missionary',
+      'Anal', 'Gaping', 'Birthmark Left Inner Thigh', 'Vaginal', 'Oil', 'Pussy to Ass', 'Switching Holes', 'Ass to Pussy',
+      'Fingering', 'Spit', 'Spooning', 'Titty Fuck'],
+    'release': moment('2019-04-28')
   },
   {
     'producer': 'evilangel.com',
@@ -4818,7 +4819,7 @@ export let data: Scene[] = [
     'partners': ['Shyla Jennings'],
     'dvds': [],
     'tags': [],
-    'release': moment('2017-05-09')
+    'release': moment('2017-05-16')
   },
   {
     'producer': 'girlsway.com',
@@ -6413,7 +6414,8 @@ export let data: Scene[] = [
       link: 'https://angelawhitestore.com/1921735/altar-of-aphrodite-the-porn-videos.html'
     }],
     'tags': ['Bath', 'Boy/Boy/Girl', 'Acting', 'Blindfold', 'Blowjob', 'Elbow Birthmark', 'Deepthroat', 'Vaginal',
-      'Standing', 'Doggy', 'On Chair'],
+      'Standing', 'Doggy', 'On Chair', 'On Couch', 'Missionary', 'Birthmark Left Inner Thigh', 'Reverse Cowgirl',
+      'Spooning', 'Ballerina', 'Side Fuck'],
     'release': moment('2017-05-09')
   },
   {
