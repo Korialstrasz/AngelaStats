@@ -1073,7 +1073,9 @@ export let data: Scene[] = [
     'playtime': '0:41:48',
     'partners': ['Steve Holmes'],
     'dvds': [],
-    'tags': ['Boy/Girl', 'Candid', 'POV'],
+    'tags': ['Boy/Girl', 'Candid', 'POV', 'Elbow Birthmark', 'On Bed', 'Blowjob', 'Deepthroat', 'Fingering', 'Vaginal', 'Cowgirl',
+      'Titty Fuck', 'Reverse Cowgirl', 'Finger in Butt', 'Spanking', 'On Couch', 'Anilingus', 'Cunnilingus', 'Doggy',
+      'Missionary', 'Neck Tattoo', 'Grinding' ],
     'release': moment('2014-11-23')
   },
   {
