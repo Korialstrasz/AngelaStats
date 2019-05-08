@@ -1075,7 +1075,7 @@ export let data: Scene[] = [
     'dvds': [],
     'tags': ['Boy/Girl', 'Candid', 'POV', 'Elbow Birthmark', 'On Bed', 'Blowjob', 'Deepthroat', 'Fingering', 'Vaginal', 'Cowgirl',
       'Titty Fuck', 'Reverse Cowgirl', 'Finger in Butt', 'Spanking', 'On Couch', 'Anilingus', 'Cunnilingus', 'Doggy',
-      'Missionary', 'Neck Tattoo', 'Grinding' ],
+      'Missionary', 'Neck Tattoo', 'Grinding'],
     'release': moment('2014-11-23')
   },
   {
@@ -1256,7 +1256,9 @@ export let data: Scene[] = [
     'playtime': '1:07:42',
     'partners': ['Steve Holmes', 'Phoenix Marie'],
     'dvds': [],
-    'tags': ['Boy/Girl/Girl', 'Candid', 'POV'],
+    'tags': ['Boy/Girl/Girl', 'POV', 'Candid', 'Anilingus', 'Cunnilingus', 'On Couch', 'Elbow Birthmark', 'Blowjob',
+      'Deepthroat', 'On Chair', 'Vaginal', 'Cowgirl', 'Doggy', 'Finger in Butt', 'Choking', 'Pillow Fight', 'Spanking',
+      'Anal', 'Dirty Talk', 'Feet', 'Face Sitting', '69', 'Titty Fuck', 'Handjob'],
     'release': moment('2015-04-07')
 
   },
@@ -2148,7 +2150,7 @@ export let data: Scene[] = [
     }],
     'tags': ['Boy/Girl', 'On Couch', 'Creampie', 'Vaginal', 'Cuddling', 'Missionary', 'Cowgirl', 'Fingering', 'Squirt', 'Choking',
       'Blowjob', 'Face Sitting', 'Handjob', 'Cunnilingus', 'Spooning', 'Doggy', 'Finger in Butt', 'Neck Tattoo', '69',
-      'Feet', 'Anilingus', 'Elbow Birthmark', 'AVN Best Boy/Girl Sex Scene 2018', 'AVN Best Star Showcase 2018'],
+      'Feet', 'Anilingus', 'Elbow Birthmark', 'Tears', 'AVN Best Boy/Girl Sex Scene 2018', 'AVN Best Star Showcase 2018'],
     'release': moment('2017-09-21')
   },
   {
@@ -2689,8 +2691,20 @@ export let data: Scene[] = [
       'Titty Fuck', 'On Desk', 'Cunnilingus', 'Vaginal', 'Doggy', 'Birthmark Left Inner Thigh', 'Missionary', 'Choking',
       '69', 'Side Fuck', 'Cowgirl', 'Spooning'],
     'release': moment('2018-02-16')
-  },
-  {
+  }, {
+    'producer': 'bellesafilms.com',
+    'series': '',
+    'title': 'Secrets & Seductions - Scene X',
+    'altTitles': [],
+    'playtime': '0:00:00',
+    'partners': ['Ramon Nomar'],
+    'dvds': [{
+      title: 'Secrets & Seductions',
+      link: 'https://angelawhitestore.com/2665391/secrets-seductions-porn-movies.html'
+    }],
+    'tags': [],
+    'release': moment('2019-06-01')
+  }, {
     'producer': 'bang.com',
     'series': 'Bang! Trickery',
     'title': 'Angela White Is A Hot Doctor That Cures Her Patient\'s Erectile Dysfunction',
@@ -3451,8 +3465,19 @@ export let data: Scene[] = [
     'dvds': [],
     'tags': ['Solo', 'Outside', 'Vibrator', 'On Couch'],
     'release': moment('2017-12-23')
-  },
-  {
+  }, {
+    'producer': 'ddfnetwork.com',
+    'series': '',
+    'title': 'Persuasive Busty Arguments',
+    'altTitles': [],
+    'playtime': '00:39:09',
+    'partners': ['Manuel Ferrara'],
+    'dvds': [],
+    'tags': ['Solo', 'Outside', 'On Couch', 'Boy/Girl', 'Blowjob', 'Deepthroat', 'Titty Fuck', 'Handjob', 'Elbow Birthmark',
+      'Vaginal', 'Cowgirl', 'Clothed', 'Heels', 'Standing', 'Doggy', 'Anilingus', 'Neck Tattoo', 'Finger in Butt', 'Cunnilingus',
+      'Tears', 'Spooning', 'Choking', 'Finger in Butt', 'Missionary', 'Feet', 'Birthmark Left Inner Thigh', 'Squirt'],
+    'release': moment('2019-05-05')
+  }, {
     'producer': 'ddfnetwork.com',
     'series': '',
     'title': 'Good Morning Let\'s Fuck',
@@ -3595,7 +3620,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:00:00',
     'partners': [],
-    'dvds': [],
+    'dvds': [{
+      title: 'Fuck Forever',
+      link: 'https://angelawhitestore.com/2667383/fuck-forever-porn-movies.html'
+    }],
     'tags': ['Non Sex'],
     'release': moment('2019-03-20')
   },
@@ -3606,7 +3634,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:31:22',
     'partners': ['Ivy Wolfe'],
-    'dvds': [],
+    'dvds': [{
+      title: 'Fuck Forever',
+      link: 'https://angelawhitestore.com/2667383/fuck-forever-porn-movies.html'
+    }],
     'tags': ['Girl/Girl', 'On Chair', 'Birthmark Left Inner Thigh', 'Fingering', 'Spanking', 'Anilingus', 'Smothering',
       'Cunnilingus', 'Heels', 'Standing', 'On Desk', 'Elbow Birthmark', 'Tribbing'],
     'release': moment('2019-03-20')
@@ -3618,7 +3649,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:37:08',
     'partners': ['Xander Corvus', 'Gina Valentina'],
-    'dvds': [],
+    'dvds': [{
+      title: 'Fuck Forever',
+      link: 'https://angelawhitestore.com/2667383/fuck-forever-porn-movies.html'
+    }],
     'tags': ['Boy/Girl/Girl', 'In Car', 'On Bed', 'Blowjob', 'Deepthroat', 'Elbow Birthmark', 'Cunnilingus', 'Vaginal',
       'Cowgirl', 'Boots', 'Missionary', 'Face Sitting', 'Doggy', 'Pussy to Mouth', '69', 'Anilingus', 'Side Fuck',
       'Spooning', 'Choking', 'Cum Swap'],
@@ -3792,16 +3826,17 @@ export let data: Scene[] = [
   }, {
     'producer': 'elegantangel.com',
     'series': '',
-    'title': 'Performers Of The Year 2019 - Scene 1',
+    'title': 'Angela White Loves To Fuck Black Cock',
     'altTitles': ['Performers Of The Year 2019 - Scene 1'],
-    'playtime': '0:00:00',
+    'playtime': '0:40:45',
     'partners': ['Isiah Maxwell'],
     'dvds': [{
       title: 'Performers Of The Year 2019',
       link: 'https://angelawhitestore.com/2658950/performers-of-the-year-2019-porn-movies.html'
     }],
-    'tags': [],
-    'release': moment('2019-06-01')
+    'tags': ['Boy/Girl', 'Elbow Birthmark', 'Stockings', 'Blowjob', 'Deepthroat', 'Titty Fuck', 'On Couch', 'Cunnilingus', 'Vaginal',
+      'Missionary', 'Side Fuck', 'Choking', 'Doggy', 'Cowgirl', 'Reverse Cowgirl', 'Birthmark Left Inner Thigh', 'Handjob'],
+    'release': moment('2019-05-03')
   }, {
     'producer': 'elegantangel.com',
     'series': '',
@@ -4841,7 +4876,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '00:29:35',
     'partners': ['Kira Noir'],
-    'dvds': [],
+    'dvds': [{
+      title: 'No Experience, No Problem',
+      link: 'https://angelawhitestore.com/2661089/no-experience-no-problem-porn-movies.html'
+    }],
     'tags': ['Girl/Girl', 'Acting', 'On Couch', 'Strap-on', 'Blowjob', 'Birthmark Left Inner Thigh', 'Vaginal', 'Hurt Knee',
       'Glasses', 'Doggy', 'Cunnilingus', 'Elbow Birthmark', 'Anilingus', 'Fingering', 'Panty Gag'],
     'release': moment('2019-01-13')
@@ -5396,7 +5434,7 @@ export let data: Scene[] = [
     'title': 'Austrailian Sex Party 1',
     'altTitles': [],
     'playtime': ' ',
-    'partners': [],
+    'partners': ['Zahra Stardust'],
     'dvds': [],
     'tags': [],
     'release': moment('2013-01-01')
@@ -5407,7 +5445,7 @@ export let data: Scene[] = [
     'title': 'Austrailian Sex Party 2',
     'altTitles': [],
     'playtime': ' ',
-    'partners': [],
+    'partners': ['Zahra Stardust'],
     'dvds': [],
     'tags': [],
     'release': moment('2013-01-15')
@@ -5418,7 +5456,7 @@ export let data: Scene[] = [
     'title': 'Austrailian Sex Party 3',
     'altTitles': [],
     'playtime': ' ',
-    'partners': [],
+    'partners': ['Zahra Stardust'],
     'dvds': [],
     'tags': [],
     'release': moment('2013-01-29')
