@@ -4,7 +4,14 @@ import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
 import {BrowserModule} from '@angular/platform-browser';
 
 import {MatInputModule} from '@angular/material/input';
-import {MatButtonModule, MatButtonToggleModule, MatCheckboxModule, MatRadioModule} from '@angular/material';
+import {
+  MatButtonModule,
+  MatButtonToggleModule,
+  MatCheckboxModule,
+  MatDialogModule,
+  MatIconModule,
+  MatRadioModule
+} from '@angular/material';
 
 import {AppComponent} from './app.component';
 import {SceneEntryComponent} from './scene-entry/scene-entry.component';
@@ -16,6 +23,7 @@ import {MomentPipe} from './shared/pipes/moment.pipe';
 import {DvdListComponent} from './dvd-list/dvd-list.component';
 import {DvdEntryComponent} from './dvd-entry/dvd-entry.component';
 import {CopyToClipboardComponent} from './shared/components/copy-to-clipboard/copy-to-clipboard.component';
+import {InfoComponent} from './info/info.component';
 
 @NgModule({
   declarations: [
@@ -29,6 +37,7 @@ import {CopyToClipboardComponent} from './shared/components/copy-to-clipboard/co
     DvdListComponent,
     DvdEntryComponent,
     CopyToClipboardComponent,
+    InfoComponent,
   ],
   imports: [
     BrowserModule,
@@ -38,7 +47,12 @@ import {CopyToClipboardComponent} from './shared/components/copy-to-clipboard/co
     MatCheckboxModule,
     MatRadioModule,
     MatButtonToggleModule,
-    MatButtonModule
+    MatButtonModule,
+    MatIconModule,
+    MatDialogModule,
+  ],
+  entryComponents: [
+    InfoComponent
   ],
   providers: [],
   bootstrap: [AppComponent]

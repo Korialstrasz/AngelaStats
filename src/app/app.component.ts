@@ -1,6 +1,8 @@
 import {Component} from '@angular/core';
 import {Location, LocationStrategy, PathLocationStrategy} from '@angular/common';
 import {environment} from '../environments/environment';
+import {MatDialog} from '@angular/material';
+import {InfoComponent} from './info/info.component';
 
 @Component({
   selector: 'aws-root',
@@ -16,7 +18,7 @@ export class AppComponent {
   toggle = 'scene';
   buildTime = environment.version;
 
-  constructor(private loc: Location) {
+  constructor(private loc: Location, private dialog: MatDialog) {
     const query = loc.path().replace('?', '');
     if (query !== undefined && query !== '') {
       [this.toggle, this.searchTerm] = decodeURIComponent(query).split('=');
@@ -30,4 +32,7 @@ export class AppComponent {
     }
   }
 
+  openInfo() {
+    this.dialog.open(InfoComponent);
+  }
 }

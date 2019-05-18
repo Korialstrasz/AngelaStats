@@ -14,7 +14,7 @@
     </mat-button-toggle-group>
     <a href="https://twitter.com/intent/tweet?text=@korialstraszbob " target="_blank" class="tweet center"> Feedback?
       Tweet @me</a>
-    <span class="center">{{buildTime}}</span>
+    <button class="center" mat-flat-button (click)="openInfo()"> <mat-icon>info</mat-icon> {{buildTime}}</button>
   </div>
 
   <aws-overview *ngIf="toggle === 'scene'" [searchTerm]="searchTermScene" type="scene"></aws-overview>

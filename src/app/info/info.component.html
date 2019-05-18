@@ -1,0 +1,6 @@
+<div *ngFor="let info of infos">
+  <p>{{info.date}}</p>
+  <ul>
+    <li *ngFor="let message of info.messageText">{{message}}</li>
+  </ul>
+</div>
