@@ -2087,7 +2087,10 @@ export let data: Scene[] = [
       title: 'Angela Loves Anal 2',
       link: 'https://angelawhitestore.com/2554826/angela-loves-anal-2-porn-movies.html'
     }],
-    'tags': [],
+    'tags': ['Boy/Boy/Girl', 'On Couch', 'Anilingus', 'Blowjob', 'Deepthroat', 'Heels', 'Glasses', 'Vaginal', 'Standing', 'Doggy',
+      'Handjob', 'Cowgirl', 'Anal', 'Gaping', 'Ass to Pussy', 'Pussy to Ass', 'Switching Holes', 'DP', 'Double Penetration',
+      'Neck Tattoo', 'Choking', 'Reverse Cowgirl', 'Side Fuck', 'Missionary', 'Cunnilingus', 'Squirt', '69', 'DA', 'Double Anal',
+      'Fingering', 'DV', 'Double Vaginal', 'Side-Saddle Cowgirl'],
     'release': moment('2018-11-02')
   },
   {
@@ -2851,7 +2854,8 @@ export let data: Scene[] = [
       title: 'Girls Of BangBros Vol. 76: Angela White',
       link: 'https://angelawhitestore.com/1969197/girls-of-bangbros-vol-76-angela-white-porn-movies.html'
     }],
-    'tags': [],
+    'tags': ['Boy/Girl', 'Elbow Birthmark', 'Blowjob', 'Deepthroat', 'POV', 'On Chair', 'Titty Fuck', 'On Bed', 'Doggy',
+      'Missionary', 'Birthmark Left Inner Thigh', 'Cunnilingus', 'Reverse Cowgirl', 'Spooning', 'Cowgirl'],
     'release': moment('2017-01-19')
   }, {
     'producer': 'bangbros.com',
@@ -2859,9 +2863,12 @@ export let data: Scene[] = [
     'title': 'Stretching My Sister in Law\'s Asshole',
     'altTitles': [],
     'playtime': '0:54:27',
-    'partners': ['Logan Long'],
+    'partners': ['Tommy Pistol'],
     'dvds': [],
-    'tags': [],
+    'tags': ['Elbow Birthmark', 'Bath', 'Water', 'Neck Tattoo', 'Acting', 'Comedy', 'Blowjob', 'Deepthroat', 'Titty Fuck',
+      'Spit', 'Heels', 'Cunnilingus', 'Fingering', 'Anilingus', 'Feet', 'Face Sitting', '69', 'Vaginal', 'Reverse Cowgirl',
+      'Birthmark Left Inner Thigh', 'Anal', 'Ass to Mouth', 'Cowgirl', 'Gaping', 'Side Fuck', 'Choking', 'Pile Driver', 'Footjob',
+      'Doggy', 'Balls in Ass', 'Pussy to Ass', 'Switching Holes', 'Ass to Pussy', 'Missionary'],
     'release': moment('2019-05-09')
   }, {
     'producer': 'bangbros.com',
@@ -3099,7 +3106,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:33:09',
     'partners': ['Keiran Lee'],
-    'dvds': [],
+    'dvds': [{
+      title: 'Slippery When Wet 4',
+      link: 'https://angelawhitestore.com/2670956/slippery-when-wet-4-porn-movies.html'
+    }],
     'tags': [],
     'release': moment('2017-04-24')
   },
@@ -3750,6 +3760,9 @@ export let data: Scene[] = [
     'dvds': [{
       title: 'Big Wet Tits 17',
       link: 'https://angelawhitestore.com/1954577/big-wet-tits-17-porn-movies.html'
+    }, {
+      title: 'Natural D\'s',
+      link: 'https://angelawhitestore.com/2659257/natural-ds-porn-movies.html'
     }],
     'tags': [],
     'release': moment('2018-02-19')
@@ -3962,6 +3975,19 @@ export let data: Scene[] = [
     }],
     'tags': ['Non Sex'],
     'release': moment('2018-07-18')
+  }, {
+    'producer': 'evilangel.com',
+    'series': '',
+    'title': 'Trans Glam - Scene X',
+    'altTitles': [],
+    'playtime': '0:00:0',
+    'partners': ['Aubrey Kate'],
+    'dvds': [{
+      title: 'Trans Glam',
+      link: 'https://angelawhitestore.com/2660602/trans-glam-porn-movies.html'
+    }],
+    'tags': [],
+    'release': moment('2010-06-05')
   },
   {
     'producer': 'evilangel.com',
@@ -4852,11 +4878,22 @@ export let data: Scene[] = [
     'series': '',
     'title': 'Lesbian Sports-Widow',
     'altTitles': [],
-    'playtime': '0:00:00',
+    'playtime': '0:42:51',
     'partners': ['Shyla Jennings'],
     'dvds': [],
+    'tags': ['Girl/Girl', 'Acting', 'On Couch', 'Cunnilingus', 'Neck Tattoo', 'Tribbing', 'Face Sitting', 'Fingering',
+      'Elbow Birthmark', 'Birthmark Left Inner Thigh', 'Biting'],
+    'release': moment('2019-05-16')
+  }, {
+    'producer': 'girlsway.com',
+    'series': '',
+    'title': 'Obsessed With Pussy',
+    'altTitles': [],
+    'playtime': '0:00:00',
+    'partners': ['Penny pax'],
+    'dvds': [],
     'tags': [],
-    'release': moment('2017-05-16')
+    'release': moment('2019-06-02')
   },
   {
     'producer': 'girlsway.com',
@@ -4891,7 +4928,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '00:45:15',
     'partners': ['Abella Danger', 'Krissy Lynn'],
-    'dvds': [],
+    'dvds': [{
+      title: 'Play With My Hole',
+      link: 'https://www.angelawhitestore.com/2667182/play-with-my-hole-porn-movies.html'
+    }],
     'tags': ['Girl/Girl/Girl', 'Acting', 'On Desk', 'Anal', 'Cunnilingus', 'Elbow Birthmark', 'Feet',
       'Birthmark Left Inner Thigh', 'Fingering', 'Face Sitting', 'Anilingus', 'Dildo', 'Anal', 'Squirt', 'Smothering', 'Vaginal'],
     'release': moment('2019-01-27')
@@ -6141,6 +6181,9 @@ export let data: Scene[] = [
     'dvds': [{
       title: 'In The Room : I Like To Watch',
       link: 'https://angelawhitestore.com/2585366/in-the-room-i-like-to-watch-porn-movies.html'
+    }, {
+      title: 'The Most Beautiful Girls In Porn 3',
+      link: 'https://www.angelawhitestore.com/2669040/most-beautiful-girls-in-porn-3-the-porn-movies.html'
     }],
     'tags': ['Boy/Girl', 'Voyeur', 'Bath', 'Blowjob', 'On Bed', 'Deepthroat', 'Cowgirl', '69', 'Reverse Cowgirl',
       'Side Fuck', 'Cunnilingus', 'Anilingus', 'Feet', 'Doggy', 'Jerk Off Instructions', 'Elbow Birthmark', 'Choking',
@@ -6209,6 +6252,9 @@ export let data: Scene[] = [
     }, {
       title: 'The Sexual Desires Of Angela White',
       link: 'https://angelawhitestore.com/2625155/sexual-desires-of-angela-white-the-porn-movies.html'
+    }, {
+      title: 'Top Stars Vol. 3',
+      link: 'https://angelawhitestore.com/2660598/top-stars-vol-3-porn-movies.html'
     }],
     'tags': [],
     'release': moment('2017-01-25')

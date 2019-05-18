@@ -179,6 +179,7 @@ export type Tag =
   | 'Pussy Stack'
   | 'Pillow Fight'
   | 'Tears'
+  | 'Balls in Ass'
   | 'Switching'
   | 'Pool'
   | 'AVN Best Gonzo Movie 2017'
