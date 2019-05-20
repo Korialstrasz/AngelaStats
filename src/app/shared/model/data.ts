@@ -3110,7 +3110,9 @@ export let data: Scene[] = [
       title: 'Slippery When Wet 4',
       link: 'https://angelawhitestore.com/2670956/slippery-when-wet-4-porn-movies.html'
     }],
-    'tags': [],
+    'tags': ['Boy/Girl', 'Oil', 'Anilingus', 'On Couch', 'Spanking', 'Anal', 'Doggy', 'Fingering', 'Cunnilingus',
+      'Elbow Birthmark', 'Vaginal', 'Side Fuck', 'Spooning', 'Finger in Butt', 'Feet', 'Blowjob', 'Deepthroat', 'POV',
+      'Reverse Cowgirl', 'Cowgirl'],
     'release': moment('2017-04-24')
   },
   {
