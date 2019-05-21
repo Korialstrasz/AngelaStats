@@ -3087,6 +3087,16 @@ export let data: Scene[] = [
     }],
     'tags': [],
     'release': moment('2016-11-09')
+  },   {
+    'producer': 'brazzers.com',
+    'series': 'Big Wet Butts',
+    'title': 'Forest Nymph-o-maniac',
+    'altTitles': [],
+    'playtime': '0:33:00',
+    'partners': ['Isiah Maxwell'],
+    'dvds': [],
+    'tags': [],
+    'release': moment('2019-05-25')
   },
   {
     'producer': 'brazzers.com',
