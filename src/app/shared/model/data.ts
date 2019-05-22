@@ -2697,16 +2697,16 @@ export let data: Scene[] = [
   }, {
     'producer': 'bellesafilms.com',
     'series': '',
-    'title': 'Secrets & Seductions - Scene X',
-    'altTitles': [],
-    'playtime': '0:00:00',
+    'title': 'Open House',
+    'altTitles': ['Secrets & Seductions - Scene 1'],
+    'playtime': '0:29:20',
     'partners': ['Ramon Nomar'],
     'dvds': [{
       title: 'Secrets & Seductions',
       link: 'https://angelawhitestore.com/2665391/secrets-seductions-porn-movies.html'
     }],
     'tags': [],
-    'release': moment('2019-06-01')
+    'release': moment('2019-05-22')
   }, {
     'producer': 'bang.com',
     'series': 'Bang! Trickery',
@@ -6622,7 +6622,9 @@ export let data: Scene[] = [
     'playtime': '0:35:56',
     'partners': ['Charles Dera'],
     'dvds': [],
-    'tags': [],
+    'tags': ["Water","Outside","Neck Tattoo","Elbow Birthmark","Choking","Blowjob","Deepthroat","On Couch",
+      "Birthmark Left Inner Thigh","Handjob","Vaginal","Spooning","Oil",
+    ],
     'release': moment('2018-09-18')
   },
   {
