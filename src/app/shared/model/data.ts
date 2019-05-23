@@ -3087,7 +3087,7 @@ export let data: Scene[] = [
     }],
     'tags': [],
     'release': moment('2016-11-09')
-  },   {
+  }, {
     'producer': 'brazzers.com',
     'series': 'Big Wet Butts',
     'title': 'Forest Nymph-o-maniac',
@@ -3196,7 +3196,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:39:09',
     'partners': ['Markus Dupree', 'Xander Corvus'],
-    'dvds': [],
+    'dvds': [{
+      title: 'Pornstar Therapy 3',
+      link: 'https://www.adultempire.com/2674164/pornstar-therapy-3-porn-movies.html'
+    }],
     'tags': [],
     'release': moment('2017-05-02')
   },
@@ -4629,6 +4632,9 @@ export let data: Scene[] = [
     'dvds': [{
       title: 'Lesbian Sex Vol. 18',
       link: 'https://angelawhitestore.com/2505757/lesbian-sex-vol-18-porn-videos.html'
+    }, {
+      title: 'Cheeks',
+      link: 'https://www.adultempire.com/2673996/cheeks-its-a-girlfriends-thing-porn-movies.html'
     }],
     'tags': [],
     'release': moment('2018-06-08')
@@ -6623,7 +6629,7 @@ export let data: Scene[] = [
     'partners': ['Charles Dera'],
     'dvds': [],
     'tags': ['Water', 'Outside', 'Neck Tattoo', 'Elbow Birthmark', 'Choking', 'Blowjob', 'Deepthroat', 'On Couch',
-      'Birthmark Left Inner Thigh', 'Handjob', 'Vaginal', 'Spooning', 'Oil' ],
+      'Birthmark Left Inner Thigh', 'Handjob', 'Vaginal', 'Spooning', 'Oil'],
     'release': moment('2018-09-18')
   },
   {
