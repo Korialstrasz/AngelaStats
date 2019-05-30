@@ -2705,7 +2705,8 @@ export let data: Scene[] = [
       title: 'Secrets & Seductions',
       link: 'https://angelawhitestore.com/2665391/secrets-seductions-porn-movies.html'
     }],
-    'tags': [],
+    'tags': ['Boy/Girl', 'Elbow Birthmark', 'On Couch', 'Feet', 'Cunnilingus', 'Fingering', 'Blowjob', 'Deepthroat', 'Vaginal',
+      'Cowgirl', 'Neck Tattoo', 'Reverse Cowgirl', 'Elbow Birthmark', 'Doggy', 'Missionary', 'Birthmark Left Inner Thigh'],
     'release': moment('2019-05-22')
   }, {
     'producer': 'bang.com',
@@ -3095,7 +3096,8 @@ export let data: Scene[] = [
     'playtime': '0:33:00',
     'partners': ['Isiah Maxwell'],
     'dvds': [],
-    'tags': [],
+    'tags': ['Boy/Girl', 'Oil', 'Blowjob', 'Deepthroat', 'POV', 'Titty Fuck', 'Handjob', 'Vaginal', 'Missionary', 'Anal',
+      'Anilingus', 'Reverse Cowgirl', 'Ass to Mouth', 'Cowgirl', 'Elbow Birthmark', 'Doggy'],
     'release': moment('2019-05-25')
   },
   {
