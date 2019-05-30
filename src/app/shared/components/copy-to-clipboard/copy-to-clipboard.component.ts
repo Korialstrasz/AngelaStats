@@ -11,20 +11,20 @@ export class CopyToClipboardComponent implements OnInit, OnChanges, OnDestroy {
 
   @Input() type = '';
   @Input() searchTerm = '';
-  @ViewChild('copyToClipboard') btn: MatButton;
+  @ViewChild('copyToClipboard', {static: true}) btn: MatButton;
   clipboard: ClipboardJS;
+  private nativeElement: any;
 
   constructor() {
   }
 
   ngOnInit() {
-    const nativeElement = this.btn._elementRef.nativeElement;
-    this.clipboard = new ClipboardJS(nativeElement);
+    this.nativeElement = this.btn._elementRef.nativeElement;
+    this.clipboard = new ClipboardJS(this.nativeElement);
   }
 
   ngOnChanges(changes: SimpleChanges): void {
-    const nativeElement = this.btn._elementRef.nativeElement;
-    nativeElement.getAttributeNode('data-clipboard-text').value =
+    this.nativeElement.getAttributeNode('data-clipboard-text').value =
       `http://angelastats-99708.firebaseapp.com/?${encodeURIComponent(this.type)}=${encodeURIComponent(this.searchTerm)}`;
   }
 
