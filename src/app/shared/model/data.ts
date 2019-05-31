@@ -7440,7 +7440,7 @@ export let data: Scene[] = [
     'title': '2 Broke Girls',
     'altTitles': [],
     'playtime': '0:40:00',
-    'partners': [],
+    'partners': ['Emma Hix'],
     'dvds': [],
     'tags': ['VR', 'Cosplay'],
     'release': moment('2019-05-31')
