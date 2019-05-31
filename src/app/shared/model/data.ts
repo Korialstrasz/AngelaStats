@@ -3202,7 +3202,7 @@ export let data: Scene[] = [
       title: 'Pornstar Therapy 3',
       link: 'https://www.adultempire.com/2674164/pornstar-therapy-3-porn-movies.html'
     }],
-    'tags': [],
+    'tags': ['Boy/Girl/Girl', ],
     'release': moment('2017-05-02')
   },
   {
@@ -3430,7 +3430,7 @@ export let data: Scene[] = [
     'playtime': '0:33:06',
     'partners': ['Bruce Venture'],
     'dvds': [],
-    'tags': ['Elbow Birthmark', 'Birthmark Left Inner Thigh', 'Boy/Girl', 'On Couch'],
+    'tags': ['Cosplay', 'Elbow Birthmark', 'Birthmark Left Inner Thigh', 'Boy/Girl', 'On Couch'],
     'release': moment('2018-12-14')
   },
   {
@@ -6631,7 +6631,9 @@ export let data: Scene[] = [
     'partners': ['Charles Dera'],
     'dvds': [],
     'tags': ['Water', 'Outside', 'Neck Tattoo', 'Elbow Birthmark', 'Choking', 'Blowjob', 'Deepthroat', 'On Couch',
-      'Birthmark Left Inner Thigh', 'Handjob', 'Vaginal', 'Spooning', 'Oil'],
+      'Birthmark Left Inner Thigh', 'Handjob', 'Vaginal', 'Spooning', 'Oil', 'Birthmark Left Inner Thigh', 'Titty Fuck',
+      'POV', 'Dirty Talk', 'Cowgirl',
+    ],
     'release': moment('2018-09-18')
   },
   {
@@ -7432,6 +7434,16 @@ export let data: Scene[] = [
     'dvds': [],
     'tags': ['VR', 'Blowjob', 'Cowgirl', 'Deepthroat', 'Footjob'],
     'release': moment('2019-01-11')
+  }, {
+    'producer': 'vrcosplayx.com',
+    'series': '',
+    'title': '2 Broke Girls',
+    'altTitles': [],
+    'playtime': '0:40:00',
+    'partners': [],
+    'dvds': [],
+    'tags': ['VR', 'Cosplay'],
+    'release': moment('2019-05-31')
   },
   {
     'producer': 'vrhush.com',

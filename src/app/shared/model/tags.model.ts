@@ -162,6 +162,7 @@ export type Tag =
   | 'Suspension'
   | 'Cane'
   | 'Ball Gag'
+  | 'Cosplay'
   | 'Nipple Clamps'
   | 'Bastinado'
   | 'Blackmail'
