@@ -882,10 +882,13 @@ export let data: Scene[] = [
     'producer': 'angelawhite.com',
     'series': '',
     'title': '038 - Angela White',
-    'altTitles': [],
+    'altTitles': ['Angela Loves Anal 2 - Bonus Scene'],
     'playtime': '0:13:58',
     'partners': [],
-    'dvds': [],
+    'dvds': [{
+      title: 'Angela Loves Anal 2',
+      link: 'https://angelawhitestore.com/1926052/angela-loves-anal-porn-movies.html'
+    }],
     'tags': ['Solo', 'Bath', 'Water'],
     'release': moment('2014-06-25')
   },
@@ -3193,6 +3196,17 @@ export let data: Scene[] = [
   },
   {
     'producer': 'brazzers.com',
+    'series': 'Hot And Mean',
+    'title': 'Sunbathing Babes',
+    'altTitles': [],
+    'playtime': '0:32:00',
+    'partners': ['Madison Ivy'],
+    'dvds': [],
+    'tags': [],
+    'release': moment('2019-06-11')
+  },
+  {
+    'producer': 'brazzers.com',
     'series': 'Pornstars Like It Big',
     'title': 'Angela\'s Sex Auction',
     'altTitles': [],
@@ -3202,7 +3216,10 @@ export let data: Scene[] = [
       title: 'Pornstar Therapy 3',
       link: 'https://www.adultempire.com/2674164/pornstar-therapy-3-porn-movies.html'
     }],
-    'tags': ['Boy/Girl/Girl', ],
+    'tags': ['Boy/Girl/Girl', 'Blowjob', 'Deepthroat', 'On Bed', 'Titty Fuck', 'Heels', '69', 'Face Sitting', 'Cunnilingus', 'Fingering',
+      'Cowgirl', 'Vaginal', 'Elbow Birthmark', 'DP', 'Double Penetration', 'Gaping', 'On Couch', 'Anal', 'Squirt', 'Switching Holes',
+      'Ass to Pussy', 'Pussy to Ass', 'Reverse Cowgirl', 'Choking', 'Doggy', 'Standing', 'Finger in Butt', 'Missionary',
+      'Side Fuck', 'Pile Driver', 'Off the Ground', 'DV', 'Double Vaginal'],
     'release': moment('2017-05-02')
   },
   {
@@ -3995,16 +4012,18 @@ export let data: Scene[] = [
   }, {
     'producer': 'evilangel.com',
     'series': '',
-    'title': 'Trans Glam - Scene X',
-    'altTitles': [],
-    'playtime': '0:00:0',
+    'title': 'TS Aubrey + Curvy Angela\'s Anal Date',
+    'altTitles': ['Trans Glam - Scene 1'],
+    'playtime': '0:48:12',
     'partners': ['Aubrey Kate'],
     'dvds': [{
       title: 'Trans Glam',
       link: 'https://angelawhitestore.com/2660602/trans-glam-porn-movies.html'
     }],
-    'tags': [],
-    'release': moment('2010-06-05')
+    'tags': ['T-Girl/Girl', 'Elbow Birthmark', 'On Couch', 'Spit', 'Grinding', 'Cunnilingus', 'Face Sitting', 'Blowjob', 'Deepthroat',
+      'Titty Fuck', 'Cowgirl', 'Finger in Butt', 'Anilingus', 'Birthmark Left Inner Thigh', 'Missionary', 'Anal', 'Choking',
+      '69', 'Doggy', 'Side Fuck', 'Spooning', 'Cum Swap'],
+    'release': moment('2019-06-03')
   },
   {
     'producer': 'evilangel.com',
@@ -4907,6 +4926,16 @@ export let data: Scene[] = [
   }, {
     'producer': 'girlsway.com',
     'series': '',
+    'title': 'Matchmacker Meddler',
+    'altTitles': [],
+    'playtime': '0:00:00',
+    'partners': ['Aidra Fox', 'Casey Calvert'],
+    'dvds': [],
+    'tags': ['Girl/Girl/Girl'],
+    'release': moment('2019-07-07')
+  },  {
+    'producer': 'girlsway.com',
+    'series': '',
     'title': 'Obsessed With Pussy',
     'altTitles': [],
     'playtime': '0:00:00',
@@ -5692,7 +5721,7 @@ export let data: Scene[] = [
     }],
     'tags': ['Boy/Girl', 'Anal', 'Interracial', 'Stockings', 'On Couch', 'Biting', 'Blowjob', 'Hicky', 'Vaginal',
       'Doggy', 'Cowgirl', 'Reverse Cowgirl', 'Side Fuck', 'Birthmark Left Inner Thigh', 'Ass to Pussy', 'Missionary',
-      'Cum on Tits'],
+      'Pussy to Ass'],
     'release': moment('2018-03-21')
   },
   {
