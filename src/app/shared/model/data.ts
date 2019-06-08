@@ -2697,6 +2697,16 @@ export let data: Scene[] = [
       'Titty Fuck', 'On Desk', 'Cunnilingus', 'Vaginal', 'Doggy', 'Birthmark Left Inner Thigh', 'Missionary', 'Choking',
       '69', 'Side Fuck', 'Cowgirl', 'Spooning'],
     'release': moment('2018-02-16')
+  },  {
+    'producer': 'bang.com',
+    'series': 'Bang! Surprise',
+    'title': 'Angela White Cums Uncontrollably By Getting Her Asshole And Pussy Fucked ',
+    'altTitles': [],
+    'playtime': '0:35:08',
+    'partners': ['Markus Dupree'],
+    'dvds': [],
+    'tags': [],
+    'release': moment('2019-06-10')
   }, {
     'producer': 'bellesafilms.com',
     'series': '',
@@ -4938,7 +4948,7 @@ export let data: Scene[] = [
     'series': '',
     'title': 'Obsessed With Pussy',
     'altTitles': [],
-    'playtime': '0:00:00',
+    'playtime': '0:41:45',
     'partners': ['Penny pax'],
     'dvds': [],
     'tags': [],
@@ -6660,9 +6670,8 @@ export let data: Scene[] = [
     'partners': ['Charles Dera'],
     'dvds': [],
     'tags': ['Water', 'Outside', 'Neck Tattoo', 'Elbow Birthmark', 'Choking', 'Blowjob', 'Deepthroat', 'On Couch',
-      'Birthmark Left Inner Thigh', 'Handjob', 'Vaginal', 'Spooning', 'Oil', 'Birthmark Left Inner Thigh', 'Titty Fuck',
-      'POV', 'Dirty Talk', 'Cowgirl',
-    ],
+      'Birthmark Left Inner Thigh', 'Handjob', 'Vaginal', 'Spooning', 'Oil', 'Titty Fuck', 'POV', 'Dirty Talk',
+      'Cowgirl', 'Reverse Cowgirl', 'Side Fuck', 'Cunnilingus'],
     'release': moment('2018-09-18')
   },
   {
