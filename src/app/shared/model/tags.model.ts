@@ -122,6 +122,8 @@ export type Tag =
   | 'Threesome'
   | 'Bodysuit'
   | 'Jeweled Butt Plug'
+  | 'Heart Butt Plug'
+  | 'Butt Plug'
   | 'Bath'
   | 'Jewellery'
   | 'Choking'

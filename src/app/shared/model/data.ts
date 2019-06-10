@@ -952,7 +952,7 @@ export let data: Scene[] = [
     'playtime': '0:29:24',
     'partners': ['James Deen'],
     'dvds': [],
-    'tags': ['Boy/Girl', 'Jeweled Butt Plug', 'Fingering', 'Blowjob', 'Deepthroat', 'Vaginal', 'Standing', 'Cunnilingus',
+    'tags': ['Boy/Girl', 'Jeweled Butt Plug', 'Butt Plug', 'Fingering', 'Blowjob', 'Deepthroat', 'Vaginal', 'Standing', 'Cunnilingus',
       'On Couch', 'Missionary', 'Side Fuck', 'Titty Fuck', 'Choking', 'Against Wall', 'Cowgirl', 'Doggy', 'Finger in Butt'],
     'release': moment('2014-07-30')
   },
@@ -1041,7 +1041,7 @@ export let data: Scene[] = [
     'partners': ['Phoenix Marie'],
     'dvds': [],
     'tags': ['Girl/Girl', 'Strap-on', 'Blowjob', 'Deepthroat', 'On Couch', 'Spanking', 'Feet', 'Finger in Butt',
-      'Jeweled Butt Plug', 'Elbow Birthmark', 'Dildo', 'Anal', 'Hitachi', 'Neck Tattoo'],
+      'Jeweled Butt Plug', 'Butt Plug', 'Elbow Birthmark', 'Dildo', 'Anal', 'Hitachi', 'Neck Tattoo'],
     'release': moment('2014-10-27')
   },
   {
@@ -1065,7 +1065,7 @@ export let data: Scene[] = [
     'playtime': '0:06:15',
     'partners': [],
     'dvds': [],
-    'tags': ['Solo', 'Jeweled Butt Plug', 'Dildo', 'Anal', 'Gaping', 'Finger in Butt'],
+    'tags': ['Solo', 'Jeweled Butt Plug', 'Butt Plug', 'Dildo', 'Anal', 'Gaping', 'Finger in Butt'],
     'release': moment('2014-11-14')
   },
   {
@@ -2697,7 +2697,7 @@ export let data: Scene[] = [
       'Titty Fuck', 'On Desk', 'Cunnilingus', 'Vaginal', 'Doggy', 'Birthmark Left Inner Thigh', 'Missionary', 'Choking',
       '69', 'Side Fuck', 'Cowgirl', 'Spooning'],
     'release': moment('2018-02-16')
-  },  {
+  }, {
     'producer': 'bang.com',
     'series': 'Bang! Surprise',
     'title': 'Angela White Cums Uncontrollably By Getting Her Asshole And Pussy Fucked ',
@@ -2705,7 +2705,11 @@ export let data: Scene[] = [
     'playtime': '0:35:08',
     'partners': ['Markus Dupree'],
     'dvds': [],
-    'tags': [],
+    'tags': ['Dirty Talk', 'Elbow Birthmark', 'Butt Plug', 'Heart Butt Plug', 'Ass to Mouth', 'Solo', 'Dildo',
+      'Birthmark Left Inner Thigh', 'Vaginal', 'Anal', 'Ass to Pussy', 'Pussy to Ass', 'Switching Holes', 'Fingering',
+      'Squirt', 'Finger in Butt', 'Blowjob', 'Titty Fuck', 'Neck Tattoo', 'On Couch', 'Doggy', 'Gaping', 'Heels',
+      'Anilingus', 'Feet', 'Missionary', 'Choking', 'Cowgirl',
+    ],
     'release': moment('2019-06-10')
   }, {
     'producer': 'bellesafilms.com',
@@ -3004,7 +3008,7 @@ export let data: Scene[] = [
     'playtime': '0:36:00',
     'partners': ['Zac Wild'],
     'dvds': [],
-    'tags': ['Boy/Girl', 'Anal', 'On Couch', 'Bodysuit', 'Clothed', 'Jeweled Butt Plug', 'On Chair', 'Blowjob',
+    'tags': ['Boy/Girl', 'Anal', 'On Couch', 'Bodysuit', 'Clothed', 'Jeweled Butt Plug', 'Butt Plug', 'On Chair', 'Blowjob',
       'Deepthroat', 'Titty Fuck', 'Cunnilingus', 'Vaginal', 'On Desk', 'Standing', 'Cowgirl', 'Reverse Cowgirl',
       'Side-Saddle Cowgirl', 'Side Fuck', 'Choking'],
     'release': moment('2019-02-07')
@@ -4943,7 +4947,7 @@ export let data: Scene[] = [
     'dvds': [],
     'tags': ['Girl/Girl/Girl'],
     'release': moment('2019-07-07')
-  },  {
+  }, {
     'producer': 'girlsway.com',
     'series': '',
     'title': 'Obsessed With Pussy',
@@ -4951,7 +4955,7 @@ export let data: Scene[] = [
     'playtime': '0:41:45',
     'partners': ['Penny pax'],
     'dvds': [],
-    'tags': [],
+    'tags': ['Girl/Girl', 'Acting', 'On Couch', 'Cunnilingus'],
     'release': moment('2019-06-02')
   },
   {
@@ -5801,7 +5805,7 @@ export let data: Scene[] = [
     'playtime': '0:53:36',
     'partners': ['Joanna Angel', 'Ramon Nomar'],
     'dvds': [],
-    'tags': ['Girl/Girl', 'Outside', 'Cunnilingus', 'Fingering', 'Boots', 'Jeweled Butt Plug', 'Finger in Butt', 'On Couch',
+    'tags': ['Girl/Girl', 'Outside', 'Cunnilingus', 'Fingering', 'Boots', 'Jeweled Butt Plug', 'Butt Plug', 'Finger in Butt', 'On Couch',
       'Anilingus', 'Clothed', 'Vaginal', 'Missionary', 'Blowjob', 'Boy/Girl/Girl', 'Deepthroat', '69', 'Face Sitting',
       'Reverse Cowgirl', 'Oil', 'Squirt', 'Cowgirl', 'Anal', 'Doggy', 'Pussy Stack', 'Ass to Pussy', 'Pussy to Ass',
       'Elbow Birthmark', 'Choking', 'Anal Creampie', 'Creampie Eating', 'Cum Swap'],
@@ -7223,10 +7227,10 @@ export let data: Scene[] = [
       title: 'Tushy Raw V1',
       link: 'https://angelawhitestore.com/2653418/tushy-raw-v1-porn-movies.html'
     }],
-    'tags': ['Clothed', 'Blowjob', 'Dirty Talk', 'Deepthroat', 'POV', 'Titty Fuck', 'Jeweled Butt Plug', 'On Chair', 'Cunnilingus',
-      'Vaginal', 'Missionary', 'Anal', 'Gaping', 'Choking', 'Fingering', 'Squirt', 'Ass to Mouth', 'Finger in Butt', 'Doggy',
-      'Neck Tattoo', 'On Couch', 'Elbow Birthmark', 'Reverse Cowgirl', 'Birthmark Left Inner Thigh', 'Cowgirl', 'Ass to Pussy',
-      'Pussy to Ass', 'Switching Holes'],
+    'tags': ['Clothed', 'Blowjob', 'Dirty Talk', 'Deepthroat', 'POV', 'Titty Fuck', 'Jeweled Butt Plug', 'Butt Plug',
+      'On Chair', 'Cunnilingus', 'Vaginal', 'Missionary', 'Anal', 'Gaping', 'Choking', 'Fingering', 'Squirt',
+      'Ass to Mouth', 'Finger in Butt', 'Doggy', 'Neck Tattoo', 'On Couch', 'Elbow Birthmark', 'Reverse Cowgirl',
+      'Birthmark Left Inner Thigh', 'Cowgirl', 'Ass to Pussy', 'Pussy to Ass', 'Switching Holes'],
     'release': moment('2018-11-26')
   },
   {
