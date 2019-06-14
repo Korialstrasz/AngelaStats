@@ -185,6 +185,7 @@ export type Tag =
   | 'Balls in Ass'
   | 'Switching'
   | 'Pool'
+  | 'Shower'
   | 'AVN Best Gonzo Movie 2017'
   | 'AVN Best All-Girl Group Sex Scene 2016'
   | 'AVN Best Boy/Girl Sex Scene 2018'
