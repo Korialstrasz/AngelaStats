@@ -3839,6 +3839,9 @@ export let data: Scene[] = [
     'dvds': [{
       title: 'Oil Explosion 3',
       link: 'https://angelawhitestore.com/1973844/oil-explosion-3-porn-movies.html'
+    }, {
+      title: 'Love my Juggs',
+      link: 'https://angelawhitestore.com/2685047/love-my-juggs-porn-movies.html#boxcover-2'
     }],
     'tags': [],
     'release': moment('2018-06-26')
@@ -3970,6 +3973,20 @@ export let data: Scene[] = [
       'Anal', 'Gaping', 'Birthmark Left Inner Thigh', 'Vaginal', 'Oil', 'Pussy to Ass', 'Switching Holes', 'Ass to Pussy',
       'Fingering', 'Spit', 'Spooning', 'Titty Fuck'],
     'release': moment('2019-04-28')
+  },
+  {
+    'producer': 'evilangel.com',
+    'series': '',
+    'title': 'Fucking Markus - Scene X',
+    'altTitles': [],
+    'playtime': '0:00:00',
+    'partners': ['Markus Dupree'],
+    'dvds': [{
+      title: 'Fucking Markus',
+      link: 'https://angelawhitestore.com/2672427/fucking-markus-porn-movies.html'
+    }],
+    'tags': [],
+    'release': moment('2019-06-30')
   },
   {
     'producer': 'evilangel.com',
@@ -5257,7 +5274,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:36:10',
     'partners': ['April O\'Neil'],
-    'dvds': [],
+    'dvds': [{
+      title: 'Mixed Messages',
+      link: 'https://angelawhitestore.com/2679375/mixed-messages-porn-movies.html'
+    }],
     'tags': [],
     'release': moment('2018-06-11')
   },
@@ -5986,6 +6006,17 @@ export let data: Scene[] = [
     'dvds': [],
     'tags': [],
     'release': moment('2016-10-08')
+  }, {
+    'producer': 'mofos.com',
+    'series': 'I know That Girls',
+    'title': 'Is That Angela?',
+    'altTitles': [],
+    'playtime': '0:38:32',
+    'partners': ['Tony Rubio'],
+    'dvds': [],
+    'tags': ['POV', 'Outside', 'Elbow Birthmark', 'Birthmark Left Inner Thigh', 'Blowjob', 'Deepthroat', 'Titty Fuck',
+      'On Couch', 'Vaginal', 'Missionary', 'Cowgirl', 'Doggy', 'Reverse Cowgirl'],
+    'release': moment('2019-06-15')
   },
   {
     'producer': 'mofos.com',
@@ -7243,7 +7274,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:34:18',
     'partners': ['Ana Foxx'],
-    'dvds': [],
+    'dvds': [{
+      title: 'When Girls Play 7',
+      link: 'https://angelawhitestore.com/2679462/when-girls-play-7-porn-movies.html'
+    }],
     'tags': [],
     'release': moment('2017-01-24')
   },
