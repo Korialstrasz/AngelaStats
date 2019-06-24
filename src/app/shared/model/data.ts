@@ -2731,7 +2731,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:35:30',
     'partners': ['Damon Dice'],
-    'dvds': [],
+    'dvds': [{
+      title: 'The Doctor is in',
+      link: 'https://angelawhitestore.com/2686392/doctor-is-in-the-porn-movies.html'
+    }],
     'tags': ['Boy/Girl', 'Gloves', 'POV', 'Handjob', 'Blowjob', 'Deepthroat', 'Clothed', 'Cowgirl', 'Reverse Cowgirl',
       'Titty Fuck', 'Standing', 'Doggy', 'Cunnilingus', 'Anilingus', 'Fingering', 'Birthmark Left Inner Thigh', 'Missionary',
       'Fingering', 'Squirt', 'Side Fuck'],
@@ -3206,6 +3209,16 @@ export let data: Scene[] = [
     'dvds': [],
     'tags': [],
     'release': moment('2017-03-21')
+  },   {
+    'producer': 'brazzers.com',
+    'series': 'Doctor Adventures',
+    'title': 'Firsthand Experience',
+    'altTitles': [],
+    'playtime': '0:37:00',
+    'partners': ['Markus Dupree'],
+    'dvds': [],
+    'tags': [],
+    'release': moment('2019-06-28')
   },
   {
     'producer': 'brazzers.com',
@@ -3986,7 +3999,7 @@ export let data: Scene[] = [
       link: 'https://angelawhitestore.com/2672427/fucking-markus-porn-movies.html'
     }],
     'tags': [],
-    'release': moment('2019-06-30')
+    'release': moment('2019-07-29')
   },
   {
     'producer': 'evilangel.com',
@@ -4450,6 +4463,16 @@ export let data: Scene[] = [
     }],
     'tags': [],
     'release': moment('2017-09-18')
+  },   {
+    'producer': 'fantasymassage.com',
+    'series': '',
+    'title': 'Dovefucking Discovery',
+    'altTitles': [],
+    'playtime': '0:00:00',
+    'partners': ['Jade Baker'],
+    'dvds': [],
+    'tags': [],
+    'release': moment('2019-07-01')
   },
   {
     'producer': 'fantasymassage.com',
@@ -5928,6 +5951,19 @@ export let data: Scene[] = [
     }],
     'tags': [],
     'release': moment('2017-08-16')
+  }, {
+    'producer': 'milehighmedia.com',
+    'series': '',
+    'title': 'Alexis Loves Girls - Scene 4',
+    'altTitles': [],
+    'playtime': '0:00:00',
+    'partners': ['Alexis Fawx'],
+    'dvds': [{
+      title: 'Alexis Loves Girls',
+      link: 'https://angelawhitestore.com/2685987/alexis-loves-girls-porn-movies.html'
+    }],
+    'tags': [],
+    'release': moment('2019-07-15')
   },
   {
     'producer': 'milehighmedia.com',
