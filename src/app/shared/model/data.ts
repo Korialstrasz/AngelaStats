@@ -3209,7 +3209,7 @@ export let data: Scene[] = [
     'dvds': [],
     'tags': [],
     'release': moment('2017-03-21')
-  },   {
+  }, {
     'producer': 'brazzers.com',
     'series': 'Doctor Adventures',
     'title': 'Firsthand Experience',
@@ -3217,7 +3217,9 @@ export let data: Scene[] = [
     'playtime': '0:37:00',
     'partners': ['Markus Dupree'],
     'dvds': [],
-    'tags': [],
+    'tags': ['Acting', 'Comedy', 'Gloves', 'Clothed', 'Handjob', 'Blowjob', 'Titty Fuck', 'Anilingus', 'On Bed',
+      'Ballerina', 'Vaginal', 'Cunnilingus', 'Standing', 'Doggy', 'Squirt', 'Cowgirl', 'Reverse Cowgirl', 'Missionary',
+      'On Couch', 'Pile Driver'],
     'release': moment('2019-06-28')
   },
   {
@@ -4463,7 +4465,7 @@ export let data: Scene[] = [
     }],
     'tags': [],
     'release': moment('2017-09-18')
-  },   {
+  }, {
     'producer': 'fantasymassage.com',
     'series': '',
     'title': 'Dovefucking Discovery',
@@ -4740,7 +4742,7 @@ export let data: Scene[] = [
     'title': 'Lesbian Psychodramas Vol. 31 - Scene 4',
     'altTitles': [],
     'playtime': '0:55:48',
-    'partners': [],
+    'partners': ['Prinzzess'],
     'dvds': [{
       title: 'Lesbian Psychodramas Vol. 31',
       link: 'https://angelawhitestore.com/2587246/lesbian-psychodramas-vol-31-porn-movies.html'
@@ -5244,7 +5246,10 @@ export let data: Scene[] = [
     'altTitles': ['We Like Girls - Episode 1'],
     'playtime': '1:18:47',
     'partners': ['Kissa Sins'],
-    'dvds': [],
+    'dvds': [{
+      title: 'The We Like Girls Project Vol. One',
+      link: 'https://angelawhitestore.com/2692015/we-like-girls-project-the-vol-one-porn-movies.html'
+    }],
     'tags': ['Girl/Girl', 'Genuine Feelings'],
     'release': moment('2018-12-23')
   },
@@ -6769,6 +6774,19 @@ export let data: Scene[] = [
     'dvds': [],
     'tags': [],
     'release': moment('2018-06-20')
+  }, {
+    'producer': 'realitykings.com',
+    'series': 'Big Naturals',
+    'title': 'Clingier Than The Dress',
+    'altTitles': [],
+    'playtime': '0:45:13',
+    'partners': ['Xandar Corvus'],
+    'dvds': [],
+    'tags': ['Oil', 'Elbow Birthmark', 'Dirty Talk', 'Clothed', 'On Couch', 'Fingering', 'Birthmark Left Inner Thigh',
+      'Blowjob', 'Deepthroat', 'Vaginal', 'Ballerina', 'POV', 'Titty Fuck', 'Reverse Cowgirl', 'Standing', 'Cowgirl',
+      'Choking', 'Anilingus', 'Missionary', 'Side Fuck'
+    ],
+    'release': moment('2019-06-30')
   },
   {
     'producer': 'realitykings.com',
@@ -7483,8 +7501,13 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:40:33',
     'partners': ['Chris Diamond'],
-    'dvds': [],
-    'tags': [],
+    'dvds': [{
+      title: 'Racks Vol. 3',
+      link: 'https://angelawhitestore.com/2692033/racks-vol-3-porn-movies.html'
+    }],
+    'tags': ['Pool', 'Water', 'Outside', 'Cunnilingus', 'Blowjob', 'Elbow Birthmark', 'Titty Fuck', 'Oil', 'On Couch',
+      'Handjob', 'Deepthroat', 'Reverse Cowgirl', 'Birthmark Left Inner Thigh',
+    ],
     'release': moment('2017-08-22')
   },
   {
