@@ -1324,10 +1324,13 @@ export let data: Scene[] = [
     'producer': 'angelawhite.com',
     'series': '',
     'title': '074 - Angela White x Asa Akira',
-    'altTitles': [],
+    'altTitles': ['Angela Volume 2 - Bonus'],
     'playtime': '0:27:10',
     'partners': ['Asa Akira'],
-    'dvds': [],
+    'dvds': [{
+      title: 'Angela Volume 2',
+      link: 'https://angelawhitestore.com/1752871/angela-vol-2-porn-movies.html'
+    }],
     'tags': ['Girl/Girl', 'Outside', 'Tribbing'],
     'release': moment('2015-05-31')
   },
@@ -1970,10 +1973,13 @@ export let data: Scene[] = [
     'producer': 'angelawhite.com',
     'series': '',
     'title': '126 - Angela White x Jules Jordan',
-    'altTitles': [],
+    'altTitles': ['Angela Loves Anal - Bonus'],
     'playtime': '0:40:24',
     'partners': ['Jules Jordan'],
-    'dvds': [],
+    'dvds': [{
+      title: 'Angela Loves Anal',
+      link: 'https://angelawhitestore.com/1926052/angela-loves-anal-porn-movies.html'
+    }],
     'tags': ['Boy/Girl', 'Candid', 'POV'],
     'release': moment('2017-07-05')
   },
@@ -4470,10 +4476,11 @@ export let data: Scene[] = [
     'series': '',
     'title': 'Dovefucking Discovery',
     'altTitles': [],
-    'playtime': '0:00:00',
+    'playtime': '0:45:30',
     'partners': ['Jade Baker'],
     'dvds': [],
-    'tags': [],
+    'tags': ['Girl/Girl', 'Nuru Gel', 'Elbow Birthmark', 'Neck Tattoo', 'Tit on Pussy', 'Cunnilingus', 'Fingering',
+      'Boob Ride', 'Tribbing'],
     'release': moment('2019-07-01')
   },
   {
@@ -5840,7 +5847,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:49:21',
     'partners': ['Jean Paul The Pope'],
-    'dvds': [],
+    'dvds': [{
+      title: 'Bound To The Brink',
+      link: 'https://angelawhitestore.com/2694326/bound-to-the-brink-porn-movies.html'
+    }],
     'tags': ['Metal Bondage', 'Whipping', 'Clamps', 'Zapper', 'Ball Gag', 'Shackles', 'Fingering', 'Spanking',
       'Hitachi', 'Birthmark Left Inner Thigh', 'Riding Crop', 'Feet', 'Denial', 'Dildo', 'Rubberbands', 'Choking'],
     'release': moment('2018-03-07')
@@ -7506,8 +7516,7 @@ export let data: Scene[] = [
       link: 'https://angelawhitestore.com/2692033/racks-vol-3-porn-movies.html'
     }],
     'tags': ['Pool', 'Water', 'Outside', 'Cunnilingus', 'Blowjob', 'Elbow Birthmark', 'Titty Fuck', 'Oil', 'On Couch',
-      'Handjob', 'Deepthroat', 'Reverse Cowgirl', 'Birthmark Left Inner Thigh',
-    ],
+      'Handjob', 'Deepthroat', 'Reverse Cowgirl', 'Birthmark Left Inner Thigh', 'Doggy', 'Missionary'],
     'release': moment('2017-08-22')
   },
   {
@@ -7708,6 +7717,9 @@ export let data: Scene[] = [
     'dvds': [{
       title: 'Second First Date',
       link: 'https://angelawhitestore.com/1967698/second-first-date-porn-videos.html'
+    }, {
+      title: 'Racial Divide',
+      link: 'https://angelawhitestore.com/2683145/racial-divide-wicked-4-hours-porn-movies.html'
     }],
     'tags': [],
     'release': moment('2018-02-26')

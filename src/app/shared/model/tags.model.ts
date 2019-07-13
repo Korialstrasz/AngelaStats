@@ -208,4 +208,6 @@ export type Tag =
   | 'Jerk Off Instructions'
   | 'Panty Mail'
   | 'Handjob'
+  | 'Nuru Gel'
+  | 'Boob Ride'
   | 'JAV';
