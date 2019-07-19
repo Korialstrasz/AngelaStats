@@ -210,4 +210,5 @@ export type Tag =
   | 'Handjob'
   | 'Nuru Gel'
   | 'Boob Ride'
+  | 'Wig'
   | 'JAV';

@@ -3833,7 +3833,9 @@ export let data: Scene[] = [
       title: 'Natural D\'s',
       link: 'https://angelawhitestore.com/2659257/natural-ds-porn-movies.html'
     }],
-    'tags': [],
+    'tags': ['Oil', 'Boy/Girl', 'On Couch', 'Cunnilingus', 'Anilingus', 'Titty Fuck', 'Blowjob', 'Vaginal', 'Missionary',
+      'Squirt', 'Cowgirl', 'Feet', 'Doggy', 'Standing', 'Doggy', 'Elbow Birthmark', 'Reverse Cowgirl', 'Pile Driver',
+      'Side Fuck', 'Choking'],
     'release': moment('2018-02-19')
   },
   {
@@ -3946,6 +3948,9 @@ export let data: Scene[] = [
     'dvds': [{
       title: 'Teach me Vol. 5',
       link: 'https://angelawhitestore.com/2533161/teach-me-vol-5-porn-movies.html'
+    }, {
+      title: 'Big Tit Lesbian Seduction',
+      link: 'https://angelawhitestore.com/2698689/big-tit-lesbian-seduction-porn-movies.html'
     }],
     'tags': [],
     'release': moment('2018-10-01')
@@ -4989,12 +4994,12 @@ export let data: Scene[] = [
   }, {
     'producer': 'girlsway.com',
     'series': '',
-    'title': 'Matchmacker Meddler',
+    'title': 'Matchmaker Meddler',
     'altTitles': [],
-    'playtime': '0:00:00',
+    'playtime': '0:40:19',
     'partners': ['Aidra Fox', 'Casey Calvert'],
     'dvds': [],
-    'tags': ['Girl/Girl/Girl'],
+    'tags': ['Girl/Girl/Girl', 'On Couch', 'Cunnilingus', 'Birthmark Left Inner Thigh', 'Fingering'],
     'release': moment('2019-07-07')
   }, {
     'producer': 'girlsway.com',
@@ -5969,15 +5974,16 @@ export let data: Scene[] = [
   }, {
     'producer': 'milehighmedia.com',
     'series': '',
-    'title': 'Alexis Loves Girls - Scene 4',
-    'altTitles': [],
-    'playtime': '0:00:00',
+    'title': 'Best For Last',
+    'altTitles': ['Alexis Loves Girls - Scene 4'],
+    'playtime': '0:40:04',
     'partners': ['Alexis Fawx'],
     'dvds': [{
       title: 'Alexis Loves Girls',
       link: 'https://angelawhitestore.com/2685987/alexis-loves-girls-porn-movies.html'
     }],
-    'tags': [],
+    'tags': ['Girl/Girl', 'On Couch', 'Wig', 'Elbow Birthmark', 'Cunnilingus', 'Fingering', 'On Chair', 'Grinding',
+      'Birthmark Left Inner Thigh', 'Tribbing', 'Anilingus', 'Face Sitting', '69', 'Feet'],
     'release': moment('2019-07-15')
   },
   {
