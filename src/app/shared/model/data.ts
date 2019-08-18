@@ -1263,7 +1263,6 @@ export let data: Scene[] = [
       'Deepthroat', 'On Chair', 'Vaginal', 'Cowgirl', 'Doggy', 'Finger in Butt', 'Choking', 'Pillow Fight', 'Spanking',
       'Anal', 'Dirty Talk', 'Feet', 'Face Sitting', '69', 'Titty Fuck', 'Handjob'],
     'release': moment('2015-04-07')
-
   },
   {
     'producer': 'angelawhite.com',
@@ -2693,7 +2692,21 @@ export let data: Scene[] = [
   },
   {
     'producer': 'bang.com',
-    'series': 'Bang! Confessions',
+    'series': 'Bang! Rammed',
+    'title': 'Angela White Is A Bodacious Anal Slut',
+    'altTitles': [],
+    'playtime': '0:39:56',
+    'partners': ['Ramon Nomar'],
+    'dvds': [],
+    'tags': ['Boy/Girl', 'Elbow Birthmark', 'Birthmark Left Inner Thigh', 'Bath', 'Water', 'On Bed', 'Feet', 'Cunnilingus',
+      'Anilingus', 'Face Sitting', '69', 'Blowjob', 'Deepthroat', 'Vaginal', 'Cowgirl', 'Side Fuck', 'Missionary',
+      'Reverse Cowgirl', 'Anal', 'Fingering', 'Finger in Butt', 'Gaping', 'Ass to Pussy', 'Pussy to Ass', 'Switching Holes',
+      'Squirt', 'Neck Tattoo', 'Spooning'],
+    'release': moment('2019-08-07')
+  },
+  {
+    'producer': 'bang.com',
+    'series': 'Bang! Originals',
     'title': 'Angela White\'s Confession',
     'altTitles': ['Angela White Gets An A+ Sucking Cock In Traffic School'],
     'playtime': '0:45:46',
@@ -3007,6 +3020,18 @@ export let data: Scene[] = [
       'Doggy', 'Gaping', 'Standing', 'Off the Ground', 'Reverse Cowgirl', 'Fingering', 'Birthmark Left Inner Thigh',
       'Titty Fuck', 'Cunnilingus', 'Missionary', 'Squirt', 'Deepthroat', 'Cowgirl'],
     'release': moment('2017-04-14')
+  },
+  {
+    'producer': 'brazzers.com',
+    'series': 'ZZ Series',
+    'title': 'BrazziBots: Uprising Part 1',
+    'altTitles': [],
+    'playtime': '0:32:31',
+    'partners': ['Lunar Star'],
+    'dvds': [],
+    'tags': ['Girl/Girl', 'Acting', 'Cunnilingus', 'Boots', 'On Bed', 'Anilingus', 'Fingering', 'Tribbing', 'Choking',
+      'Face Sitting', 'Neck Tattoo', '69', 'Elbow Birthmark'],
+    'release': moment('2019-08-08')
   },
   {
     'producer': 'brazzers.com',
@@ -4003,16 +4028,19 @@ export let data: Scene[] = [
   {
     'producer': 'evilangel.com',
     'series': '',
-    'title': 'Fucking Markus - Scene X',
-    'altTitles': [],
-    'playtime': '0:00:00',
+    'title': 'Big-Boob Angela: Anal, Squirt & Facial',
+    'altTitles': ['Fucking Markus - Scene 1'],
+    'playtime': '0:32:02',
     'partners': ['Markus Dupree'],
     'dvds': [{
       title: 'Fucking Markus',
       link: 'https://angelawhitestore.com/2672427/fucking-markus-porn-movies.html'
     }],
-    'tags': [],
-    'release': moment('2019-07-29')
+    'tags': ['Boy/Girl', 'Cunnilingus', 'Anilingus', 'Standing', 'Vaginal', 'Finger in Butt', 'Squirt', 'Blowjob',
+      'Titty Fuck', 'Ballerina', 'Anilingus', 'Blowjob', 'Doggy', 'Elbow Birthmark', 'Gaping', 'Face Sitting', 'On Table',
+      'Choking', 'Neck Tattoo', 'Against Wall', 'Cowgirl', 'Feet', 'Birthmark Left Inner Thigh', 'Reverse Cowgirl',
+      'On Chair', 'Fingering'],
+    'release': moment('2019-07-26')
   },
   {
     'producer': 'evilangel.com',
@@ -4794,6 +4822,28 @@ export let data: Scene[] = [
     'release': moment('2017-12-07')
   },
   {
+    'producer': 'girlgirl.com',
+    'series': 'Large Naturals',
+    'title': 'The Creepy Chiropractor',
+    'altTitles': [],
+    'playtime': '0:00:00',
+    'partners': ['Gianna Dior'],
+    'dvds': [],
+    'tags': ['Girl/Girl'],
+    'release': moment('2019-07-19')
+  },
+  {
+    'producer': 'girlgirl.com',
+    'series': 'Lesbian Cheating Wives',
+    'title': 'Cheating With My Husband\'s Sister',
+    'altTitles': [],
+    'playtime': '0:00:00',
+    'partners': ['Cherie DeVille'],
+    'dvds': [],
+    'tags': ['Girl/Girl'],
+    'release': moment('2019-07-25')
+  },
+  {
     'producer': 'girlsoutwest.com',
     'series': 'Booby-licious',
     'title': 'Angie & Aeryn - Part 1',
@@ -5019,9 +5069,24 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '00:29:54',
     'partners': ['Whitney Wright'],
-    'dvds': [],
+    'dvds': [{
+      title: 'Roleplay With Me',
+      link: 'https://angelawhitestore.com/2686757/roleplay-with-me-porn-movies.html'
+    }],
     'tags': ['Girl/Girl', 'Acting', 'On Bed', 'Spanking', 'Cunnilingus', 'Anilingus', 'Vaginal', 'Bush', 'Biting',
-      'Elbow Birthmark', 'Tit Sucking 69', 'Smothering', '69', 'Neck Tattoo', 'Tribbing', 'Hurt Knee', 'Choking', 'Bodysuit']
+      'Elbow Birthmark', 'Tit Sucking 69', 'Smothering', '69', 'Neck Tattoo', 'Tribbing', 'Hurt Knee', 'Choking', 'Bodysuit'],
+    'release': moment('2019-01-06')
+  },
+  {
+    'producer': 'girlsway.com',
+    'series': '',
+    'title': 'Realtor Romance',
+    'altTitles': [],
+    'partners': ['A.J. Applegate'],
+    'playtime': '00:43:52',
+    'dvds': [],
+    'tags': [],
+    'release': moment('2019-07-26 ')
   },
   {
     'producer': 'girlsway.com',
@@ -5072,7 +5137,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '00:42:45',
     'partners': ['Jill Kassidy'],
-    'dvds': [],
+    'dvds': [{
+      title: 'Maid For Each Other',
+      link: 'https://angelawhitestore.com/2702758/maid-for-each-other-porn-movies.html'
+    }],
     'tags': ['Girl/Girl', 'Acting', 'Neck Tattoo', 'On Couch', 'Cunnilingus', 'Fingering', 'Birthmark Left Inner Thigh',
       'Anilingus', 'Elbow Birthmark', 'Face Sitting', 'Tribbing', 'Feet', 'Cuddling'],
     'release': moment('2019-04-25')
@@ -5386,6 +5454,18 @@ export let data: Scene[] = [
     }],
     'tags': [],
     'release': moment('2017-11-27')
+  },
+  {
+    'producer': 'girlsway.com',
+    'series': 'Supernaturally Stacked',
+    'title': 'I Dream Of Lezzie',
+    'altTitles': [],
+    'playtime': '0:32:54',
+    'partners': ['Lena Paul', 'Sofi Ryan'],
+    'dvds': [],
+    'tags': ['Girl/Girl/Girl', 'Acting', 'On Couch', 'On Table', 'Neck Tattoo', 'Cunnilingus', 'Fingering',
+      'Face Sitting', '69', 'Anilingus', 'Birthmark Left Inner Thigh', 'Feet'],
+    'release': moment('2019-08-08')
   },
   {
     'producer': 'hardx.com',
@@ -6200,7 +6280,11 @@ export let data: Scene[] = [
     'dvds': [{
       title: 'Dirty Wives Club Vol. 17',
       link: 'https://angelawhitestore.com/2534653/dirty-wives-club-vol-17-porn-movies.html'
-    }],
+    },
+      {
+        'title': 'Dirty Wives Club Vol. 23',
+        link: 'https://angelawhite.empirestores.co/2704348/dirty-wives-club-vol-23-porn-movies.html'
+      }],
     'tags': ['Elbow Birthmark', 'Neck Tattoo'],
     'release': moment('2017-12-08')
   },
@@ -6354,7 +6438,11 @@ export let data: Scene[] = [
     'dvds': [{
       title: 'In The Room : I Like To Watch Vol. 2',
       link: 'https://angelawhitestore.com/2592889/in-the-room-i-like-to-watch-vol-2-porn-movies.html'
-    }],
+    },
+      {
+        'title': 'Anal Among Friends 4',
+        link: 'https://angelawhitestore.com/2698572/anal-among-friends-4-porn-movies.html'
+      }],
     'tags': ['Boy/Girl', 'Cuckhold', 'Anal', 'Elbow Birthmark', 'Finger in Butt', 'Anilingus', 'On Chair', 'Gaping',
       'Standing', 'Blowjob', 'Deepthroat', 'On Bed', 'Birthmark Left Inner Thigh', 'Cunnilingus', 'Ass to Mouth',
       'Cowgirl', 'Vaginal', 'Ass to Pussy', 'Reverse Cowgirl', 'Spooning', 'Doggy', 'Jerk Off Instructions'],
@@ -6776,7 +6864,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:32:38',
     'partners': ['Charles Dera'],
-    'dvds': [],
+    'dvds': [{
+      title: 'Big F\'n Titties 9',
+      link: 'https://angelawhitestore.com/2699877/big-fn-titties-9-porn-movies.html'
+    }],
     'tags': [],
     'release': moment('2017-12-13')
   },
