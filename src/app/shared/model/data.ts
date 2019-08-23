@@ -3804,6 +3804,34 @@ export let data: Scene[] = [
   {
     'producer': 'elegantangel.com',
     'series': '',
+    'title': 'Big Wet Interracial Tits 4 - Scene 1',
+    'altTitles': [],
+    'playtime': '0:00:00',
+    'partners': ['Isiah Maxwell'],
+    'dvds': [{
+      title: 'Big Wet Interracial Tits 4',
+      link: 'https://angelawhitestore.com/2711976/big-wet-interracial-tits-4-porn-movies.html'
+    }],
+    'tags': [],
+    'release': moment('2019-09-09')
+  },
+  {
+    'producer': 'elegantangel.com',
+    'series': '',
+    'title': 'Busty Housewives 8 - Scene 1',
+    'altTitles': [],
+    'playtime': '0:00:00',
+    'partners': ['Mick Blue'],
+    'dvds': [{
+      title: 'Busty Housewives 8',
+      link: 'https://angelawhitestore.com/2711978/busty-housewives-8-porn-movies.html'
+    }],
+    'tags': [],
+    'release': moment('2019-09-23')
+  },
+  {
+    'producer': 'elegantangel.com',
+    'series': '',
     'title': 'Angela White Squirts From A Hardcore Anal Fucking',
     'altTitles': ['Angela White Is Titwoman -  Scene 2'],
     'playtime': '0:28:12',
@@ -4490,8 +4518,17 @@ export let data: Scene[] = [
     }],
     'tags': [],
     'release': moment('2018-01-15')
-  },
-  {
+  }, {
+    'producer': 'fantasymassage.com',
+    'series': '',
+    'title': 'Friends Reacquainted',
+    'altTitles': [],
+    'playtime': '0:35:07',
+    'partners': ['Ryan Driller'],
+    'dvds': [],
+    'tags': [],
+    'release': moment('2019-09-13 ')
+  }, {
     'producer': 'fantasymassage.com',
     'series': '',
     'title': 'Being Gay is OK',
@@ -6518,7 +6555,8 @@ export let data: Scene[] = [
     'title': 'Angela Is A Hotwife Acquired Taste',
     'altTitles': ['Stags and Vixens - Scene 1', 'Big Tits Are Sexy - Scene 6', 'Big Tits Only! 2 - Scene 9',
       'You\'re So Much Bigger Than My Husband Vol. 2 - Scene 8', 'Big Beautiful Butts - Scene 9',
-      'BWC: Big White Cock 5 - Scene 6', 'My Sexy Slutwife 2 - Scene 8', 'Sexual Desires Of Angela White - Scene 1'],
+      'BWC: Big White Cock 5 - Scene 6', 'My Sexy Slutwife 2 - Scene 8', 'Sexual Desires Of Angela White - Scene 1',
+      'Big Butt Babes- Scene X'],
     'playtime': '0:42:29',
     'partners': ['Steve Holmes'],
     'dvds': [{
@@ -6545,6 +6583,9 @@ export let data: Scene[] = [
     }, {
       title: 'The Sexual Desires Of Angela White',
       link: 'https://angelawhitestore.com/2625155/sexual-desires-of-angela-white-the-porn-movies.html'
+    }, {
+      title: 'Big Butt Babes',
+      link: 'https://angelawhitestore.com/2711125/big-butt-babes-porn-movies.html'
     }],
     'tags': [],
     'release': moment('2017-02-17')
