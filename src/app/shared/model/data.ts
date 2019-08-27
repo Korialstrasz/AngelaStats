@@ -2763,10 +2763,13 @@ export let data: Scene[] = [
     'producer': 'bang.com',
     'series': 'Bang! Rammed',
     'title': 'Rammed Angela White - Angela White Gets Her Pussy Treated Like Royalty',
-    'altTitles': ['Angela White Sucks Her Own Tits As She\'s Fucked'],
+    'altTitles': ['Angela White Sucks Her Own Tits As She\'s Fucked', 'Surrender To Anal Vol. 8 - Scene 1'],
     'playtime': '0:44:16',
     'partners': ['Manuel Ferrara'],
-    'dvds': [],
+    'dvds': [{
+      title: 'Surrender To Anal Vol. 8',
+      link: 'https://angelawhite.empirestores.co/2714132/surrender-to-anal-vol-8-porn-movies.html'
+    }],
     'tags': [],
     'release': moment('2018-05-30')
   },
@@ -3544,7 +3547,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '00:00:00',
     'partners': [],
-    'dvds': [],
+    'dvds': [{
+      title: 'Sordid Stories',
+      link: 'https://angelawhite.empirestores.co/2714138/sordid-stories-porn-movies.html'
+    }],
     'tags': ['Non Sex'],
     'release': moment('2018-03-30')
   }, {
@@ -3554,7 +3560,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:37:27',
     'partners': ['Small Hands'],
-    'dvds': [],
+    'dvds': [{
+      title: 'Sordid Stories',
+      link: 'https://angelawhite.empirestores.co/2714138/sordid-stories-porn-movies.html'
+    }],
     'tags': ['Acting', 'Birthmark Left Inner Thigh', 'On Chair', 'Vaginal', 'Cowgirl', 'On Desk', 'Missionary',
       'Cunnilingus', 'Anilingus', 'Anal', 'Doggy', 'Blowjob', 'Deepthroat', 'Fingering', 'Titty Fuck', 'Choking',
       'Reverse Cowgirl', 'Handcuffs'],
@@ -5992,10 +6001,13 @@ export let data: Scene[] = [
     'producer': 'ladygonzo.com',
     'series': '',
     'title': 'Joanna Angel & Angela White',
-    'altTitles': [],
+    'altTitles': ['Lady Gonzo: All Anal Showcase - Scene 2'],
     'playtime': '0:53:36',
     'partners': ['Joanna Angel', 'Ramon Nomar'],
-    'dvds': [],
+    'dvds': [{
+      title: 'Lady Gonzo: All Anal Showcase',
+      link: 'https://angelawhite.empirestores.co/2714128/lady-gonzo-all-anal-showcase-porn-movies.html'
+    }],
     'tags': ['Girl/Girl', 'Outside', 'Cunnilingus', 'Fingering', 'Boots', 'Jeweled Butt Plug', 'Butt Plug', 'Finger in Butt', 'On Couch',
       'Anilingus', 'Clothed', 'Vaginal', 'Missionary', 'Blowjob', 'Boy/Girl/Girl', 'Deepthroat', '69', 'Face Sitting',
       'Reverse Cowgirl', 'Oil', 'Squirt', 'Cowgirl', 'Anal', 'Doggy', 'Pussy Stack', 'Ass to Pussy', 'Pussy to Ass',
