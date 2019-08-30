@@ -447,8 +447,7 @@ export let data: Scene[] = [
     'tags': ['Girl/Girl', 'On Couch', 'Anilingus', 'Cunnilingus', 'Vibrator', 'Vaginal', 'Vibrator', 'Fingering',
       'Strap-on', 'Doggy', 'Dildo'],
     'release': moment('2013-10-09')
-  },
-  {
+  }, {
     'producer': 'angelawhite.com',
     'series': '',
     'title': '002 - Angela White',
@@ -2255,8 +2254,59 @@ export let data: Scene[] = [
     'tags': ['Girl/Girl', 'Feet', 'Cunnilingus', 'Anilingus', 'Fingering', 'Panty Gag', 'Grinding', 'Tribbing',
       'Choking', 'Biting', 'Face Sitting', '69', 'Spanking', 'Tit on Pussy', 'AVN Best All-Girl Movie 2019'],
     'release': moment('2018-07-27')
-  },
-  {
+  }, {
+    'producer': 'angelawhite.com',
+    'series': '',
+    'title': 'Angela Loves Women 5 - Scene X',
+    'altTitles': [],
+    'playtime': '0:00:00',
+    'partners': ['Autumn Falls'],
+    'dvds': [{
+      title: 'Angela Loves Women 5',
+      link: 'https://angelawhitestore.com/2705779/angela-loves-women-5-porn-movies.html'
+    }],
+    'tags': [],
+    'release': moment('2019-10-30')
+  }, {
+    'producer': 'angelawhite.com',
+    'series': '',
+    'title': 'Angela Loves Women 5 - Scene X',
+    'altTitles': [],
+    'playtime': '0:00:00',
+    'partners': ['Ana Foxx'],
+    'dvds': [{
+      title: 'Angela Loves Women 5',
+      link: 'https://angelawhitestore.com/2705779/angela-loves-women-5-porn-movies.html'
+    }],
+    'tags': [],
+    'release': moment('2019-10-30')
+  }, {
+    'producer': 'angelawhite.com',
+    'series': '',
+    'title': 'Angela Loves Women 5 - Scene X',
+    'altTitles': [],
+    'playtime': '0:00:00',
+    'partners': ['Alina Lopez'],
+    'dvds': [{
+      title: 'Angela Loves Women 5',
+      link: 'https://angelawhitestore.com/2705779/angela-loves-women-5-porn-movies.html'
+    }],
+    'tags': [],
+    'release': moment('2019-10-30')
+  }, {
+    'producer': 'angelawhite.com',
+    'series': '',
+    'title': 'Angela Loves Women 5 - Scene X',
+    'altTitles': [],
+    'playtime': '0:00:00',
+    'partners': ['Natalie Mars'],
+    'dvds': [{
+      title: 'Angela Loves Women 5',
+      link: 'https://angelawhitestore.com/2705779/angela-loves-women-5-porn-movies.html'
+    }],
+    'tags': [],
+    'release': moment('2019-10-30')
+  }, {
     'producer': 'angelawhite.com',
     'series': '',
     'title': 'Live Show 001',
@@ -5866,6 +5916,20 @@ export let data: Scene[] = [
   {
     'producer': 'julesjordan.com',
     'series': '',
+    'title': 'Angela White Darkside',
+    'altTitles': [],
+    'playtime': '0:00:00',
+    'partners': [],
+    'dvds': [{
+      title: 'Angela White Darkside',
+      link: ''
+    }],
+    'tags': [],
+    'release': moment('2019-09-23')
+  },
+  {
+    'producer': 'julesjordan.com',
+    'series': '',
     'title': 'Angela White Anal, Australia\'s Finest Export Shows Her Ass-Port For Cock Clearance!',
     'altTitles': ['Anal Savages 2 - Scene 2'],
     'playtime': '0:41:43',
@@ -6482,6 +6546,9 @@ export let data: Scene[] = [
     }, {
       title: 'The Most Beautiful Girls In Porn 3',
       link: 'https://www.angelawhitestore.com/2669040/most-beautiful-girls-in-porn-3-the-porn-movies.html'
+    }, {
+      title: 'All Natural Babes No. 2',
+      link: 'https://angelawhite.empirestores.co/2715310/all-natural-babes-no-2-porn-movies.html'
     }],
     'tags': ['Boy/Girl', 'Voyeur', 'Bath', 'Blowjob', 'On Bed', 'Deepthroat', 'Cowgirl', '69', 'Reverse Cowgirl',
       'Side Fuck', 'Cunnilingus', 'Anilingus', 'Feet', 'Doggy', 'Jerk Off Instructions', 'Elbow Birthmark', 'Choking',
@@ -7881,6 +7948,9 @@ export let data: Scene[] = [
     }, {
       title: 'Racial Divide',
       link: 'https://angelawhitestore.com/2683145/racial-divide-wicked-4-hours-porn-movies.html'
+    }, {
+      title: 'Big Ass Titties',
+      link: 'https://angelawhitestore.com/2715308/big-ass-titties-wicked-16-hours-porn-movies.html'
     }],
     'tags': [],
     'release': moment('2018-02-26')
