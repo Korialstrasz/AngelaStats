@@ -437,6 +437,17 @@ export let data: Scene[] = [
     'release': moment('2018-11-23')
   },
   {
+    'producer': 'adulttime.com',
+    'series': '',
+    'title': 'Perspective',
+    'altTitles': [],
+    'playtime': '0:00:00',
+    'partners': [],
+    'dvds': [],
+    'tags': [],
+    'release': moment('2019-09-26')
+  },
+  {
     'producer': 'angelawhite.com',
     'series': '',
     'title': '001 - Angela White x Sophie Dee',
@@ -4580,6 +4591,17 @@ export let data: Scene[] = [
   }, {
     'producer': 'fantasymassage.com',
     'series': '',
+    'title': 'Pleasure Party',
+    'altTitles': [],
+    'playtime': '0:32:50',
+    'partners': ['Karla Kush'],
+    'dvds': [],
+    'tags': ["Girl/Girl", "Oil", "On Couch", "Fingering", "Cunnilingus", "Grinding", "Tribbing", "Anilingus", "69",
+      "Elbow Birthmark", "Choking", "Face Sitting", "Feet"],
+    'release': moment('2019-09-02')
+  }, {
+    'producer': 'fantasymassage.com',
+    'series': '',
     'title': 'Friends Reacquainted',
     'altTitles': [],
     'playtime': '0:35:07',
@@ -4938,6 +4960,17 @@ export let data: Scene[] = [
     'dvds': [],
     'tags': ['Girl/Girl'],
     'release': moment('2019-08-18')
+  },
+  {
+    'producer': 'girlgirl.com',
+    'series': 'Lesbian Office Tales',
+    'title': 'The Office Slut',
+    'altTitles': [],
+    'playtime': '0:00:00',
+    'partners': ['Kenzie Taylor'],
+    'dvds': [],
+    'tags': ['Girl/Girl'],
+    'release': moment('2019-09-30')
   },
   {
     'producer': 'girlgirl.com',
