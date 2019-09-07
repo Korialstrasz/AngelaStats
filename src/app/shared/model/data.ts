@@ -3099,6 +3099,17 @@ export let data: Scene[] = [
   },
   {
     'producer': 'brazzers.com',
+    'series': 'ZZ Series',
+    'title': 'BrazziBots: Uprising Part 4',
+    'altTitles': [],
+    'playtime': '0:46:00',
+    'partners': ['Romi Rain', 'Xander Corvus'],
+    'dvds': [],
+    'tags': [],
+    'release': moment('2019-09-11')
+  },
+  {
+    'producer': 'brazzers.com',
     'series': 'Big Butts Like It Big',
     'title': 'Busting On The Burglar',
     'altTitles': [],
