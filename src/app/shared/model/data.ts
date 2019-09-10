@@ -5499,6 +5499,9 @@ export let data: Scene[] = [
     'dvds': [{
       title: 'The We Like Girls Project Vol. One',
       link: 'https://angelawhitestore.com/2692015/we-like-girls-project-the-vol-one-porn-movies.html'
+    }, {
+      title: 'The We Like Girls Project:The Complete First Season',
+      link: 'https://angelawhitestore.com/2719410/we-like-girls-projectthe-complete-first-season-the-porn-movies.html'
     }],
     'tags': ['Girl/Girl', 'Genuine Feelings'],
     'release': moment('2018-12-23')
