@@ -346,7 +346,7 @@ export let data: Scene[] = [
   {
     'producer': 'abbywinters.com',
     'series': 'Nude Girls',
-    'title': ' Angie',
+    'title': 'Angie',
     'altTitles': [],
     'playtime': '0:16:17',
     'partners': [],
@@ -357,7 +357,7 @@ export let data: Scene[] = [
   {
     'producer': 'abbywinters.com',
     'series': 'Nude Girls',
-    'title': ' Angie (2)',
+    'title': 'Angie (2)',
     'altTitles': [],
     'playtime': '0:15:07',
     'partners': [],
@@ -368,7 +368,7 @@ export let data: Scene[] = [
   {
     'producer': 'abbywinters.com',
     'series': 'Nude Girls',
-    'title': ' Nude girls fun Video Game Girls',
+    'title': 'Nude girls fun Video Game Girls',
     'altTitles': [],
     'playtime': '0:32:46',
     'partners': [],
@@ -379,7 +379,7 @@ export let data: Scene[] = [
   {
     'producer': 'abbywinters.com',
     'series': 'Nude Girls',
-    'title': ' Nude girls fun Video Game Girls - Backstage',
+    'title': 'Nude girls fun Video Game Girls - Backstage',
     'altTitles': [],
     'playtime': '0:07:00',
     'partners': [],
@@ -389,7 +389,7 @@ export let data: Scene[] = [
   {
     'producer': 'abbywinters.com',
     'series': 'Nude Girls',
-    'title': ' Angie (3)',
+    'title': 'Angie (3)',
     'altTitles': [],
     'playtime': '0:24:46',
     'partners': [],
@@ -400,7 +400,7 @@ export let data: Scene[] = [
   {
     'producer': 'abbywinters.com',
     'series': 'Nude Girls',
-    'title': ' Angie (4)',
+    'title': 'Angie (4)',
     'altTitles': [],
     'playtime': '0:21:05',
     'partners': [],
@@ -3105,10 +3105,13 @@ export let data: Scene[] = [
     'series': 'ZZ Series',
     'title': 'BrazziBots: Uprising Part 4',
     'altTitles': [],
-    'playtime': '0:46:00',
+    'playtime': '0:46:33',
     'partners': ['Romi Rain', 'Xander Corvus'],
     'dvds': [],
-    'tags': [],
+    'tags': ["Acting", "Girl/Girl", "Fingering", "On Bed", "Cunnilingus", "Anilingus", "Tribbing", "Feet", "69", "Boy/Girl/Girl",
+      "Doggy", "Anal", "Blowjob", "Deepthroat", "Missionary", "Vaginal", "Feet", "Cowgirl", "Ass to Pussy", "Ass to Mouth",
+      "Finger in Butt", "Cum Swap"
+    ],
     'release': moment('2019-09-11')
   },
   {
@@ -3903,7 +3906,7 @@ export let data: Scene[] = [
     'series': '',
     'title': 'Big Wet Interracial Tits 4 - Scene 1',
     'altTitles': [],
-    'playtime': '0:00:00',
+    'playtime': '0:34:22',
     'partners': ['Isiah Maxwell'],
     'dvds': [{
       title: 'Big Wet Interracial Tits 4',
@@ -3917,7 +3920,7 @@ export let data: Scene[] = [
     'series': '',
     'title': 'Busty Housewives 8 - Scene 1',
     'altTitles': [],
-    'playtime': '0:00:00',
+    'playtime': '0:28:34',
     'partners': ['Mick Blue'],
     'dvds': [{
       title: 'Busty Housewives 8',
@@ -4277,7 +4280,7 @@ export let data: Scene[] = [
       link: 'https://angelawhitestore.com/2592365/angela-by-darkko-porn-videos.html'
     }],
     'tags': ['Elbow Birthmark', 'Birthmark Left Inner Thigh', 'Anal', 'Boy/Girl/Girl', 'Threesome', 'Dildo'],
-    'release': moment(' 2018-11-27')
+    'release': moment('2018-11-27')
   },
   {
     'producer': 'evilangel.com',
@@ -4293,7 +4296,7 @@ export let data: Scene[] = [
     'tags': ['Elbow Birthmark', 'Birthmark Left Inner Thigh', 'Boots', 'Gangbang', 'Blowjob', 'Deepthroat', 'Vaginal',
       'Doggy', 'Anal', 'Handjob', 'Cowgirl', 'Double Penetration', 'DP', 'Choking', 'Gaping', 'Reverse Cowgirl',
       'Triple Penetration', 'TP', 'Double Vaginal', 'DV', 'Double Anal', 'DA', 'Switching Holes'],
-    'release': moment(' 2018-12-01')
+    'release': moment('2018-12-01')
   },
   {
     'producer': 'evilangel.com',
@@ -4576,7 +4579,7 @@ export let data: Scene[] = [
     'tags': ['Boy/Girl', 'Interracial', 'On Couch', 'Blowjob', 'Deepthroat', 'Titty Fuck', 'Cunnilingus', 'Vaginal',
       'Missionary', 'Choking', 'Cowgirl', 'Anilingus', 'Finger in Butt', 'Doggy', 'Elbow Birthmark', 'Gaping', 'Handjob',
       'Squirt', 'Reverse Cowgirl', 'Pussy to Ass', 'Ass to Pussy', 'Side Fuck', 'Side-Saddle Cowgirl', 'Spooning'],
-    'release': moment(' 2018-11-24')
+    'release': moment('2018-11-24')
   },
   {
     'producer': 'evilangel.com',
@@ -4631,7 +4634,7 @@ export let data: Scene[] = [
     'series': '',
     'title': 'Friends Reacquainted',
     'altTitles': [],
-    'playtime': '0:35:07',
+    'playtime': '0:31:58',
     'partners': ['Ryan Driller'],
     'dvds': [],
     'tags': [],
@@ -5728,7 +5731,7 @@ export let data: Scene[] = [
     'series': '',
     'title': 'Market Research 1',
     'altTitles': [],
-    'playtime': ' ',
+    'playtime': '',
     'partners': [],
     'dvds': [],
     'tags': [],
@@ -5739,7 +5742,7 @@ export let data: Scene[] = [
     'series': '',
     'title': 'Market Research 2',
     'altTitles': [],
-    'playtime': ' ',
+    'playtime': '',
     'partners': [],
     'dvds': [],
     'tags': [],
@@ -5750,7 +5753,7 @@ export let data: Scene[] = [
     'series': '',
     'title': 'Market Research 3',
     'altTitles': [],
-    'playtime': ' ',
+    'playtime': '',
     'partners': [],
     'dvds': [],
     'tags': [],
@@ -5761,7 +5764,7 @@ export let data: Scene[] = [
     'series': '',
     'title': 'Just A Cowboy 1',
     'altTitles': [],
-    'playtime': ' ',
+    'playtime': '',
     'partners': [],
     'dvds': [],
     'tags': [],
@@ -5772,7 +5775,7 @@ export let data: Scene[] = [
     'series': '',
     'title': 'Just A Cowboy 2',
     'altTitles': [],
-    'playtime': ' ',
+    'playtime': '',
     'partners': [],
     'dvds': [],
     'tags': [],
@@ -5783,7 +5786,7 @@ export let data: Scene[] = [
     'series': '',
     'title': 'Red Delicious 1',
     'altTitles': [],
-    'playtime': ' ',
+    'playtime': '',
     'partners': [],
     'dvds': [],
     'tags': [],
@@ -5794,7 +5797,7 @@ export let data: Scene[] = [
     'series': '',
     'title': 'Red Delicious 2',
     'altTitles': [],
-    'playtime': ' ',
+    'playtime': '',
     'partners': [],
     'dvds': [],
     'tags': [],
@@ -5805,7 +5808,7 @@ export let data: Scene[] = [
     'series': '',
     'title': 'Red Delicious 3',
     'altTitles': [],
-    'playtime': ' ',
+    'playtime': '',
     'partners': [],
     'dvds': [],
     'tags': [],
@@ -5816,7 +5819,7 @@ export let data: Scene[] = [
     'series': '',
     'title': 'Red Delicious 4',
     'altTitles': [],
-    'playtime': ' ',
+    'playtime': '',
     'partners': [],
     'dvds': [],
     'tags': [],
@@ -5849,7 +5852,7 @@ export let data: Scene[] = [
     'series': '',
     'title': 'Austrailian Sex Party 1',
     'altTitles': [],
-    'playtime': ' ',
+    'playtime': '',
     'partners': ['Zahra Stardust'],
     'dvds': [],
     'tags': [],
@@ -5860,7 +5863,7 @@ export let data: Scene[] = [
     'series': '',
     'title': 'Austrailian Sex Party 2',
     'altTitles': [],
-    'playtime': ' ',
+    'playtime': '',
     'partners': ['Zahra Stardust'],
     'dvds': [],
     'tags': [],
@@ -5871,7 +5874,7 @@ export let data: Scene[] = [
     'series': '',
     'title': 'Austrailian Sex Party 3',
     'altTitles': [],
-    'playtime': ' ',
+    'playtime': '',
     'partners': ['Zahra Stardust'],
     'dvds': [],
     'tags': [],
@@ -5882,7 +5885,7 @@ export let data: Scene[] = [
     'series': '',
     'title': 'Hold My Calls',
     'altTitles': [],
-    'playtime': ' ',
+    'playtime': '',
     'partners': [],
     'dvds': [],
     'tags': [],
@@ -5893,7 +5896,7 @@ export let data: Scene[] = [
     'series': '',
     'title': 'In The Pink 1',
     'altTitles': [],
-    'playtime': ' ',
+    'playtime': '',
     'partners': [],
     'dvds': [],
     'tags': [],
@@ -5904,7 +5907,7 @@ export let data: Scene[] = [
     'series': '',
     'title': 'In The Pink 2',
     'altTitles': [],
-    'playtime': ' ',
+    'playtime': '',
     'partners': [],
     'dvds': [],
     'tags': [],
@@ -5915,7 +5918,7 @@ export let data: Scene[] = [
     'series': '',
     'title': 'In The Pink 3',
     'altTitles': [],
-    'playtime': ' ',
+    'playtime': '',
     'partners': [],
     'dvds': [],
     'tags': [],
@@ -5926,7 +5929,7 @@ export let data: Scene[] = [
     'series': '',
     'title': 'In The Pink 4',
     'altTitles': [],
-    'playtime': ' ',
+    'playtime': '',
     'partners': [],
     'dvds': [],
     'tags': [],
@@ -5937,7 +5940,7 @@ export let data: Scene[] = [
     'series': '',
     'title': 'Titterific 1',
     'altTitles': [],
-    'playtime': ' ',
+    'playtime': '',
     'partners': [],
     'dvds': [],
     'tags': [],
@@ -5948,7 +5951,7 @@ export let data: Scene[] = [
     'series': '',
     'title': 'Titterific 2',
     'altTitles': [],
-    'playtime': ' ',
+    'playtime': '',
     'partners': [],
     'dvds': [],
     'tags': [],
@@ -5959,7 +5962,7 @@ export let data: Scene[] = [
     'series': '',
     'title': 'Titterific 3',
     'altTitles': [],
-    'playtime': ' ',
+    'playtime': '',
     'partners': [],
     'dvds': [],
     'tags': [],
@@ -5982,16 +5985,95 @@ export let data: Scene[] = [
   {
     'producer': 'julesjordan.com',
     'series': '',
-    'title': 'Angela White Darkside',
+    'title': 'Disciples of Desire: Bad Cop - Bad City - Scene 2',
     'altTitles': [],
     'playtime': '0:00:00',
-    'partners': [],
+    'partners': ['Ivy LeBelle', ' Jax Slayer'],
+    'dvds': [],
+    'tags': [],
+    'release': moment('2019-09-30')
+  }, {
+    'producer': 'julesjordan.com',
+    'series': '',
+    'title': 'Angela White Dark Side - Scene 1',
+    'altTitles': [],
+    'playtime': '0:00:00',
+    'partners': ['Markus Dupree'],
     'dvds': [{
-      title: 'Angela White Darkside',
-      link: ''
+      title: 'Angela White Dark Side',
+      link: 'http://angelawhitestore.com/2705783/angela-white-dark-side-porn-movies.html'
     }],
     'tags': [],
-    'release': moment('2019-09-23')
+    'release': moment('2019-09-30')
+  }, {
+    'producer': 'julesjordan.com',
+    'series': '',
+    'title': 'Angela White Dark Side - Scene 2 - Blowbang',
+    'altTitles': [],
+    'playtime': '0:00:00',
+    'partners': ['Chad Alva', 'Rob Banks', 'Jack Blaque', 'Robbie Echo', 'Johnny Goodluck', 'Steve Holmes', 'Eddie Jaye', 'Eric John', 'Rob Piper', 'Slim Poke', 'Will Pounder', 'Filthy Rich ', 'Donny Sins'],
+    'dvds': [{
+      title: 'Angela White Dark Side',
+      link: 'http://angelawhitestore.com/2705783/angela-white-dark-side-porn-movies.html'
+    }],
+    'tags': [],
+    'release': moment('2019-09-30')
+  },
+  {
+    'producer': 'julesjordan.com',
+    'series': '',
+    'title': 'Angela White Dark Side - Scene 3',
+    'altTitles': [],
+    'playtime': '0:00:00',
+    'partners': ['Dredd'],
+    'dvds': [{
+      title: 'Angela White Dark Side',
+      link: 'http://angelawhitestore.com/2705783/angela-white-dark-side-porn-movies.html'
+    }],
+    'tags': [],
+    'release': moment('2019-09-30')
+  },
+  {
+    'producer': 'julesjordan.com',
+    'series': '',
+    'title': 'Angela White Dark Side - Scene 4',
+    'altTitles': [],
+    'playtime': '0:00:00',
+    'partners': ['Mick Blue'],
+    'dvds': [{
+      title: 'Angela White Dark Side',
+      link: 'http://angelawhitestore.com/2705783/angela-white-dark-side-porn-movies.html'
+    }],
+    'tags': [],
+    'release': moment('2019-09-30')
+  },
+  {
+    'producer': 'julesjordan.com',
+    'series': '',
+    'title': 'Angela White Dark Side - Scene 5',
+    'altTitles': [],
+    'playtime': '0:00:00',
+    'partners': ['Autumn Falls', 'Markus Dupree'],
+    'dvds': [{
+      title: 'Angela White Dark Side',
+      link: 'http://angelawhitestore.com/2705783/angela-white-dark-side-porn-movies.html'
+    }],
+    'tags': [],
+    'release': moment('2019-09-30')
+  },
+  {
+    'producer': 'julesjordan.com',
+    'series': '',
+    'title': 'Angela White Dark Side - Scene 6 - Gangbang',
+    'altTitles': [],
+    'playtime': '0:00:00',
+    'partners': ['Robbie Echo', 'Eddie Jaye', 'Eric John', 'Jon Jon', 'Mr. Pete', 'Rob Piper', 'John Strong', 'Prince Yahshua', 'Steve Holmes', 'Markus Dupree', 'Mick Blue'],
+    'dvds': [{
+      title: 'Angela White Dark Side',
+      link: 'http://angelawhitestore.com/2705783/angela-white-dark-side-porn-movies.html'
+    }],
+    'tags': [],
+    'release': moment('2019-09-30')
   },
   {
     'producer': 'julesjordan.com',
@@ -6946,7 +7028,7 @@ export let data: Scene[] = [
   {
     'producer': 'prettydirty.com',
     'series': '',
-    'title': 'Fucked By My Parents\' Maid',
+    'title': 'Fucked By My Parents\'Maid',
     'altTitles': ['Caught Being Naughty - Scene 1', 'A Tramps Guide to Sucking Cock - Scene 4'],
     'playtime': '0:38:28',
     'partners': ['Tyler Nixon'],
