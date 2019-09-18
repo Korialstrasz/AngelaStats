@@ -5988,8 +5988,11 @@ export let data: Scene[] = [
     'title': 'Disciples of Desire: Bad Cop - Bad City - Scene 2',
     'altTitles': [],
     'playtime': '0:00:00',
-    'partners': ['Ivy LeBelle', ' Jax Slayer'],
-    'dvds': [],
+    'partners': ['Ivy LeBelle', ' Jax Slayher'],
+    'dvds': [{
+      title: 'Disciples of Desire: Bad Cop - Bad City',
+      link: 'https://angelawhitestore.com/2722100/disciples-of-desire-bad-cop-bad-city-porn-movies.html'
+    }],
     'tags': [],
     'release': moment('2019-09-30')
   }, {
