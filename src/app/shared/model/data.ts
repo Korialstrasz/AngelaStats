@@ -7060,6 +7060,17 @@ export let data: Scene[] = [
   {
     'producer': 'puretaboo.com',
     'series': '',
+    'title': 'Fertile',
+    'altTitles': [],
+    'playtime': '0:00:00',
+    'partners': ['Isiah Maxwell', 'Steve Holmes', 'Alina Lopez'],
+    'dvds': [],
+    'tags': [],
+    'release': moment('2019-10-29')
+  },
+  {
+    'producer': 'puretaboo.com',
+    'series': '',
     'title': 'Future Darkly - Smart House Of Horros',
     'altTitles': ['Future Darkly Vol. 2 - Scene 2'],
     'playtime': '1:00:09',
