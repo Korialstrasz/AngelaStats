@@ -3134,7 +3134,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:31:26',
     'partners': ['Ramon Nomar'],
-    'dvds': [],
+    'dvds': [{
+      title: 'Bubble But Anal Slut 5',
+      link: 'https://angelawhitestore.com/2723879/bubble-butt-anal-slut-5-porn-movies.html?qs=Bubble Butt Anal Slut 5'
+    }],
     'tags': [],
     'release': moment('2017-11-29')
   },
@@ -3816,6 +3819,50 @@ export let data: Scene[] = [
     }],
     'tags': [],
     'release': moment('2017-04-21')
+  },
+  {
+    'producer': 'digitalplayground.com',
+    'series': '',
+    'title': 'Exposure - Scene 1',
+    'altTitles': [],
+    'playtime': '0:00:00',
+    'partners': [],
+    'dvds': [],
+    'tags': ["Non Sex"],
+    'release': moment('2019-09-25')
+  },
+  {
+    'producer': 'digitalplayground.com',
+    'series': '',
+    'title': 'Exposure - Scene 2',
+    'altTitles': [],
+    'playtime': '0:00:00',
+    'partners': [],
+    'dvds': [],
+    'tags': ["Non Sex"],
+    'release': moment('2019-09-25')
+  },
+  {
+    'producer': 'digitalplayground.com',
+    'series': '',
+    'title': 'Exposure - Scene 3',
+    'altTitles': [],
+    'playtime': '0:44:00',
+    'partners': ['Ramon Nomar','Gianna Dior'],
+    'dvds': [],
+    'tags': [],
+    'release': moment('2019-09-25')
+  },
+  {
+    'producer': 'digitalplayground.com',
+    'series': '',
+    'title': 'Exposure - Scene 4',
+    'altTitles': [],
+    'playtime': '0:35:12',
+    'partners': ['Mick Blue', 'Ramon Nomar'],
+    'dvds': [],
+    'tags': [],
+    'release': moment('2019-09-25')
   },
   {
     'producer': 'digitalplayground.com',
@@ -6623,6 +6670,17 @@ export let data: Scene[] = [
     'dvds': [],
     'tags': ['VR'],
     'release': moment('2016-12-16')
+  },
+  {
+    'producer': 'naughtyamerica.com',
+    'series': 'Watch Your Wife',
+    'title': 'Angela White surprises husband\'s friend with a fuck and suck',
+    'altTitles': [],
+    'playtime': '0:35:00',
+    'partners': ['Jay Smooth'],
+    'dvds': [],
+    'tags': [],
+    'release': moment('2019-09-20')
   },
   {
     'producer': 'newsensations.com',
