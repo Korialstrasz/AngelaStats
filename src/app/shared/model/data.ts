@@ -426,12 +426,15 @@ export let data: Scene[] = [
     'producer': 'adamandeve.com',
     'series': '',
     'title': 'Submissive Wifes - Scene 4',
-    'altTitles': [],
+    'altTitles': ['Reliable Wood - Scene 5'],
     'playtime': '0:31:30',
     'partners': ['Marcus London'],
     'dvds': [{
       title: 'Submissive Wives',
-      link: 'https://angelawhitestore.com/2589225/submissive-wives-porn-movies.html'
+      link: 'https://angelawhitestore.com/2589225/submissive-wives-porn-movies.html',
+    }, {
+      title: 'Reliable Wood',
+      link: 'https://angelawhitestore.com/2728390/reliable-wood-porn-movies.html',
     }],
     'tags': ['Boy/Girl', 'Spanking', 'Rope Bondage', 'On Couch', 'Blowjob'],
     'release': moment('2018-11-23')
@@ -439,15 +442,58 @@ export let data: Scene[] = [
   {
     'producer': 'adulttime.com',
     'series': '',
-    'title': 'Perspective',
+    'title': 'Perspective - Episode 1',
     'altTitles': [],
-    'playtime': '0:00:00',
-    'partners': [],
+    'playtime': '0:52:40',
+    'partners': ['Seth Gamble', 'Codey Steele'],
     'dvds': [{
       title: 'Perspective',
       link: 'https://angelawhitestore.com/2719554/perspective-porn-movies.html'
     }],
-    'tags': [],
+    'tags': ["Acting", "On Bed", "Cunnilingus", "Elbow Birthmark", "Cowgirl", "Clothed", "Vaginal", "Blowjob", "Deepthroat",
+      "Missionary", "Birthmark Left Inner Thigh", "On Couch", "On Countertop", "Feet"],
+    'release': moment('2019-09-26')
+  },
+  {
+    'producer': 'adulttime.com',
+    'series': '',
+    'title': 'Perspective - Episode 2',
+    'altTitles': [],
+    'playtime': '1:07:36',
+    'partners': ['Isiah Maxwell', 'Micheal Vegas', 'Set Gamble', 'Whitney Wright', 'Gianna Dior', 'Abigail Mac'],
+    'dvds': [{
+      title: 'Perspective',
+      link: 'https://angelawhitestore.com/2719554/perspective-porn-movies.html'
+    }],
+    'tags': ["Acting"],
+    'release': moment('2019-09-26')
+  },
+  {
+    'producer': 'adulttime.com',
+    'series': '',
+    'title': 'Perspective - Episode 3',
+    'altTitles': [],
+    'playtime': '1:13:35',
+    'partners': ['Seth Gamble', 'Abigail Mac'],
+    'dvds': [{
+      title: 'Perspective',
+      link: 'https://angelawhitestore.com/2719554/perspective-porn-movies.html'
+    }],
+    'tags': ["Acting"],
+    'release': moment('2019-09-26')
+  },
+  {
+    'producer': 'adulttime.com',
+    'series': '',
+    'title': 'Perspective - Episode 4',
+    'altTitles': [],
+    'playtime': '0:34:16',
+    'partners': ['Seth Gamble'],
+    'dvds': [{
+      title: 'Perspective',
+      link: 'https://angelawhitestore.com/2719554/perspective-porn-movies.html'
+    }],
+    'tags': ["Acting"],
     'release': moment('2019-09-26')
   },
   {
@@ -2122,8 +2168,8 @@ export let data: Scene[] = [
     'playtime': '0:50:52',
     'partners': ['Manuel Ferrara'],
     'dvds': [{
-      title: 'Angela Loves Anal',
-      link: 'https://angelawhitestore.com/1926052/angela-loves-anal-porn-movies.html'
+      title: 'Angela Loves Anal 2',
+      link: 'https://angelawhitestore.com/2554826/angela-loves-anal-2-porn-movies.html'
     }],
     'tags': ['Boy/Girl', 'On Couch', 'Elbow Birthmark', 'Feet', 'Cunnilingus', 'Anilingus', 'Blowjob', 'Deepthroat', 'Handjob',
       'Fingering', 'Birthmark Left Inner Thigh', 'Vaginal', 'Cowgirl', 'Spooning', 'Anal', 'Choking', 'Titty Fuck', 'Doggy',
@@ -2271,9 +2317,9 @@ export let data: Scene[] = [
   }, {
     'producer': 'angelawhite.com',
     'series': '',
-    'title': 'Angela Loves Women 5 - Scene X',
+    'title': 'Angela Loves Women 5 - Scene 3',
     'altTitles': [],
-    'playtime': '0:00:00',
+    'playtime': '0:32:25',
     'partners': ['Autumn Falls'],
     'dvds': [{
       title: 'Angela Loves Women 5',
@@ -2284,9 +2330,9 @@ export let data: Scene[] = [
   }, {
     'producer': 'angelawhite.com',
     'series': '',
-    'title': 'Angela Loves Women 5 - Scene X',
+    'title': 'Angela Loves Women 5 - Scene 2',
     'altTitles': [],
-    'playtime': '0:00:00',
+    'playtime': '0:33:47',
     'partners': ['Ana Foxx'],
     'dvds': [{
       title: 'Angela Loves Women 5',
@@ -2297,9 +2343,9 @@ export let data: Scene[] = [
   }, {
     'producer': 'angelawhite.com',
     'series': '',
-    'title': 'Angela Loves Women 5 - Scene X',
+    'title': 'Angela Loves Women 5 - Scene 1',
     'altTitles': [],
-    'playtime': '0:00:00',
+    'playtime': '0:32:54',
     'partners': ['Alina Lopez'],
     'dvds': [{
       title: 'Angela Loves Women 5',
@@ -2310,9 +2356,9 @@ export let data: Scene[] = [
   }, {
     'producer': 'angelawhite.com',
     'series': '',
-    'title': 'Angela Loves Women 5 - Scene X',
+    'title': 'Angela Loves Women 5 - Scene 4',
     'altTitles': [],
-    'playtime': '0:00:00',
+    'playtime': '0:32:59',
     'partners': ['Natalie Mars'],
     'dvds': [{
       title: 'Angela Loves Women 5',
@@ -3419,7 +3465,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:36:45',
     'partners': ['Keiran Lee'],
-    'dvds': [],
+    'dvds': [{
+      title: 'Anal Glory 2',
+      link: 'https://angelawhitestore.com/2727761/anal-glory-2-porn-movies.html'
+    }],
     'tags': [],
     'release': moment('2017-08-14')
   },
@@ -3637,19 +3686,6 @@ export let data: Scene[] = [
   }, {
     'producer': 'deeper.com',
     'series': '',
-    'title': 'Drive',
-    'altTitles': [],
-    'playtime': '00:00:00',
-    'partners': [],
-    'dvds': [{
-      title: 'Drive',
-      link: 'https://angelawhitestore.com/2717528/drive-porn-movies.html'
-    }],
-    'tags': [],
-    'release': moment('2019-09-30')
-  }, {
-    'producer': 'deeper.com',
-    'series': '',
     'title': 'Diabolique Part 2',
     'altTitles': [],
     'playtime': '0:37:27',
@@ -3662,6 +3698,71 @@ export let data: Scene[] = [
       'Cunnilingus', 'Anilingus', 'Anal', 'Doggy', 'Blowjob', 'Deepthroat', 'Fingering', 'Titty Fuck', 'Choking',
       'Reverse Cowgirl', 'Handcuffs'],
     'release': moment('2018-04-09')
+  }, {
+    'producer': 'deeper.com',
+    'series': '',
+    'title': 'Drive Part 1',
+    'altTitles': ['Drive'],
+    'playtime': '00:00:00',
+    'partners': [],
+    'dvds': [{
+      title: 'Drive',
+      link: 'https://angelawhitestore.com/2717528/drive-porn-movies.html'
+    }],
+    'tags': ['Non Sex'],
+    'release': moment('2019-09-30')
+  }, {
+    'producer': 'deeper.com',
+    'series': '',
+    'title': 'Drive Part 2',
+    'altTitles': ['Drive'],
+    'playtime': '00:00:00',
+    'partners': [],
+    'dvds': [{
+      title: 'Drive',
+      link: 'https://angelawhitestore.com/2717528/drive-porn-movies.html'
+    }],
+    'tags': ['Non Sex'],
+    'release': moment('2019-09-30')
+  }, {
+    'producer': 'deeper.com',
+    'series': '',
+    'title': 'Drive Part 3',
+    'altTitles': ['Drive'],
+    'playtime': '00:31:00',
+    'partners': [],
+    'dvds': [{
+      title: 'Drive',
+      link: 'https://angelawhitestore.com/2717528/drive-porn-movies.html'
+    }],
+    'tags': ['Non Sex'],
+    'release': moment('2019-09-30')
+  }, {
+    'producer': 'deeper.com',
+    'series': '',
+    'title': 'Drive Part 4',
+    'altTitles': ['Drive'],
+    'playtime': '00:00:00',
+    'partners': [],
+    'dvds': [{
+      title: 'Drive',
+      link: 'https://angelawhitestore.com/2717528/drive-porn-movies.html'
+    }],
+    'tags': ['Non Sex'],
+    'release': moment('2019-09-30')
+  }, {
+    'producer': 'deeper.com',
+    'series': '',
+    'title': 'Drive Part 5',
+    'altTitles': ['Drive'],
+    'playtime': '00:43:00',
+    'partners': [],
+    'dvds': [{
+      title: 'Drive',
+      link: 'https://angelawhitestore.com/2717528/drive-porn-movies.html'
+    }],
+    'tags': ['Non Sex'],
+    'release': moment('2019-09-30')
   }, {
     'producer': 'ddfnetwork.com',
     'series': '',
@@ -3828,7 +3929,7 @@ export let data: Scene[] = [
     'playtime': '0:00:00',
     'partners': [],
     'dvds': [],
-    'tags': ["Non Sex"],
+    'tags': ["Non Sex", "Acting"],
     'release': moment('2019-09-25')
   },
   {
@@ -3839,7 +3940,7 @@ export let data: Scene[] = [
     'playtime': '0:00:00',
     'partners': [],
     'dvds': [],
-    'tags': ["Non Sex"],
+    'tags': ["Non Sex", "Acting"],
     'release': moment('2019-09-25')
   },
   {
@@ -3848,9 +3949,10 @@ export let data: Scene[] = [
     'title': 'Exposure - Scene 3',
     'altTitles': [],
     'playtime': '0:44:00',
-    'partners': ['Ramon Nomar','Gianna Dior'],
+    'partners': ['Ramon Nomar', 'Gianna Dior'],
     'dvds': [],
-    'tags': [],
+    'tags': ["Acting", "Boy/Girl", "Boy/Girl/Girl", "Cunnilingus", "Feet", "Anilingus", "Fingering", "Blowjob", "Vaginal", "Ballerina", "Deepthroat",
+      "On Couch", "69", "Reverse Cowgirl", "Choking", "Cowgirl", "Face Sitting", "Birthmark Left Inner Thigh", "Doggy", "Cum Swap"],
     'release': moment('2019-09-25')
   },
   {
@@ -4451,6 +4553,20 @@ export let data: Scene[] = [
   {
     'producer': 'evilangel.com',
     'series': '',
+    'title': 'I Am Riley - Scene 3',
+    'altTitles': [],
+    'playtime': '1:09:00',
+    'partners': ['Riley Reid', 'Katrina Jade'],
+    'dvds': [{
+      title: 'I Am Riley',
+      link: 'https://angelawhitestore.com/2726086/i-am-riley-porn-videos.html'
+    }],
+    'tags': ["Girl/Girl/Girl"],
+    'release': moment('2019-09-30')
+  },
+  {
+    'producer': 'evilangel.com',
+    'series': '',
     'title': 'Episode 1: The Journey',
     'altTitles': ['I Am Angela - Scene 1'],
     'playtime': '1:04:02',
@@ -5026,7 +5142,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:00:00',
     'partners': ['Gianna Dior'],
-    'dvds': [],
+    'dvds': [{
+      title: 'Large Naturals',
+      link: 'https://angelawhitestore.com/2730357/large-naturals-porn-movies.html'
+    }],
     'tags': ['Girl/Girl'],
     'release': moment('2019-07-19')
   },
@@ -6037,23 +6156,24 @@ export let data: Scene[] = [
     'series': '',
     'title': 'Disciples of Desire: Bad Cop - Bad City - Scene 2',
     'altTitles': [],
-    'playtime': '0:00:00',
+    'playtime': '0:39:01',
     'partners': ['Ivy LeBelle', ' Jax Slayher'],
     'dvds': [{
       title: 'Disciples of Desire: Bad Cop - Bad City',
       link: 'https://angelawhitestore.com/2722100/disciples-of-desire-bad-cop-bad-city-porn-movies.html'
     }],
-    'tags': [],
+    'tags': ["Boy/Girl/Girl", "In Car", "Cunnilingus", "Doggy", "Vaginal", "Blowjob", "Deepthroat", "Fingering", "On Car", "Missionary",
+      "Off the Ground", "On Chair", "Cowgirl", "On Couch", "Reverse Cowgirl", "Anilingus", "Neck Tattoo", "Doggy", "Choking", "Cum Swap"],
     'release': moment('2019-09-30')
   }, {
     'producer': 'julesjordan.com',
     'series': '',
-    'title': 'Angela White Dark Side - Scene 1',
+    'title': 'Angela White: Dark Side - Scene 1',
     'altTitles': [],
-    'playtime': '0:00:00',
-    'partners': ['Markus Dupree'],
+    'playtime': '0:42:46',
+    'partners': ['Markus Dupree', 'Jules Jordan'],
     'dvds': [{
-      title: 'Angela White Dark Side',
+      title: 'Angela White: Dark Side',
       link: 'http://angelawhitestore.com/2705783/angela-white-dark-side-porn-movies.html'
     }],
     'tags': [],
@@ -6061,9 +6181,9 @@ export let data: Scene[] = [
   }, {
     'producer': 'julesjordan.com',
     'series': '',
-    'title': 'Angela White Dark Side - Scene 2 - Blowbang',
+    'title': 'Angela White: Dark Side - Scene 2 - Blowbang',
     'altTitles': [],
-    'playtime': '0:00:00',
+    'playtime': '0:48:37',
     'partners': ['Chad Alva', 'Rob Banks', 'Jack Blaque', 'Robbie Echo', 'Johnny Goodluck', 'Steve Holmes', 'Eddie Jaye', 'Eric John', 'Rob Piper', 'Slim Poke', 'Will Pounder', 'Filthy Rich ', 'Donny Sins'],
     'dvds': [{
       title: 'Angela White Dark Side',
@@ -6075,9 +6195,9 @@ export let data: Scene[] = [
   {
     'producer': 'julesjordan.com',
     'series': '',
-    'title': 'Angela White Dark Side - Scene 3',
+    'title': 'Angela White: Dark Side - Scene 3',
     'altTitles': [],
-    'playtime': '0:00:00',
+    'playtime': '0:42:05',
     'partners': ['Dredd'],
     'dvds': [{
       title: 'Angela White Dark Side',
@@ -6089,43 +6209,47 @@ export let data: Scene[] = [
   {
     'producer': 'julesjordan.com',
     'series': '',
-    'title': 'Angela White Dark Side - Scene 4',
+    'title': 'Angela White: Dark Side - Scene 4',
     'altTitles': [],
-    'playtime': '0:00:00',
+    'playtime': '0:29:55',
     'partners': ['Mick Blue'],
     'dvds': [{
       title: 'Angela White Dark Side',
       link: 'http://angelawhitestore.com/2705783/angela-white-dark-side-porn-movies.html'
     }],
-    'tags': [],
+    'tags': ["Pool", "Outside", "Boy/Girl", "Cunnilingus", "Blowjob", "Deepthroat", "Anilingus", "Vaginal", "Doggy", "Reverse Cowgirl",
+      "Titty Fuck", "Cowgirl", "Missionary", "Choking",],
     'release': moment('2019-09-30')
   },
   {
     'producer': 'julesjordan.com',
     'series': '',
-    'title': 'Angela White Dark Side - Scene 5',
+    'title': 'Angela White: Dark Side - Scene 5',
     'altTitles': [],
-    'playtime': '0:00:00',
+    'playtime': '0:50:12',
     'partners': ['Autumn Falls', 'Markus Dupree'],
     'dvds': [{
       title: 'Angela White Dark Side',
       link: 'http://angelawhitestore.com/2705783/angela-white-dark-side-porn-movies.html'
     }],
-    'tags': [],
+    'tags': ["Oil", "On Couch", "Squirt", "Girl/Girl", "Cunnilingus", "Fingering", "Tribbing", "Choking", "Blowjob", "Titty Fuck",
+      "Anilingus", "Doggy", "Anal", "Missionary", "Vaginal", "Ass to Mouth", "Cowgirl", "Gaping", "Cum Swap"],
     'release': moment('2019-09-30')
   },
   {
     'producer': 'julesjordan.com',
     'series': '',
-    'title': 'Angela White Dark Side - Scene 6 - Gangbang',
+    'title': 'Angela White: Dark Side - Scene 6 - Gangbang',
     'altTitles': [],
-    'playtime': '0:00:00',
+    'playtime': '1:00:00',
     'partners': ['Robbie Echo', 'Eddie Jaye', 'Eric John', 'Jon Jon', 'Mr. Pete', 'Rob Piper', 'John Strong', 'Prince Yahshua', 'Steve Holmes', 'Markus Dupree', 'Mick Blue'],
     'dvds': [{
       title: 'Angela White Dark Side',
       link: 'http://angelawhitestore.com/2705783/angela-white-dark-side-porn-movies.html'
     }],
-    'tags': [],
+    'tags': ["Birthmark Left Inner Thigh", "On Table", "Gangbang", "Fingering", "Finger in Butt", "Choking","Blowjob", "Cunnilingus", "Squirt",
+     "Anilingus", "Deepthroat", "Vaginal", "Doggy", "Anal", "DP","Double Penetration", "Cowgirl","DA","Double Anal", "Missionary", "Gaping",
+    "Reverse Cowgirl", "Triple Penetration", "TP", "Elbow Birthmark","DV", "Double Vaginal",],
     'release': moment('2019-09-30')
   },
   {
@@ -8042,6 +8166,16 @@ export let data: Scene[] = [
     'dvds': [],
     'tags': ['VR', 'Cosplay'],
     'release': moment('2019-05-31')
+  }, {
+    'producer': 'vrcosplayx.com',
+    'series': '',
+    'title': 'Borderlands: Mad Moxxi A XXX Parody',
+    'altTitles': [],
+    'playtime': '0:49:00',
+    'partners': [],
+    'dvds': [],
+    'tags': ['VR', 'Cosplay'],
+    'release': moment('2019-10-04')
   },
   {
     'producer': 'vrhush.com',
