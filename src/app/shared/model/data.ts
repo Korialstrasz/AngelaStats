@@ -2770,6 +2770,17 @@ export let data: Scene[] = [
   {
     'producer': 'badoinkvr.com',
     'series': '',
+    'title': 'Down Mammary Lane',
+    'altTitles': [],
+    'playtime': '0:56:00',
+    'partners': ['Unknown'],
+    'dvds': [],
+    'tags': ['VR', 'Boy/Girl'],
+    'release': moment('2019-10-17')
+  },
+  {
+    'producer': 'badoinkvr.com',
+    'series': '',
     'title': 'Nailed In Jail',
     'altTitles': [],
     'playtime': '0:44:17',
@@ -2988,6 +2999,16 @@ export let data: Scene[] = [
     'dvds': [],
     'tags': [],
     'release': moment('2018-11-08')
+  }, {
+    'producer': 'bangbros.com',
+    'series': 'Big Tits, Round Asses',
+    'title': 'Fucking The Squirting Step Sisters',
+    'altTitles': [],
+    'playtime': '0:00:00',
+    'partners': ['Markus Dupree'],
+    'dvds': [],
+    'tags': [],
+    'release': moment('2019-10-24')
   }, {
     'producer': 'bangbros.com',
     'series': 'Big Tits, Round Asses',
@@ -3397,6 +3418,17 @@ export let data: Scene[] = [
   },
   {
     'producer': 'brazzers.com',
+    'series': 'Hot And Mean',
+    'title': 'Swing Fling: Part 1',
+    'altTitles': [],
+    'playtime': '0:00:00',
+    'partners': ['Molly Stewart'],
+    'dvds': [],
+    'tags': ['Girl/Girl',],
+    'release': moment('2019-11-08')
+  },
+  {
+    'producer': 'brazzers.com',
     'series': 'Pornstars Like It Big',
     'title': 'Angela\'s Sex Auction',
     'altTitles': [],
@@ -3700,9 +3732,22 @@ export let data: Scene[] = [
     'release': moment('2018-04-09')
   }, {
     'producer': 'deeper.com',
-    'series': '',
-    'title': 'Drive Part 1',
-    'altTitles': ['Drive'],
+    'series': 'Drive',
+    'title': 'Denial',
+    'altTitles': ['Drive Part 1'],
+    'playtime': '00:00:00',
+    'partners': [],
+    'dvds': [{
+      title: 'Drive',
+      link: 'https://angelawhitestore.com/2717528/drive-porn-movies.html'
+    }],
+    'tags': ['Non Sex'],
+    'release': moment('2019-09-30')
+  }, {
+    'producer': 'deeper.com',
+    'series': 'Drive',
+    'title': 'Anger',
+    'altTitles': ['Drive Part 2'],
     'playtime': '00:00:00',
     'partners': [],
     'dvds': [{
@@ -3714,23 +3759,10 @@ export let data: Scene[] = [
   }, {
     'producer': 'deeper.com',
     'series': '',
-    'title': 'Drive Part 2',
-    'altTitles': ['Drive'],
-    'playtime': '00:00:00',
-    'partners': [],
-    'dvds': [{
-      title: 'Drive',
-      link: 'https://angelawhitestore.com/2717528/drive-porn-movies.html'
-    }],
-    'tags': ['Non Sex'],
-    'release': moment('2019-09-30')
-  }, {
-    'producer': 'deeper.com',
-    'series': '',
-    'title': 'Drive Part 3',
-    'altTitles': ['Drive'],
+    'title': 'Depression',
+    'altTitles': ['Drive Part 3'],
     'playtime': '00:31:00',
-    'partners': [],
+    'partners': ['Gabbie Carter', 'Manuel Ferrara'],
     'dvds': [{
       title: 'Drive',
       link: 'https://angelawhitestore.com/2717528/drive-porn-movies.html'
@@ -3739,11 +3771,11 @@ export let data: Scene[] = [
     'release': moment('2019-09-30')
   }, {
     'producer': 'deeper.com',
-    'series': '',
-    'title': 'Drive Part 4',
-    'altTitles': ['Drive'],
+    'series': 'Drive',
+    'title': 'Bargaining',
+    'altTitles': ['Drive Part 4'],
     'playtime': '00:00:00',
-    'partners': [],
+    'partners': ['Lena Paul', 'Alina Lopez', 'Autumn Falls', 'Manuel Ferrara'],
     'dvds': [{
       title: 'Drive',
       link: 'https://angelawhitestore.com/2717528/drive-porn-movies.html'
@@ -3752,11 +3784,11 @@ export let data: Scene[] = [
     'release': moment('2019-09-30')
   }, {
     'producer': 'deeper.com',
-    'series': '',
-    'title': 'Drive Part 5',
-    'altTitles': ['Drive'],
+    'series': 'Drive',
+    'title': 'Acceptance',
+    'altTitles': ['Drive Part 5'],
     'playtime': '00:43:00',
-    'partners': [],
+    'partners': ['Emily Willis', 'Kira Noir', 'Markus Dupree', 'Mick Blue', 'Isiah Maxwell', 'Rob Piper', 'Aubrey Kate', 'Dante Colle', 'Wolf Hudson', 'Joanna Angel'],
     'dvds': [{
       title: 'Drive',
       link: 'https://angelawhitestore.com/2717528/drive-porn-movies.html'
@@ -4274,6 +4306,19 @@ export let data: Scene[] = [
     'release': moment('2018-08-29')
   },
   {
+    'producer': 'evilangel.com',
+    'series': '',
+    'title': 'A for Anal - Scene X',
+    'altTitles': [],
+    'playtime': '0:00:00',
+    'partners': ['Markus Dupree'],
+    'dvds': [{
+      title: 'A for Anal',
+      link: ''
+    }],
+    'tags': [],
+    'release': moment('2019-11-13')
+  }, {
     'producer': 'evilangel.com',
     'series': '',
     'title': 'Busty Angela\'s Squirting DP Workout',
@@ -5154,9 +5199,12 @@ export let data: Scene[] = [
     'series': 'Lesbian Office Tales',
     'title': 'Getting Caught At The Office',
     'altTitles': [],
-    'playtime': '0:00:00',
+    'playtime': '0:35:38',
     'partners': ['Lyra Law', 'Kate Kennedy'],
-    'dvds': [],
+    'dvds': [{
+      title: 'Lesbian Office Tales',
+      link: 'https://angelawhite.empirestores.co/2717877/lesbian-office-tales-porn-movies.html'
+    }],
     'tags': ['Girl/Girl'],
     'release': moment('2019-08-18')
   },
@@ -5165,7 +5213,7 @@ export let data: Scene[] = [
     'series': 'Lesbian Office Tales',
     'title': 'The Office Slut',
     'altTitles': [],
-    'playtime': '0:00:00',
+    'playtime': '0:42:18',
     'partners': ['Kenzie Taylor'],
     'dvds': [{
       title: 'Lesbian Office Tales',
@@ -5426,7 +5474,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'partners': ['A.J. Applegate'],
     'playtime': '00:43:52',
-    'dvds': [],
+    'dvds': [{
+      title: 'Surprise Proposal',
+      link: 'https://angelawhitestore.com/2736187/surprise-proposal-porn-movies.html'
+    }],
     'tags': [],
     'release': moment('2019-07-26 ')
   },
@@ -5804,10 +5855,13 @@ export let data: Scene[] = [
     'producer': 'girlsway.com',
     'series': 'Supernaturally Stacked',
     'title': 'I Dream Of Lezzie',
-    'altTitles': [],
+    'altTitles': ['Supernaturally Stacked - Scene 1'],
     'playtime': '0:32:54',
     'partners': ['Lena Paul', 'Sofi Ryan'],
-    'dvds': [],
+    'dvds': [{
+      title: 'Supernaturally Stacked',
+      link: 'https://angelawhitestore.com/2727769/supernaturally-stacked-porn-videos.html'
+    }],
     'tags': ['Girl/Girl/Girl', 'Acting', 'On Couch', 'On Table', 'Neck Tattoo', 'Cunnilingus', 'Fingering',
       'Face Sitting', '69', 'Anilingus', 'Birthmark Left Inner Thigh', 'Feet'],
     'release': moment('2019-08-08')
@@ -6176,7 +6230,10 @@ export let data: Scene[] = [
       title: 'Angela White: Dark Side',
       link: 'http://angelawhitestore.com/2705783/angela-white-dark-side-porn-movies.html'
     }],
-    'tags': [],
+    'tags': ["Neck Tattoo", "Boy/Boy/Girl", "Boots", "Fingering", "Squirt", "Blowjob", "Titty Fuck", "Choking", "Standing", "Vaginal", "Standing", "On Chair",
+      "Doggy", "On Couch", "Reverse Cowgirl", "Anal", "DP", "Double Penetration", "Ass to Mouth", "Deepthroat", "Cowgirl", "Gaping", "Dirty Talk", "Elbow Birthmark",
+      "Finger in Butt",
+    ],
     'release': moment('2019-09-30')
   }, {
     'producer': 'julesjordan.com',
@@ -6189,7 +6246,7 @@ export let data: Scene[] = [
       title: 'Angela White Dark Side',
       link: 'http://angelawhitestore.com/2705783/angela-white-dark-side-porn-movies.html'
     }],
-    'tags': [],
+    'tags': ["Blowbang", "Neck Tattoo", "Cunnilingus", "Anilingus", "Choking", "Blowjob", "Deepthroat", "Titty Fuck", "Fingering", "Squirt", "Face Sitting"],
     'release': moment('2019-09-30')
   },
   {
@@ -6203,7 +6260,7 @@ export let data: Scene[] = [
       title: 'Angela White Dark Side',
       link: 'http://angelawhitestore.com/2705783/angela-white-dark-side-porn-movies.html'
     }],
-    'tags': [],
+    'tags': ["Elbow Birthmark", "On Bed", "Blowbang", "Deepthroat", "Anilingus", "Cowgirl", "Reverse Cowgirl", "Anal", "Anal", "Doggy", "Ass to Mouth", "Missionary", "Titty Fuck"],
     'release': moment('2019-09-30')
   },
   {
@@ -6247,9 +6304,9 @@ export let data: Scene[] = [
       title: 'Angela White Dark Side',
       link: 'http://angelawhitestore.com/2705783/angela-white-dark-side-porn-movies.html'
     }],
-    'tags': ["Birthmark Left Inner Thigh", "On Table", "Gangbang", "Fingering", "Finger in Butt", "Choking","Blowjob", "Cunnilingus", "Squirt",
-     "Anilingus", "Deepthroat", "Vaginal", "Doggy", "Anal", "DP","Double Penetration", "Cowgirl","DA","Double Anal", "Missionary", "Gaping",
-    "Reverse Cowgirl", "Triple Penetration", "TP", "Elbow Birthmark","DV", "Double Vaginal",],
+    'tags': ["Birthmark Left Inner Thigh", "On Table", "Gangbang", "Fingering", "Finger in Butt", "Choking", "Blowjob", "Cunnilingus", "Squirt",
+      "Anilingus", "Deepthroat", "Vaginal", "Doggy", "Anal", "DP", "Double Penetration", "Cowgirl", "DA", "Double Anal", "Missionary", "Gaping",
+      "Reverse Cowgirl", "Triple Penetration", "TP", "Elbow Birthmark", "DV", "Double Vaginal",],
     'release': moment('2019-09-30')
   },
   {
@@ -6413,6 +6470,28 @@ export let data: Scene[] = [
     'dvds': [],
     'tags': [],
     'release': moment('2018-07-06')
+  },
+  {
+    'producer': 'lustcinema.com',
+    'series': 'Lost in L.A.',
+    'title': 'Lost in L.A. Episode 2',
+    'altTitles': [],
+    'playtime': '0:00:00',
+    'partners': [],
+    'dvds': [],
+    'tags': [],
+    'release': moment('2019-11-30')
+  },
+  {
+    'producer': 'lustcinema.com',
+    'series': 'Lost in L.A.',
+    'title': 'Lost in L.A. BTS',
+    'altTitles': [],
+    'playtime': '0:00:00',
+    'partners': ['Sterling Cooper', 'Silvia Seige'],
+    'dvds': [],
+    'tags': ["BTS"],
+    'release': moment('2019-10-31')
   },
   {
     'producer': 'lubed.com',
@@ -6927,6 +7006,9 @@ export let data: Scene[] = [
     }, {
       title: 'The Sexual Desires Of Angela White',
       link: 'https://angelawhitestore.com/2625155/sexual-desires-of-angela-white-the-porn-movies.html'
+    }, {
+      title: 'Damn It\'s Big Vol. 3',
+      link: 'https://angelawhitestore.com/2739271/damn-its-big-vol-3-porn-movies.html'
     }],
     'tags': [],
     'release': moment('2018-07-16')
@@ -7231,6 +7313,18 @@ export let data: Scene[] = [
     'release': moment('2017-03-10')
   },
   {
+    'producer': 'purgatoryx.com',
+    'series': 'Hell Series',
+    'title': 'The Dentist Vol 1 Episode 3',
+    'altTitles': [],
+    'playtime': '0:00:00',
+    'partners': ['Donnie Rock'],
+    'dvds': [],
+    'tags': ["Boy/Girl", "On Chair", "Cunnilingus", "Fingering", "Birthmark Left Inner Thigh", "Blowjob", "Vaginal", "Doggy",
+      "Cowgirl", "Reverse Cowgirl", "Standing", "Elbow Birthmark", "Deepthroat", "Titty Fuck", "POV",],
+    'release': moment('2019-11-01')
+  },
+  {
     'producer': 'puretaboo.com',
     'series': '',
     'title': 'Balance of Power',
@@ -7244,13 +7338,13 @@ export let data: Scene[] = [
   },
   {
     'producer': 'puretaboo.com',
-    'series': '',
+    'series': 'Under The Bed',
     'title': 'Fertile',
     'altTitles': [],
-    'playtime': '0:00:00',
-    'partners': ['Isiah Maxwell', 'Steve Holmes', 'Alina Lopez'],
+    'playtime': '0:52:37',
+    'partners': ['Isiah Maxwell', 'Steve Holmes', 'Alina Lopez', 'Tommy Pistol', 'Charles Dera'],
     'dvds': [],
-    'tags': [],
+    'tags': ["Acting", "Blowbang", "Boy/Girl/Girl", "Cowgirl", "Deepthroat", "Off the Ground", "Standing"],
     'release': moment('2019-10-29')
   },
   {
@@ -8126,7 +8220,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '00:33:32',
     'partners': ['Markus Dupree'],
-    'dvds': [],
+    'dvds': [{
+      title: 'Perfect Anal',
+      link: 'https://angelawhitestore.com/2741235/perfect-anal-porn-movies.html'
+    }],
     'tags': ['Boy/Girl', 'Anal', 'On Couch', 'Birthmark Left Inner Thigh', 'Anilingus', 'Blowjob', 'Deepthroat',
       'Titty Fuck', 'Elbow Birthmark', 'Heels', 'Finger in Butt', 'Doggy', 'Squirt', 'Gaping', 'On Chair', 'Choking',
       'Standing', 'Against Wall', 'Vaginal', 'Reverse Cowgirl', 'Face Sitting', 'Cowgirl', 'Ass to Pussy', 'Pussy to Ass'],
