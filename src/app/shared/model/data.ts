@@ -2812,6 +2812,17 @@ export let data: Scene[] = [
     'release': moment('2018-01-01')
   },
   {
+    'producer': 'badoinkvr.com',
+    'series': '',
+    'title': 'Keeping Promises',
+    'altTitles': [],
+    'playtime': '0:59:00',
+    'partners': ['Gabbie Carter', 'Unknown'],
+    'dvds': [],
+    'tags': ['VR', 'Boy/Girl', 'Stockings'],
+    'release': moment('2019-11-14')
+  },
+  {
     'producer': 'bang.com',
     'series': 'Bang! Rammed',
     'title': 'Angela White Is A Bodacious Anal Slut',
@@ -2844,7 +2855,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:35:08',
     'partners': ['Markus Dupree'],
-    'dvds': [],
+    'dvds': [{
+      title: 'Squirt Squad',
+      link: 'https://angelawhitestore.com/2740664/squirt-squad-porn-movies.html'
+    }],
     'tags': ['Dirty Talk', 'Elbow Birthmark', 'Butt Plug', 'Heart Butt Plug', 'Ass to Mouth', 'Solo', 'Dildo',
       'Birthmark Left Inner Thigh', 'Vaginal', 'Anal', 'Ass to Pussy', 'Pussy to Ass', 'Switching Holes', 'Fingering',
       'Squirt', 'Finger in Butt', 'Blowjob', 'Titty Fuck', 'Neck Tattoo', 'On Couch', 'Doggy', 'Gaping', 'Heels',
@@ -3004,7 +3018,7 @@ export let data: Scene[] = [
     'series': 'Big Tits, Round Asses',
     'title': 'Fucking The Squirting Step Sisters',
     'altTitles': [],
-    'playtime': '0:00:00',
+    'playtime': '0:41:41',
     'partners': ['Markus Dupree'],
     'dvds': [],
     'tags': [],
@@ -3421,11 +3435,23 @@ export let data: Scene[] = [
     'series': 'Hot And Mean',
     'title': 'Swing Fling: Part 1',
     'altTitles': [],
-    'playtime': '0:00:00',
+    'playtime': '0:29:42',
     'partners': ['Molly Stewart'],
     'dvds': [],
-    'tags': ['Girl/Girl',],
+    'tags': ['Girl/Girl', "On Chair", "Cunnilingus", "Fingering", "On Bed", "Anilingus", "Elbow Birthmark", "Vibrator",
+      "Birthmark Left Inner Thigh", "Face Sitting", "Tribbing",],
     'release': moment('2019-11-08')
+  },
+  {
+    'producer': 'brazzers.com',
+    'series': 'Real Wife Stories',
+    'title': 'Swing Fling: Part 2',
+    'altTitles': [],
+    'playtime': '0:30:33',
+    'partners': ['Molly Stewart', 'Xander Corvus'],
+    'dvds': [],
+    'tags': ["Boy/Girl/Girl", "Anilingus", "Blowjob", "Deepthroat", "Titty Fuck",],
+    'release': moment('2019-11-12')
   },
   {
     'producer': 'brazzers.com',
@@ -3798,6 +3824,19 @@ export let data: Scene[] = [
   }, {
     'producer': 'ddfnetwork.com',
     'series': '',
+    'title': 'Sexiest US Pornstars - Scene 2',
+    'altTitles': [],
+    'playtime': '0:00:00',
+    'partners': [],
+    'dvds': [{
+      title: 'Sexiest US Pornstars',
+      link: 'https://angelawhitestore.com/2744636/sexiest-us-pornstars-porn-movies.html'
+    }],
+    'tags': [],
+    'release': moment('2019-11-15')
+  }, {
+    'producer': 'ddfnetwork.com',
+    'series': '',
     'title': 'Big Tits in Wonderland',
     'altTitles': ['Jingel Her Bells'],
     'playtime': '0:15:37',
@@ -4069,6 +4108,17 @@ export let data: Scene[] = [
     'release': moment('2017-10-25')
   },
   {
+    'producer': 'dorcel.com',
+    'series': '',
+    'title': 'Climax',
+    'altTitles': [],
+    'playtime': '1:18:00',
+    'partners': ['Avi Love', 'India Summer', 'Jane Wild', 'Whitney Wright', 'Britney Amber', 'Seth Gamble', ' Ryan Driller', 'Eric Materson'],
+    'dvds': [],
+    'tags': [],
+    'release': moment('2019-12-04')
+  },
+  {
     'producer': 'elegantangel.com',
     'series': '',
     'title': 'Angela White Has Fun With Some BBC Gloryhole Style',
@@ -4308,15 +4358,17 @@ export let data: Scene[] = [
   {
     'producer': 'evilangel.com',
     'series': '',
-    'title': 'A for Anal - Scene X',
-    'altTitles': [],
-    'playtime': '0:00:00',
+    'title': 'Thick Angela: Anal, Squirt, Cum Facial',
+    'altTitles': ['A for Anal - Scene 4'],
+    'playtime': '0:42:47',
     'partners': ['Markus Dupree'],
     'dvds': [{
-      title: 'A for Anal',
-      link: ''
+      title: 'A For Anal',
+      link: 'https://angelawhitestore.com/2720742/a-for-anal-porn-movies.html'
     }],
-    'tags': [],
+    'tags': ["Boy/Girl", "Anal", "Dildo", "Dirty Talk", "Elbow Birthmark", "Heels", "Finger in Butt", "Doggy", "On Couch",
+      "Gaping", "Squirt", "Anilingus", "Reverse Cowgirl", "Birthmark Left Inner Thigh", "Cowgirl", "Ass to Mouth", "Blowjob",
+      "Deepthroat", "Missionary", "Balls in Ass",],
     'release': moment('2019-11-13')
   }, {
     'producer': 'evilangel.com',
@@ -5185,7 +5237,7 @@ export let data: Scene[] = [
     'series': 'Large Naturals',
     'title': 'The Creepy Chiropractor',
     'altTitles': [],
-    'playtime': '0:00:00',
+    'playtime': '0:45:31',
     'partners': ['Gianna Dior'],
     'dvds': [{
       title: 'Large Naturals',
@@ -5232,6 +5284,17 @@ export let data: Scene[] = [
     'dvds': [],
     'tags': ['Girl/Girl'],
     'release': moment('2019-07-25')
+  },
+  {
+    'producer': 'girlgirl.com',
+    'series': '',
+    'title': 'Strap-on Daddy',
+    'altTitles': [],
+    'playtime': '0:00:00',
+    'partners': ['Carolina Sweets'],
+    'dvds': [],
+    'tags': ['Girl/Girl'],
+    'release': moment('2019-11-11')
   },
   {
     'producer': 'girlsoutwest.com',
@@ -5518,7 +5581,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '00:38:49',
     'partners': ['Gia Derza'],
-    'dvds': [],
+    'dvds': [{
+      title: 'Cheeky Sense Of Humor',
+      link: 'https://angelawhitestore.com/2745448/cheeky-sense-of-humor-porn-movies.html'
+    }],
     'tags': ['Girl/Girl', 'On Bed', 'Finger in Butt', 'Neck Tattoo', 'Dildo', 'Anal', 'Elbow Birthmark', 'Spanking',
       'Cunnilingus', 'Anilingus', 'Fingering', 'Grinding', 'Tribbing', 'Feet', 'Cuddling'],
     'release': moment('2019-03-31')
@@ -6477,10 +6543,10 @@ export let data: Scene[] = [
     'title': 'Lost in L.A. Episode 2',
     'altTitles': [],
     'playtime': '0:00:00',
-    'partners': [],
+    'partners': ['Sterling Cooper', 'Silvia Seige'],
     'dvds': [],
     'tags': [],
-    'release': moment('2019-11-30')
+    'release': moment('2019-11-15')
   },
   {
     'producer': 'lustcinema.com',
@@ -6488,7 +6554,7 @@ export let data: Scene[] = [
     'title': 'Lost in L.A. BTS',
     'altTitles': [],
     'playtime': '0:00:00',
-    'partners': ['Sterling Cooper', 'Silvia Seige'],
+    'partners': [],
     'dvds': [],
     'tags': ["BTS"],
     'release': moment('2019-10-31')
@@ -7197,6 +7263,17 @@ export let data: Scene[] = [
     'release': moment('2017-08-17')
   },
   {
+    'producer': 'pimp.xxx',
+    'series': '',
+    'title': 'Angela Loves A Photographer That Will Do Anything For Her',
+    'altTitles': [],
+    'playtime': '0:24:50',
+    'partners': ['Steve Holms'],
+    'dvds': [],
+    'tags': [],
+    'release': moment('2019-11-19')
+  },
+  {
     'producer': 'Plum',
     'series': '',
     'title': 'SY-166 -  An Amateur In A One Room Apartment 166 - A Married Woman, Angela White , Age 29 The Kanda River Colossal Tits',
@@ -7335,6 +7412,17 @@ export let data: Scene[] = [
     'tags': ['Boy/Girl', 'Acting', 'On Desk', 'Blackmail', 'Blowjob', 'Deepthroat', 'Cowgirl', 'On Chair', 'Sweat',
       'Vaginal', 'Choking', 'Cum on Tits'],
     'release': moment('2018-11-29')
+  },
+  {
+    'producer': 'puretaboo.com',
+    'series': 'Lesbian Revenge',
+    'title': 'Strings Attached',
+    'altTitles': [],
+    'playtime': '0:00:00',
+    'partners': ['Serena Blair', 'Scarlett Sage'],
+    'dvds': [],
+    'tags': [],
+    'release': moment('2018-12-05')
   },
   {
     'producer': 'puretaboo.com',
