@@ -426,7 +426,7 @@ export let data: Scene[] = [
     'producer': 'adamandeve.com',
     'series': '',
     'title': 'Submissive Wifes - Scene 4',
-    'altTitles': ['Reliable Wood - Scene 5'],
+    'altTitles': ['Reliable Wood - Scene 5', 'Racked & Stacked Milfs - Scene X'],
     'playtime': '0:31:30',
     'partners': ['Marcus London'],
     'dvds': [{
@@ -435,6 +435,9 @@ export let data: Scene[] = [
     }, {
       title: 'Reliable Wood',
       link: 'https://angelawhitestore.com/2728390/reliable-wood-porn-movies.html',
+    }, {
+      title: 'Racked & Stacked Milfs',
+      link: 'https://angelawhitestore.com/2749123/racked-stacked-milfs-porn-movies.html',
     }],
     'tags': ['Boy/Girl', 'Spanking', 'Rope Bondage', 'On Couch', 'Blowjob'],
     'release': moment('2018-11-23')
@@ -2937,6 +2940,17 @@ export let data: Scene[] = [
   {
     'producer': 'bangbros.com',
     'series': 'Big Tits, Round Asses',
+    'title': 'Angela Loves Anal',
+    'altTitles': [],
+    'playtime': '0:49:14',
+    'partners': [' Cyrus King'],
+    'dvds': [],
+    'tags': [],
+    'release': moment('2019-11-21')
+  },
+  {
+    'producer': 'bangbros.com',
+    'series': 'Big Tits, Round Asses',
     'title': 'Angela White Fucks The Plumber',
     'altTitles': [],
     'playtime': '0:40:55',
@@ -5211,6 +5225,9 @@ export let data: Scene[] = [
     'dvds': [{
       title: 'Lesbian Psychodramas Vol. 32',
       link: 'https://angelawhitestore.com/2643726/lesbian-psychodramas-vol-32-porn-movies.html'
+    },{
+      title: 'Big Boobs 2',
+      link: 'https://angelawhitestore.com/2747742/big-boobs-2-its-a-girlfriends-thing-porn-movies.html'
     }],
     'tags': [],
     'release': moment('2019-03-22')
@@ -7270,7 +7287,8 @@ export let data: Scene[] = [
     'playtime': '0:24:50',
     'partners': ['Steve Holms'],
     'dvds': [],
-    'tags': [],
+    'tags': ["Cuckhold", "Boy/Girl", "Anilingus", "On Couch", "Cunnilingus", "Birthmark Left Inner Thigh", "Elbow Birthmark",
+    "Blowjob", "Deepthroat", "Vaginal", "Doggy", "Cowgirl", "Reverse Cowgirl","Spooning", "Choking", "Side Fuck","Fingering", "Squirt"],
     'release': moment('2019-11-19')
   },
   {
