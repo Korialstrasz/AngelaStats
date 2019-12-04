@@ -500,6 +500,17 @@ export let data: Scene[] = [
     'release': moment('2019-09-26')
   },
   {
+    'producer': 'allherluv.com',
+    'series': '',
+    'title': 'Seasons Part 1',
+    'altTitles': [],
+    'playtime': '0:47:15',
+    'partners': ['Giselle Palmer', 'Antonella La Sirena'],
+    'dvds': [],
+    'tags': [],
+    'release': moment('2019-11-24')
+  },
+  {
     'producer': 'angelawhite.com',
     'series': '',
     'title': '001 - Angela White x Sophie Dee',
@@ -2945,7 +2956,19 @@ export let data: Scene[] = [
     'playtime': '0:49:14',
     'partners': [' Cyrus King'],
     'dvds': [],
-    'tags': [],
+    'tags': ["Outside", "Finger in Butt", "Oil", "Elbow Birthmark", "Birthmark Left Inner Thigh", "Cunnilingus", "Fingering",
+      "Blowjob", "Deepthroat", "Titty Fuck", "Vaginal", "On Table", "Missionary", "Off the Ground", "On Couch", "Cowgirl", "Reverse Cowgirl",
+      "Anal", "Side Fuck", "Ass to Mouth", "Doggy", "Neck Tattoo", "Spooning", "Gaping",],
+    'release': moment('2019-11-21')
+  }, {
+    'producer': 'bangbros.com',
+    'series': 'Big Tits, Round Asses',
+    'title': 'Angela Loves Anal - BTS',
+    'altTitles': [],
+    'playtime': '0:4:29',
+    'partners': [' Cyrus King'],
+    'dvds': [],
+    'tags': ["BTS"],
     'release': moment('2019-11-21')
   },
   {
@@ -3411,12 +3434,25 @@ export let data: Scene[] = [
   },
   {
     'producer': 'brazzers.com',
+    'series': 'Day With A Pornstar',
+    'title': 'Angela White',
+    'altTitles': [],
+    'playtime': '0:38:48',
+    'partners': ['Manuel Ferrara'],
+    'dvds': [],
+    'tags': [],
+    'release': moment('2019-11-24')
+  }, {
+    'producer': 'brazzers.com',
     'series': 'Dirty Masseur',
     'title': 'The Wrong Massage Feels So Right',
     'altTitles': [],
     'playtime': '0:38:46',
     'partners': ['Johnny Castle'],
-    'dvds': [],
+    'dvds': [{
+      title: 'Dirty Masseur #16',
+      link: 'https://angelawhitestore.com/2751245/dirty-masseur-16-porn-movies.html'
+    }],
     'tags': [],
     'release': moment('2017-03-21')
   }, {
@@ -3656,6 +3692,28 @@ export let data: Scene[] = [
     'dvds': [],
     'tags': ['Live Stream', 'Girl/Girl'],
     'release': moment('2017-03-24')
+  },
+  {
+    'producer': 'cherrypimps.com',
+    'series': '',
+    'title': 'Interview with Angela White',
+    'altTitles': [],
+    'playtime': '0:13:04',
+    'partners': [],
+    'dvds': [],
+    'tags': ['Non Sex'],
+    'release': moment('2019-12-02')
+  },
+  {
+    'producer': 'cherrypimps.com',
+    'series': '',
+    'title': 'Ready To Seduce You',
+    'altTitles': [],
+    'playtime': '0:09:02',
+    'partners': [],
+    'dvds': [],
+    'tags': ['Solo'],
+    'release': moment('2019-12-02')
   },
   {
     'producer': 'cherrypimps.com',
@@ -5225,7 +5283,7 @@ export let data: Scene[] = [
     'dvds': [{
       title: 'Lesbian Psychodramas Vol. 32',
       link: 'https://angelawhitestore.com/2643726/lesbian-psychodramas-vol-32-porn-movies.html'
-    },{
+    }, {
       title: 'Big Boobs 2',
       link: 'https://angelawhitestore.com/2747742/big-boobs-2-its-a-girlfriends-thing-porn-movies.html'
     }],
@@ -5521,6 +5579,16 @@ export let data: Scene[] = [
     'dvds': [],
     'tags': ['Girl/Girl/Girl', 'On Couch', 'Cunnilingus', 'Birthmark Left Inner Thigh', 'Fingering'],
     'release': moment('2019-07-07')
+  }, {
+    'producer': 'girlsway.com',
+    'series': '',
+    'title': 'Nobody\'s Trophy',
+    'altTitles': [],
+    'playtime': '0:48:46',
+    'partners': ['Diana Grace'],
+    'dvds': [],
+    'tags': ['Girl/Girl', 'On Couch', 'Cunnilingus', 'Birthmark Left Inner Thigh', 'Fingering'],
+    'release': moment('2019-11-29')
   }, {
     'producer': 'girlsway.com',
     'series': '',
@@ -6872,6 +6940,18 @@ export let data: Scene[] = [
   },
   {
     'producer': 'naughtyamerica.com',
+    'series': 'Big Cock Bully',
+    'title': 'Angela White strips, sucks, and fucks for her husband\'s promotion',
+    'altTitles': [],
+    'playtime': '0:51:07',
+    'partners': ['Jason Brown'],
+    'dvds': [],
+    'tags': ["Boy/Girl", "Cheating", "Acting", "On Couch", "Blowjob", "Deepthroat", "Titty Fuck", "Cunnilingus", "Vaginal",
+      "Missionary",     "Birthmark Left Inner Thigh", "Choking", "Cowgirl", "Reverse Cowgirl", "Doggy","Elbow Birthmark",],
+    'release': moment('2019-11-27')
+  },
+  {
+    'producer': 'naughtyamerica.com',
     'series': 'Dirty Wives Club',
     'title': 'Angela White Fucking In The Den With Her Innie Pussy',
     'altTitles': [],
@@ -7288,8 +7368,19 @@ export let data: Scene[] = [
     'partners': ['Steve Holms'],
     'dvds': [],
     'tags': ["Cuckhold", "Boy/Girl", "Anilingus", "On Couch", "Cunnilingus", "Birthmark Left Inner Thigh", "Elbow Birthmark",
-    "Blowjob", "Deepthroat", "Vaginal", "Doggy", "Cowgirl", "Reverse Cowgirl","Spooning", "Choking", "Side Fuck","Fingering", "Squirt"],
+      "Blowjob", "Deepthroat", "Vaginal", "Doggy", "Cowgirl", "Reverse Cowgirl", "Spooning", "Choking", "Side Fuck", "Fingering", "Squirt"],
     'release': moment('2019-11-19')
+  },
+  {
+    'producer': 'playboyplus.com',
+    'series': '',
+    'title': 'Professional Confession',
+    'altTitles': [],
+    'playtime': '0:05:44',
+    'partners': [],
+    'dvds': [],
+    'tags': ['Non Sex'],
+    'release': moment('2019-11-26')
   },
   {
     'producer': 'Plum',
@@ -7529,7 +7620,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:35:56',
     'partners': ['Charles Dera'],
-    'dvds': [],
+    'dvds': [{
+      title: 'Big Naturals Vol. 44',
+      link: 'https://angelawhitestore.com/2751309/big-naturals-vol-44-porn-movies.html'
+    }],
     'tags': ['Water', 'Outside', 'Neck Tattoo', 'Elbow Birthmark', 'Choking', 'Blowjob', 'Deepthroat', 'On Couch',
       'Birthmark Left Inner Thigh', 'Handjob', 'Vaginal', 'Spooning', 'Oil', 'Titty Fuck', 'POV', 'Dirty Talk',
       'Cowgirl', 'Reverse Cowgirl', 'Side Fuck', 'Cunnilingus'],
