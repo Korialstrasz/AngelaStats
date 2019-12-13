@@ -3707,13 +3707,46 @@ export let data: Scene[] = [
   {
     'producer': 'cherrypimps.com',
     'series': '',
+    'title': 'Angela Loves Burying Her Face In Ivys Pussy',
+    'altTitles': [],
+    'playtime': '0:18:46',
+    'partners': ['Ivy Lebelle'],
+    'dvds': [],
+    'tags': ["Girl/Girl"],
+    'release': moment('2019-12-16')
+  },
+  {
+    'producer': 'cherrypimps.com',
+    'series': '',
+    'title': 'Angela White Gets Put On Santas Naughty List',
+    'altTitles': [],
+    'playtime': '0:24:22',
+    'partners': ['Ramon Nomar'],
+    'dvds': [],
+    'tags': ["Boy/Girl"],
+    'release': moment('2019-12-23')
+  },
+  {
+    'producer': 'cherrypimps.com',
+    'series': '',
     'title': 'Ready To Seduce You',
     'altTitles': [],
     'playtime': '0:09:02',
     'partners': [],
     'dvds': [],
-    'tags': ['Solo'],
+    'tags': ['Solo', "On Chair", "Vibrator"],
     'release': moment('2019-12-02')
+  },
+  {
+    'producer': 'cherrypimps.com',
+    'series': '',
+    'title': 'Hypnotizing You With Those Jiggling Tits',
+    'altTitles': [],
+    'playtime': '0:10:19',
+    'partners': [],
+    'dvds': [],
+    'tags': ['Solo', "On Bed", "Fingering",],
+    'release': moment('2019-12-09')
   },
   {
     'producer': 'cherrypimps.com',
@@ -4183,9 +4216,9 @@ export let data: Scene[] = [
     'producer': 'dorcel.com',
     'series': '',
     'title': 'Climax',
-    'altTitles': [],
+    'altTitles': ['Climax : the paroxysm of sexual pleasure'],
     'playtime': '1:18:00',
-    'partners': ['Avi Love', 'India Summer', 'Jane Wild', 'Whitney Wright', 'Britney Amber', 'Seth Gamble', ' Ryan Driller', 'Eric Materson'],
+    'partners': ['Avi Love', 'India Summers', 'Jane Wild', 'Whitney Wright', 'Britney Amber', 'Seth Gamble', ' Ryan Driller', 'Eric Materson'],
     'dvds': [],
     'tags': [],
     'release': moment('2019-12-04')
@@ -6947,7 +6980,7 @@ export let data: Scene[] = [
     'partners': ['Jason Brown'],
     'dvds': [],
     'tags': ["Boy/Girl", "Cheating", "Acting", "On Couch", "Blowjob", "Deepthroat", "Titty Fuck", "Cunnilingus", "Vaginal",
-      "Missionary",     "Birthmark Left Inner Thigh", "Choking", "Cowgirl", "Reverse Cowgirl", "Doggy","Elbow Birthmark",],
+      "Missionary", "Birthmark Left Inner Thigh", "Choking", "Cowgirl", "Reverse Cowgirl", "Doggy", "Elbow Birthmark",],
     'release': moment('2019-11-27')
   },
   {
@@ -7527,10 +7560,11 @@ export let data: Scene[] = [
     'series': 'Lesbian Revenge',
     'title': 'Strings Attached',
     'altTitles': [],
-    'playtime': '0:00:00',
+    'playtime': '0:57:52',
     'partners': ['Serena Blair', 'Scarlett Sage'],
     'dvds': [],
-    'tags': [],
+    'tags': ["Acting", "Girl/Girl/Girl", "On Couch", "Rope Bondage", "Anilingus", "Cunnilingus", "Choking", "Face Sitting", "Tribbing",
+    ],
     'release': moment('2018-12-05')
   },
   {
@@ -8070,18 +8104,21 @@ export let data: Scene[] = [
     'release': moment('2017-04-21')
   },
   {
-    'producer': 'teemskeet.com',
+    'producer': 'teamskeet.com',
     'series': 'Titty Attack',
     'title': 'Big Naturals In Slow Motion',
     'altTitles': [],
     'playtime': '1:05:55',
     'partners': [],
-    'dvds': [],
+    'dvds': [{
+      title: 'Busty Petite 6',
+      link: 'https://angelawhitestore.com/2752617/busty-petite-6-porn-movies.html'
+    }],
     'tags': [],
     'release': moment('2018-07-13')
   },
   {
-    'producer': 'teemskeet.com',
+    'producer': 'teamskeet.com',
     'series': 'Titty Attack',
     'title': 'Talented Tits',
     'altTitles': [],
@@ -8395,7 +8432,10 @@ export let data: Scene[] = [
     'altTitles': ['Angela White'],
     'playtime': '0:48:16',
     'partners': [],
-    'dvds': [],
+    'dvds': [{
+      title: 'Desperate Teens Evicted 2: Big Boobs Edition',
+      link:'https://angelawhitestore.com/2759220/desperate-teens-evicted-2-big-boobs-edition-porn-movies.html'
+    }],
     'tags': ['POV', 'Acting', 'Boy/Girl', 'On Couch', 'Roleplay', 'Birthmark Left Inner Thigh', 'Blowjob', 'Titty Fuck',
       'Deepthroat', 'Vaginal', 'Reverse Cowgirl', 'Cowgirl', 'Choking', 'Doggy', 'Spanking', 'Cum on Tits'],
     'release': moment('2018-01-04')
@@ -8458,7 +8498,7 @@ export let data: Scene[] = [
     'series': '',
     'title': '2 Broke Girls',
     'altTitles': [],
-    'playtime': '0:40:00',
+    'playtime': '0:43:01',
     'partners': ['Emma Hix'],
     'dvds': [],
     'tags': ['VR', 'Cosplay'],
