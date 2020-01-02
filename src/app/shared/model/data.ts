@@ -3056,9 +3056,11 @@ export let data: Scene[] = [
     'title': 'Fucking The Squirting Step Sisters',
     'altTitles': [],
     'playtime': '0:41:41',
-    'partners': ['Markus Dupree'],
+    'partners': ['Markus Dupree', 'Ella Knox'],
     'dvds': [],
-    'tags': [],
+    'tags': ["Boy/Girl/Girl", "Shower", "Neck Tattoo", "Elbow Birthmark", "Anilingus", "Cunnilingus", "Standing", "Vaginal",
+      "On Bed", "Blowjob", "Spooning", "Titty Fuck", "Smothering", "Missionary", "Deepthroat", "Reverse Cowgirl", "Birthmark Left Inner Thigh",
+      "Squirt", "Doggy", "Cum Swap"],
     'release': moment('2019-10-24')
   }, {
     'producer': 'bangbros.com',
@@ -3213,7 +3215,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:32:31',
     'partners': ['Lunar Star'],
-    'dvds': [],
+    'dvds': [{
+      title:'Brazzibots - Uprising',
+      link:'https://angelawhitestore.com/2767196/brazzibots-uprising-porn-movies.html'
+    }],
     'tags': ['Girl/Girl', 'Acting', 'Cunnilingus', 'Boots', 'On Bed', 'Anilingus', 'Fingering', 'Tribbing', 'Choking',
       'Face Sitting', 'Neck Tattoo', '69', 'Elbow Birthmark'],
     'release': moment('2019-08-08')
@@ -3225,7 +3230,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:46:33',
     'partners': ['Romi Rain', 'Xander Corvus'],
-    'dvds': [],
+    'dvds': [{
+      title:'Brazzibots - Uprising',
+      link:'https://angelawhitestore.com/2767196/brazzibots-uprising-porn-movies.html'
+    }],
     'tags': ["Acting", "Girl/Girl", "Fingering", "On Bed", "Cunnilingus", "Anilingus", "Tribbing", "Feet", "69", "Boy/Girl/Girl",
       "Doggy", "Anal", "Blowjob", "Deepthroat", "Missionary", "Vaginal", "Feet", "Cowgirl", "Ass to Pussy", "Ass to Mouth",
       "Finger in Butt", "Cum Swap"
@@ -3453,8 +3461,18 @@ export let data: Scene[] = [
       title: 'Dirty Masseur #16',
       link: 'https://angelawhitestore.com/2751245/dirty-masseur-16-porn-movies.html'
     }],
-    'tags': [],
+    'tags': ["Boy/Girl", "Oil", "Blowjob", "Anilingus", "Finger in Butt", "Fingering"],
     'release': moment('2017-03-21')
+  }, {
+    'producer': 'brazzers.com',
+    'series': 'Dirty Masseur',
+    'title': 'Assential Oil',
+    'altTitles': [],
+    'playtime': '0:35:00',
+    'partners': ['Mick Blue'],
+    'dvds': [],
+    'tags': ["Boy/Girl", "Oil"],
+    'release': moment('2019-12-30')
   }, {
     'producer': 'brazzers.com',
     'series': 'Doctor Adventures',
@@ -3599,7 +3617,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:31:47',
     'partners': ['Charles Dera'],
-    'dvds': [],
+    'dvds': [{
+      title: 'Horny Housewives 7',
+      link: 'https://angelawhitestore.com/2759222/horny-housewives-7-porn-movies.html'
+    }],
     'tags': [],
     'release': moment('2017-02-11')
   },
@@ -3696,6 +3717,28 @@ export let data: Scene[] = [
   {
     'producer': 'cherrypimps.com',
     'series': '',
+    'title': 'It\'s Coffee Time With Angela White',
+    'altTitles': [],
+    'playtime': '0:09:43',
+    'partners': [],
+    'dvds': [],
+    'tags': ['Solo'],
+    'release': moment('2019-12-30')
+  },
+  {
+    'producer': 'cherrypimps.com',
+    'series': 'Wild on Cam',
+    'title': 'Sexy Hot Angela White Has Fun With Kenna James LIVE ',
+    'altTitles': [],
+    'playtime': '1:00:28',
+    'partners': ['Kenna James'],
+    'dvds': [],
+    'tags': ['Live Stream', 'Girl/Girl'],
+    'release': moment('2019-12-19')
+  },
+  {
+    'producer': 'cherrypimps.com',
+    'series': '',
     'title': 'Interview with Angela White',
     'altTitles': [],
     'playtime': '0:13:04',
@@ -3720,10 +3763,11 @@ export let data: Scene[] = [
     'series': '',
     'title': 'Angela White Gets Put On Santas Naughty List',
     'altTitles': [],
-    'playtime': '0:24:22',
+    'playtime': '0:24:21',
     'partners': ['Ramon Nomar'],
     'dvds': [],
-    'tags': ["Boy/Girl"],
+    'tags': ["Boy/Girl", "On Couch", "Birthmark Left Inner Thigh", "Fingering", "Reverse Cowgirl", "Vaginal", "Stockings", "Heels", "Blowjob","69", "Deepthroat", "Cowgirl",
+    ],
     'release': moment('2019-12-23')
   },
   {
@@ -4592,6 +4636,20 @@ export let data: Scene[] = [
   {
     'producer': 'evilangel.com',
     'series': '',
+    'title': 'Angela White: Pussy Squirt, Oiled Anal',
+    'altTitles': ['Oil For Days - Scene 1'],
+    'playtime': '0:30:54',
+    'partners': ['Markus Dupree'],
+    'dvds': [{
+      title: 'Oil For Days',
+      link: ''
+    }],
+    'tags': ['Boy/Girl', 'Oil', 'Anal'],
+    'release': moment('2019-12-26')
+  },
+  {
+    'producer': 'evilangel.com',
+    'series': '',
     'title': 'Angela White - Markus Dupree',
     'altTitles': ['Angela by Darkko - Scene 1'],
     'playtime': '0:34:11',
@@ -5341,6 +5399,17 @@ export let data: Scene[] = [
     'release': moment('2017-12-07')
   },
   {
+    'producer': 'girlgrind.com',
+    'series': '',
+    'title': 'Busty Roommates Angela White and Cherie Deville release some sexual tension together',
+    'altTitles': [],
+    'playtime': '0:00:00',
+    'partners': ['Cherry DeVille'],
+    'dvds': [],
+    'tags': ['Girl/Girl'],
+    'release': moment('2019-11-22')
+  },
+  {
     'producer': 'girlgirl.com',
     'series': 'Large Naturals',
     'title': 'The Creepy Chiropractor',
@@ -5598,7 +5667,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:42:51',
     'partners': ['Shyla Jennings'],
-    'dvds': [],
+    'dvds': [{
+      title: 'Private Lesbian Instructor',
+      link: 'https://angelawhitestore.com/2761064/private-lesbian-instructor-porn-movies.html'
+    }],
     'tags': ['Girl/Girl', 'Acting', 'On Couch', 'Cunnilingus', 'Neck Tattoo', 'Tribbing', 'Face Sitting', 'Fingering',
       'Elbow Birthmark', 'Birthmark Left Inner Thigh', 'Biting'],
     'release': moment('2019-05-16')
@@ -5609,7 +5681,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:40:19',
     'partners': ['Aidra Fox', 'Casey Calvert'],
-    'dvds': [],
+    'dvds': [{
+      title: 'Relieving The Pressure',
+      link: 'https://angelawhitestore.com/2754677/relieving-the-pressure-porn-movies.html'
+    }],
     'tags': ['Girl/Girl/Girl', 'On Couch', 'Cunnilingus', 'Birthmark Left Inner Thigh', 'Fingering'],
     'release': moment('2019-07-07')
   }, {
@@ -6374,6 +6449,17 @@ export let data: Scene[] = [
     'dvds': [],
     'tags': [],
     'release': moment('2011-06-15')
+  },
+  {
+    'producer': 'jayspov.net',
+    'series': '',
+    'title': 'Angela White is a Vixen with Huge Natural Tits',
+    'altTitles': [],
+    'playtime': '0:26:38',
+    'partners': ['JayRock'],
+    'dvds': [],
+    'tags': ["Boy/Girl", "POV", "Elbow Birthmark", "On Bed"],
+    'release': moment('2019-12-14')
   },
   {
     'producer': 'julesjordan.com',
@@ -7354,6 +7440,17 @@ export let data: Scene[] = [
     'release': moment('2017-11-17')
   },
   {
+    'producer': 'nympho.com',
+    'series': '',
+    'title': 'The Naughty List with Angela',
+    'altTitles': [],
+    'playtime': '1:13:41',
+    'partners': ['Logan Long'],
+    'dvds': [],
+    'tags': ["Boy/Girl", "Dirty Talk", "Elbow Birthmark", "Finger in Butt", "Anilingus", "Blowjob",],
+    'release': moment('2019-12-25')
+  },
+  {
     'producer': 'penthouse.com',
     'series': '',
     'title': 'Jenna Sativa\'s Booty Cuties - Scene 2',
@@ -7759,11 +7856,14 @@ export let data: Scene[] = [
   {
     'producer': 'realitykings.com',
     'series': 'RK Prime',
-    'title': 'Commando Coockies',
+    'title': 'Commando Coochies',
     'altTitles': [],
     'playtime': '0:39:28',
     'partners': ['Karlee Grey', 'Derrick Pierce'],
-    'dvds': [],
+    'dvds': [{
+      title: 'RK Prime #19',
+      link: 'https://angelawhitestore.com/2759226/rk-prime-19-porn-movies.html'
+    }],
     'tags': [],
     'release': moment('2018-01-11')
   },
@@ -8434,7 +8534,7 @@ export let data: Scene[] = [
     'partners': [],
     'dvds': [{
       title: 'Desperate Teens Evicted 2: Big Boobs Edition',
-      link:'https://angelawhitestore.com/2759220/desperate-teens-evicted-2-big-boobs-edition-porn-movies.html'
+      link: 'https://angelawhitestore.com/2759220/desperate-teens-evicted-2-big-boobs-edition-porn-movies.html'
     }],
     'tags': ['POV', 'Acting', 'Boy/Girl', 'On Couch', 'Roleplay', 'Birthmark Left Inner Thigh', 'Blowjob', 'Titty Fuck',
       'Deepthroat', 'Vaginal', 'Reverse Cowgirl', 'Cowgirl', 'Choking', 'Doggy', 'Spanking', 'Cum on Tits'],
