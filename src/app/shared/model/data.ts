@@ -2765,7 +2765,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:29:40',
     'partners': ['Tyler Knight'],
-    'dvds': [],
+    'dvds': [{
+      title:'Black Is Better 9',
+      link:'https://angelawhitestore.com/2744468/black-is-better-9-porn-movies.html'
+    }],
     'tags': ['Blue Vintage Bug'],
     'release': moment('2017-12-29')
   },
@@ -3216,8 +3219,8 @@ export let data: Scene[] = [
     'playtime': '0:32:31',
     'partners': ['Lunar Star'],
     'dvds': [{
-      title:'Brazzibots - Uprising',
-      link:'https://angelawhitestore.com/2767196/brazzibots-uprising-porn-movies.html'
+      title: 'Brazzibots - Uprising',
+      link: 'https://angelawhitestore.com/2767196/brazzibots-uprising-porn-movies.html'
     }],
     'tags': ['Girl/Girl', 'Acting', 'Cunnilingus', 'Boots', 'On Bed', 'Anilingus', 'Fingering', 'Tribbing', 'Choking',
       'Face Sitting', 'Neck Tattoo', '69', 'Elbow Birthmark'],
@@ -3231,8 +3234,8 @@ export let data: Scene[] = [
     'playtime': '0:46:33',
     'partners': ['Romi Rain', 'Xander Corvus'],
     'dvds': [{
-      title:'Brazzibots - Uprising',
-      link:'https://angelawhitestore.com/2767196/brazzibots-uprising-porn-movies.html'
+      title: 'Brazzibots - Uprising',
+      link: 'https://angelawhitestore.com/2767196/brazzibots-uprising-porn-movies.html'
     }],
     'tags': ["Acting", "Girl/Girl", "Fingering", "On Bed", "Cunnilingus", "Anilingus", "Tribbing", "Feet", "69", "Boy/Girl/Girl",
       "Doggy", "Anal", "Blowjob", "Deepthroat", "Missionary", "Vaginal", "Feet", "Cowgirl", "Ass to Pussy", "Ass to Mouth",
@@ -3766,7 +3769,7 @@ export let data: Scene[] = [
     'playtime': '0:24:21',
     'partners': ['Ramon Nomar'],
     'dvds': [],
-    'tags': ["Boy/Girl", "On Couch", "Birthmark Left Inner Thigh", "Fingering", "Reverse Cowgirl", "Vaginal", "Stockings", "Heels", "Blowjob","69", "Deepthroat", "Cowgirl",
+    'tags': ["Boy/Girl", "On Couch", "Birthmark Left Inner Thigh", "Fingering", "Reverse Cowgirl", "Vaginal", "Stockings", "Heels", "Blowjob", "69", "Deepthroat", "Cowgirl",
     ],
     'release': moment('2019-12-23')
   },
@@ -4148,7 +4151,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:00:00',
     'partners': [],
-    'dvds': [],
+    'dvds': [{
+      title: 'Exposure',
+      link: 'https://angelawhitestore.com/2744443/exposure-porn-movies.html'
+    }],
     'tags': ["Non Sex", "Acting"],
     'release': moment('2019-09-25')
   },
@@ -4159,7 +4165,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:00:00',
     'partners': [],
-    'dvds': [],
+    'dvds': [{
+      title: 'Exposure',
+      link: 'https://angelawhitestore.com/2744443/exposure-porn-movies.html'
+    }],
     'tags': ["Non Sex", "Acting"],
     'release': moment('2019-09-25')
   },
@@ -4170,7 +4179,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:44:00',
     'partners': ['Ramon Nomar', 'Gianna Dior'],
-    'dvds': [],
+    'dvds': [{
+      title: 'Exposure',
+      link: 'https://angelawhitestore.com/2744443/exposure-porn-movies.html'
+    }],
     'tags': ["Acting", "Boy/Girl", "Boy/Girl/Girl", "Cunnilingus", "Feet", "Anilingus", "Fingering", "Blowjob", "Vaginal", "Ballerina", "Deepthroat",
       "On Couch", "69", "Reverse Cowgirl", "Choking", "Cowgirl", "Face Sitting", "Birthmark Left Inner Thigh", "Doggy", "Cum Swap"],
     'release': moment('2019-09-25')
@@ -4182,7 +4194,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:35:12',
     'partners': ['Mick Blue', 'Ramon Nomar'],
-    'dvds': [],
+    'dvds': [{
+      title: 'Exposure',
+      link: 'https://angelawhitestore.com/2744443/exposure-porn-movies.html'
+    }],
     'tags': [],
     'release': moment('2019-09-25')
   },
@@ -5403,7 +5418,7 @@ export let data: Scene[] = [
     'series': '',
     'title': 'Busty Roommates Angela White and Cherie Deville release some sexual tension together',
     'altTitles': [],
-    'playtime': '0:00:00',
+    'playtime': '0:24:13',
     'partners': ['Cherry DeVille'],
     'dvds': [],
     'tags': ['Girl/Girl'],
@@ -5422,6 +5437,20 @@ export let data: Scene[] = [
     }],
     'tags': ['Girl/Girl'],
     'release': moment('2019-07-19')
+  },
+  {
+    'producer': 'girlgirl.com',
+    'series': '',
+    'title': 'A World Without Men',
+    'altTitles': [],
+    'playtime': '0:37:00',
+    'partners': ['Kendra Spade'],
+    'dvds': [{
+      title: 'Dark Mirror',
+      link: 'https://angelawhitestore.com/2744436/dark-mirror-porn-movies.html'
+    }],
+    'tags': ['Girl/Girl'],
+    'release': moment('2020-01-10')
   },
   {
     'producer': 'girlgirl.com',
@@ -5469,7 +5498,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:00:00',
     'partners': ['Carolina Sweets'],
-    'dvds': [],
+    'dvds': [{
+      title: 'She\'s My Daddy',
+      link:'https://angelawhitestore.com/2769840/shes-my-daddy-porn-movies.html'
+    }],
     'tags': ['Girl/Girl'],
     'release': moment('2019-11-11')
   },
@@ -6700,6 +6732,17 @@ export let data: Scene[] = [
   },
   {
     'producer': 'kink.com',
+    'series': 'Hogtied',
+    'title': 'Angela White: Complete Submission to The Pope',
+    'altTitles': [],
+    'playtime': '0:58:54',
+    'partners': ['Jean Paul The Pope'],
+    'dvds': [],
+    'tags': [],
+    'release': moment('2020-01-02')
+  },
+  {
+    'producer': 'kink.com',
     'series': 'Device Bondage',
     'title': 'Angela White Begs to Suffer For Her Master in Metal Bondage',
     'altTitles': [],
@@ -6930,6 +6973,28 @@ export let data: Scene[] = [
     'dvds': [],
     'tags': ['Girl/Girl', 'Neck Tattoo', 'On Desk'],
     'release': moment('2010-12-01')
+  },
+  {
+    'producer': 'missax.com',
+    'series': '',
+    'title': 'Another Life Part 1',
+    'altTitles': [],
+    'playtime': '0:40:52',
+    'partners': ['Brock Doom', 'Skye Blue'],
+    'dvds': [],
+    'tags': [],
+    'release': moment('2019-12-28')
+  },
+  {
+    'producer': 'missax.com',
+    'series': '',
+    'title': 'Another Life Part 2',
+    'altTitles': [],
+    'playtime': '0:00:00',
+    'partners': ['Tommy Pistol'],
+    'dvds': [],
+    'tags': [],
+    'release': moment('2020-01-08')
   },
   {
     'producer': 'mofos.com',
@@ -7365,6 +7430,9 @@ export let data: Scene[] = [
     }, {
       title: 'Big Butt Babes',
       link: 'https://angelawhitestore.com/2711125/big-butt-babes-porn-movies.html'
+    },{
+      title:'Girls Who Deep Throat 5',
+      link:'https://angelawhitestore.com/2768535/girls-who-deep-throat-5-porn-movies.html'
     }],
     'tags': [],
     'release': moment('2017-02-17')
@@ -7495,7 +7563,7 @@ export let data: Scene[] = [
     'title': 'Angela Loves A Photographer That Will Do Anything For Her',
     'altTitles': [],
     'playtime': '0:24:50',
-    'partners': ['Steve Holms'],
+    'partners': ['Steve Holmes'],
     'dvds': [],
     'tags': ["Cuckhold", "Boy/Girl", "Anilingus", "On Couch", "Cunnilingus", "Birthmark Left Inner Thigh", "Elbow Birthmark",
       "Blowjob", "Deepthroat", "Vaginal", "Doggy", "Cowgirl", "Reverse Cowgirl", "Spooning", "Choking", "Side Fuck", "Fingering", "Squirt"],
@@ -8202,6 +8270,17 @@ export let data: Scene[] = [
     }],
     'tags': [],
     'release': moment('2017-04-21')
+  },
+  {
+    'producer': 'swallowed.com',
+    'series': '',
+    'title': 'Angela\'s Amazing Skills',
+    'altTitles': [],
+    'playtime': '0:56:05',
+    'partners': [],
+    'dvds': [],
+    'tags': [],
+    'release': moment('2020-01-02')
   },
   {
     'producer': 'teamskeet.com',
