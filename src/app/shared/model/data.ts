@@ -2766,8 +2766,8 @@ export let data: Scene[] = [
     'playtime': '0:29:40',
     'partners': ['Tyler Knight'],
     'dvds': [{
-      title:'Black Is Better 9',
-      link:'https://angelawhitestore.com/2744468/black-is-better-9-porn-movies.html'
+      title: 'Black Is Better 9',
+      link: 'https://angelawhitestore.com/2744468/black-is-better-9-porn-movies.html'
     }],
     'tags': ['Blue Vintage Bug'],
     'release': moment('2017-12-29')
@@ -4657,9 +4657,10 @@ export let data: Scene[] = [
     'partners': ['Markus Dupree'],
     'dvds': [{
       title: 'Oil For Days',
-      link: ''
+      link: 'https://angelawhitestore.com/2768922/oil-for-days-porn-movies.html'
     }],
-    'tags': ['Boy/Girl', 'Oil', 'Anal'],
+    'tags': ['Boy/Girl', 'Oil', 'Anal', "On Couch", "Butt Plug", "Heels", "Doggy", "Vaginal", "Elbow Birthmark", "Fingering", "Finger in Butt", "Squirt",
+    ],
     'release': moment('2019-12-26')
   },
   {
@@ -5500,7 +5501,7 @@ export let data: Scene[] = [
     'partners': ['Carolina Sweets'],
     'dvds': [{
       title: 'She\'s My Daddy',
-      link:'https://angelawhitestore.com/2769840/shes-my-daddy-porn-movies.html'
+      link: 'https://angelawhitestore.com/2769840/shes-my-daddy-porn-movies.html'
     }],
     'tags': ['Girl/Girl'],
     'release': moment('2019-11-11')
@@ -6510,8 +6511,8 @@ export let data: Scene[] = [
   {
     'producer': 'julesjordan.com',
     'series': '',
-    'title': 'Disciples of Desire: Bad Cop - Bad City - Scene 2',
-    'altTitles': [],
+    'title': 'Tag Team Duo Find Dark Meat At A Taco Stand',
+    'altTitles': ['Disciples of Desire: Bad Cop - Bad City - Scene 2'],
     'playtime': '0:39:01',
     'partners': ['Ivy LeBelle', ' Jax Slayher'],
     'dvds': [{
@@ -7106,7 +7107,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:34:33',
     'partners': ['Ryan Driller'],
-    'dvds': [],
+    'dvds': [{
+      title: 'American Daydreams Vol. 21',
+      link: 'https://angelawhitestore.com/2773379/american-daydreams-vol-21-porn-movies.html'
+    }],
     'tags': [],
     'release': moment('2017-07-21')
   },
@@ -7430,9 +7434,9 @@ export let data: Scene[] = [
     }, {
       title: 'Big Butt Babes',
       link: 'https://angelawhitestore.com/2711125/big-butt-babes-porn-movies.html'
-    },{
-      title:'Girls Who Deep Throat 5',
-      link:'https://angelawhitestore.com/2768535/girls-who-deep-throat-5-porn-movies.html'
+    }, {
+      title: 'Girls Who Deep Throat 5',
+      link: 'https://angelawhitestore.com/2768535/girls-who-deep-throat-5-porn-movies.html'
     }],
     'tags': [],
     'release': moment('2017-02-17')
@@ -7680,6 +7684,17 @@ export let data: Scene[] = [
     'release': moment('2017-05-09')
   },
   {
+    'producer': 'pornhubpremium.com',
+    'series': '',
+    'title': 'Unknown Title',
+    'altTitles': [],
+    'playtime': '0:00:00',
+    'partners': [],
+    'dvds': [],
+    'tags': ["Boy/Girl", "VR"],
+    'release': moment('2020-01-17')
+  },
+  {
     'producer': 'prettydirty.com',
     'series': '',
     'title': 'Fucked By My Parents\'Maid',
@@ -7703,7 +7718,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:00:00',
     'partners': ['Donnie Rock'],
-    'dvds': [],
+    'dvds': [{
+      title: 'The Dentist Trilogy',
+      link: 'https://angelawhitestore.com/2772174/dentist-the-porn-videos.html'
+    }],
     'tags': ["Boy/Girl", "On Chair", "Cunnilingus", "Fingering", "Birthmark Left Inner Thigh", "Blowjob", "Vaginal", "Doggy",
       "Cowgirl", "Reverse Cowgirl", "Standing", "Elbow Birthmark", "Deepthroat", "Titty Fuck", "POV",],
     'release': moment('2019-11-01')
@@ -7739,7 +7757,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:52:37',
     'partners': ['Isiah Maxwell', 'Steve Holmes', 'Alina Lopez', 'Tommy Pistol', 'Charles Dera'],
-    'dvds': [],
+    'dvds': [{
+      title: 'Under The Bed Vol. 2',
+      link: 'https://angelawhitestore.com/2772256/under-the-bed-volume-2-porn-movies.html'
+    }],
     'tags': ["Acting", "Blowbang", "Boy/Girl/Girl", "Cowgirl", "Deepthroat", "Off the Ground", "Standing"],
     'release': moment('2019-10-29')
   },
@@ -8827,6 +8848,20 @@ export let data: Scene[] = [
     }],
     'tags': [],
     'release': moment('2018-02-26')
+  },
+  {
+    'producer': 'wickedpictures.com',
+    'series': '',
+    'title': 'Sure Feels Right Scene 1',
+    'altTitles': [],
+    'playtime': '0:00:00',
+    'partners': ['Seth Gamble'],
+    'dvds': [{
+      title: 'Sure Feels Right',
+      link: 'https://angelawhitestore.com/2773198/sure-feels-right-porn-movies.html'
+    }],
+    'tags': [],
+    'release': moment('2020-01-25')
   },
   {
     'producer': 'xx-cel.com',
