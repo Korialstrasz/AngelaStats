@@ -10,6 +10,7 @@ export type Tag =
   | 'Standing 69'
   | 'Orgy'
   | 'Winking'
+  | 'Gooning'
   | 'Cum on Pussy'
   | 'Gloves'
   | 'Gun'

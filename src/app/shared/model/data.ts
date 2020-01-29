@@ -3497,9 +3497,19 @@ export let data: Scene[] = [
     'playtime': '0:32:00',
     'partners': ['Madison Ivy'],
     'dvds': [],
-    'tags': ['Girl/Girl', 'Outside', 'Water', 'Shower',
-    ],
+    'tags': ['Girl/Girl', 'Outside', 'Water', 'Shower'],
     'release': moment('2019-06-11')
+  },
+  {
+    'producer': 'brazzers.com',
+    'series': 'Hot And Mean',
+    'title': 'Slingin\' Titties',
+    'altTitles': [],
+    'playtime': '0:00:00',
+    'partners': ['Codi Vore'],
+    'dvds': [],
+    'tags': ['Girl/Girl'],
+    'release': moment('2020-02-02')
   },
   {
     'producer': 'brazzers.com',
@@ -3996,6 +4006,16 @@ export let data: Scene[] = [
     'dvds': [],
     'tags': ['Solo', 'Outside', 'Vibrator', 'On Couch'],
     'release': moment('2017-12-23')
+  }, {
+    'producer': 'ddfnetwork.com',
+    'series': '',
+    'title': 'Toy Time for Busty Brunette',
+    'altTitles': [],
+    'playtime': '0:15:37',
+    'partners': [],
+    'dvds': [],
+    'tags': ['Solo'],
+    'release': moment('2020-01-23')
   }, {
     'producer': 'ddfnetwork.com',
     'series': '',
@@ -6896,6 +6916,19 @@ export let data: Scene[] = [
   }, {
     'producer': 'milehighmedia.com',
     'series': '',
+    'title': 'My Sinful Valentine - Scene X',
+    'altTitles': [],
+    'playtime': '0:00:00',
+    'partners': ['Jay Smooth'],
+    'dvds': [{
+      title: 'My Sinful Valentine',
+      link: 'https://angelawhitestore.com/2777383/my-sinful-valentine-porn-movies.html'
+    }],
+    'tags': [],
+    'release': moment('2020-02-16')
+  }, {
+    'producer': 'milehighmedia.com',
+    'series': '',
     'title': 'Best For Last',
     'altTitles': ['Alexis Loves Girls - Scene 4'],
     'playtime': '0:40:04',
@@ -6991,7 +7024,7 @@ export let data: Scene[] = [
     'series': '',
     'title': 'Another Life Part 2',
     'altTitles': [],
-    'playtime': '0:00:00',
+    'playtime': '0:53:52',
     'partners': ['Tommy Pistol'],
     'dvds': [],
     'tags': [],
@@ -7457,6 +7490,9 @@ export let data: Scene[] = [
     }, {
       title: 'The Sexual Desires Of Angela White',
       link: 'https://angelawhitestore.com/2625155/sexual-desires-of-angela-white-the-porn-movies.html'
+    }, {
+      title: 'Squirt-Mania 3',
+      link: 'https://angelawhitestore.com/2774699/squirt-mania-3-porn-movies.html'
     }],
     'tags': ['Boy/Girl', 'Voyeur', 'Elbow Birthmark', 'Blowjob', 'Deepthroat', 'Jerk Off Instructions', 'Dirty Talk',
       'Titty Fuck', 'On Chair', 'Clothed', 'Fingering', 'Choking', 'Reverse Cowgirl', 'Side Fuck', 'Squirt', 'On Bed',
@@ -7519,7 +7555,10 @@ export let data: Scene[] = [
     'playtime': '1:13:41',
     'partners': ['Logan Long'],
     'dvds': [],
-    'tags': ["Boy/Girl", "Dirty Talk", "Elbow Birthmark", "Finger in Butt", "Anilingus", "Blowjob",],
+    'tags': ["Boy/Girl", "Dirty Talk", "Gloves", "Elbow Birthmark", "Finger in Butt", "Anilingus", "Blowjob", "Deepthroat", "Spit",
+      "Titty Fuck", "Gooning", "Hitachi", "Anilingus", "Missionary", "On Chair", "Anal", "Gaping", "Ass to Pussy", "Vaginal", "Pussy to Ass",
+      "Switching Holes", "Ass to Mouth", "Squirt", "Cowgirl", "Birthmark Left Inner Thigh", "Reverse Cowgirl", "Dildo", "DP", "Double Penetration",
+      "Feet", "Doggy"],
     'release': moment('2019-12-25')
   },
   {
@@ -7583,6 +7622,17 @@ export let data: Scene[] = [
     'dvds': [],
     'tags': ['Non Sex'],
     'release': moment('2019-11-26')
+  },
+  {
+    'producer': 'playboyplus.com',
+    'series': '',
+    'title': 'Afternoon Embrace',
+    'altTitles': [],
+    'playtime': '0:05:23',
+    'partners': [],
+    'dvds': [],
+    'tags': ['Non Sex'],
+    'release': moment('2020-01-31')
   },
   {
     'producer': 'Plum',
@@ -7745,7 +7795,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:57:52',
     'partners': ['Serena Blair', 'Scarlett Sage'],
-    'dvds': [],
+    'dvds': [{
+      title: 'Lesbian Revenge',
+      link: 'https://angelawhitestore.com/2774384/lesbian-revenge-vol-3-porn-movies.html'
+    }],
     'tags': ["Acting", "Girl/Girl/Girl", "On Couch", "Rope Bondage", "Anilingus", "Cunnilingus", "Choking", "Face Sitting", "Tribbing",
     ],
     'release': moment('2018-12-05')
@@ -7832,6 +7885,17 @@ export let data: Scene[] = [
     'dvds': [],
     'tags': [],
     'release': moment('2018-09-25')
+  },
+  {
+    'producer': 'realitykings.com',
+    'series': 'RK Prime',
+    'title': 'Pornographic Service Announcement',
+    'altTitles': [],
+    'playtime': '0:31:43',
+    'partners': ['Xander Corvus'],
+    'dvds': [],
+    'tags': [],
+    'release': moment('2020-01-20')
   },
   {
     'producer': 'realitykings.com',
@@ -8852,9 +8916,9 @@ export let data: Scene[] = [
   {
     'producer': 'wickedpictures.com',
     'series': '',
-    'title': 'Sure Feels Right Scene 1',
+    'title': 'Sure Feels Right - Scene 1',
     'altTitles': [],
-    'playtime': '0:00:00',
+    'playtime': '0:27:36',
     'partners': ['Seth Gamble'],
     'dvds': [{
       title: 'Sure Feels Right',
