@@ -2339,7 +2339,8 @@ export let data: Scene[] = [
       title: 'Angela Loves Women 5',
       link: 'https://angelawhitestore.com/2705779/angela-loves-women-5-porn-movies.html'
     }],
-    'tags': [],
+    'tags': ["Girl/Girl", "On Bed", "Lingerie", "Stockings", "Grinding", "Choking", "Cunnilingus", "Fingering", "Elbow Birthmark",
+      "Tribbing", "Face Sitting", "69", "Neck Tattoo", "Anilingus", "Face Sitting", "Feet",],
     'release': moment('2019-10-30')
   }, {
     'producer': 'angelawhite.com',
@@ -2940,6 +2941,17 @@ export let data: Scene[] = [
   {
     'producer': 'bangbros.com',
     'series': 'Big Tits, Round Asses',
+    'title': 'Anal Unscripted',
+    'altTitles': [],
+    'playtime': '0:00:00',
+    'partners': ['Tommy Pistol'],
+    'dvds': [],
+    'tags': [],
+    'release': moment('2020-02-06')
+  },
+  {
+    'producer': 'bangbros.com',
+    'series': 'Big Tits, Round Asses',
     'title': 'Angela gets a proper Massage',
     'altTitles': ['Big Tits Round Asses 52 - Scene 2'],
     'playtime': '0:49:14',
@@ -3277,7 +3289,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:36:03',
     'partners': ['Keiran Lee'],
-    'dvds': [],
+    'dvds': [{
+      title: 'Bubble Butt Anal Slut 6',
+      link: 'https://angelawhitestore.com/2781307/bubble-butt-anal-slut-6-porn-movies.html'
+    }],
     'tags': [],
     'release': moment('2017-12-28')
   },
@@ -3505,10 +3520,11 @@ export let data: Scene[] = [
     'series': 'Hot And Mean',
     'title': 'Slingin\' Titties',
     'altTitles': [],
-    'playtime': '0:00:00',
+    'playtime': '0:29:41',
     'partners': ['Codi Vore'],
     'dvds': [],
-    'tags': ['Girl/Girl'],
+    'tags': ['Girl/Girl', "On Couch", "Fingering", "Cunnilingus", "Choking", "Grinding", "Anilingus", "Dirty Talk", "Tribbing"
+    ],
     'release': moment('2020-02-02')
   },
   {
@@ -7796,7 +7812,7 @@ export let data: Scene[] = [
     'playtime': '0:57:52',
     'partners': ['Serena Blair', 'Scarlett Sage'],
     'dvds': [{
-      title: 'Lesbian Revenge',
+      title: 'Lesbian Revenge Vol. 3',
       link: 'https://angelawhitestore.com/2774384/lesbian-revenge-vol-3-porn-movies.html'
     }],
     'tags': ["Acting", "Girl/Girl/Girl", "On Couch", "Rope Bondage", "Anilingus", "Cunnilingus", "Choking", "Face Sitting", "Tribbing",
@@ -7882,7 +7898,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:25:59',
     'partners': ['Markus Dupree'],
-    'dvds': [],
+    'dvds': [{
+      title: 'Big Naturals Vol. 45',
+      link: 'https://angelawhitestore.com/2778627/big-naturals-vol-45-porn-movies.html'
+    }],
     'tags': [],
     'release': moment('2018-09-25')
   },
