@@ -1,7 +1,7 @@
 import {Component} from '@angular/core';
 import {Location, LocationStrategy, PathLocationStrategy} from '@angular/common';
 import {environment} from '../environments/environment';
-import {MatDialog} from '@angular/material';
+import { MatDialog } from '@angular/material/dialog';
 import {InfoComponent} from './info/info.component';
 
 @Component({

@@ -1,6 +1,6 @@
 import {Component, Input, OnChanges, OnDestroy, OnInit, SimpleChanges, ViewChild} from '@angular/core';
 import * as ClipboardJS from 'clipboard';
-import {MatButton} from '@angular/material';
+import { MatButton } from '@angular/material/button';
 
 @Component({
   selector: 'aws-copy-to-clipboard',
