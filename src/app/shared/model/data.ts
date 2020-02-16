@@ -3558,6 +3558,17 @@ export let data: Scene[] = [
   },
   {
     'producer': 'brazzers.com',
+    'series': 'Real Wife Stories',
+    'title': 'You Gotta Help My Wife!',
+    'altTitles': [],
+    'playtime': '0:35:00',
+    'partners': ['Keiran Lee'],
+    'dvds': [],
+    'tags': ["Boy/Girl", "On Bed", "Anal", "Vaginal"],
+    'release': moment('2020-02-17')
+  },
+  {
+    'producer': 'brazzers.com',
     'series': 'Pornstars Like It Big',
     'title': 'Angela\'s Sex Auction',
     'altTitles': [],
@@ -5463,7 +5474,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:24:13',
     'partners': ['Cherry DeVille'],
-    'dvds': [],
+    'dvds': [{
+      title: 'Lesbian Roommates 2',
+      link: 'https://angelawhitestore.com/2785398/lesbian-roommates-2-porn-movies.html'
+    }],
     'tags': ['Girl/Girl'],
     'release': moment('2019-11-22')
   },
@@ -7629,7 +7643,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:24:50',
     'partners': ['Steve Holmes'],
-    'dvds': [],
+    'dvds': [{
+      title: 'Cuck My Life and Fuck My Wife',
+      link: ''
+    }],
     'tags': ["Cuckhold", "Boy/Girl", "Anilingus", "On Couch", "Cunnilingus", "Birthmark Left Inner Thigh", "Elbow Birthmark",
       "Blowjob", "Deepthroat", "Vaginal", "Doggy", "Cowgirl", "Reverse Cowgirl", "Spooning", "Choking", "Side Fuck", "Fingering", "Squirt"],
     'release': moment('2019-11-19')
@@ -8369,6 +8386,18 @@ export let data: Scene[] = [
     'release': moment('2017-10-13')
   },
   {
+    'producer': 'shapeofbeauty.com',
+    'series': '',
+    'title': 'Lust, Love, Respect',
+    'altTitles': [],
+    'playtime': '0:57:15',
+    'partners': ['Cortney Trouble'],
+    'dvds': [],
+    'tags': ["Girl/Girl", "On Chair", "Smothering", "Choking", "Fingering", "Anilingus", "Cunnilingus", "Heels", "Elbow Birthmark", "On Bed",
+      "Feet", "Hitachi", "Spanking", "Squirt", "Fisting", "Grinding", "Tribbing", "Neck Tattoo", "Face Sitting"],
+    'release': moment('2020-02-14')
+  },
+  {
     'producer': 'swallowed.com',
     'series': '',
     'title': 'Karlee And Angela In Natural Tits Spit Edition',
@@ -8573,6 +8602,9 @@ export let data: Scene[] = [
     'dvds': [{
       title: 'The Ravishing Angela White',
       link: 'https://angelawhitestore.com/2506963/ravishing-angela-white-the-porn-movies.html'
+    }, {
+      title: 'When Girls Play 11',
+      link: 'https://angelawhitestore.com/2784887/when-girls-play-11-porn-movies.html'
     }],
     'tags': [],
     'release': moment('2018-01-23')
