@@ -500,6 +500,18 @@ export let data: Scene[] = [
     'release': moment('2019-09-26')
   },
   {
+    'producer': 'adulttime.com',
+    'series': 'ASMR Fantasy',
+    'title': 'Full Body Physical Exam',
+    'altTitles': [],
+    'playtime': '0:56:05',
+    'partners': ['Michael Vegas'],
+    'dvds': [],
+    'tags': ["ASMR", "POV", "Boy/Girl", "Cuckhold", "Handjob", "Blowjob", "Deepthroat", "Titty Fuck", "Anilingus",
+      "Anal", "Finger in Butt", "Vaginal", "Cowgirl",],
+    'release': moment('2020-02-17')
+  },
+  {
     'producer': 'allherluv.com',
     'series': '',
     'title': 'Seasons Part 1',
@@ -3317,7 +3329,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:30:33',
     'partners': ['Karlo Karerra'],
-    'dvds': [],
+    'dvds': [{
+      title: 'Sexual Education Vol. 7',
+      link: 'https://angelawhitestore.com/2787498/sexual-education-vol-7-porn-movies.html'
+    }],
     'tags': [],
     'release': moment('2016-10-24')
   },
@@ -3564,7 +3579,8 @@ export let data: Scene[] = [
     'playtime': '0:35:00',
     'partners': ['Keiran Lee'],
     'dvds': [],
-    'tags': ["Boy/Girl", "On Bed", "Anal", "Vaginal"],
+    'tags': ["Boy/Girl", "On Bed", "Anal", "Vaginal", "Butt Plug", "Stockings", "Lingerie", "Handcuffs", "Blowjob", "Deepthroat",
+      "Choking", "Anilingus", "POV", "Titty Fuck",],
     'release': moment('2020-02-17')
   },
   {
@@ -5739,6 +5755,26 @@ export let data: Scene[] = [
   {
     'producer': 'girlsway.com',
     'series': '',
+    'title': 'Noise Complaint',
+    'altTitles': [],
+    'playtime': '0:34:12',
+    'partners': ['Alix Lynx', 'Serena Blair', 'Silvia Saige'],
+    'dvds': [],
+    'tags': [],
+    'release': moment('2020-03-26')
+  }, {
+    'producer': 'girlsway.com',
+    'series': '',
+    'title': 'True Lesbian - Show Me Your Room',
+    'altTitles': [],
+    'playtime': '1:05:52',
+    'partners': ['Jay Taylor'],
+    'dvds': [],
+    'tags': [],
+    'release': moment('2020-03-16')
+  }, {
+    'producer': 'girlsway.com',
+    'series': '',
     'title': 'Dream Parings: Birthday Suprises',
     'altTitles': ['Dream Pairings: Chapter Two - Scene 1', 'Dream Pairings: Chapter Two - Scene 2'],
     'playtime': '1:18:50',
@@ -6994,6 +7030,20 @@ export let data: Scene[] = [
   {
     'producer': 'milehighmedia.com',
     'series': '',
+    'title': 'Object Of Desire',
+    'altTitles': ['Lesbian Beauties Vol. 21: Black & White  - Scene 4'],
+    'playtime': '0:33:34',
+    'partners': ['Jenna Foxx'],
+    'dvds': [{
+      title: 'Lesbian Beauties Vol. 21: Black & White ',
+      link: 'https://angelawhitestore.com/2793431/lesbian-beauties-vol-21-black-white-porn-movies.html'
+    }],
+    'tags': ['Girl/Girl', 'Anal', 'Dildo'],
+    'release': moment('2020-03-05')
+  },
+  {
+    'producer': 'milehighmedia.com',
+    'series': '',
     'title': 'Lesbian Strap-On Bosses Vol.2 - Scene 1',
     'altTitles': [],
     'playtime': '0:21:48',
@@ -7552,6 +7602,9 @@ export let data: Scene[] = [
     }, {
       title: 'The Most Beautiful Girls In Porn 2',
       link: 'https://angelawhitestore.com/2650605/most-beautiful-girls-in-porn-2-the-porn-movies.html'
+    }, {
+      title: 'Amazing Tits Vol. 2',
+      link: 'https://angelawhitestore.com/2788756/amazing-tits-vol-2-porn-movies.html'
     }],
     'tags': ['Boy/Girl', 'Oil', 'Feet', 'Blowjob', 'Deepthroat', 'Titty Fuck', 'Choking', 'Anilingus', 'Vaginal', 'Cowgirl',
       'Footjob', 'Elbow Birthmark', 'Doggy', 'Missionary', 'Birthmark Left Inner Thigh', 'Reverse Cowgirl'],
@@ -8832,7 +8885,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:49:00',
     'partners': [],
-    'dvds': [],
+    'dvds': [{
+      title: 'Borderlands: Max Moxxi - A XXX Parody',
+      link: 'https://angelawhitestore.com/2789605/borderlands-max-moxxi-a-xxx-parody-porn-videos.html'
+    }],
     'tags': ['VR', 'Cosplay'],
     'release': moment('2019-10-04')
   },

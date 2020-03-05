@@ -1,5 +1,6 @@
 export type Tag =
   'BTS'
+  | 'ASMR'
   | 'Birthmark Left Inner Thigh'
   | 'Speaking French'
   | 'Blue Vintage Bug'
