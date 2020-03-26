@@ -2804,7 +2804,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:56:00',
     'partners': ['Unknown'],
-    'dvds': [],
+    'dvds': [{
+      title:'Down Mammary Lane',
+      link:'https://angelawhitestore.com/2790584/down-mammary-lane-porn-videos.html'
+    }],
     'tags': ['VR', 'Boy/Girl'],
     'release': moment('2019-10-17')
   },
@@ -2977,6 +2980,17 @@ export let data: Scene[] = [
     }],
     'tags': [],
     'release': moment('2018-02-15')
+  },
+  {
+    'producer': 'bangbros.com',
+    'series': 'Big Tits, Round Asses',
+    'title': 'Angela White gets Her Asshole Streched',
+    'altTitles': [],
+    'playtime': '0:44:12',
+    'partners': ['Isiah Maxwell'],
+    'dvds': [],
+    'tags': [],
+    'release': moment('2020-03-26')
   },
   {
     'producer': 'bangbros.com',
@@ -4619,6 +4633,19 @@ export let data: Scene[] = [
   }, {
     'producer': 'evilangel.com',
     'series': '',
+    'title': 'Angel Invades America - Scene X',
+    'altTitles': ['Angel Invades America - Scene 2'],
+    'playtime': '0:00:00',
+    'partners': ['Markus Dupree'],
+    'dvds': [{
+      title: 'Angel Invades America',
+      link: 'https://angelawhitestore.com/2803781/angel-invades-america-porn-movies.html'
+    }],
+    'tags': [],
+    'release': moment('2017-11-18')
+  }, {
+    'producer': 'evilangel.com',
+    'series': '',
     'title': 'Big-Boob Angela: Anal/Cum Facial',
     'altTitles': ['Anal Angels 3 - Scene 2'],
     'playtime': '00:56:24',
@@ -5770,7 +5797,7 @@ export let data: Scene[] = [
     'playtime': '1:05:52',
     'partners': ['Jay Taylor'],
     'dvds': [],
-    'tags': [],
+    'tags': ["Girl/Girl", "Acting", "On Bed", "Grinding", "Neck Tattoo", "Elbow Birthmark", "Cunnilingus", "Fingering", ],
     'release': moment('2020-03-16')
   }, {
     'producer': 'girlsway.com',
@@ -7032,7 +7059,7 @@ export let data: Scene[] = [
     'series': '',
     'title': 'Object Of Desire',
     'altTitles': ['Lesbian Beauties Vol. 21: Black & White  - Scene 4'],
-    'playtime': '0:33:34',
+    'playtime': '0:45:45',
     'partners': ['Jenna Foxx'],
     'dvds': [{
       title: 'Lesbian Beauties Vol. 21: Black & White ',
@@ -8857,6 +8884,17 @@ export let data: Scene[] = [
     }],
     'tags': ['VR'],
     'release': moment('2018-07-25')
+  },
+  {
+    'producer': 'vrbangers.com',
+    'series': '',
+    'title': '<unknown>',
+    'altTitles': [],
+    'playtime': '0:00:00',
+    'partners': ['Penny Pax', 'Will Pounder'],
+    'dvds': [],
+    'tags': ['VR'],
+    'release': moment('2019-05-31')
   },
   {
     'producer': 'vrbangers.com',
