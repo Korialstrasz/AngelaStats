@@ -444,6 +444,17 @@ export let data: Scene[] = [
   },
   {
     'producer': 'adulttime.com',
+    'series': 'Super Horny Fun Time',
+    'title': 'Angela White',
+    'altTitles': [],
+    'playtime': '1:03:13',
+    'partners': [],
+    'dvds': [],
+    'tags': ['Solo', 'Live Stream'],
+    'release': moment('2020-04-22')
+  },
+  {
+    'producer': 'adulttime.com',
     'series': '',
     'title': 'Perspective - Episode 1',
     'altTitles': [],
@@ -506,7 +517,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:56:05',
     'partners': ['Michael Vegas'],
-    'dvds': [],
+    'dvds': [{
+      title:'ASMR Fantasy',
+      link:'https://angelawhitestore.com/2871965/asmr-fantasy-porn-videos.html'
+    }],
     'tags': ["ASMR", "POV", "Boy/Girl", "Cuckhold", "Handjob", "Blowjob", "Deepthroat", "Titty Fuck", "Anilingus",
       "Anal", "Finger in Butt", "Vaginal", "Cowgirl",],
     'release': moment('2020-02-17')
@@ -2787,6 +2801,18 @@ export let data: Scene[] = [
   },
   {
     'producer': 'babes.com',
+    'series': '',
+    'title': 'Wet and Ready',
+    'altTitles': [],
+    'playtime': '0:30:56',
+    'partners': ['Kyle Mason'],
+    'dvds': [],
+    'tags': ["Boy/Girl", "Shower","Anilingus", "Finger in Butt",  "Standing","Titty Fuck","Blowjob", "Anal", "On Bed", "Side Fuck", "Doggy", "Ass to Mouth",
+    "Feet","Cunnilingus","Cowgirl", ],
+    'release': moment('2020-04-23')
+  },
+  {
+    'producer': 'babes.com',
     'series': 'Elegant Anal',
     'title': 'Cherry Kiss',
     'altTitles': [],
@@ -2805,8 +2831,8 @@ export let data: Scene[] = [
     'playtime': '0:56:00',
     'partners': ['Unknown'],
     'dvds': [{
-      title:'Down Mammary Lane',
-      link:'https://angelawhitestore.com/2790584/down-mammary-lane-porn-videos.html'
+      title: 'Down Mammary Lane',
+      link: 'https://angelawhitestore.com/2790584/down-mammary-lane-porn-videos.html'
     }],
     'tags': ['VR', 'Boy/Girl'],
     'release': moment('2019-10-17')
@@ -2984,12 +3010,14 @@ export let data: Scene[] = [
   {
     'producer': 'bangbros.com',
     'series': 'Big Tits, Round Asses',
-    'title': 'Angela White gets Her Asshole Streched',
+    'title': 'Angela White gets Her Asshole Stretched',
     'altTitles': [],
     'playtime': '0:44:12',
     'partners': ['Isiah Maxwell'],
     'dvds': [],
-    'tags': [],
+    'tags': ["Boy/Girl", "Anal", "Outside", "Solo", "Birthmark Left Inner Thigh", "Finger in Butt", "On Couch", "Anilingus", "Face Sitting",
+      "Blowjob", "Deepthroat", "Titty Fuck", "Vaginal", "Doggy", "Ballerina", "Pile Driver", "Anal", "Gaping", "Standing", "Cowgirl", "Smothering",
+      "Cunnilingus", "Missionary", "Fingering", "Choking", "Side Fuck", "Reverse Cowgirl",],
     'release': moment('2020-03-26')
   },
   {
@@ -3439,6 +3467,17 @@ export let data: Scene[] = [
       'Elbow Birthmark', 'Vaginal', 'Side Fuck', 'Spooning', 'Finger in Butt', 'Feet', 'Blowjob', 'Deepthroat', 'POV',
       'Reverse Cowgirl', 'Cowgirl'],
     'release': moment('2017-04-24')
+  },
+  {
+    'producer': 'brazzers.com',
+    'series': 'Brazzers Exxtra',
+    'title': 'Sneaky Shower Threesome',
+    'altTitles': [],
+    'playtime': '0:54:00',
+    'partners': ['Keiran Lee', 'Siri'],
+    'dvds': [],
+    'tags': [],
+    'release': moment('2020-04-29')
   },
   {
     'producer': 'brazzers.com',
@@ -3981,6 +4020,17 @@ export let data: Scene[] = [
       'Cunnilingus', 'Anilingus', 'Anal', 'Doggy', 'Blowjob', 'Deepthroat', 'Fingering', 'Titty Fuck', 'Choking',
       'Reverse Cowgirl', 'Handcuffs'],
     'release': moment('2018-04-09')
+  }, {
+    'producer': 'deeper.com',
+    'series': '',
+    'title': 'Strangers on a Plane',
+    'altTitles': [],
+    'playtime': '00:33:50',
+    'partners': ['Seth Gamble'],
+    'dvds': [],
+    'tags': ['Acting', 'Cunnilingus', 'Blowjob', "Deepthroat", "Choking", "Vaginal", "Cowgirl", "On Couch", "Missionary",
+      'Standing', 'On Desk', 'Anal', 'Ass to Pussy', 'Off the Ground', 'On Chair', 'Reverse Cowgirl', 'Birthmark Left Inner Thigh' ],
+    'release': moment('2020-04-23')
   }, {
     'producer': 'deeper.com',
     'series': 'Drive',
@@ -4633,16 +4683,18 @@ export let data: Scene[] = [
   }, {
     'producer': 'evilangel.com',
     'series': '',
-    'title': 'Angel Invades America - Scene X',
+    'title': 'Angela White: Squirting, Anal',
     'altTitles': ['Angel Invades America - Scene 2'],
-    'playtime': '0:00:00',
+    'playtime': '0:51:45',
     'partners': ['Markus Dupree'],
     'dvds': [{
       title: 'Angel Invades America',
       link: 'https://angelawhitestore.com/2803781/angel-invades-america-porn-movies.html'
     }],
-    'tags': [],
-    'release': moment('2017-11-18')
+    'tags': ["Boy/Girl/Girl", "Butt Plug", "Fingering", "Choking", "Girl/Girl", "Cunnilingus", "Spit", "Anilingus", "Tribbing", "Feet", "Blowjob",
+      "On Couch", "Anal", "Doggy", "Squirt", "Titty Fuck", "Reverse Cowgirl", "Finger in Butt", "Dildo", "Side-Saddle Cowgirl", "Missionary", "Pile Driver",
+      "On Chair",],
+    'release': moment('2020-04-01')
   }, {
     'producer': 'evilangel.com',
     'series': '',
@@ -5174,7 +5226,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:31:58',
     'partners': ['Ryan Driller'],
-    'dvds': [],
+    'dvds': [{
+      title:'Body Sliding',
+      link: 'https://angelawhitestore.com/2871981/body-sliding-porn-videos.html'
+    }],
     'tags': [],
     'release': moment('2019-09-13 ')
   }, {
@@ -5797,7 +5852,7 @@ export let data: Scene[] = [
     'playtime': '1:05:52',
     'partners': ['Jay Taylor'],
     'dvds': [],
-    'tags': ["Girl/Girl", "Acting", "On Bed", "Grinding", "Neck Tattoo", "Elbow Birthmark", "Cunnilingus", "Fingering", ],
+    'tags': ["Girl/Girl", "Acting", "On Bed", "Grinding", "Neck Tattoo", "Elbow Birthmark", "Cunnilingus", "Fingering",],
     'release': moment('2020-03-16')
   }, {
     'producer': 'girlsway.com',
@@ -7745,6 +7800,17 @@ export let data: Scene[] = [
   {
     'producer': 'playboyplus.com',
     'series': '',
+    'title': 'Cuddle Up',
+    'altTitles': [],
+    'playtime': '0:06:33',
+    'partners': [],
+    'dvds': [],
+    'tags': ['Solo'],
+    'release': moment('2020-04-27')
+  },
+  {
+    'producer': 'playboyplus.com',
+    'series': '',
     'title': 'Afternoon Embrace',
     'altTitles': [],
     'playtime': '0:05:23',
@@ -7958,7 +8024,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:36:49',
     'partners': ['Jay Taylor', 'Seth Gamble', 'Codey Steele'],
-    'dvds': [],
+    'dvds': [{
+      title: 'Immersion Therapy',
+      link: 'https://angelawhitestore.com/2810759/immersion-therapy-porn-videos.html'
+    }],
     'tags': ['Boy/Girl', 'Cunnilingus', 'Anilingus', 'Doggy', 'Vaginal', 'Boy/Girl/Girl', 'Fingering', 'Boy/Boy/Girl/Girl',
       'Blowjob', 'Cowgirl', 'Reverse Cowgirl', 'Neck Tattoo', 'DP', 'Double Penetration', 'Choking', 'Elbow Birthmark'],
     'release': moment('2019-02-28')
