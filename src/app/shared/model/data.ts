@@ -518,8 +518,8 @@ export let data: Scene[] = [
     'playtime': '0:56:05',
     'partners': ['Michael Vegas'],
     'dvds': [{
-      title:'ASMR Fantasy',
-      link:'https://angelawhitestore.com/2871965/asmr-fantasy-porn-videos.html'
+      title: 'ASMR Fantasy',
+      link: 'https://angelawhitestore.com/2871965/asmr-fantasy-porn-videos.html'
     }],
     'tags': ["ASMR", "POV", "Boy/Girl", "Cuckhold", "Handjob", "Blowjob", "Deepthroat", "Titty Fuck", "Anilingus",
       "Anal", "Finger in Butt", "Vaginal", "Cowgirl",],
@@ -2807,8 +2807,8 @@ export let data: Scene[] = [
     'playtime': '0:30:56',
     'partners': ['Kyle Mason'],
     'dvds': [],
-    'tags': ["Boy/Girl", "Shower","Anilingus", "Finger in Butt",  "Standing","Titty Fuck","Blowjob", "Anal", "On Bed", "Side Fuck", "Doggy", "Ass to Mouth",
-    "Feet","Cunnilingus","Cowgirl", ],
+    'tags': ["Boy/Girl", "Shower", "Anilingus", "Finger in Butt", "Standing", "Titty Fuck", "Blowjob", "Anal", "On Bed", "Side Fuck", "Doggy", "Ass to Mouth",
+      "Feet", "Cunnilingus", "Cowgirl",],
     'release': moment('2020-04-23')
   },
   {
@@ -2877,7 +2877,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:59:00',
     'partners': ['Gabbie Carter', 'Unknown'],
-    'dvds': [],
+    'dvds': [{
+      title: 'Keeping Promises',
+      link: 'https://angelawhitestore.com/2798661/keeping-promises-porn-videos.html'
+    }],
     'tags': ['VR', 'Boy/Girl', 'Stockings'],
     'release': moment('2019-11-14')
   },
@@ -3336,7 +3339,8 @@ export let data: Scene[] = [
       title: 'Bubble But Anal Slut 5',
       link: 'https://angelawhitestore.com/2723879/bubble-butt-anal-slut-5-porn-movies.html?qs=Bubble Butt Anal Slut 5'
     }],
-    'tags': [],
+    'tags': ['Boy/Girl', 'MAGIC!', 'Blowjob', 'Anilingus', 'Finger in Butt', 'Doggy', 'Anal', 'On Table', 'Reverse Cowgirl',
+      'Birthmark Left Inner Thigh', 'Ass to Mouth', 'Cowgirl', 'Gaping', 'Missionary', 'Side Fuck'],
     'release': moment('2017-11-29')
   },
   {
@@ -3350,7 +3354,8 @@ export let data: Scene[] = [
       title: 'Bubble Butt Anal Slut 6',
       link: 'https://angelawhitestore.com/2781307/bubble-butt-anal-slut-6-porn-movies.html'
     }],
-    'tags': [],
+    'tags': ['Boy/Girl', 'Anal', 'Blowjob', 'Deepthroat', 'Standing', 'Vaginal', 'Doggy', 'On Couch', 'Cunnilingus', 'Cowgirl',
+      'Spooning', 'Choking', 'Fingering', 'Anilingus', 'Reverse Cowgirl', 'Birthmark Left Inner Thigh'],
     'release': moment('2017-12-28')
   },
   {
@@ -3473,10 +3478,11 @@ export let data: Scene[] = [
     'series': 'Brazzers Exxtra',
     'title': 'Sneaky Shower Threesome',
     'altTitles': [],
-    'playtime': '0:54:00',
+    'playtime': '0:54:22',
     'partners': ['Keiran Lee', 'Siri'],
     'dvds': [],
-    'tags': [],
+    'tags': ['Boy/Girl/Girl', 'Blowjob', 'Shower', 'Girl/Girl', 'Anilingus', 'Cunnilingus', 'On Bed', 'Double Blowjob', 'Neck Tattoo',
+      'Cowgirl', 'Face Sitting', 'Titty Fuck', 'POV', 'Doggy', '69', 'Missionary', 'Spooning', 'Choking', 'Fingering', 'Feet', 'Piggyback'],
     'release': moment('2020-04-29')
   },
   {
@@ -4029,7 +4035,7 @@ export let data: Scene[] = [
     'partners': ['Seth Gamble'],
     'dvds': [],
     'tags': ['Acting', 'Cunnilingus', 'Blowjob', "Deepthroat", "Choking", "Vaginal", "Cowgirl", "On Couch", "Missionary",
-      'Standing', 'On Desk', 'Anal', 'Ass to Pussy', 'Off the Ground', 'On Chair', 'Reverse Cowgirl', 'Birthmark Left Inner Thigh' ],
+      'Standing', 'On Desk', 'Anal', 'Ass to Pussy', 'Off the Ground', 'On Chair', 'Reverse Cowgirl', 'Birthmark Left Inner Thigh'],
     'release': moment('2020-04-23')
   }, {
     'producer': 'deeper.com',
@@ -4151,6 +4157,9 @@ export let data: Scene[] = [
     'dvds': [{
       title: 'Sensual Titty Seduction 2',
       link: 'https://angelawhitestore.com/2507756/sensual-titty-seduction-2-porn-videos.html'
+    }, {
+      title: 'Big Tits Let\'s Fuck',
+      link: 'https://angelawhitestore.com/2897102/big-tits-lets-fuck-porn-videos.html'
     }],
     'tags': ['Boy/Girl', 'Water', 'Bath'],
     'release': moment('2018-09-09')
@@ -4633,7 +4642,7 @@ export let data: Scene[] = [
       title: 'Big Tit Lesbian Seduction',
       link: 'https://angelawhitestore.com/2698689/big-tit-lesbian-seduction-porn-movies.html'
     }],
-    'tags': [],
+    'tags': ['Girl/Girl',],
     'release': moment('2018-10-01')
   },
   {
@@ -5227,7 +5236,7 @@ export let data: Scene[] = [
     'playtime': '0:31:58',
     'partners': ['Ryan Driller'],
     'dvds': [{
-      title:'Body Sliding',
+      title: 'Body Sliding',
       link: 'https://angelawhitestore.com/2871981/body-sliding-porn-videos.html'
     }],
     'tags': [],
@@ -5590,7 +5599,7 @@ export let data: Scene[] = [
       title: 'Large Naturals',
       link: 'https://angelawhitestore.com/2730357/large-naturals-porn-movies.html'
     }],
-    'tags': ['Girl/Girl'],
+    'tags': ['Girl/Girl', 'Tribbing'],
     'release': moment('2019-07-19')
   },
   {
@@ -5911,7 +5920,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:41:45',
     'partners': ['Penny pax'],
-    'dvds': [],
+    'dvds': [{
+      title: 'Tits & Ass',
+      link: 'https://angelawhitestore.com/2886247/tits-ass-porn-videos.html'
+    }],
     'tags': ['Girl/Girl', 'Acting', 'On Couch', 'Cunnilingus'],
     'release': moment('2019-06-02')
   },
@@ -6671,6 +6683,17 @@ export let data: Scene[] = [
   {
     'producer': 'julesjordan.com',
     'series': '',
+    'title': 'Angela White Interracial DP',
+    'altTitles': [],
+    'playtime': '0:00:00',
+    'partners': ['Rico Strong', 'Prince Yahshua'],
+    'dvds': [],
+    'tags': [],
+    'release': moment('2020-05-31')
+  },
+  {
+    'producer': 'julesjordan.com',
+    'series': '',
     'title': 'Angela White Sets A BOOBY Trap For Mandingo That Ends In Her ASS!',
     'altTitles': ['Anal Extremist - Scene 4'],
     'playtime': '0:29:57',
@@ -7345,9 +7368,12 @@ export let data: Scene[] = [
     'title': 'Angela White Fucking In The Den With Her Innie Pussy',
     'altTitles': [],
     'playtime': '0:43:16',
-    'partners': ['Johnny Castle'],
-    'dvds': [],
-    'tags': [],
+    'partners': ['Ricky Johnson'],
+    'dvds': [{
+      'title': 'Dirty Wives Club Vol. 23',
+      link: 'https://angelawhite.empirestores.co/2704348/dirty-wives-club-vol-23-porn-movies.html'
+    }],
+    'tags': ['Boy/Girl', 'Blue Vintage Bug', 'Acting', 'Choking', 'Blowjob', 'Deepthroat'],
     'release': moment('2017-03-09')
   },
   {
@@ -7356,15 +7382,11 @@ export let data: Scene[] = [
     'title': 'Angela White Fucking In The Kitchen With Her Bubble Butt',
     'altTitles': ['Dirty Wives Club Vol. 17 - Scene 1'],
     'playtime': '0:28:37',
-    'partners': ['Ricky Johnson'],
+    'partners': ['Johnny Castle'],
     'dvds': [{
       title: 'Dirty Wives Club Vol. 17',
       link: 'https://angelawhitestore.com/2534653/dirty-wives-club-vol-17-porn-movies.html'
-    },
-      {
-        'title': 'Dirty Wives Club Vol. 23',
-        link: 'https://angelawhite.empirestores.co/2704348/dirty-wives-club-vol-23-porn-movies.html'
-      }],
+    }],
     'tags': ['Elbow Birthmark', 'Neck Tattoo'],
     'release': moment('2017-12-08')
   },
@@ -7717,8 +7739,7 @@ export let data: Scene[] = [
     'dvds': [],
     'tags': [],
     'release': moment('2017-11-17')
-  },
-  {
+  }, {
     'producer': 'nympho.com',
     'series': '',
     'title': 'The Naughty List with Angela',
@@ -7731,9 +7752,8 @@ export let data: Scene[] = [
       "Switching Holes", "Ass to Mouth", "Squirt", "Cowgirl", "Birthmark Left Inner Thigh", "Reverse Cowgirl", "Dildo", "DP", "Double Penetration",
       "Feet", "Doggy"],
     'release': moment('2019-12-25')
-  },
-  {
-    'producer': 'penthouse.com',
+  }, {
+    'producer': 'penthousegold.com',
     'series': '',
     'title': 'Jenna Sativa\'s Booty Cuties - Scene 2',
     'altTitles': [],
@@ -7747,6 +7767,16 @@ export let data: Scene[] = [
     'release': moment('2018-02-14')
   },
   {
+    'producer': 'penthousegold.com',
+    'series': '',
+    'title': 'Open for Anal 4',
+    'altTitles': [],
+    'playtime': '0:30:33',
+    'partners': ['Damon Dice'],
+    'dvds': [],
+    'tags': ['Boy/Girl'],
+    'release': moment('2020-05-15')
+  }, {
     'producer': 'pervcity.com',
     'series': '',
     'title': 'Angela White - Big Boobs, Shaved Pussy, Will Orgasm',
@@ -8541,7 +8571,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:57:15',
     'partners': ['Cortney Trouble'],
-    'dvds': [],
+    'dvds': [{
+      title: 'Shape Of Beauty Vol. 4',
+      link: 'https://angelawhitestore.com/2882847/shape-of-beauty-vol-4-porn-videos.html'
+    }],
     'tags': ["Girl/Girl", "On Chair", "Smothering", "Choking", "Fingering", "Anilingus", "Cunnilingus", "Heels", "Elbow Birthmark", "On Bed",
       "Feet", "Hitachi", "Spanking", "Squirt", "Fisting", "Grinding", "Tribbing", "Neck Tattoo", "Face Sitting"],
     'release': moment('2020-02-14')
@@ -8716,7 +8749,7 @@ export let data: Scene[] = [
       title: 'When Girls Play 7',
       link: 'https://angelawhitestore.com/2679462/when-girls-play-7-porn-movies.html'
     }],
-    'tags': [],
+    'tags': ['Girl/Girl', 'On Couch', 'Cunnilingus', 'Fingering', 'Tribbing'],
     'release': moment('2017-01-24')
   },
   {
@@ -8755,7 +8788,7 @@ export let data: Scene[] = [
       title: 'When Girls Play 11',
       link: 'https://angelawhitestore.com/2784887/when-girls-play-11-porn-movies.html'
     }],
-    'tags': [],
+    tags: ['Girl/Girl', 'Cunnilingus', 'On Stairs', 'Birthmark Left Inner Thigh', 'On Chair', 'Grinding', 'Face Sitting', 'Neck Tattoo',],
     'release': moment('2018-01-23')
   },
   {
@@ -8982,7 +9015,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:43:01',
     'partners': ['Emma Hix'],
-    'dvds': [],
+    'dvds': [{
+      title: '2 Broke Girls - A XXX Parody',
+      link: 'https://angelawhitestore.com/2728353/2-broke-girls-a-xxx-parody-porn-videos.html'
+    }],
     'tags': ['VR', 'Cosplay'],
     'release': moment('2019-05-31')
   }, {
