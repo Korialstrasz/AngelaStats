@@ -3269,6 +3269,17 @@ export let data: Scene[] = [
   },
   {
     'producer': 'brazzers.com',
+    'series': 'Big Wet Buts',
+    'title': 'Jean Queen',
+    'altTitles': [],
+    'playtime': '0:28:00',
+    'partners': ['Scott Nails'],
+    'dvds': [],
+    'tags': [],
+    'release': moment('2020-06-16')
+  },
+  {
+    'producer': 'brazzers.com',
     'series': 'Big Butts Like It Big',
     'title': 'Ass, Gas or Grass',
     'altTitles': ['Bubble Butt Anal Slut 4 - Scene 1'],
@@ -6688,7 +6699,7 @@ export let data: Scene[] = [
     'playtime': '0:00:00',
     'partners': ['Rico Strong', 'Prince Yahshua'],
     'dvds': [],
-    'tags': [],
+    'tags': ['Boy/Boy/Girl'],
     'release': moment('2020-05-31')
   },
   {
@@ -8092,6 +8103,18 @@ export let data: Scene[] = [
     'tags': ['Acting', 'Boy/Girl', 'Girl/Girl', 'Ice Cream', 'Kitchen', 'Feeding', 'Vaginal', 'Blowjob', 'Deepthroat',
       'AVN Best Actor - Featurette 2019 (Tommy Pistol)', 'AVN Best Featurette 2019'],
     'release': moment('2018-04-20')
+  },
+  {
+    'producer': 'realitykings.com',
+    'series': '',
+    'title': 'Angela White vs Rob Piper',
+    'altTitles': [],
+    'playtime': '0:25:59',
+    'partners': ['Rob Piper'],
+    'dvds': [],
+    'tags': ['Boy/Girl', 'On Couch', 'Blowjob', 'Deepthroat', 'Anilingus', 'Cunnilingus', 'Birthmark Left Inner Thigh', 'Vaginal', 'Reverse Cowgirl', 'Off the Ground', 'On Desk', 'On Stairs', 'Standing',
+      'Ballerina', 'Choking', 'On Bed', 'Cowgirl', 'Doggy', 'Elbow Birthmark', ],
+    'release': moment('2020-06-09')
   },
   {
     'producer': 'realitykings.com',
