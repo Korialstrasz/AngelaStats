@@ -1,7 +1,7 @@
 import {Scene} from './scene.model';
 import * as moment from 'moment';
 
-export let data: Scene[] = [
+export let data: Scene[] = <Scene[]>[
   {
     'producer': '21roles.com',
     'series': '',
@@ -3017,7 +3017,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:44:12',
     'partners': ['Isiah Maxwell'],
-    'dvds': [],
+    'dvds': [{
+      title: 'World of BangBros: Big Tit Interracials 1',
+      link: 'https://angelawhitestore.com/3023990/world-of-bangbros-big-tit-interracials-porn-movies.html'
+    }],
     'tags': ["Boy/Girl", "Anal", "Outside", "Solo", "Birthmark Left Inner Thigh", "Finger in Butt", "On Couch", "Anilingus", "Face Sitting",
       "Blowjob", "Deepthroat", "Titty Fuck", "Vaginal", "Doggy", "Ballerina", "Pile Driver", "Anal", "Gaping", "Standing", "Cowgirl", "Smothering",
       "Cunnilingus", "Missionary", "Fingering", "Choking", "Side Fuck", "Reverse Cowgirl",],
@@ -3272,10 +3275,11 @@ export let data: Scene[] = [
     'series': 'Big Wet Buts',
     'title': 'Jean Queen',
     'altTitles': [],
-    'playtime': '0:28:00',
+    'playtime': '0:28:16',
     'partners': ['Scott Nails'],
     'dvds': [],
-    'tags': [],
+    'tags': ['Boy/Girl', 'Oil', 'Finger in Butt', 'On Couch', 'Vaginal', 'Doggy', 'Anal', 'Elbow Birthmark', 'Blowjob', 'Neck Tattoo', 'Side-Saddle Cowgirl',
+      'Titty Fuck', 'Cowgirl', 'Side Fuck', 'Ass to Pussy', 'Pussy to Ass', 'Switching Holes', 'Ass to Mouth', 'Missionary', 'Reverse Cowgirl'],
     'release': moment('2020-06-16')
   },
   {
@@ -4698,7 +4702,8 @@ export let data: Scene[] = [
       title: 'Anal Fitness Sluts',
       link: 'https://angelawhitestore.com/1947185/anal-fitness-sluts-porn-videos.html'
     }],
-    'tags': [],
+    'tags': ['Boy/Boy/Girl', 'Anal', 'On Couch', 'Oil', 'Blowjob', 'Deepthroat', 'Doggy', 'Titty Fuck', 'Elbow Birthmark', 'Gaping',
+      'Cowgirl', 'Vaginal', 'DP', 'Double Penetration', 'Reverse Cowgirl', 'Side-Saddle Cowgirl', 'Anilingus', 'Squirt', 'POV',],
     'release': moment('2017-11-18')
   }, {
     'producer': 'evilangel.com',
@@ -4715,6 +4720,19 @@ export let data: Scene[] = [
       "On Couch", "Anal", "Doggy", "Squirt", "Titty Fuck", "Reverse Cowgirl", "Finger in Butt", "Dildo", "Side-Saddle Cowgirl", "Missionary", "Pile Driver",
       "On Chair",],
     'release': moment('2020-04-01')
+  }, {
+    'producer': 'evilangel.com',
+    'series': '',
+    'title': 'Evil Curves - Scene X',
+    'altTitles': [],
+    'playtime': '0:00:00',
+    'partners': ['Chris Diamond'],
+    'dvds': [{
+      title: 'Evil Curves',
+      link: 'https://angelawhitestore.com/3015125/evil-curves-porn-movies.html'
+    }],
+    'tags': ["Boy/Girl", "Anal"],
+    'release': moment('2020-08-12')
   }, {
     'producer': 'evilangel.com',
     'series': '',
@@ -4783,6 +4801,9 @@ export let data: Scene[] = [
     'dvds': [{
       title: 'Anal Heartbreakers 2',
       link: 'https://angelawhitestore.com/1899477/anal-heartbreakers-2-porn-videos.html'
+    }, {
+      title: 'Amazing Anal Threesomes',
+      link: 'https://angelawhitestore.com/2808200/amazing-anal-threesomes-porn-movies.html'
     }],
     'tags': [],
     'release': moment('2017-03-19')
@@ -5871,7 +5892,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '1:05:52',
     'partners': ['Jay Taylor'],
-    'dvds': [],
+    'dvds': [{
+      title: 'True Lesbian',
+      link: 'https://angelawhitestore.com/3009173/true-lesbian-porn-videos.html'
+    }],
     'tags': ["Girl/Girl", "Acting", "On Bed", "Grinding", "Neck Tattoo", "Elbow Birthmark", "Cunnilingus", "Fingering",],
     'release': moment('2020-03-16')
   }, {
@@ -5921,7 +5945,10 @@ export let data: Scene[] = [
     'altTitles': [],
     'playtime': '0:48:46',
     'partners': ['Diana Grace'],
-    'dvds': [],
+    'dvds': [{
+      title: 'The Guidance Counselor',
+      link: ''
+    }],
     'tags': ['Girl/Girl', 'On Couch', 'Cunnilingus', 'Birthmark Left Inner Thigh', 'Fingering'],
     'release': moment('2019-11-29')
   }, {
@@ -8113,7 +8140,7 @@ export let data: Scene[] = [
     'partners': ['Rob Piper'],
     'dvds': [],
     'tags': ['Boy/Girl', 'On Couch', 'Blowjob', 'Deepthroat', 'Anilingus', 'Cunnilingus', 'Birthmark Left Inner Thigh', 'Vaginal', 'Reverse Cowgirl', 'Off the Ground', 'On Desk', 'On Stairs', 'Standing',
-      'Ballerina', 'Choking', 'On Bed', 'Cowgirl', 'Doggy', 'Elbow Birthmark', ],
+      'Ballerina', 'Choking', 'On Bed', 'Cowgirl', 'Doggy', 'Elbow Birthmark'],
     'release': moment('2020-06-09')
   },
   {
@@ -8292,6 +8319,18 @@ export let data: Scene[] = [
       'Ass to Mouth', 'Cowgirl', 'Dirty Talk', 'Reverse Cowgirl', 'Spanking', 'Finger in Butt', 'Pile Driver', 'Ass to Pussy',
       'Switching Holes', 'Gaping', 'Pussy Stack', 'Cum Swap'],
     'release': moment('2018-11-08')
+  },
+  <Scene>{
+    'producer': 'realitykings.com',
+    'series': 'Captain Stabbin',
+    'title': 'Episode 8: The Finale',
+    'altTitles': [],
+    'playtime': '0:30:00',
+    'partners': ['Xander Corvus'],
+    'dvds': [],
+    tags: ['Boy/Girl', 'Oil', "Blowjob", "Deepthroat", "On Couch", "Doggy", "Vaginal", "Elbow Birthmark", "Missionary", "Choking",
+      "Anal", "Ass to Pussy", "Pussy to Ass", "Reverse Cowgirl", "On Table", "Titty Fuck"],
+    'release': moment('2020-07-16')
   },
   {
     'producer': 'scoreland.com',
