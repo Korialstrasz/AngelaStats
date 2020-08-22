@@ -110,6 +110,7 @@ export type Tag =
   | 'Dildo'
   | 'Anal'
   | 'Standing'
+  | 'Tan lines'
   | 'On Chair'
   | 'On Bed'
   | 'On Couch'

@@ -418,6 +418,9 @@ export let data: Scene[] = <Scene[]>[
     'dvds': [{
       title: 'Sex Across America: A Look Back With Angela White',
       link: 'https://angelawhitestore.com/1971196/sex-across-america-a-look-back-with-angela-white-porn-videos.html'
+    }, {
+      title: 'Titty Love',
+      link: 'https://angelawhitestore.com/3037590/titty-love-porn-movies.html'
     }],
     'tags': [],
     'release': moment('2018-04-03')
@@ -438,6 +441,9 @@ export let data: Scene[] = <Scene[]>[
     }, {
       title: 'Racked & Stacked Milfs',
       link: 'https://angelawhitestore.com/2749123/racked-stacked-milfs-porn-movies.html',
+    }, {
+      title: 'The Hotwife 4 Pack',
+      link: 'https://angelawhitestore.com/3014679/hotwife-4-pack-the-porn-movies.html'
     }],
     'tags': ['Boy/Girl', 'Spanking', 'Rope Bondage', 'On Couch', 'Blowjob'],
     'release': moment('2018-11-23')
@@ -2381,7 +2387,7 @@ export let data: Scene[] = <Scene[]>[
     }],
     'tags': [],
     'release': moment('2019-10-30')
-  }, {
+  }, <Scene>{
     'producer': 'angelawhite.com',
     'series': '',
     'title': 'Angela Loves Women 5 - Scene 1',
@@ -2392,7 +2398,7 @@ export let data: Scene[] = <Scene[]>[
       title: 'Angela Loves Women 5',
       link: 'https://angelawhitestore.com/2705779/angela-loves-women-5-porn-movies.html'
     }],
-    'tags': [],
+    'tags': ["Girl/Girl", "On Bed", "Cunnilingus", "Anilingus", "Fingering", "Face Sitting", "Tribbing", "Feet", "Choking",],
     'release': moment('2019-10-30')
   }, {
     'producer': 'angelawhite.com',
@@ -2767,6 +2773,9 @@ export let data: Scene[] = <Scene[]>[
     'dvds': [{
       title: 'Beautiful Tits Vol. 4',
       link: 'https://angelawhitestore.com/1918245/beautiful-tits-vol-4-porn-videos.html'
+    }, {
+      title: 'Editor\'s Pick',
+      link: 'https://angelawhitestore.com/2910069/editors-pick-porn-movies.html'
     }],
     'tags': [],
     'release': moment('2017-06-02')
@@ -3553,7 +3562,7 @@ export let data: Scene[] = <Scene[]>[
     'tags': [],
     'release': moment('2017-10-31')
   },
-  {
+  <Scene>{
     'producer': 'brazzers.com',
     'series': 'Day With A Pornstar',
     'title': 'Angela White',
@@ -3561,7 +3570,9 @@ export let data: Scene[] = <Scene[]>[
     'playtime': '0:38:48',
     'partners': ['Manuel Ferrara'],
     'dvds': [],
-    'tags': [],
+    'tags': ["Boy/Girl", "On Couch", "Birthmark Left Inner Thigh", "Fingering", "Cunnilingus", "Finger in Butt", "Anilingus", "Squirt",
+      "Blowjob", "Deepthroat", "Titty Fuck", "Choking", "Vaginal", "Cowgirl", "Spooning", "Anal", "Doggy", "Missionary", "Elbow Birthmark",
+      "Reverse Cowgirl",],
     'release': moment('2019-11-24')
   }, {
     'producer': 'brazzers.com',
@@ -3634,7 +3645,7 @@ export let data: Scene[] = <Scene[]>[
       "Birthmark Left Inner Thigh", "Face Sitting", "Tribbing",],
     'release': moment('2019-11-08')
   },
-  {
+  <Scene>{
     'producer': 'brazzers.com',
     'series': 'Real Wife Stories',
     'title': 'Swing Fling: Part 2',
@@ -3642,10 +3653,11 @@ export let data: Scene[] = <Scene[]>[
     'playtime': '0:30:33',
     'partners': ['Molly Stewart', 'Xander Corvus'],
     'dvds': [],
-    'tags': ["Boy/Girl/Girl", "Anilingus", "Blowjob", "Deepthroat", "Titty Fuck",],
+    'tags': ["Boy/Girl/Girl", "Anilingus", "Blowjob", "Deepthroat", "Titty Fuck", "Standing", "Vaginal", "Cunnilingus",
+      "Fingering", "On Couch", "Missionary", "Pussy to Mouth", "Cowgirl", "Reverse Cowgirl", "Face Sitting", "Choking",],
     'release': moment('2019-11-12')
   },
-  {
+  <Scene>{
     'producer': 'brazzers.com',
     'series': 'Real Wife Stories',
     'title': 'You Gotta Help My Wife!',
@@ -3654,7 +3666,8 @@ export let data: Scene[] = <Scene[]>[
     'partners': ['Keiran Lee'],
     'dvds': [],
     'tags': ["Boy/Girl", "On Bed", "Anal", "Vaginal", "Butt Plug", "Stockings", "Lingerie", "Handcuffs", "Blowjob", "Deepthroat",
-      "Choking", "Anilingus", "POV", "Titty Fuck",],
+      "Choking", "Anilingus", "POV", "Titty Fuck", "Face Sitting", "Cunnilingus", "Anilingus", "Vaginal", "Spooning", "Cowgirl",
+      "Anal", "Ass to Mouth", "Reverse Cowgirl", "Birthmark Left Inner Thigh", 'Tan lines', "Missionary",],
     'release': moment('2020-02-17')
   },
   {
@@ -3901,7 +3914,10 @@ export let data: Scene[] = <Scene[]>[
     'altTitles': [],
     'playtime': '0:24:21',
     'partners': ['Ramon Nomar'],
-    'dvds': [],
+    'dvds': [{
+      title: 'Busty Wife Fantasies 2',
+      link: 'https://angelawhitestore.com/3023564/busty-wife-fantasies-2-porn-videos.html'
+    }],
     'tags': ["Boy/Girl", "On Couch", "Birthmark Left Inner Thigh", "Fingering", "Reverse Cowgirl", "Vaginal", "Stockings", "Heels", "Blowjob", "69", "Deepthroat", "Cowgirl",
     ],
     'release': moment('2019-12-23')
@@ -4120,9 +4136,9 @@ export let data: Scene[] = <Scene[]>[
   }, {
     'producer': 'ddfnetwork.com',
     'series': '',
-    'title': 'Sexiest US Pornstars - Scene 2',
-    'altTitles': [],
-    'playtime': '0:00:00',
+    'title': 'Busty Australian Pornstar Angela White titty fucks with her massive melons',
+    'altTitles': ['Sexiest US Pornstars - Scene 2'],
+    'playtime': '0:30:11',
     'partners': [],
     'dvds': [{
       title: 'Sexiest US Pornstars',
@@ -4435,7 +4451,10 @@ export let data: Scene[] = <Scene[]>[
     'altTitles': ['Climax : the paroxysm of sexual pleasure'],
     'playtime': '1:18:00',
     'partners': ['Avi Love', 'India Summers', 'Jane Wild', 'Whitney Wright', 'Britney Amber', 'Seth Gamble', ' Ryan Driller', 'Eric Materson'],
-    'dvds': [],
+    'dvds': [{
+      title: 'Climax',
+      link: 'https://angelawhitestore.com/2749084/climax-porn-movies.html'
+    }],
     'tags': [],
     'release': moment('2019-12-04')
   },
@@ -7721,6 +7740,9 @@ export let data: Scene[] = <Scene[]>[
     }, {
       title: 'Squirt-Mania 3',
       link: 'https://angelawhitestore.com/2774699/squirt-mania-3-porn-movies.html'
+    }, {
+      title: 'My Hotwife and Strangers 2',
+      link: 'https://angelawhitestore.com/3022853/my-hotwife-and-strangers-2-porn-movies.html'
     }],
     'tags': ['Boy/Girl', 'Voyeur', 'Elbow Birthmark', 'Blowjob', 'Deepthroat', 'Jerk Off Instructions', 'Dirty Talk',
       'Titty Fuck', 'On Chair', 'Clothed', 'Fingering', 'Choking', 'Reverse Cowgirl', 'Side Fuck', 'Squirt', 'On Bed',
@@ -8698,7 +8720,10 @@ export let data: Scene[] = <Scene[]>[
     'altTitles': [],
     'playtime': '0:43:45',
     'partners': ['Mr. Pete'],
-    'dvds': [],
+    'dvds': [{
+      title: 'Tonights Girlfriend Vol. 88',
+      link: 'https://angelawhitestore.com/3025207/tonights-girlfriend-vol-88-porn-movies.html'
+    }],
     'tags': [],
     'release': moment('2017-01-20')
   },
