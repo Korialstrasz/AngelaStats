@@ -1,7 +1,6 @@
 import {Component, Input, OnInit} from '@angular/core';
-import {merge, Observable} from 'rxjs';
+import {merge, Observable, of} from 'rxjs';
 import {map, withLatestFrom} from 'rxjs/operators';
-import {of} from 'rxjs/internal/observable/of';
 
 import {Scene} from '../shared/model/scene.model';
 import {Dvd} from '../shared/model/dvd.model';

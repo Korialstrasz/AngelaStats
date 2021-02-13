@@ -4739,18 +4739,20 @@ export let data: Scene[] = <Scene[]>[
       "On Couch", "Anal", "Doggy", "Squirt", "Titty Fuck", "Reverse Cowgirl", "Finger in Butt", "Dildo", "Side-Saddle Cowgirl", "Missionary", "Pile Driver",
       "On Chair",],
     'release': moment('2020-04-01')
-  }, {
+  }, <Scene>{
     'producer': 'evilangel.com',
     'series': '',
-    'title': 'Evil Curves - Scene X',
-    'altTitles': [],
-    'playtime': '0:00:00',
+    'title': 'Curvy Angela White: Anal Gaping & A2M',
+    'altTitles': ['Evil Curves - Scene 1'],
+    'playtime': '0:38:51',
     'partners': ['Chris Diamond'],
     'dvds': [{
       title: 'Evil Curves',
       link: 'https://angelawhitestore.com/3015125/evil-curves-porn-movies.html'
     }],
-    'tags': ["Boy/Girl", "Anal"],
+    'tags': ["Boy/Girl", "Anal", "On Couch", "Elbow Birthmark", "Blowjob", "Titty Fuck", "Deepthroat", "Choking", "Heels",
+      "Side Fuck", "Vaginal", "Missionary", "Doggy", "Gaping", "Ass to Mouth", "Reverse Cowgirl", "Fingering", "Cowgirl",
+      "Pussy to Ass", "Ass to Pussy", "Switching Holes","69",],
     'release': moment('2020-08-12')
   }, {
     'producer': 'evilangel.com',
@@ -6740,9 +6742,20 @@ export let data: Scene[] = <Scene[]>[
   {
     'producer': 'julesjordan.com',
     'series': '',
-    'title': 'Angela White Interracial DP',
+    'title': 'Double D Discipline With Angela White',
     'altTitles': [],
     'playtime': '0:00:00',
+    'partners': ['Jules Jordan'],
+    'dvds': [],
+    'tags': ['Boy/Girl'],
+    'release': moment('2020-09-16')
+  },
+  {
+    'producer': 'julesjordan.com',
+    'series': '',
+    'title': 'Angela White Interracial DP',
+    'altTitles': [],
+    'playtime': '0:39:45',
     'partners': ['Rico Strong', 'Prince Yahshua'],
     'dvds': [],
     'tags': ['Boy/Boy/Girl'],
@@ -6776,6 +6789,16 @@ export let data: Scene[] = <Scene[]>[
     'tags': ["Boy/Girl/Girl", "In Car", "Cunnilingus", "Doggy", "Vaginal", "Blowjob", "Deepthroat", "Fingering", "On Car", "Missionary",
       "Off the Ground", "On Chair", "Cowgirl", "On Couch", "Reverse Cowgirl", "Anilingus", "Neck Tattoo", "Doggy", "Choking", "Cum Swap"],
     'release': moment('2019-09-30')
+  }, {
+    'producer': 'julesjordan.com',
+    'series': '',
+    'title': 'Angela White Invites Prince Over For A Long Overdue Anal Excavation',
+    'altTitles': [],
+    'playtime': '0:39:01',
+    'partners': ['Prince Yahshua'],
+    'dvds': [],
+    'tags': [],
+    'release': moment('2020-08-26')
   }, {
     'producer': 'julesjordan.com',
     'series': '',
@@ -7611,11 +7634,13 @@ export let data: Scene[] = <Scene[]>[
     'dvds': [{
       title: 'In The Room : I Like To Watch Vol. 2',
       link: 'https://angelawhitestore.com/2592889/in-the-room-i-like-to-watch-vol-2-porn-movies.html'
-    },
-      {
-        'title': 'Anal Among Friends 4',
-        link: 'https://angelawhitestore.com/2698572/anal-among-friends-4-porn-movies.html'
-      }],
+    }, {
+      title: 'All Anal 2',
+      link: 'https://angelawhitestore.com/3040482/all-anal-2-porn-movies.html'
+    }, {
+      'title': 'Anal Among Friends 4',
+      link: 'https://angelawhitestore.com/2698572/anal-among-friends-4-porn-movies.html'
+    }],
     'tags': ['Boy/Girl', 'Cuckhold', 'Anal', 'Elbow Birthmark', 'Finger in Butt', 'Anilingus', 'On Chair', 'Gaping',
       'Standing', 'Blowjob', 'Deepthroat', 'On Bed', 'Birthmark Left Inner Thigh', 'Cunnilingus', 'Ass to Mouth',
       'Cowgirl', 'Vaginal', 'Ass to Pussy', 'Reverse Cowgirl', 'Spooning', 'Doggy', 'Jerk Off Instructions'],
@@ -7693,6 +7718,9 @@ export let data: Scene[] = <Scene[]>[
     }, {
       title: 'Big Tits Are Sexy',
       link: 'https://angelawhitestore.com/1941725/big-tits-are-sexy-porn-videos.html'
+    }, {
+      title: 'Big Tits Are Sexy 4',
+      link: 'https://angelawhitestore.com/3037029/big-tits-are-sexy-4-porn-movies.html'
     }, {
       title: 'Big Tits Only! 2',
       link: 'https://angelawhitestore.com/1969584/big-tits-only-2-porn-videos.html'
